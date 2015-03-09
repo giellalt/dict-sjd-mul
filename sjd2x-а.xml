@@ -1,5 +1,2006 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="1">
+        <lg>
+            <l pos="CS" orth="1985kuru-sjd">а</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>а</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пуада эмм та̄рьм, а ента</x>
+                <xt>[я] приду не сегодня, а завтра</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь
+                    лаппьсъенҍ</x>
+                <xt>я буду оленеводом, а она будет дояркой</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+                <xt>а кто тебе сказал об этом?</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="2">
+        <lg>
+            <l pos="Interj" orth="1985kuru-sjd">а-а-а</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>возглас, которым подзывают оленёнка</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="9">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аббьр</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">абьр</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t gender="m">дождь</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">аббьр аббр</x>
+                <xt>дождь идёт</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">аббьр манн</x>
+                <xt>дождь идёт</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">аббьр ёадт</x>
+                <xt>дождь идёт</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">аббьр оалкхувэ</x>
+                <xt>дождь начался</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">эбьрэнҍ тӣвтэ пугк вӯметҍ</x>
+                <xt>водой залило все долины</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">аббьр-чалма</x>
+                <xt xtnumber="1">капля дождя</xt>
+                <xt xtnumber="2" type="literal">глазок дождя</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">коам аббьр</x>
+                <xt xtnumber="1">ливень</xt>
+                <xt xtnumber="2" type="explanation">проливной дождь</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="11">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄бей</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>сожаление</t>
+            </tg>
+            <tg>
+                <t gender="f">боль</t>
+                <tr>душевная</tr>
+            </tg>
+            <tg>
+                <t>страдание</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄бьесьт е̄лле</x>
+                <xt type="explanation">жить с обидой в душе</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ӣжян а̄бей ӣджьсан куэнта тӯллья</x>
+                <xt>свою обиду ношу, держу в себе</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ке̄ мун а̄бей кулл?</x>
+                <xt>кто поймёт мою боль?</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мыннӭ лӣ чофта а̄бей</x>
+                <xt>мне очень обидно</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="14">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄бпяр</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>закваска</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄бпяр кӯцэнҍт</x>
+                <xt>закваска готова</xt>
+                <xt type="literal">закваска закисла</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдт лыһкэ вэрс а̄бпяр</x>
+                <xt>нужно сделать свежую закваску</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="22">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">а̄в</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>открытый</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">а̄в укс</x>
+                <xt>открытые двери</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">кнӣга ле̄в а̄в</x>
+                <xt>книги открыты</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="25">
+        <lg>
+            <l pos="ADV" orth="1985kuru-sjd">аввта</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>снова</t>
+                <t>вновь</t>
+                <t>опять</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">аввта ёадтэй вэ̄дз</x>
+                <xt>снова пошёл снег</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">сыйй аввта пӯдтӭнҍ</x>
+                <xt>они опять пришли</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мыйй аввта уййнлэдэмь пэ̄йель выдт ыгь</x>
+                <xt>мы вновь увиделись через пять лет</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="27">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ввтэ</l>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t valency="кого-что">греть</t>
+                <t valency="кого-что" imperf="согреть">согревать</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ма̄ртэсьт пэ̄ййв ё шӣгктэнне а̄ввт</x>
+                <xt>в марте солнце уже хорошо греет</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">югке мӯнненҍ ма̄лець шӣгктэнне а̄ввт</x>
+                <xt>малица хорошо греет в любые морозы</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>греть что</t>
+                <t imperf="нагреть">нагревать что</t>
+                <t imperf="разогреть">разогревать что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄вт ча̄зь кӣмьнэсьт!</x>
+                <xt>грей воду в котле!</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄ййк пӯдӭ вя̄р а̄ввтэ</x>
+                <xt>пора разогревать обед</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>топить что</t>
+                <t imperf="отопить">отапливать что</t>
+                <t imperf="обогреть">обогревать что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄вт ко̄ввас!</x>
+                <xt>обогрей куваксу!</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ке̄сся мыйй пэҏтэтҍ ебпь а̄вт</x>
+                <xt>лётом мы дома не обогреваем</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="28">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ввь-1</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄вь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>горизонт</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">а̄ввь ця̄кас</x>
+                <xt>линия горизонта</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пе̄ййв луэшштэдэ а̄вва</x>
+                <xt>солнце скрылось за горизонтом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="29">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ввь-2</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄вь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>свежесть</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">оассэнҍ а̄ввь аппс</x>
+                <xt>бельё пахнет свежестью</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄ввь пӣӈӈк удлэнне муррт ӣӈэтҍ</x>
+                <xt>свежий весенний ветер быстро ломает лёд</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="31">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ввьл</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄вьл</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">перекладина с крючьями для подвешивания чайников, котлов над
+                огнём ; иногда использовалась палка с сучком, которая подвижно присоединялась к
+                перекладине при помощи верёвочной петли; сейчас используются металлические крючки на
+                цепях - над костром подвешивается до трёх крючков</lexicon>
+            <tg>
+                <t>аввель</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄вьл ко̄ввсэсьт ко̄ррэ</x>
+                <xt>привязать в куваксе аввель</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄вьл чиннэ</x>
+                <xt>приготовить аввель</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄вьл лыһкэ</x>
+                <xt>сделать аввель</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="36">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ввьн</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄вьн</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>уключина</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">пыйе оарьетҍ оавьнэтҍ</x>
+                <xt>вставить вёсла в уключины</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="37">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ввьт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄вьт</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>самое глубокое место в водоёме</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="38">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">авгусст</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">август</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>август</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="41">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">автобус</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>автобус</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">автоб_xxx_сэнҍ ёадтӭ</x>
+                <xt>ехать автобусом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="51">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">агкь</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="57">агь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>век</t>
+                <t>столетие</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">е̄лле нымьп лоагант агесьт</x>
+                <xt>жить в двадцатом веке</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="54">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">агрессивнэ</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>агрессивный</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="55">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">агрессия</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>агрессия</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="56">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">агрономм</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">агроном</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>агроном</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">шэ̄ннтэ агрономмэнҍ</x>
+                <xt>стать агрономом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="58">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аджь</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="69">ажь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>отец</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="xxx">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">ажьнӣййт</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">оленёнок (самка) или важенка, подаренная отцом, напр. дочери на
+                свадьбу</lexicon>
+        </mg>
+    </e>
+    <e kur_ID="61">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">адзе</l>
+            <infl>
+                <class_kuru class="I" ablaut="4" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="прибыть">прибывать (о воде во время прилива)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ча̄дзь вя̄л э̄зе</x>
+                <xt>вода ещё прибывала</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ча̄дзь ё э̄зе</x>
+                <xt xtnumber="1">вода прибыла</xt>
+                <xt xtnumber="2">прилив закончился</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ча̄дзь ё э̄зе, вуайй ё пырр нёарк сугкэ</x>
+                <xt>вода уже прибыла, можно плыть вокруг мыса (на лодке)</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="62">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄дзь</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="73">а̄зь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>пах</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">оазенҍ ке̄бп куллай</x>
+                <xt>в паху болит</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="64">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">адресс</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">адрез</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>адрес</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">вӯййк адресс</x>
+                <xt>точный адрес</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">адресс кнӣга</x>
+                <xt>адресная книга</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="65">
+        <lg>
+            <l pos="ADV" orth="1985kuru-sjd">адтҍ</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>теперь</t>
+                <t>сейчас</t>
+                <t>в настоящее время</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">адтҍ мыйй е̄ллепь тэста</x>
+                <xt>теперь мы живём здесь</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">адтҍ со̄нн пуадт</x>
+                <xt>он сейчас придёт</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="75">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄һклэӈӈк</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄һклэӈк</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>акула</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ка̄репь мӣлльтэ вӯе мэ̄нн-ля̄ннч ве̄рьтэ
+                    а̄һклэӈӈкэ</x>
+                <xt>за кораблём плыло несколько акул</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="76">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄һкь</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="113">а̄кь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>женщина ___RE замужняя RE___</t>
+            </tg>
+            <tg>
+                <t>баба PROST_REGISTER</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">вуэммь а̄һкь</x>
+                <xt>старая женщина</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">нӯрр а̄һкь</x>
+                <xt>молодая женщина</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N" type="idiom">вэ̄дз а̄һкь</x>
+                <xt>снежная баба</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="79">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">айе</l>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="explanation">быть занесённым снегом, песком и.т.д.</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">со̄нн э̄е вэ̄дзе</x>
+                <xt>его занесло снегом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="81">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄йй</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="78">а̄й</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>дед</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мӣн а̄й я ажь тоавсэнне ӣжесь шаннт е̄ммьне
+                    пынненҍ</x>
+                <xt>наши деды и отцы мужественно защищали свою родину</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="82">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ййв</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄йв</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>покой</t>
+                <t>спокойствие</t>
+                <t>согласие (у кого-л. TE___</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пугк нарэд та̄һтэв а̄йвэсьт е̄лле</x>
+                <xt>все народы хотят жить в мире</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="93">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ййк</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄йк</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>срок</t>
+            </tg>
+            <tg>
+                <t>пора</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">е̄ннэ а̄ййкэ мэ̄нэ</x>
+                <xt>прошло много времени</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄ййк пӯдӭ парнатҍ поҏтэ̄</x>
+                <xt>пришло время кормить ребятишек</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="94">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ййн</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄йн</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t number="pl">будни</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">а̄ййн пе̄ййв</x>
+                <xt xtnumber="1">будничный день</xt>
+                <xt xtnumber="2">будний день</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">а̄ййн платья</x>
+                <xt>будничное платье</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">со̄нэсьт я̄ллмужэсьт пай эфт ле̄в а̄йн</x>
+                <xt>у него в жизни пошли одни лишь будни</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">а̄йн оаннӭм оассэ</x>
+                <xt>одежда для повседневной носки</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">то̄нн а̄йн оанҍ тыйта пиматҍ</x>
+                <xt>эти пимы ты носи каждый день</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="95">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ййнэ</l>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>предвидеть что</t>
+                <t>предчувствовать что</t>
+                <t>предусмотреть что</t>
+            </tg>
+            <tg>
+                <t>ждать чего</t>
+                <t>ожидать чего</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мунн эмм а̄ййнма тэнн</x>
+                <xt>я не ожидал этого</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мунн оаййнэ сӣн пуэдтӭм па̄ль</x>
+                <xt>я предвидела их приезд</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="96">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ййт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄йт</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="explanation">изгородь для оленей</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄ййт манн кэскэль пӯдзэ пыннем сэенҍ</x>
+                <xt>изгородь тянется между пастбищами</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="105">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄йтнэ</l>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>нянчить кого</t>
+            </tg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>успокоить кого</t>
+                <t>утихомирить кого</t>
+                <t>унять кого</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄йтнэ парна</x>
+                <xt>успокоить ребёнка</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">па̄лль пӯдӭ шӯшшъетҍ а̄йтнэ</x>
+                <xt>пора унять шалунов</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="108">
+        <lg>
+            <l pos="ADV" orth="1985kuru-sjd">айтэ</l>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>почти</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">кнӣга айтэ ма̄ҏьк ве̄рьт стуайй</x>
+                <xt>книга стоит почти рубль</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>только</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">айтэ со̄н баяс цӣӆӆькэшь, я со̄нн пӯдӭ</x>
+                <xt>только о нём сказали, и он пришел</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>только что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">со̄нн айтэ пӯдӭ</x>
+                <xt>он только что пришёл</xt>
+            </xg>
+        </mg>
+        <mg km="g4">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>так и</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ёадтсэлленҍ, ёадтсэлленҍ, айтэ е̄кьна райя
+                    кӣссенҍ</x>
+                <xt>[они] собирались, собирались, так и дотянули до вечера</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="110">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄јјт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄јт</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>амбар</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄јјт чуэннч пэҏт луннҍ</x>
+                <xt>амбар стоит около дома</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">пынне тӯльетҍ а̄јтэсьт</x>
+                <xt>хранить шкуры в амбаре</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄јјт туййшувв стӯльпэ альн</x>
+                <xt xtnumber="1">амбар строится на столбах</xt>
+                <xt xtnumber="2" type="explanation">с целью уберечь содержимое от грызунов</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="111">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄к</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="3875">оаһкэ</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>самка (дикого оленя, лося и.т.д.)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">сэрв а̄к</x>
+                <xt>лосиха</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">коанҍт а̄к</x>
+                <xt>самка дикого оленя</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="114">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">алаш</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">аллаш</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">металлический лист или плоский камень, на которых разводится
+                огонь в зимней куваксе</lexicon>
+            <tg>
+                <t>алаш</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пырр аллаш бэдт пыйе кӣдҍкэтҍ</x>
+                <xt>алаш нужно обложить камнями</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="115">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">алехь</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>синий</t>
+                <t>васильковый</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">алехь карндашш</x>
+                <xt>синий карандаш</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">алехь та̄вяр</x>
+                <xt>васильковая ткань</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="121">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аллк</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄лк</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>полено</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">пе̄дзь а̄лк</x>
+                <xt>сосновые поленья</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="123">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аллмэ</l>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t valency="кого-что">сбрасывать</t>
+                <t valency="кого-что">подбрасывать</t>
+                <t valency="кого-что">опрокидывать</t>
+            </tg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="explanation">перевёртывать что вверх дном</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="127">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ллт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄лт</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">оленья самка с 4 до 8-10 лет; самая сильная и мудрая становится
+                вожаком стада</lexicon>
+            <tg>
+                <t>важенка</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="129">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄лль</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄ль</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>влага</t>
+                <t>сырость</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">оаллкэнҍ лӣ а̄лль</x>
+                <xt>на улице сыро</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">а̄лль оассэ</x>
+                <xt>влажная одежда</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">е̄кесь а̄лль</x>
+                <xt>вечерняя сырость</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="130">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">алльк</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">альк</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>сын</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">пуаррса алльк</x>
+                <xt>старший сын</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">кэ̄сск алльк</x>
+                <xt>средний сын</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">нӯра алльк</x>
+                <xt>младший сын</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пуэдтӭ элькэнҍ!</x>
+                <xt>приходите с сыном!</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="131">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аллькэ</l>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>начать (что-л. делать TE___</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">сыйй э̄ллькэнҍ сӣррэ</x>
+                <xt>они начали играть</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">вспом. глагол для образования формы будущего времени</lexicon>
+            <tg>
+                <t>быть</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">алка тӣнэтҍ лыһцэ</x>
+                <xt>я буду вас лечить</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мэ̄нн алкак лыһкэ?</x>
+                <xt>что ты будешь делать?</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="133">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">алльм-1</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">альм</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>небо</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пэвлэнч элля альмэсьт</x>
+                <xt>на небе ни тучки</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">уһцэ алльм тоасьтэ карта</x>
+                <xt>изучать звёздную карту неба</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx" type="idiom">аллма ка̄нтэ</x>
+                <xt>вверх ногами</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="134">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">алльм-2</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">альм</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t gender="f">метель</t>
+                <t>вьюга</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">февралль ма̄нн пӯдӭ эльмэнҍ</x>
+                <xt>февраль пришёл с метелями</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">со̄нн алльмэнҍ выйель</x>
+                <xt>он поехал, когда была метель</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ча̄дзь алльм манн</x>
+                <xt>идёт мокрый снег</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="136">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄лльс</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄льс</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>reindeer</stype>
+            </semantics>
+            <tg>
+                <t type="explanation">задний отросток [на середине] рога оленя</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">чогк а̄лльс мурртэй</x>
+                <xt>острый задний отросток рога отломился</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>отросток</t>
+                <t type="explanation">молодой побег растения</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="137">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">алльт</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>близко</t>
+                <t>вблизи</t>
+                <t>недалеко</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ва̄ррь лӣ пэре алльт</x>
+                <xt>лес совсем близко</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="145">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">алфавиһт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">алфавит</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>алфавит</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">са̄мь алфавиһт</x>
+                <xt>саамский алфавит</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">нэ̄мэтҍ кырьйхэ алфавит мӣлльтэ</x>
+                <xt>записать имена по алфавиту</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="149">
+        <lg>
+            <l pos="ADP" orth="1985kuru-sjd">альн</l>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t valency="ком-чём">на</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">оаррэ стула альн</x>
+                <xt>сидеть на стуле</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">кнӣга лӣ туэль альн</x>
+                <xt>книга лежит на столе</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t valency="чем">над</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">ча̄р альн кыррьтэ</x>
+                <xt>лететь над тундрой</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="153">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄льп</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="135">а̄лльпэ</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>бабочка</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄льп кыртач ра̄зесьт ра̄сса</x>
+                <xt>бабочка порхает с цветка на цветок</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="161">
+        <lg>
+            <l pos="ADV" orth="1985kuru-sjd">ама</l>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>же</t>
+            </tg>
+            <tg>
+                <t>ведь</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">со̄нн ама пӯдӭ</x>
+                <xt>он же пришёл</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">тыйй ама тэнн баяс тӣдӭтҍ</x>
+                <xt>вы ведь знали об этом</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>однако</t>
+                <t>но</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">то̄нн тэнн баяс тӣдтӭкь, ама эгк ця̄ӆӆкма</x>
+                <xt>ты об этом знал, однако не сказал</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>тем не менее</t>
+                <t>всё-таки</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">тыйй, ама, мушшьтэ тэнн баяс</x>
+                <xt>вы, тем не менее, помните об этом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="162">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">амель</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="163">аммал</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>комолая важенка</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">амель а̄к</x>
+                <xt type="explanation">безрогая самка дикого оленя или лося</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="164">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ммпэ</l>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="убежать">убегать (о супе, молоке при кипении)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">вя̄рр а̄ммп</x>
+                <xt>суп убегает</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t valency="что" imperf="залить">заливать (через край)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">нэмп а̄ммпэв вэ̄ннас сыз</x>
+                <xt>волны заливают лодку</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="выйти" type="figurative">выходить из себя</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пусьтэльт ель а̄мп!</x>
+                <xt>не выходи из себя напрасно!</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="167">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ммьсэ</l>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>зевать</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄ммьсэ вэсьт нагерь пуэдтҍмэдтӭ</x>
+                <xt xtnumber="1">зевать перед сном</xt>
+                <xt xtnumber="2" type="literal">зевать перед приходом сна</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="175">
+        <lg>
+            <l pos="V" orth="1985kuru-sjd">а̄мшуввэ</l>
+            <infl>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="literal+figurative">опомниться</t>
+                <t>очнуться</t>
+                <t>прийти в себя</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄мшуввэ маӈӈа кэллмэшка</x>
+                <xt>опомниться после обморока</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="183">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аннҍтэ</l>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>дать что_кому</t>
+                <t>отдать что_кому</t>
+                <t>раздать что_кому</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">анҍт мыннӭ алехь карндаж!</x>
+                <xt>дай мне синий карандаш!</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">лӯшшьтэ аннҍтэ тыйе роазетҍ!</x>
+                <xt>разрешите преподнести вам цветы!</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>уступить кому (дорогу, место TE___</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">анҍт агкне сай!</x>
+                <xt>уступи старушке место!</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>разрешить</t>
+                <t>позволить</t>
+                <t>предложить кому (что-л. сделать TE___</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">аннҍтэ сыйе соанэтҍ лыһкэ!</x>
+                <xt>разрешите им сделать сани!</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">анҍт соннӭ кырьйхэ кнӣга!</x>
+                <xt>предложи ему написать книгу!</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="184">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ннэ</l>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>просить что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄ннэ кнӣга</x>
+                <xt>просить книгу</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄ннэ тетрадҍ</x>
+                <xt>просить тетрадь</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄ннэ тӣнҍкэтҍ вя̄ллка</x>
+                <xt>просить деньги в долг</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="186">
+        <lg>
+            <l pos="ADV" orth="1985kuru-sjd">анҍ</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>пусть</t>
+                <t>пускай</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">анҍ со̄нн пуадт!</x>
+                <xt>пусть он придёт!</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="188">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">апрелль</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">апрель</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t gender="m">апрель</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">пуэдтӭ апрелесьт</x>
+                <xt>приехать в апреле</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">апрелль пе̄ййв</x>
+                <xt>апрельское солнце</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="189">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">аптека</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>аптека</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="190">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">аптечнэ</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>аптечный</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">аптечнэ ла̄ффьк</x>
+                <xt>аптечный киоск</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="191">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">армия</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>армия</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">советскэ армия</x>
+                <xt>советская армия</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">лушшэ армиясьт</x>
+                <xt>служить в армии</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="192">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ррв</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄рв</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>цена</t>
+                <t>стоимость</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">шӯрр а̄ррв</x>
+                <xt>высокая цена</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">вӯлльгесь а̄ррв</x>
+                <xt>низкая цена</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">а̄рв ле̄в вульна</x>
+                <xt>цены снижены</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="199">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ррьв</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄рьв</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>загадка</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мунн то̄н а̄рьв а̄ррьвда</x>
+                <xt>я твою загадку отгадаю</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="203">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ррьй</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄рьй</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>весло</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">ло̄ссесь а̄рьй</x>
+                <xt>тяжёлые вёсла</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="204">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ррьк</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄рьк</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>робость</t>
+                <t>боязливость</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мугка а̄ррьк пӯдӭ, эмм вуайя са̄нҍ са̄ррнэ</x>
+                <xt>такая робость охватила, что [я] и слова не смог сказать</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">манҍтэ со̄нэсьт ӣнн лӣ а̄ррьк</x>
+                <xt>какой у него робкий голос</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="207">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄ррьп</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄рьп</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>шрам</t>
+                <t>рубец</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">та̄л кэ̄нцэнҍ ме̄һцьласьт кӯдтҍенҍ шӯрр а̄рьп
+                    ка̄свэсьт</x>
+                <xt>на лице охотника остались глубокие рубцы от когтей медведя</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="211">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">ассктэ</l>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>обнять кого</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">асскэдҍ вуэррьпнэнчант!</x>
+                <xt>обними сестрёнку!</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="216">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">асст</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">аст</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>досуг</t>
+                <t>свободное время</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">са̄рнсэпь астэсьт</x>
+                <xt>поговорим на досуге</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мунэсьт элля асст</x>
+                <xt>у меня нет свободного времени</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="219">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">ассь</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="72">азь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>мездра</t>
+            </tg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>кожа головы</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx" type="idiom">рӯпснэ вуэййв азь райя</x>
+                <xt>покраснеть до корней волос</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx" type="idiom">эзетҍ кышк</x>
+                <xt xtnumber="1">на душе кошки скребут</xt>
+                <xt xtnumber="2" type="literal">мездру дерёт</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="220">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">асськ</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">аськ</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>колено</t>
+            </tg>
+            <tg>
+                <t number="pl">колени</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">асска ышштэ</x>
+                <xt>сесть на чьи-л. колени</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="221">
+        <lg>
+            <l pos="Interj" orth="1985kuru-sjd">асьт-асьт-асьт</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>возглас</t>
+                <t>которым подзывают овцу</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="222">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">а̄тҍсэ</l>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>застать кого</t>
+                <t>застигнуть кого</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мыйй а̄тҍсэмь сӣнэтҍ пэҏтэсьт</x>
+                <xt>мы застали их дома</xt>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">а̄ббрэ</l>
