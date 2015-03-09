@@ -1039,4 +1039,273 @@
             <l pos="xxx" orth="1986kert-rus">быдтӭй</l>
         </lg>
     </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">ба̄йхьк</l>
+            <infl>
+                <stem_kert gloss="мн">ба̄йк</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">работа</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">сказка</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">басня</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert-sjd">ба̄ль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">в течение, во время, при</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">каникулэ ба̄ль</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">во время каникул</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert-sjd">бай</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">о времени</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">пе̄ййв бай</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">в течение дня</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">о пространстве</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">ва̄ррь бай</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">на весь лес</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">байна</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">баня</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert-sjd">байяс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">о, об, про</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">моайнас рӣмьн байяс</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">сказка про лису</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">балъеднэхьк</l>
+            <infl>
+                <stem_kert gloss="мн">балъеднэгк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">шутка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">балъедтэ</l>
+            <infl>
+                <stem_kert>балъеда, балъядт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">шутить, пошутить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">бе̄ййдэдтэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">бороться</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">бе̄ййдэдтэ мыр гузйке</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">бороться за мир</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">добиваться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">беда</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">очень</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">безударнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">безударный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">билет</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">билет</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">кинобилет</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">билет в кино</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">профсоюзнэ билет</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">профсоюзный билет</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">бо̄йесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">боевой</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">бо̄йесъ тоаврэж</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">боевой товарищ</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">бо̄йй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">боевой, бойкий</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">буква</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">буква</t>
+            </tg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">гла̄снэ буква</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">гласная буква</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert-sjd" pos="xxx">шӯрр буква</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">большая (прописная) буква</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">бусь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бусы</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">бухмарнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">пасмурный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">быдт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">нужно, надо, необходимо</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-sjd">бӯрэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бурый</t>
+            </tg>
+        </mg>
+    </e>
 </r>
