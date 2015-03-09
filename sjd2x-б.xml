@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e kur_ID="239">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">ба̄йна</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>баня</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">ба̄йнасьт лоавкнэдтэ</x>
+                <xt>мыться в бане</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">ба̄йнасьт поаррдэдтэ</x>
+                <xt>париться в бане</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">вӯллькэ ба̄йная</x>
+                <xt>пойти в баню</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx" type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
+                <xt>задать баню кому-либо</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="240">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бакалл</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">бакал</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">гриб-трутовик на стволе берёзы</lexicon>
+            <tg>
+                <t>чага</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">пе̄ссь-мӯрр бакал</x>
+                <xt type="explanation">чага на стволе берёзы</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="explanation">шишка на лбу</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бакал вуаһца вэллей</x>
+                <xt>шишка на лбу вскочила</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="245">
+        <lg>
+            <l pos="V" orth="1985kuru-sjd">балъе</l>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>баловать кого</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">парнатҍ балъе</x>
+                <xt>баловать детей</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx" type="idiom">парна бальяк, шӯрран — лӯјкак</x>
+                <xt type="proverb">[ребёнка] маленького балуешь - с большим плачешь</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="250">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">ба̄нка</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>банка</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">сте̄клэ ба̄нка</x>
+                <xt>стеклянная банка</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">а̄ввьдэ консерв ба̄нка</x>
+                <xt>открыть банку консервов</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>med</stype>
+            </semantics>
+            <tg>
+                <t number="pl">банки</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">пыйе кэ̄блая ба̄нкатҍ</x>
+                <xt>поставить больному банки</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="251">
+        <lg>
+            <l pos="ADV" orth="1985kuru-sjd">бара</l>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>же</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">то̄нн бара касьт лӣйекь?</x>
+                <xt>где же ты был?</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">манҍтэ бара со̄нн адтҍ лӣ?</x>
+                <xt>какой же он тепёрь?</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>разве</t>
+            </tg>
+            <tg>
+                <t>ли</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мунн бара ва̄льтэтҍ?</x>
+                <xt>меня разве возьмут?</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">шӯрр бара лӣ па̄ррьшя, а пэҏтэсьт лӣ ве̄һкь</x>
+                <xt>велик ли ребёнок, а всё в доме помощник</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>зачем</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мэ̄нн бара со̄нн тэнн са̄ррн?</x>
+                <xt>зачем он это говорит?</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="252">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">батонн</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">батон</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>батон ___RE хлебный RE___</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="253">
+        <lg>
+            <l pos="ADP" orth="1985kuru-sjd">баяс</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t valency="ком-чём">о</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">моайнсэгке тэнн баяс!</x>
+                <xt>расскажите об этом!</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">пӯдӭ роам соагк вуэјјтэм баяс</x>
+                <xt>пришла радостная весть о победе</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="257">
+        <lg>
+            <l pos="V" orth="1985kuru-sjd">бе̄ййдэдтэ</l>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="*"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>добиваться чего</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">мыйй кугкь бе̄ййдэдэмь тэнн уййнлэдтмуж баяс</x>
+                <xt>мы долго добивались этой встречи</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="figurative">биться над чем</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">ло̄ссесь задача альн бе̄ййдэдтэ</x>
+                <xt>биться над решением трудной задачи</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">ле̄ййп куськ гуэйкэ бе̄ййдэдтэ</x>
+                <xt>биться из-за куска хлеба (т.е. бедствовать)</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="259">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">библиотека</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>библиотека</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">ланнҍ библиотека</x>
+                <xt>городская библиотека</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">па̄ррнэ гуэйкэ библиотека</x>
+                <xt>детская библиотека</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">уһцэй библиотека</x>
+                <xt>библиотека учителя</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">библиотека кнӣга</x>
+                <xt>библиотечная книга</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">библиотекасьт лыһкэй</x>
+                <xt>библиотекарь</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="260">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">билеһт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">билет</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>билет</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">ёадтӭм билеһт</x>
+                <xt>проездной билет</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">о̄һпнуввэй билеһт</x>
+                <xt>ученический билет</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="264">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бӣннт</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">бӣнт</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>бинт</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">кӣссэ ра̄ӊҍ бӣнтэнҍ</x>
+                <xt xtnumber="1">наложить бинт на рану</xt>
+                <xt xtnumber="2">замотать рану бинтом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="273">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">боаран</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>баран</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">боаран чуэз</x>
+                <xt type="literal+figurative">стадо баранов</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">ёадтёв гӯ боаран чуэз</x>
+                <xt>[они] идут как стадо баранов</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx" type="idiom">со̄ййлаһтӭ боаран чуэррьвэнҍ</x>
+                <xt>согнуть кого в бараний рог</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="274">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">большевиһк</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">большевик</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>большевик</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="275">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">большевистскэ</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>большевистский</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="276">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">ботинка</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+            <pointers>
+                <compare>камаша</compare>
+            </pointers>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t number="pl">ботинки</t>
+                <t gender="m" number="sg">ботинок</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">вуэссьтэ о̄дт ботинкатҍ</x>
+                <xt>купить новые ботинки</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="277">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бре̄ввьн</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">бре̄вьн</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>бревно</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">пыллэ брӣвьнэтҍ лӯввьтэнҍ</x>
+                <xt>распилить брёвна на доски</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="278">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бригада</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>бригада</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">кӯлль шыллей бригада</x>
+                <xt>рыболовецкая бригада</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="279">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бригадирр</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">бригадир</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>бригадир</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">бригадиррэнҍ лыһкэ</x>
+                <xt>работать бригадиром</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="280">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бро̄шка</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>брошка</t>
+            </tg>
+            <tg>
+                <t gender="f">брошь</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">бро̄шка соалпсэ коаввлсэ</x>
+                <xt>приколоть брошь к воротнику</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="281">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бӯква</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>буква</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">кырьйхэ шӯрр бӯкванҍ</x>
+                <xt>писать с большой буквы</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">шӯрр бӯква</x>
+                <xt>прописная буква</xt>
+                <xt>заглавная буква</xt>
+                <xt type="literal">большая буква</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">удць бӯква</x>
+                <xt>строчная буква (т.е. маленькая буква)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">бӯкватҍ уһцэм кэ̄сск</x>
+                <xt type="explanation">букварный период в школе</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="282">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">букваррь</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">букварь</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t gender="m">букварь</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">са̄мь букваррь</x>
+                <xt>саамский букварь</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">рӯшш букваррь</x>
+                <xt>русский букварь</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">букварь мӣлльтэ ло̄гкэ</x>
+                <xt>читать по букварю</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="283">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">буржуазия</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>буржуазия</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="284">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">буржуазнэ</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>буржуазный</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="285">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">бӯрка</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <lexicon xml:lang="rus">до колен, женские или детские, шьются из койб
+                ___LOOKUPкоаммасLOOKUP___; украшаются по швам цветным сукном, передняя часть
+                украшается койбами контрастного цвета с орнаментом, напр. головы оленя с
+                рогами</lexicon>
+            <tg>
+                <t>бурки</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="V">куаррэ о̄дт бӯркатҍ</x>
+                <xt>сшить новые бурки</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="288">
+        <lg>
+            <l pos="V" orth="1985kuru-sjd">бэдт</l>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>нужно</t>
+                <t>следует</t>
+                <t type="explanation">необходимо что-л. сделать</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдт це̄ӆӆькэ со̄бэр баяс</x>
+                <xt>нужно сказать о собрании</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="xxx">
+        <lg>
+            <l pos="V" orth="1985kuru-sjd">бэдаһч</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>надо бы</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдаһч куаррэ</x>
+                <xt>надо бы шить</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдтӭ ля̄йй</x>
+                <xt>надо было</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
+                <xt>нужно было вместе ехать</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>требуется</t>
+                <t>нужно</t>
+                <t>следует иметь</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">заводтӭ бэдт лыһкъетҍ</x>
+                <xt>заводу требуются рабочие</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="291">
+        <lg>
+            <l pos="V" orth="1985kuru-sjd">бэдтэ</l>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>неужели</t>
+            </tg>
+            <tg>
+                <t>разве</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
+                <xt>неужели вы не понимаете?</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
+                <xt>разве вы к нам придёте?</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>как</t>
+                <t>словно</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">бэдтэ е̄лльмэнҍ кя̄һч</x>
+                <xt>[он] смотрит, как живой</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
+                <xt>[он] уверяет, что сам слышал об этом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="292">
+        <lg>
+            <l pos="A" orth="1985kuru-sjd">бяган</l>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>пятнистый</t>
+                <t>пёстрый</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="N">бяган а̄ллт</x>
+                <xt>пёстрая важенка</xt>
+            </xg>
+        </mg>
+    </e>
+</r>
