@@ -1,6 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e kur_ID="239">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">рӣмьн байяс ба̄сня</x>
+                <xtg>
+                    <xt>басня про лису</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">вӣллькесь та̄лл</x>
+                <xtg>
+                    <xt>белый медведь</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">билет ленинград райя</x>
+                <xtg>
+                    <xt>билет до ленинграда</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">та̄гкэ барабан</x>
+                <xtg>
+                    <xt>бить в барабан</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">вуэӆӆькей сӣря</x>
+                <xtg>
+                    <xt>блестящая игрушка</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">альтэсь ва̄рр</x>
+                <xtg>
+                    <xt>близкий путь</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">вуаййпей ва̄лт гуэйке</x>
+                <xtg>
+                    <xt>борец за свободу</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">карепьрӯммт</x>
+                <xtg>
+                    <xt>борт корабля</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">бе̄ййдэдтмушш мыр гуэйке</x>
+                <xtg>
+                    <xt>борьба за мир</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">брать в руки</x>
+                <xtg>
+                    <xt>ва̄лльтэ кӣдтӭ</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">ва̄лльтэ мӣлльтэ</x>
+                <xtg>
+                    <xt>брать с собой</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">пуэдтӭй ыгкь</x>
+                <xtg>
+                    <xt>будущий год</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">ра̄зьпуччк</x>
+                <xtg>
+                    <xt>букет цветов</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x pos="xxx" orth="1986kert-rus">пыммекарьпя</x>
+                <xtg>
+                    <xt>бумажный кораблик</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e kur_ID="239">
         <lg>
             <l pos="N" orth="1985kuru-sjd">ба̄йна</l>
             <orthography>
@@ -37,7 +220,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">ба̄йхьк</l>
             <infl>
@@ -60,7 +243,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="послелог" orth="1986kert-sjd">ба̄ль</l>
         </lg>
@@ -76,7 +259,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="250">
+  <e kur_ID="250">
         <lg>
             <l pos="N" orth="1985kuru-sjd">ба̄нка</l>
             <infl>
@@ -113,17 +296,17 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">ба̄сня</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">ба̄шня</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="послелог" orth="1986kert-sjd">бай</l>
         </lg>
@@ -150,7 +333,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="240">
+  <e kur_ID="240">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бакалл</l>
             <infl>
@@ -184,7 +367,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="245">
+  <e kur_ID="245">
         <lg>
             <l pos="V" orth="1985kuru-sjd">балъе</l>
             <infl>
@@ -208,7 +391,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">балъеднэхьк</l>
             <infl>
@@ -221,17 +404,17 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">балъедсэ</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">балъедтмушш</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">балъедтэ</l>
             <infl>
@@ -244,7 +427,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="251">
+  <e kur_ID="251">
         <lg>
             <l pos="ADV" orth="1985kuru-sjd">бара</l>
         </lg>
@@ -296,25 +479,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">барабан</l>
         </lg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">рӣмьн байяс ба̄сня</x>
-                <xtg>
-                    <xt>басня про лису</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="252">
+  <e kur_ID="252">
         <lg>
             <l pos="N" orth="1985kuru-sjd">батонн</l>
             <infl>
@@ -331,7 +501,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="253">
+  <e kur_ID="253">
         <lg>
             <l pos="ADP" orth="1985kuru-sjd">баяс</l>
             <orthography>
@@ -367,12 +537,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">бе̄ййдэдтмушш</l>
         </lg>
     </e>
-    <e kur_ID="257">
+  <e kur_ID="257">
         <lg>
             <l pos="V" orth="1985kuru-sjd">бе̄ййдэдтэ</l>
             <orthography>
@@ -422,12 +592,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">бе̄лль</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">беда</l>
         </lg>
@@ -437,7 +607,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">безударнэ</l>
         </lg>
@@ -447,20 +617,7 @@
             </tg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">вӣллькесь та̄лл</x>
-                <xtg>
-                    <xt>белый медведь</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="259">
+  <e kur_ID="259">
         <lg>
             <l pos="N" orth="1985kuru-sjd">библиотека</l>
             <infl>
@@ -497,20 +654,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">билет ленинград райя</x>
-                <xtg>
-                    <xt>билет до ленинграда</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="260">
+  <e kur_ID="260">
         <lg>
             <l pos="N" orth="1985kuru-sjd">билеһт</l>
             <orthography>
@@ -550,7 +694,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">битва</l>
         </lg>
@@ -563,56 +707,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">та̄гкэ барабан</x>
-                <xtg>
-                    <xt>бить в барабан</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">кӯййкка̄ссв</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>бледное лицо</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">вуэӆӆькей сӣря</x>
-                <xtg>
-                    <xt>блестящая игрушка</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">альтэсь ва̄рр</x>
-                <xtg>
-                    <xt>близкий путь</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">бо̄йесь</l>
         </lg>
@@ -634,7 +729,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">бо̄йй</l>
         </lg>
@@ -644,7 +739,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="273">
+  <e kur_ID="273">
         <lg>
             <l pos="N" orth="1985kuru-sjd">боаран</l>
             <infl>
@@ -673,17 +768,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">ла̄ммьпмӯррьй</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>болотная ягода</t>
-            </tg>
-        </mg>
-    </e>
-    <e kur_ID="275">
+  <e kur_ID="275">
         <lg>
             <l pos="A" orth="1985kuru-sjd">большевистскэ</l>
         </lg>
@@ -696,7 +781,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="274">
+  <e kur_ID="274">
         <lg>
             <l pos="N" orth="1985kuru-sjd">большевиһк</l>
             <infl>
@@ -713,56 +798,7 @@
             </tg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">пе̄лльк</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>большой палец</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">вуаййпей ва̄лт гуэйке</x>
-                <xtg>
-                    <xt>борец за свободу</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">карепьрӯммт</x>
-                <xtg>
-                    <xt>борт корабля</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">бе̄ййдэдтмушш мыр гуэйке</x>
-                <xtg>
-                    <xt>борьба за мир</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="276">
+  <e kur_ID="276">
         <lg>
             <l pos="N" orth="1985kuru-sjd">ботинка</l>
             <orthography>
@@ -790,38 +826,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">боххьтэрь</l>
         </lg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">брать в руки</x>
-                <xtg>
-                    <xt>ва̄лльтэ кӣдтӭ</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">ва̄лльтэ мӣлльтэ</x>
-                <xtg>
-                    <xt>брать с собой</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="277">
+  <e kur_ID="277">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бре̄ввьн</l>
             <infl>
@@ -842,7 +852,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="278">
+  <e kur_ID="278">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бригада</l>
             <orthography>
@@ -872,7 +882,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="279">
+  <e kur_ID="279">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бригадирр</l>
             <infl>
@@ -893,7 +903,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="280">
+  <e kur_ID="280">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бро̄шка</l>
             <infl>
@@ -917,20 +927,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">пуэдтӭй ыгкь</x>
-                <xtg>
-                    <xt>будущий год</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="282">
+  <e kur_ID="282">
         <lg>
             <l pos="N" orth="1985kuru-sjd">букваррь</l>
             <orthography>
@@ -962,43 +959,17 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">букет</l>
         </lg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">ра̄зьпуччк</x>
-                <xtg>
-                    <xt>букет цветов</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">булка</l>
         </lg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert-rus">пыммекарьпя</x>
-                <xtg>
-                    <xt>бумажный кораблик</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="283">
+  <e kur_ID="283">
         <lg>
             <l pos="N" orth="1985kuru-sjd">буржуазия</l>
             <infl>
@@ -1015,7 +986,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="284">
+  <e kur_ID="284">
         <lg>
             <l pos="A" orth="1985kuru-sjd">буржуазнэ</l>
         </lg>
@@ -1028,7 +999,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">бусь</l>
         </lg>
@@ -1038,7 +1009,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">бухмарнэ</l>
         </lg>
@@ -1048,12 +1019,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">быдтлэсь</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-rus">быдтӭй</l>
             <orthography>
@@ -1061,7 +1032,7 @@
             </orthography>
         </lg>
     </e>
-    <e kur_ID="xxx">
+  <e kur_ID="xxx">
         <lg>
             <l pos="V" orth="1985kuru-sjd">бэдаһч</l>
         </lg>
@@ -1100,7 +1071,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="288">
+  <e kur_ID="288">
         <lg>
             <l pos="V" orth="1985kuru-sjd">бэдт</l>
             <orthography>
@@ -1126,7 +1097,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="291">
+  <e kur_ID="291">
         <lg>
             <l pos="V" orth="1985kuru-sjd">бэдтэ</l>
         </lg>
@@ -1175,7 +1146,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="292">
+  <e kur_ID="292">
         <lg>
             <l pos="A" orth="1985kuru-sjd">бяган</l>
         </lg>
@@ -1193,7 +1164,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="264">
+  <e kur_ID="264">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бӣннт</l>
             <infl>
@@ -1215,7 +1186,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="281">
+  <e kur_ID="281">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бӯква</l>
             <orthography>
@@ -1265,7 +1236,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="285">
+  <e kur_ID="285">
         <lg>
             <l pos="N" orth="1985kuru-sjd">бӯрка</l>
             <infl>
@@ -1290,13 +1261,43 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert-sjd">бӯрэ</l>
         </lg>
         <mg>
             <tg xml:lang="rus">
                 <t pos="xxx">бурый</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">кӯййкка̄ссв</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>бледное лицо</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">ла̄ммьпмӯррьй</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>болотная ягода</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert-rus">пе̄лльк</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>большой палец</t>
             </tg>
         </mg>
     </e>
