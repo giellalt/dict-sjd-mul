@@ -2,6 +2,3788 @@
 <r>
     <e>
         <lg>
+            <l pos="xxx" orth="1986kert">ва̄ввьл</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">глубокое место</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">русло</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄йваш</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="yyy">бедный</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="yyy">бедняк</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="yyy">нищий</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄йвшэнне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бедно</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ймель</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бойкий</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ва̄ймель па̄рьшя</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">бойкий ребёнок</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ллт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">свобода, воля</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">пӯдзэ е̄ллев ва̄лтэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">олени пасутся на свободе (на воле)</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ллтэдтэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">браться за руки</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">браться за работу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄лль</l>
+            <infl>
+                <stem_kert gloss="мн">ва̄ль</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">сокол</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">ястреб</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄лльтэ</l>
+            <infl>
+                <stem_kert>ва̄лта, ва̄ллт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">брать, получать, взять</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">принимать, принять</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">отнимать, отнять</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">заработать</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">овладеть</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx" type="#">ва̄лльтэ е̄ррма запомнить</x>
+                <xtg xml:lang="rus">
+                    <xt type="#">пе̄ль ва̄лльтэ заступиться</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ллэ</l>
+            <infl>
+                <stem_kert>ва̄ла, ва̄лл</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">лить, налить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">поливать, полить</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">сыпать, насыпать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄нас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мало</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ннса</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">меньше</t>
+                <tr>по количеству</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ннҍцэ</l>
+            <infl>
+                <stem_kert>ва̄нца, ва̄ннц</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">идти пешком</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">гулять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄пткэнне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">богато</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄птэк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">богатый</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ва̄птэк колхоз</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">богатый колхоз</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄птэквӯдт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">богатство</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">е̄ммьнева̄птэквӯдт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">природные богатства</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄птэклуввэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">богатеть, разбогатеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄рнюшшэ</l>
+            <infl>
+                <stem_kert>ва̄рнюжа, ва̄рнюшш</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">гостить, погостить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄рр</l>
+            <infl>
+                <stem_kert gloss="мн">ва̄р</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">путь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ррь</l>
+            <infl>
+                <stem_kert gloss="мн">ва̄рь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">лес</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ррьре̄ввьн</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">опушка (край леса)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄сст</l>
+            <infl>
+                <stem_kert gloss="мн">ва̄ст</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">веник, метла</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄сстэ</l>
+            <infl>
+                <stem_kert>ва̄ста, ва̄сст</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">бить, избить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">наказывать, наказать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ххт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дежурство</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ххтъе</l>
+            <infl>
+                <stem_kert>ва̄хтъя, ва̄ххтай</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">дежурить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">сторожить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ххтъей</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">дежурный</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">сторож</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄шшьн</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ва̄шшенҍ тесто (квашня)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ва̄ӈӈк</l>
+            <infl>
+                <stem_kert gloss="мн">ва̄ӈьк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">крючок (деревянный)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вадтэ</l>
+            <infl>
+                <stem_kert>вада, вадт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">стегать, хлестать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">важнэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="yyy">важно (значительно)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="yyy">важный (значительный)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вайй</l>
+            <infl>
+                <stem_kert gloss="мн">ва̄й</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выкройка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ваййдэ</l>
+            <infl>
+                <stem_kert>вайда, вайяд</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ненавидеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ваййшэсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">быстрый, быстроногий</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ваййшэсь пуаз</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">быстроногий олень</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вайшэнне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">быстро</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вайя</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">неужели</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">валас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вниз</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">валсэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">наливать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">вылить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">варэнь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">гость</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вашшь</l>
+            <infl>
+                <stem_kert gloss="мн">вашшь</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">кустарник</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">чаща, заросли</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ваҏҏьтэ</l>
+            <infl>
+                <stem_kert>ваҏьта, ваҏҏт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">идти</t>
+                <tr>о мелком дожде, моросить</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄зьвеш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вя̄свеч оса</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ййкь</l>
+            <infl>
+                <stem_kert gloss="мн">ве̄йкь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">сумерки</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄кьхе</l>
+            <infl>
+                <stem_kert>ве̄кьха, ве̄кяхт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">помогать, помочь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄кьхей</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">помощник</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄лльк</l>
+            <infl>
+                <stem_kert gloss="мн">ве̄льк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">долг (то, что взято взаймы)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ллэ</l>
+            <infl>
+                <stem_kert>ве̄ла, вя̄лл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">подпоясывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ппьс</l>
+            <infl>
+                <stem_kert gloss="мн">ве̄пьс</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">плавник</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">кӯлльве̄ппьс</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">рыбий плавник</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄рхэ</l>
+            <infl>
+                <stem_kert>ве̄рха, ве̄рахт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">обвинять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ссьлесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">весёлый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ссьлушшэ</l>
+            <infl>
+                <stem_kert>ве̄сьлужа, весьлушш</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">веселиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ххьк</l>
+            <infl>
+                <stem_kert gloss="мн">ве̄кь</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">помощь</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">помощник</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ччер</l>
+            <infl>
+                <stem_kert gloss="мн">ве̄чер</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">молоток</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄шш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вещь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄шшьк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">медь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ҏҏц</l>
+            <infl>
+                <stem_kert gloss="мн">ве̄ҏц</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мешок</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ве̄ӆӆьте</l>
+            <infl>
+                <stem_kert>вя̄ӆта, вя̄ӆӆт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">перегонять оленей на другое место</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">перевязывать оленей на другое место</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">ветеран</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ветеран</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">лыххкветеран</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">ветеран труда</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вижьнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бегать</t>
+                <tr>о человеке</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вижьсассьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">разбегаться (в разные стороны)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">владейе</l>
+            <infl>
+                <stem_kert>владея, владяйй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">владеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄йвшуввэ</l>
+            <infl>
+                <stem_kert>во̄а̄йвшува, во̄а̄йвшувв</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">беспокоиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄йвшэ</l>
+            <infl>
+                <stem_kert>во̄а̄йвша, во̄а̄йвашт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">беспокоить, надоедать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄ллшэмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выборы</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лмаш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">готовый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лмшэ</l>
+            <infl>
+                <stem_kert>во̄а̄лмша, во̄а̄лмашт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">заготовлять, заготовить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">запасать, запасти</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">приготовлять, приготовить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лмшэгк</l>
+            <infl>
+                <stem_kert gloss="мн">воалмшэг</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">запас</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">е̄весьво̄а̄лмшэгк</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">запас продуктов</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лмшэднэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">запасаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лмшэллэ</l>
+            <infl>
+                <stem_kert>во̄а̄лмшэла, во̄а̄лмшалл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">запасать, заготовлять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лмшэмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">заготовка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄лхэллэ</l>
+            <infl>
+                <stem_kert>во̄а̄лхэла, во̄а̄лхалл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">поливать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄рр</l>
+            <infl>
+                <stem_kert gloss="мн">воар</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">петля</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄ррдэ</l>
+            <infl>
+                <stem_kert>воарда, воаррад</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бывать (посещать), ходить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄а̄ррьдэ</l>
+            <infl>
+                <stem_kert>во̄а̄рьда, во̄а̄рряд</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">беречь, стеречь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄дтэ</l>
+            <infl>
+                <stem_kert>во̄да, воадт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">водить</t>
+                <tr>о человеке</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄дтэй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">проводник</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">во̄дтэй воадт геологэгҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">проводник ведёт геологов</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄сс</l>
+            <infl>
+                <stem_kert gloss="мн">во̄з</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">воз</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄сстэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">нагрузить, загрузить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄ссэ</l>
+            <infl>
+                <stem_kert>во̄за, воасс</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">возить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">во̄тэдтэ</l>
+            <infl>
+                <stem_kert>во̄тэда, во̄тадт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ходить, посещать, посетить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">воаввьй</l>
+            <infl>
+                <stem_kert gloss="мн">воавьй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">клин</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">мӯррвоаввьй</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">деревянный клин</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">воаллт</l>
+            <infl>
+                <stem_kert gloss="мн">воалт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">власть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">воалшэ</l>
+            <infl>
+                <stem_kert>воалша, воалаш</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выбирать, выбрать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">отбирать, отобрать</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">разбирать, разобрать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вожатэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вожатый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуагкэ</l>
+            <infl>
+                <stem_kert>вуага, вуагк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бежать рысцой</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуазлэш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">счастливый</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">вуазлэш па̄ррнэпа̄лль</x>
+                <xtg xml:lang="rus">
+                    <xt>счастливое детство</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">вуазлэш па̄ррнэвӯдт</x>
+                <xtg xml:lang="rus">
+                    <xt>счастливое детство</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуайй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">можно</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаййлаххьтэ</l>
+            <infl>
+                <stem_kert>вуаййлэдта, вуаййлаххт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">забыть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаййлэнтнэ</l>
+            <infl>
+                <stem_kert>вуаййлэнтна, вуаййлэнтант</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">забывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаййпе</l>
+            <infl>
+                <stem_kert>вуайпа, вуаййп</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">бороться</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">сражаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаййпей</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">борец</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаййпмушш</l>
+            <infl>
+                <stem_kert gloss="мн">вуаййпмуж</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">борьба</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуайхе</l>
+            <infl>
+                <stem_kert>вуайха, вуайяхт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">менять, поменять, изменить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуайхувнэ</l>
+            <infl>
+                <stem_kert>вуайхувна, вуайхувант</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">меняться, изменяться, сменяться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуайшэй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">печальный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаксэ</l>
+            <infl>
+                <stem_kert>вуакса, вуакаст</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вздохнуть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаллктэллэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">бросать, выбрасывать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">посылать</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">закидывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаллнешш</l>
+            <infl>
+                <stem_kert gloss="мн">вуаллнеж</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">челюсть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаллэ</l>
+            <infl>
+                <stem_kert>вуала, вуалл, вӯллэ</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">хватить (быть достаточным)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">достать (до чего-либо)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаммэ</l>
+            <infl>
+                <stem_kert>вуама, вуамм, вуамэ</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">стареть, устареть</t>
+                <tr>о предметах, о людях</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаннче</l>
+            <infl>
+                <stem_kert>вуанча, вуаннч</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">снять (достать)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">взять</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">добыть</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">добиться</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">оторвать</t>
+            </tg>
+        </mg>
+        <mg order="6">
+            <tg xml:lang="rus">
+                <t pos="xxx">освободить</t>
+            </tg>
+        </mg>
+        <mg order="7">
+            <tg xml:lang="rus">
+                <t pos="xxx">вытащить, спасти</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx" type="#">вуаннче соагкэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">заработать</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаххкэ</l>
+            <infl>
+                <stem_kert>вуака, вуаххк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вздыхать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуаӈӈкэ</l>
+            <infl>
+                <stem_kert>вуаӈка, вуаӈӈк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">удить, ловить рыбу удочкой</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вульма</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">нижний</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэгкэ</l>
+            <infl>
+                <stem_kert>вуэга, вуэгк</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выть</t>
+                <tr>о ветре</tr>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">гудеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэдт</l>
+            <infl>
+                <stem_kert gloss="мн">вуэд</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">дно (ведра, бочки и-т-п)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">подошва</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэдтӭ</l>
+            <infl>
+                <stem_kert>вуада, вуадт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">спать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэдтӭмсайй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">постель</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэзхэллэ</l>
+            <infl>
+                <stem_kert>вуэзхэла, вуззхалл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">показывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэзьхемесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вунхэм несчастный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэйй</l>
+            <infl>
+                <stem_kert gloss="мн">вуэй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ручей</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэййв</l>
+            <infl>
+                <stem_kert gloss="мн">вуэйв</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">голова</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэййврышш</l>
+            <infl>
+                <stem_kert gloss="мн">вуэййврыж</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">изголовье</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэййвэшна</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">головной мозг</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэййе</l>
+            <infl>
+                <stem_kert>вуая, вуайй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мочь (быть способным к чему-либо)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэйхьтэ</l>
+            <infl>
+                <stem_kert>вуайта, вуайхьт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">победить, одержать победу</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">побороть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэйхьтэгк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вуэйхьтэмушш победа</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">вуэйхьтэмпе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">день победы</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэккьс</l>
+            <infl>
+                <stem_kert gloss="мн">вуэкьс</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">сук</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">ветвь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert">вуэлла</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">под (куда)</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ча̄зь вуэлла</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">под воду</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэллгэнне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">низко</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэлльк</l>
+            <infl>
+                <stem_kert gloss="мн">вуэльк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">плечо</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэлльктэ</l>
+            <infl>
+                <stem_kert>вуэлькта, вуэлькад</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выбросить, сбросить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">свергнуть</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">закинуть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэлькесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">правый (находящийся справа)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэлькесьбе̄льт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">справа</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэлькесьпя̄лла</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вправо, направо</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэльмхе</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">затопить (залить водой)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">зачерпнуть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэммь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">старый</t>
+                <tr>о человеке, предмете</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэннч</l>
+            <infl>
+                <stem_kert gloss="мн">вуэнч</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мясо</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэннь</l>
+            <infl>
+                <stem_kert gloss="мн">вуэнь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">тётя (сестра матери)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэнҍтэсь</l>
+            <infl>
+                <stem_kert gloss="мн">вуаннтас</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">корень</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">мӯррвуэнҍтэсь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">корень дерева</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэпсемушш</l>
+            <infl>
+                <stem_kert>вуэпьсуввмушш</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">воспитание</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэпьсе</l>
+            <infl>
+                <stem_kert>вуэпьса, вуэпяст</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">воспитывать, воспитать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэпьсуввэ</l>
+            <infl>
+                <stem_kert>вуэпьсува, вуэпьсувв</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">воспитываться</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">заниматься</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэпьсуввэй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">воспитанник</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэпьсэй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">воспитатель</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэррев</l>
+            <infl>
+                <stem_kert gloss="мн">вуэррев</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">белка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэррмдэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мерить, отмерять (мерой)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэррь</l>
+            <infl>
+                <stem_kert gloss="мн">вуэрь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">шило</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэррьпенҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">сестра</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэрьял</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="yyy">запад</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="yyy">западный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэсск</l>
+            <infl>
+                <stem_kert gloss="мн">вуэск</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">окунь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэсста</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">навстречу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэсстлэ</l>
+            <infl>
+                <stem_kert>вуэстла, вуэсстал</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">встречать, встретить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">отвечать, ответить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэсстлэгк</l>
+            <infl>
+                <stem_kert gloss="мн">вуэстлэг</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">ответ (на вопрос)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">подъём (на гору)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэсстлэмушш</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">встреча</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">ответ (на вопрос)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэсстлэннтэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">встречаться, встретиться</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">отвечать (на вопрос)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэссь</l>
+            <infl>
+                <stem_kert gloss="мн">вуэзь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">счастье</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэссьтэ</l>
+            <infl>
+                <stem_kert>вуаста, вуасст</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">покупать, купить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэффьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вуэххьт туча</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэххьтэ</l>
+            <infl>
+                <stem_kert>вуэта, вуэххт, вутӭ</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выследить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэххьц</l>
+            <infl>
+                <stem_kert gloss="мн">вуэць</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">лоб</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэӆӆьке</l>
+            <infl>
+                <stem_kert>вуаӆка, вуаӆӆк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">блестеть, сиять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэӆӆькей</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">блестящий</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">вуэӆӆькей рӯввьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">блестящий металл</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэӈӈк</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">конура</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">нора</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэӈӈмушш</l>
+            <infl>
+                <stem_kert gloss="мн">вуэӈӈмуж</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">отдых</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вуэӈӈэ</l>
+            <infl>
+                <stem_kert>вуэӈа, вуэӈӈ</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">отдыхать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выгкэ</l>
+            <infl>
+                <stem_kert>выга, выгк</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">вести, вывести, отвести, довести</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">относить, отнести, унести, перенести</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">доставить, отвезти</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">провести, проводить</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">руководить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выгкэй</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">вождь</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">руководитель</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выдант</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">пятый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выдт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">пять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выдтлоагкь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">пятьдесят</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вызхэ</l>
+            <infl>
+                <stem_kert>вызха, вызахт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дразнить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выййе</l>
+            <infl>
+                <stem_kert>выйя, выйй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ездить, ехать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выййле</l>
+            <infl>
+                <stem_kert>выйла, выйял</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">поехать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t>уехать</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">отъехать</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">выехать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выййлэмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выййлэнтмушш отъезд</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выййтэ</l>
+            <infl>
+                <stem_kert>выйта, выййт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выходить, выйти</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">вылезать, вылезти</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">получаться, получиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выйсэ</l>
+            <infl>
+                <stem_kert>выйса, выйяст</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">приехать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">доехать</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">заехать</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">подъехать</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">въезжать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выйтнэгк</l>
+            <infl>
+                <stem_kert gloss="мн">выйтнэг</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выход</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выйхэллэ</l>
+            <infl>
+                <stem_kert>выйхэла, выйхалл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выгонять, прогонять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выльшхассьтэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">взглянуть</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">проверить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выльшхе</l>
+            <infl>
+                <stem_kert>выльшха, выльшахт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выглянуть, посмотреть</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">проверить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выльшхэллэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выглядывать, поглядывать, посматривать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">проверять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вырркъюшшэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">притвориться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выррьк</l>
+            <infl>
+                <stem_kert gloss="мн">вырьк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">привычка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выррьт</l>
+            <infl>
+                <stem_kert gloss="мн">вырьт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="yyy">течение</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="yyy">быстрый</t>
+                <tr>о реке, ручье</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выррэ</l>
+            <infl>
+                <stem_kert>выра, вырр</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">провалиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="предлог" orth="1986kert">высьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">о, около, до</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert">высьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">о, около, до</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выхьчтэллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">гнаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">выӊӊт</l>
+            <infl>
+                <stem_kert gloss="мн">выӊт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">винт (любой)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄дз</l>
+            <infl>
+                <stem_kert gloss="мн">вэ̄з</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">снег</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄дт</l>
+            <infl>
+                <stem_kert gloss="мн">вэ̄д</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">подошва</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">дно (бочки, ведра и-т-п)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄зхэллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">показывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄зьхе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">показать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄ййе</l>
+            <infl>
+                <stem_kert>вэ̄йя, ва̄йй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">кроить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄ннлаххьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">протянуть, натянуть, растянуть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄ннъе</l>
+            <infl>
+                <stem_kert>вэнъя, вэ̄ннай</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">лежать вытянувшись</t>
+                <tr>о человеке, животном</tr>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄рр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">кровь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄рр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">раз</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">э̄фт вэ̄рр</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">один раз</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄хэлнэгк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">вэ̄зхэллмушш выставка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэ̄ццкэ</l>
+            <infl>
+                <stem_kert>вэ̄цка, ва̄ццк</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">скрести, скоблить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">брить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэллье</l>
+            <infl>
+                <stem_kert>вэлья, вэлляй</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">выскочить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">вскочить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэльшхэ</l>
+            <infl>
+                <stem_kert>вэльшха, вэльшахт</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">заглянуть</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">выглянуть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэльшхэллэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">заглядывать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">выглядывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэнс</l>
+            <infl>
+                <stem_kert gloss="мн">вэннас</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">лодка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэресь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">противник, враг, неприятель</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэрс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">свежий (недавно добытый или приготовленный)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэтнесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">тряпка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэхтэсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">быстрый, скорый, живой</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вэӈтэллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">растягивать (шкуру и-т-п)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вя̄л</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ещё</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вя̄ллктуввэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">занять (взять в долг)</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">задолжать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вя̄рр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">суп</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вя̄ӆӆггэлнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">перегонять стадо</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вя̄ӆӆтэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">кочевать, перекочевать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вёссьленне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">весело</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣгк</l>
+            <infl>
+                <stem_kert gloss="мн">вӣг</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">сила</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣгкъесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мощный, могучий, сильный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣгхуввэ</l>
+            <infl>
+                <stem_kert>вӣгхува, вӣгхувв</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">устать</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">обессилеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣдже</l>
+            <infl>
+                <stem_kert>вӣжа, ве̄джь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бежать, прибежать</t>
+                <tr>о человеке</tr>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">вӣдже мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">гнаться</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣдчаш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">заросли (кустарника)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣжьнэлле</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бегом</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣлкнэ</l>
+            <infl>
+                <stem_kert>вӣлкна, вӣлкант</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">белеть, побелеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣлльй</l>
+            <infl>
+                <stem_kert gloss="мн">вӣльй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">брат</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣллькесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">белый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мелькать, ходить туда-сюда</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣресь</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">чужой</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">посторонний</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">иностранный</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣррлаххътэ</l>
+            <infl>
+                <stem_kert>вӣррладта, вӣррлаххт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">повернуть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣррэ</l>
+            <infl>
+                <stem_kert>вӣра, ве̄рр</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">верить, доверять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣршэ</l>
+            <infl>
+                <stem_kert>вӣрша, вӣрашт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мешать, размешивать, перемешивать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣссь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">весы</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣссьтэ</l>
+            <infl>
+                <stem_kert>вӣсьта, вӣссят</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">взвешивать, взвесить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӣӆӆт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">крутой</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯввт</l>
+            <infl>
+                <stem_kert gloss="мн">вӯвт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дупло</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯгас</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="yyy">дешёвый</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="yyy">дёшево</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯгкесь</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">лохматый</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">мохнатый</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">частый</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">густой</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">дешёвый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯзьхе</l>
+            <infl>
+                <stem_kert>вӯзьха, вӯзяхт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">показывать, показать, изобразить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯзьхуввэ</l>
+            <infl>
+                <stem_kert>вӯзьхува, вӯзьхувв</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">показываться, показаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯйвас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">печень</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯйй</l>
+            <infl>
+                <stem_kert gloss="мн">вӯй</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">масло</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">жир</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййе</l>
+            <infl>
+                <stem_kert>вӯйя, вӯэйй</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">плавать, плыть, проплыть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййк, вӯйкэсс</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">прямой</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">правильный</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">правдивый, честный</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">верный, преданный</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">точный</t>
+            </tg>
+        </mg>
+        <mg order="6">
+            <tg xml:lang="rus">
+                <t pos="xxx">справедливый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййкесьт</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">прямо</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">верно, правильно</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">честно</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">резко</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййкнэ</l>
+            <infl>
+                <stem_kert>вӯййкна, вӯййкан</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">выпрямиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййксынне, вӯййксэнне</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">честно</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">прямо</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">метко, точно</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">резко</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййксэллэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">направлять</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">исправлять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййксэсь</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">честный</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">прямой</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">справедливый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййкъюввэ</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">направиться</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">выпрямиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййкье</l>
+            <infl>
+                <stem_kert>вӯййкья, вӯййкай</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">править, направить</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">управлять, руководить</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">исправлять ошибки, исправить ошибки</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййкьей</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">руководитель</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййлаххьтэ</l>
+            <infl>
+                <stem_kert>вӯййладта, вуййлаххт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">обмануть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййнмушш</l>
+            <infl>
+                <stem_kert gloss="мн">вӯййнмуж</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дыхание</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯййнэ</l>
+            <infl>
+                <stem_kert>вӯйна, вуэййн</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дышать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯйнэдтэ</l>
+            <infl>
+                <stem_kert>вӯйнэда, вӯйнадт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">купаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯйхе</l>
+            <infl>
+                <stem_kert>вӯйха, вӯйяхт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">обманывать, обмануть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯйхэллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">обманывать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯйӈас</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">воздух</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">дыхание</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯлкхэ</l>
+            <infl>
+                <stem_kert>вӯлкха, вӯлкахт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">отправить, отправлять</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">послать, прислать</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">направить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯлкхэллэ</l>
+            <infl>
+                <stem_kert>вӯлкхэла, вӯлкхалл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">посылать, направлять</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">присылать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯлкхэсс</l>
+            <infl>
+                <stem_kert gloss="мн">вӯлкхэз</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">посылка</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯллклэ</l>
+            <infl>
+                <stem_kert>вӯлкла, вӯллкал</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">собираться (вместе)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯлльгесь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">низкий</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯлльке</l>
+            <infl>
+                <stem_kert>вуэлка, вуэллк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">идти, пойти, направиться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert">вӯлльн</l>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="yyy">под, из-под</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">е̄ммьне вӯлльн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">из-под земли</xt>
+                    <xt pos="xxx">под землёй</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="yyy">внизу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯллэ</l>
+            <infl>
+                <stem_kert>вӯла, вуэлл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">строгать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯнн</l>
+            <infl>
+                <stem_kert gloss="мн">вӯн</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">бухта, залив (морские)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯнтас</l>
+            <infl>
+                <stem_kert gloss="мн">вӯннтас</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">песок</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯппт</l>
+            <infl>
+                <stem_kert gloss="мн">вӯпт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">волос</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯппьс</l>
+            <infl>
+                <stem_kert gloss="мн">вӯпьс</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">размер</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯррьтэ</l>
+            <infl>
+                <stem_kert>вуэрта, вуэррт</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ждать, ожидать, дождаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯрьтсэллэ</l>
+            <infl>
+                <stem_kert>вӯрьтсэла, вӯрьтсалл</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дожидаться, поджидать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯрэч</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">ворона</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯсс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">мешок из оленьей или нерпичьей шкуры, украшенный орнаментом</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯссоарк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">понедельник</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯссь</l>
+            <infl>
+                <stem_kert gloss="мн">вӯзь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">телёнок оленя</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="предлог" orth="1986kert">вӯсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">около, напротив, у, навстречу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="послелог" orth="1986kert">вӯсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">около, напротив, у, навстречу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯффп</l>
+            <infl>
+                <stem_kert gloss="мн">вӯп</stem_kert>
+            </infl>
+        </lg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">свёкор</t>
+            </tg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">тесть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯффьп</l>
+            <infl>
+                <stem_kert gloss="мн">вӯпь</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">руль</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯшшьн</l>
+            <infl>
+                <stem_kert gloss="мн">вӯшьн</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">налим</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">вӯӈӈк</l>
+            <infl>
+                <stem_kert gloss="мн">вӯӈк</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">рыболовный крючок</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="v" orth="2008sars">ва̄лльтэ</l>
         </lg>
         <mg>
