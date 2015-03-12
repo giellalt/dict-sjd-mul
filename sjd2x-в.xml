@@ -2,6 +2,589 @@
 <r>
     <e>
         <lg>
+            <l pos="v" orth="2008sars">ва̄лльтэ</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Ва̄льт!</x>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Ва̄лльтэ!</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄лльтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>брать, получать, взять; принимать, принять; отнимать, отнять; заработать;
+                    овладеть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄лльтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>брать, взять</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄лльтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄ннҍ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>мало</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄ннҍцлэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>пойти</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄нцаххч</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>ходил бы</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">ва̄нҍцленне</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>пешком</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вай</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>или</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">варьмэ-варьмэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>кабы-кабы</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вверх</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>паяс</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вниз</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>валас</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">внизу</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>вулльн</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">внутрь</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>сыз</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" orth="2008sars">вуаййлаххьтэ</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Вуаййладтҍ!</x>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Вуаййлаххьтэ!</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуаййлаххьтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуаййлаххьтэзабыть</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэдҍмэнҍ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>во время сна</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэдҍсуввэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>хотеть спать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэйке</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>для/из-за</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэйке</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>из-за/ради/для</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="po" orth="2008sars">вуэлла</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-adposition">
+                <x pos="S" orth="2008sars">Мунн пыя тетрадҍ кнӣга вуэлла.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Я ложу тетрадь под книгу.</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэлла</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>под (куда?)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="a" orth="2008sars">вуэммҍ</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-adjective">
+                <x pos="NP" orth="2008sars">вуэммҍ а̄ка</x>
+                <xtg xml:lang="rus">
+                    <xt pos="NP">старая бабушка</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adjective">
+                <x pos="NP" orth="2008sars">вуэмҍ а̄гка</x>
+                <xtg xml:lang="rus">
+                    <xt pos="NP">старые бабушки</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adjective">
+                <x pos="NP" orth="2008sars">вуэмҍ а̄гкасьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="AdpP">у старой бабушке</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adjective">
+                <x pos="S" orth="2008sars">а̄ка ли вуэммҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">бабушка старая</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adjective">
+                <x pos="S" orth="2008sars">а̄̄гка лев вуэмҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">бабушки старые</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэннчъюввэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>иметь достаток мяса</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" orth="2008sars">вуэссьтэ</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Вуэсьт!</x>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Вуэссьтэ!</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэссьтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>купить, покупать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вуэссьтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдант</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>5</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдас</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдт</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>5</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдтлоагант</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>50</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдтлоагкь</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>50</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдтэмплоагант</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>15</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдтэмплоагкь</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>15</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдтэсьт</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдтэшьт</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выдэ-выдэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" orth="2008sars">выййле</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Выйель!</x>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="S" orth="2008sars">Выййлегке!</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выййле</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>поехать, уехать, отехать, выехать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выййле</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>поехать</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выййле</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">выльшхассьтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>взглянуть, посмотреть</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вэ̄ццклуввэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>побриться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вэрслуввэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>стать свежим, прохладным, бодрым</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="adv" orth="2008sars">вэххтэнне</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-adverb">
+                <x pos="S" orth="2008sars">Со̄нн вэххтэнне ве̄джь.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Он быстро бежит.</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adverb">
+                <x pos="S" orth="2008sars">А̄ннҍ вэхта ве̄джь.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Анна бежит быстрее.</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adverb">
+                <x pos="S" orth="2008sars">А̄ннҍ вэхтамп ве̄джь.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Анна бежит быстрее.</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adverb">
+                <x pos="S" orth="2008sars">Влад вэххтамусс ве̄джь.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Влад бежит быстрее всех.</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вэҏс</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вӯзьхуввэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>показаться</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вӯйнэлле</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>вплавь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="2008sars">вӯллeнҍ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>под (где?)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="pr" orth="2008sars">вӯсьт</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-adposition">
+                <x pos="S" orth="2008sars">Кэ̄ллт ли пыййма вӯсьт укксэ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Палка поставлена у двери.</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-adposition">
+                <x pos="S" orth="2008sars">Пе̄дар та̄̄гклувэ ке̄дҍк вӯсьт я чӯдзлэдэ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">Петр ударился о камень и досадился.</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="xxx" orth="2008sars">ва̄лль</l>
             <infl>
                 <stem_sars>---ль---</stem_sars>
@@ -1716,8 +2299,8 @@
                 <xt type="folklore">бедный брат попросил огня у своего богатого брата</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вайваш на̄дҍядт ва̄птэгклуввэ, а
-                    кэ̄бла на̄дҍядт тӣррваслуввэ</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вайваш на̄дҍядт ва̄птэгклуввэ, а кэ̄бла
+                    на̄дҍядт тӣррваслуввэ</x>
                 <xt>бедняк надеется разбогатеть, а больной - выздороветь</xt>
             </xg>
         </mg>
@@ -1851,8 +2434,7 @@
                 <xt>что тебя печалит?</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">ва̄ййв элля ва̄ййв, а бэдҍсувв ныдтҍ эвтэсьт
-                    лыһкэ</x>
+                <x orth="1985kuru" pos="S">ва̄ййв элля ва̄ййв, а бэдҍсувв ныдтҍ эвтэсьт лыһкэ</x>
                 <xt xtnumber="1">худо-бедно, а придётся и дальше так делать</xt>
                 <xt xtnumber="2" type="literal">плохо-неплохо, а придётся и дальше так делать</xt>
             </xg>
@@ -3120,8 +3702,8 @@
                 <xt>[он] одет по-дорожному</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">ва̄рр ёадт ныдтҍ мӣлкнесьт, ко̄ххт
-                    тыһкь тарьвэсьт</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">ва̄рр ёадт ныдтҍ мӣлкнесьт, ко̄ххт тыһкь
+                    тарьвэсьт</x>
                 <xt type="idiom">через час по чайной ложке</xt>
                 <xt type="literal">поездка идёт так медленно, как вошь по смоле</xt>
             </xg>
@@ -6409,8 +6991,8 @@
                 <xt>обед готов</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">воалмаш савехь кӣйе мӣлльтэ ке̄һпесь
-                    лӣ вӣдже</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">воалмаш савехь кӣйе мӣлльтэ ке̄һпесь лӣ
+                    вӣдже</x>
                 <xt type="proverb">по проторённому пути легко идти</xt>
                 <xt type="literal">по лыжному следу легко идти</xt>
             </xg>
@@ -7514,8 +8096,8 @@
                 <xt>как бы не так!</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вря̄дт вуайй по̄ррэ тэнн пе̄рк, кӯ
-                    вуэстас куэттка манн</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вря̄дт вуайй по̄ррэ тэнн пе̄рк, кӯ вуэстас
+                    куэттка манн</x>
                 <xt>можно ли есть еду, от которой воротит</xt>
                 <xt type="literal">которая идёт против сердца - об отказе невесты жениху</xt>
             </xg>
@@ -7966,8 +8548,7 @@
                 <xt>бороться со сном</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">ель вуайп о̄ллмэгуэйм, вуайп
-                    лыгкэнант</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">ель вуайп о̄ллмэгуэйм, вуайп лыгкэнант</x>
                 <xt type="proverb">не воюй с людьми, а воюй с работой [со своей]</xt>
             </xg>
         </mg>
@@ -9442,8 +10023,8 @@
                 <xt>[я] не могу понять</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">эгк вуайенч нышшьк моантэсьт тӯллье,
-                    эгк тӯллей я се̄йпэсьт</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">эгк вуайенч нышшьк моантэсьт тӯллье, эгк
+                    тӯллей я се̄йпэсьт</x>
                 <xt type="proverb">не смог удержать умом, не удержишь и силком</xt>
                 <xt type="literal">не смог удержать за затылок, не удержишь и за хвост</xt>
             </xg>
@@ -10297,8 +10878,8 @@
                 <xt>за один раз ничего не сделаешь</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">касьт ля̄йй мугка вуэрр, куэссь то̄н вуэйе ля̄йй
-                    э̄сстэ пэҏтэсьт?</x>
+                <x orth="1985kuru" pos="S">касьт ля̄йй мугка вуэрр, куэссь то̄н вуэйе ля̄йй э̄сстэ
+                    пэҏтэсьт?</x>
                 <xt>был ли такой случай, чтобы тебя можно было застать дома?</xt>
             </xg>
             <xg>
@@ -10339,8 +10920,8 @@
                 <xt>беличья шубка</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вуэррев кэнц огкнаһтӭмь о̄ллмне вуэць
-                    ев нюаӆп</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вуэррев кэнц огкнаһтӭмь о̄ллмне вуэць ев
+                    нюаӆп</x>
                 <xt type="proverb">лоб бесстыжего человека не покраснеет даже от когтей белки</xt>
             </xg>
         </mg>
@@ -11034,8 +11615,7 @@
                 <xt>снег идёт зарядами</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">со̄н э̄л та̄рьм нюэссь вуэххьт
-                    пӯдӭ</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">со̄н э̄л та̄рьм нюэссь вуэххьт пӯдӭ</x>
                 <xt>он сегодня в плохом настроении</xt>
             </xg>
         </mg>
@@ -12460,8 +13040,8 @@
                 <t>ездить ___TE в разных направлениях TE___</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx">э̄лл ноаҏтэ альн ӣййв выйем пӯдзэгуэйм коалхэсс
-                    выянт сыйт мӣлльтэ</x>
+                <x orth="1985kuru" pos="xxx">э̄лл ноаҏтэ альн ӣййв выйем пӯдзэгуэйм коалхэсс выянт
+                    сыйт мӣлльтэ</x>
                 <xt>на высоких нартах с белой упряжкой ездит жених по селу</xt>
             </xg>
         </mg>
@@ -13030,8 +13610,7 @@
                 <t>перестать отстаивать кого-что</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">мунн со̄н соарнхэлле, соарнхэлле ёадтӭ я
-                    вынндэдтӭ</x>
+                <x orth="1985kuru" pos="S">мунн со̄н соарнхэлле, соарнхэлле ёадтӭ я вынндэдтӭ</x>
                 <xt>я его уговаривала, уговаривала ехать и отступилась</xt>
             </xg>
         </mg>
@@ -13064,8 +13643,7 @@
                 <t>навстречу друг другу ___TE наискосок TE___</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx">выннлэнне мэ̄нэмь, ка̄нҍц ка̄ннцан ебпь
-                    то̄ммтма</x>
+                <x orth="1985kuru" pos="xxx">выннлэнне мэ̄нэмь, ка̄нҍц ка̄ннцан ебпь то̄ммтма</x>
                 <xt>[мы] навстречу друг другу шли, а друг друга не узнали</xt>
             </xg>
         </mg>
@@ -13160,8 +13738,7 @@
                 <xt type="literal">белое вино</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">выннҍ югке о̄ллмэ лыһк
-                    мӣлхэмэссенҍ</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">выннҍ югке о̄ллмэ лыһк мӣлхэмэссенҍ</x>
                 <xt type="proverb">от вина любой человек становится безумным</xt>
             </xg>
             <xg>
@@ -15732,8 +16309,8 @@
                 <xt>до скорого свидания</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вэххта е̄ррк воайхувв, мэ̄нн нюэссь
-                    олма вырькэдэсь вуэллькад</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вэххта е̄ррк воайхувв, мэ̄нн нюэссь олма
+                    вырькэдэсь вуэллькад</x>
                 <xt type="proverb">скорее погода изменится, чем дурной человек изменит свои
                     привычки</xt>
             </xg>
@@ -16221,8 +16798,8 @@
                 <xt>он чужим не доверяет</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вӣресь чалльм уййн то̄н ся̄гкнэгэтҍ
-                    нюэзя, мэ̄нн ка̄нҍц</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вӣресь чалльм уййн то̄н ся̄гкнэгэтҍ нюэзя,
+                    мэ̄нн ка̄нҍц</x>
                 <xt type="proverb">глазу недруга твои ошибки кажутся страшнее, чем глазу друга</xt>
             </xg>
         </mg>
@@ -19614,8 +20191,8 @@
                 <xt>командировать за границу</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вӯлкэһтҍ ко̄з-не курас вуэйв ӣджь
-                    мӣлльтэ ва̄ннҍцлак</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вӯлкэһтҍ ко̄з-не курас вуэйв ӣджь мӣлльтэ
+                    ва̄ннҍцлак</x>
                 <xt>пошли дурака куда-нибудь, сам следом пойдёшь</xt>
             </xg>
         </mg>
@@ -20657,8 +21234,8 @@
                 <xt>оленёнок-самец</xt>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вуэза карр е̄нӭсь мӣлльтэ тэнн райя,
-                    покэ ма̄ййт лӣ</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вуэза карр е̄нӭсь мӣлльтэ тэнн райя, покэ
+                    ма̄ййт лӣ</x>
                 <xt type="proverb">оленёнок бежит за матерью до тех пор, пока [у неё] есть
                     молоко</xt>
             </xg>
