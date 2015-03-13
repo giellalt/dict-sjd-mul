@@ -40,7 +40,10 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ба̄йхьк</l>
+            <l pos="N" orth="1986kert">ба̄јјк</l>
+            <orthography>
+                <lvar orth="1986kert">ба̄йхьк</lvar>
+            </orthography>
             <infl>
                 <stem_kert gloss="мн">ба̄йк</stem_kert>
             </infl>
@@ -65,7 +68,7 @@
         <lg>
             <l pos="послелог" orth="1986kert">ба̄ль</l>
             <orthography>
-                <lvar orth="1986kert">бай</lvar>
+                <lvar orth="1986ker1">бай</lvar>
                 <lvar orth="2008sars">ба̄ль</lvar>
                 <lvar orth="2008sar1">байе</lvar>
                 <lvar orth="2008sar2">байя</lvar>
@@ -330,7 +333,10 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">балъеднэхьк</l>
+            <l pos="xxx" orth="2015ksdp">балъеднэһкь</l>
+            <orthography>
+                <lvar orth="1986kert">балъеднэхьк</lvar>
+            </orthography>
             <infl>
                 <stem_kert gloss="мн">балъеднэгк</stem_kert>
             </infl>
@@ -1068,8 +1074,16 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">боххьтэрь</l>
+            <l pos="xxx" orth="2015ksdp">боһтэрь</l>
+            <orthography>
+                <lvar orth="1986kert">боххьтэрь</lvar>
+            </orthography>
         </lg>
+        <mg>
+            <tg>
+                <t>богатырь</t>
+            </tg>
+        </mg>
     </e>
     <e kur_ID="277">
         <lg>
