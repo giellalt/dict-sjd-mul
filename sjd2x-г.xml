@@ -175,6 +175,12 @@
                 <x orth="1985kuru" pos="N">газета пымме</x>
                 <xt>газетная бумага</xt>
             </xg>
+            <xg>
+                <x orth="1986kert" pos="NP">е̄ннҍкилл газета</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">газета на родном языке</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
     <e kur_ID="1058">
