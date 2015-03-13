@@ -3,6 +3,40 @@
 <r>
     <e>
         <lg>
+            <l pos="CC" orth="2015ksdp">-де</l>
+            <orthography>
+                <lvar orth="1986kert">де</lvar>
+                <lvar orth="2008sars">ди</lvar>
+            </orthography>
+            <pointers>
+                <compare>те</compare>
+            </pointers>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="CC">и</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">сонн пудӭ де цӣӆьке</x>
+                <xtg>
+                    <xt>он пришёл и сказал</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">сонн пудӭ те цӣӆьке</x>
+                <xtg>
+                    <xt>он пришёл и сказал</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <tg>
+                <t>ну и…/ну да…/какой же…</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="V-Suf" orth="2008sars">-ассьтэ</l>
         </lg>
         <mg>
