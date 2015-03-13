@@ -3,7 +3,7 @@
 	  xml:lang ( sjd ) #IMPLIED
 >
 <!ATTLIST r 
-      id ( smenob ) #IMPLIED ><!--check-->
+      id ( sjd2x ) #IMPLIED >
 
       
 <!-- the header -->
