@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
+    <e>
+        <lg>
+            <l pos="V-Suf" orth="2008sars">-ассьтэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf(infl)" orth="2015ksdp">-аһч</l>
+            <orthography>
+                <lvar orth="2008sars">-аххч</lvar>
+            </orthography>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf" orth="2008sars">-вудт</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
     <e kur_ID="1107">
         <lg>
-            <l pos="Det" orth="1985kuru-sjd">-дэдт</l>
-            <pointers>
-                <compare>-дэн</compare>
-            </pointers>
+            <l pos="Det" orth="1985kuru">-дэдт</l>
+            <orthography>
+                <lvar orth="2008sars">-дэдт</lvar>
+            </orthography>
         </lg>
         <mg km="g">
             <semantics>
@@ -15,14 +49,14 @@
                 <t>-то</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">мунн-дэдт тон те̄да</x>
+                <x orth="1985kuru" pos="S">мунн-дэдт тон те̄да</x>
                 <xt>я-то тебя знаю</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1108" link_sm="1">
         <lg>
-            <l pos="Det" orth="1985kuru-sjd">-дэдтӭ</l>
+            <l pos="Det" orth="1985kuru">-дэдтӭ</l>
             <pointers>
                 <compare>-дэдт</compare>
             </pointers>
@@ -36,14 +70,121 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">касьт-дэдтӭ со̄нн адтҍ лӣ?!</x>
+                <x orth="1985kuru" pos="S">касьт-дэдтӭ со̄нн адтҍ лӣ?!</x>
                 <xt>где-то он сейчас?!</xt>
             </xg>
         </mg>
     </e>
+    <e>
+        <lg>
+            <l pos="Det" orth="2008sars">-дэйт</l>
+            <pointers>
+                <compare>-дэдт</compare>
+            </pointers>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="Det" orth="2008sars">-дэн</l>
+            <pointers>
+                <compare>-дэдт</compare>
+            </pointers>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf" orth="2008sars">-луввэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf" orth="2008sars">-лэ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="Adv-Suf" orth="2008sars">-лэнне</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf" orth="2008sars">-ма</l>
+            <pointers>
+                <compare>-мэнч</compare>
+            </pointers>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf" orth="2008sars">-мэнч</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="N-Suf" orth="2008sars">-мушш</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V-Suf(infl)" orth="2008sars">-мэнҍ</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="N-Suf" orth="2008sars">-на̄лль</l>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
+    </e>
     <e kur_ID="3421" link_sm="1">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">-налла</l>
+            <l pos="Adv-Suf" orth="1985kuru">-налла</l>
+            <orthography>
+                <lvar orth="2008sars">-налла</lvar>
+            </orthography>
             <der type="SM">на̄лль</der>
         </lg>
         <mg km="g">
@@ -54,36 +195,31 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мӣнэ-налла</x>
+                <x orth="1985kuru" pos="A">мӣнэ-налла</x>
+                <xtg>
+                    <xt>по-нашему</xt>
+                </xtg>
             </xg>
-        </mg>
-        <mg km="g">
-            <semantics>
-                <stype>xxx</stype>
-            </semantics>
-            <tg>
-                <t>по-нашему</t>
-            </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пе̄ннэ-налла</x>
+                <x orth="1985kuru" pos="A">пе̄ннэ-налла</x>
+                <xtg>
+                    <xt>по-собачьи</xt>
+                </xtg>
             </xg>
-        </mg>
-        <mg km="g">
-            <semantics>
-                <stype>xxx</stype>
-            </semantics>
-            <tg>
-                <t>по-собачьи</t>
-            </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пе̄ннэ лӣ паллтас-налла</x>
-                <xt>собака похожа на волка</xt>
+                <x orth="1985kuru" pos="S">пе̄ннэ лӣ паллтас-налла</x>
+                <xtg>
+                    <xt>собака похожа на волка</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="3423" link_sm="1">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">-налшэм</l>
+            <l pos="A-Suf" orth="1985kuru">-налшэм</l>
+            <orthography>
+                <lvar orth="2008sars">-налшэм</lvar>
+            </orthography>
             <der type="SM">на̄лль</der>
         </lg>
         <mg km="g">
@@ -94,14 +230,17 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">паллтас-налшэм пе̄ннэ</x>
+                <x orth="1985kuru" pos="NP">паллтас-налшэм пе̄ннэ</x>
                 <xt>похожая на волка собака</xt>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-ассьтэ</l>
+            <l pos="A-Suf" orth="2015ksdp">-наһтӭмь</l>
+            <orthography>
+                <lvar orth="2008sars">-нахьтэмь</lvar>
+            </orthography>
         </lg>
         <mg>
             <tg>
@@ -111,7 +250,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-аххч</l>
+            <l pos="V-Suf" orth="2008sars">-нэдтэ</l>
         </lg>
         <mg>
             <tg>
@@ -121,7 +260,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-вудт</l>
+            <l pos="V-Suf" orth="2008sars">-нэлле</l>
         </lg>
         <mg>
             <tg>
@@ -131,7 +270,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-дэдт</l>
+            <l pos="Adv-Suf" orth="2008sars">-пялла</l>
         </lg>
         <mg>
             <tg>
@@ -141,7 +280,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-дэйт</l>
+            <l pos="V-Suf" orth="2008sars">-суввэ</l>
         </lg>
         <mg>
             <tg>
@@ -151,7 +290,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-дэн</l>
+            <l pos="V-Suf" orth="2008sars">-сэ</l>
         </lg>
         <mg>
             <tg>
@@ -161,7 +300,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-луввэ</l>
+            <l pos="V-Suff" orth="2008sars">-сэллэ</l>
         </lg>
         <mg>
             <tg>
@@ -171,7 +310,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-лэ</l>
+            <l pos="V-Suf" orth="2008sars">-тэ</l>
         </lg>
         <mg>
             <tg>
@@ -181,7 +320,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-лэнне</l>
+            <l pos="Adv-Suf" orth="2008sars">-ханна</l>
         </lg>
         <mg>
             <tg>
@@ -191,7 +330,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-ма/-мэнч</l>
+            <l pos="V-Suf" orth="2008sars">-хуввэ</l>
         </lg>
         <mg>
             <tg>
@@ -201,7 +340,11 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-мушш</l>
+            <l pos="A-Suf" orth="2015ksdp">-хэмь</l>
+            <orthography>
+                <lvar orth="2008sars">-хэмь</lvar>
+                <lvar orth="2008sar1">-хемь</lvar>
+            </orthography>
         </lg>
         <mg>
             <tg>
@@ -211,7 +354,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-мэнҍ</l>
+            <l pos="V-Suf" orth="2008sars">-шкуэдтӭ</l>
         </lg>
         <mg>
             <tg>
@@ -221,7 +364,11 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-на̄лль</l>
+            <l pos="Adv-Suf" orth="2015ksdp">-енне</l>
+            <orthography>
+                <lvar orth="2008sars">-енне</lvar>
+                <lvar orth="2008sar1">-энне</lvar>
+            </orthography>
         </lg>
         <mg>
             <tg>
@@ -231,167 +378,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">-налла</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-налшэм</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-нахьтэмь</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-нэдтэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-нэлле</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-пялла</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-суввэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-сэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-сэллэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-тэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-ханна</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-хуввэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-хэмь|-хемь</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-шкуэдтӭ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-шкуэдтӭ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-энне/-енне</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">-юввэ</l>
+            <l pos="V-Suf" orth="2008sars">-юввэ</l>
         </lg>
         <mg>
             <tg>
