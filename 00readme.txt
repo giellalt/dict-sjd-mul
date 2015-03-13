@@ -1,18 +1,38 @@
-This directory contains material relevant to Kildin. The original files are in the info directory, while the src directory contains the data in gtdictionary format.
+This directory contains material relevant to Kildin Saami. The src directory contains the data in gtdictionary format (with some adaptations to be explained elsewhere). Incoming files are in inc directory.
 
-Some infos can be found here:
- 
-Куруч: Саамско-русский словарь
-http://saamruss.narod.ru/
-
-http://en.wikipedia.org/wiki/Windows-1251
+The data includes Kildin Saami lexical items collected from from
+*fieldnotes (Kola Saami Documentation Project, 2004+)
+*dictionary Itkonen 1958
+*dictionary Afanas'eva et al. 1985
+*dictionary Kert 1986
+*dictionary Sammallahti et al. 1991
+*dictionary Eliseev et al. 2007
+*teaching materials Antonova 1982
+*teaching materials Šaršina et al. 2008
+*phrase book Afanas'eva 2010
 
 ==================================
 Kildin Saami alphabet (sort order)
 ==================================
-all possible (small) letters of all known alphabets are included
-а а̄ ӓ б в г д е е̄ ё ё̄ ж з һ ' и ӣ й ј ҋ к л ӆ м ӎ н ӊ ӈ о о̄ ӧ п р ҏ с т у ӯ ӱ ф x ц ч ш ъ ы ы̄ ӹ ь ҍ э ӭ ю ю̄ я я̄   
+all possible (small) letters of all known orthography variants are included
+а а̄ ӓ б в г д е е̄ ё ё̄ ж з һ ' и ӣ й ј ҋ к л ӆ м ӎ н ӊ ӈ о о̄ ӧ п р ҏ с т у ӯ ӱ ф x ц ч ш щ ъ ы ы̄ ӹ ь ҍ э ӭ ю ю̄ я я̄
 
+=====================
+Unicode issues
+=====================
+always check:
+*combined vs. precomposed CYRILLIC LETTER Е WITH DIAERESIS
+*combined vs. precomposed CYRILLIC LETTERS И, У WITH MACRON
+*CYRILLIC LETTER SHHA (not Latin h)
+*Cyrillic vowel letters (not Latin ones)
+more possible issues
+*CYRILLIC SMALL LETTER ю plus MACRON (not е plus diaresis plus macron)
+*COMBINING OVERLINE (not COMBINING MACRON)
+*two combining macron on each other
+*latin capital T (instead of cyrillic)
+
+
+THE FOLLOWING ARE OLD NOTES, WHICH HAVE TO BE UPDATED.
 
 ====================
 Building the dictionary:
@@ -51,15 +71,6 @@ on the e-element in the xml files:
 I don't know yet how to deal with them
 
 06 - words added by Micha
-
-=====================
-Unicode issues
-=====================
-always check:
-combined vs. precomposed CYRILLIC LETTERS E, I, U WITH DIAERESIS
-CYRILLIC SMALL LETTER SHHA (not Latin h)
-Cyrillic vowels (not Lation ones)
-CYRILLIC SMALL LETTER IO plus MACRON (not e plus diaresis plus macron)
 
 =====================
 Notes (MR)
