@@ -40,7 +40,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>баня</t>
@@ -147,7 +147,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <sarsina-chapter>2</sarsina-chapter>
             </semantics>
             <tg>
@@ -195,7 +195,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">гриб-трутовик на стволе берёзы</lexicon>
             <tg>
@@ -208,7 +208,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t type="explanation">шишка на лбу</t>
@@ -229,7 +229,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>обеспечить кого чагой</t>
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>набить кому шишку ___TE на лбу TE___</t>
@@ -254,7 +254,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>обеспечиться чагой</t>
@@ -262,7 +262,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>набить кому шишку ___TE на лбу TE___</t>
@@ -283,7 +283,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>снять чагу ___TE со ствола берёзы TE___</t>
@@ -295,7 +295,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>вылечить шишку ___TE на лбу TE___</t>
@@ -312,7 +312,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>остаться без чаги</t>
@@ -320,7 +320,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>избавиться от шишки ___TE на лбу TE___</t>
@@ -341,7 +341,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>баловать кого</t>
@@ -390,7 +390,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>баловаться</t>
@@ -415,7 +415,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>баловство</t>
@@ -445,7 +445,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>баловаться</t>
@@ -481,7 +481,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>потворствовать баловству</t>
@@ -498,7 +498,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>же</t>
@@ -514,7 +514,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>разве</t>
@@ -533,7 +533,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g3">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>зачем</t>
@@ -559,7 +559,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>батон ___RE хлебный RE___</t>
@@ -576,7 +576,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t valency="ком-чём">о</t>
@@ -619,7 +619,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
@@ -629,7 +629,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
@@ -648,7 +648,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>bystro</tam>
             </semantics>
             <tg>
@@ -657,7 +657,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>nedolgo</tam>
             </semantics>
             <tg>
@@ -678,7 +678,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -702,7 +702,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t valency="чего">добиваться</t>
@@ -714,7 +714,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t type="figurative">биться над чем</t>
@@ -753,7 +753,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -795,7 +795,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>библиотека</t>
@@ -835,7 +835,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>билет</t>
@@ -872,7 +872,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>обеспечить кого билетом</t>
@@ -889,7 +889,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>обзавестись билетом</t>
@@ -911,7 +911,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
@@ -931,7 +931,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
@@ -953,7 +953,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -1019,7 +1019,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <sarsina-chapter>8</sarsina-chapter>
             </semantics>
             <tg>
@@ -1045,7 +1045,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>большевистский</t>
@@ -1062,7 +1062,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>большевик</t>
@@ -1085,7 +1085,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t number="pl">ботинки</t>
@@ -1120,7 +1120,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>бревно</t>
@@ -1144,7 +1144,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>бригада</t>
@@ -1171,7 +1171,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>бригадир</t>
@@ -1192,7 +1192,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>брошка</t>
@@ -1219,7 +1219,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t gender="m">букварь</t>
@@ -1258,7 +1258,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>буржуазия</t>
@@ -1271,7 +1271,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>буржуазный</t>
@@ -1307,7 +1307,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>надо бы</t>
@@ -1327,7 +1327,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>требуется</t>
@@ -1350,7 +1350,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <sarsina-chapter>6</sarsina-chapter>
             </semantics>
             <tg>
@@ -1394,7 +1394,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>неужели</t>
@@ -1413,7 +1413,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>как</t>
@@ -1426,7 +1426,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g3">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>что</t>
@@ -1456,7 +1456,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>потребоваться кому</t>
@@ -1471,7 +1471,7 @@ For the full license text, see the link above.</lic>
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t type="UNPERS">прийтись кому ___TE что-л. сделать TE___</t>
@@ -1496,7 +1496,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>потребоваться кому</t>
@@ -1514,7 +1514,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>пятнистый</t>
@@ -1536,7 +1536,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>бинт</t>
@@ -1558,7 +1558,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>bystro</tam>
             </semantics>
             <tg>
@@ -1579,7 +1579,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -1603,7 +1603,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -1620,7 +1620,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t imperf="забинтовать">бинтовать кого-что</t>
@@ -1644,7 +1644,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -1664,7 +1664,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>xxx</t>
@@ -1688,7 +1688,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>буква</t>
@@ -1735,7 +1735,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">до колен, женские или детские, шьются из койб
                 ___LOOKUPкоаммасLOOKUP___; украшаются по швам цветным сукном, передняя часть
@@ -1760,7 +1760,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>обеспечить кого бурками</t>
@@ -1781,7 +1781,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>обзавестись бурками</t>
