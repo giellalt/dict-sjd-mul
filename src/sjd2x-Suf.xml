@@ -3,6 +3,19 @@
 <r>
     <e>
         <lg>
+            <l pos="xxx">-бе̄лль</l>
+            <orth>
+                <lvar orth="1986kert">бе̄лль></lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg>
+                <t>сторона</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="CC" orth="2015ksdp">-де</l>
             <orthography>
                 <lvar orth="1986kert">де</lvar>
