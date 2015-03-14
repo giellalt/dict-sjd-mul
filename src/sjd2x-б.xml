@@ -1,370 +1,421 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictionary.dtd">
+
+<!DOCTYPE r  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictionary.dtd">
 <r id="sjd2x" xml:lang="sjd">
-    <lics xml:space="preserve">
- <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
- <ref>Work by Giellatekno at UiT – Norges Arktiske Universitet, University of Freiburg, and members of the Kildin Saami language community. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
- <sourcenote>
- THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
- published dictionary. As such it can and
- will contain unfinished entries, unpublished entries, entries with
- objectionable translations, etc. If you find any errors or want to add more
- words, download the file, edit it, and send it back to
- <a>mailto:divvun@samediggi.no</a> or <a>mailto:giellatekno@hum.uit.no</a>.
- Please also note that the entries are not necessarily sorted,
- or could be wrongly sorted.
- </sourcenote>
- </lics>
-    
+    <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always giveproper attribution using the attribution text below. For the full license text, see the link above.</lic>
+        
+        <ref>Work by Giellatekno at UiT – Norges Arktiske Universitet, University of Freiburg, and members of the Kildin Saami language community. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a> or <a>mailto:giellatekno@hum.uit.no</a>.
+            
+            Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote></lics>
     <e kur_ID="239">
         <lg>
-            <l pos="N" orth="1985kuru">ба̄йна</l>
-            <orthography>
+            <l pos="N">байна</l>
+            <orth>
+                <lvar orth="1985kuru">ба̄йна</lvar>
                 <lvar orth="1986kert">ба̄йна</lvar>
                 <lvar orth="1986ker1">байна</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>баня</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">баня</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">ба̄йнасьт лоавкнэдтэ</x>
-                <xt>мыться в бане</xt>
+                <xtg xml:lang="rus">
+                    <xt>мыться в бане</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="V">ба̄йнасьт поаррдэдтэ</x>
-                <xt>париться в бане</xt>
+                <xtg xml:lang="rus">
+                    <xt>париться в бане</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="V">вӯллькэ ба̄йная</x>
-                <xt>пойти в баню</xt>
+                <xtg xml:lang="rus">
+                    <xt>пойти в баню</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
-                <xt>задать баню кому-либо</xt>
+                <x orth="1985kuru" pos="xxx" pos_type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
+                <xtg xml:lang="rus">
+                    <xt>задать баню кому-либо</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="N" orth="1986kert">ба̄јјк</l>
-            <orthography>
+            <l pos="N">ба̄ҋҋк</l>
+            <orth>
                 <lvar orth="1986kert">ба̄йхьк</lvar>
-            </orthography>
-            <infl>
-                <stem_kert gloss="мн">ба̄йк</stem_kert>
-            </infl>
+            </orth>
+            <stem>
+                <stem_kert nr="Pl">ба̄йк</stem_kert>
+            </stem>
         </lg>
-        <mg order="1">
+        <mg>
             <tg xml:lang="rus">
                 <t pos="xxx">работа</t>
             </tg>
         </mg>
-        <mg order="2">
+        <mg>
             <tg xml:lang="rus">
                 <t pos="xxx">сказка</t>
             </tg>
         </mg>
-        <mg order="3">
+        <mg>
             <tg xml:lang="rus">
                 <t pos="xxx">басня</t>
             </tg>
         </mg>
     </e>
     <e>
+        <note>check lemma and its lvariants</note>
         <lg>
-            <l pos="послелог" orth="1986kert">ба̄ль</l>
-            <orthography>
+            <l pos="Adp" pos_type="post">ба̄ль</l>
+            <orth>
+                <lvar orth="1986kert">ба̄ль</lvar>
                 <lvar orth="1986ker1">бай</lvar>
                 <lvar orth="2008sars">ба̄ль</lvar>
                 <lvar orth="2008sar1">байе</lvar>
                 <lvar orth="2008sar2">байя</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg>
-            <mg order="1">
-                <tg xml:lang="rus">
-                    <t pos="xxx">в течение</t>
-                    <t pos="xxx">во время</t>
-                    <tr>о времени</tr>
-                </tg>
-                <xg>
-                    <x orth="1986kert" pos="xxx">пе̄ййв бай</x>
-                    <xtg xml:lang="rus">
-                        <xt pos="xxx">в течение дня</xt>
-                    </xtg>
-                </xg>
-                <xg>
-                    <x orth="1986kert" pos="xxx">каникулэ ба̄ль</x>
-                    <xtg xml:lang="rus">
-                        <xt pos="xxx">во время каникул</xt>
-                    </xtg>
-                </xg>
-            </mg>
-            <mg order="2">
-                <tg xml:lang="rus">
-                    <t pos="xxx">при</t>
-                    <tr>о пространстве</tr>
-                </tg>
-                <xg>
-                    <x orth="1986kert" pos="xxx">ва̄ррь бай</x>
-                    <xtg xml:lang="rus">
-                        <xt pos="xxx">на весь лес</xt>
-                    </xtg>
-                </xg>
-            </mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">в течение</t>
+                <t pos="xxx">во время</t>
+                <te>о времени</te>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">пе̄ййв бай</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">в течение дня</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">каникулэ ба̄ль</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">во время каникул</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">при</t>
+                <te>о пространстве</te>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ва̄ррь бай</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">на весь лес</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
     <e kur_ID="250">
         <lg>
-            <l pos="N" orth="1985kuru">ба̄нка</l>
-            <orthography>
+            <l pos="N">банка</l>
+            <orth>
+                <lvar orth="1985kuru">ба̄нка</lvar>
                 <lvar orth="2008sars">банка</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
-                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </orth>
+            <stem>
                 <stem_sars>---нк---</stem_sars>
-            </infl>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </stem>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
-                <sarsina-chapter>2</sarsina-chapter>
+                <sem class="sars-chap-2"/>
             </semantics>
-            <tg>
-                <t>банка</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">банка</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">сте̄клэ ба̄нка</x>
-                <xt>стеклянная банка</xt>
+                <xtg xml:lang="rus">
+                    <xt>стеклянная банка</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="V">а̄ввьдэ консерв ба̄нка</x>
-                <xt>открыть банку консервов</xt>
+                <xtg xml:lang="rus">
+                    <xt>открыть банку консервов</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
-                <stype>med</stype>
+                <sem class="health"/>
             </semantics>
-            <tg>
-                <t number="pl">банки</t>
+            <tg xml:lang="rus" term="medicine">
+                <t nr="Pl">банки</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">пыйе кэ̄блая ба̄нкатҍ</x>
-                <xt>поставить больному банки</xt>
+                <xtg xml:lang="rus">
+                    <xt>поставить больному банки</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ба̄сня</l>
+            <l pos="xxx">басня</l>
+            <orth>
+                <lvar orth="1986kert">ба̄сня</lvar>
+                <lvar/>
+            </orth>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ба̄шня</l>
+            <l pos="xxx">башня</l>
+            <orth>
+                <lvar orth="1986kert">ба̄шня</lvar>
+            </orth>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e kur_ID="240">
         <lg>
-            <l pos="N" orth="1985kuru">бакалл</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">бакал</stem_kuru>
+            <l pos="N">бакалл</l>
+            <orth>
+                <lvar orth="1985kuru">бакалл</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">бакал</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">гриб-трутовик на стволе берёзы</lexicon>
-            <tg>
-                <t>чага</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">чага</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">пе̄ссь-мӯрр бакал</x>
-                <xt type="explanation">чага на стволе берёзы</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">чага на стволе берёзы</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <lexicon xml:lang="rus">шишка на лбу</lexicon>
             <tg>
-                <t type="explanation">шишка на лбу</t>
+                <t/>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">бакал вуаһца вэллей</x>
-                <xt>шишка на лбу вскочила</xt>
+                <x pos="S" orth="1985kuru">бакал вуаһца вэллей</x>
+                <xtg xml:lang="rus">
+                    <xt>шишка на лбу вскочила</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="241" link_sm="1">
+    <e kur_ID="241">
         <lg>
-            <l pos="V" orth="1985kuru">бакаллълаһтӭ</l>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
-            </infl>
+            <l pos="V">бакаллълаһтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">бакаллълаһтӭ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
             <der type="SM">бакалл</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>обеспечить кого чагой</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">обеспечить кого чагой</t>
             </tg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>набить кому шишку ___TE на лбу TE___</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">набить кому шишку ___TE на лбу TE___</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="242" link_sm="1">
+    <e kur_ID="242">
         <lg>
-            <l pos="V" orth="1985kuru">бакаллълуввэ</l>
-            <infl>
+            <l pos="V">бакаллълуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">бакаллълуввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">бакалл</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>обеспечиться чагой</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">обеспечиться чагой</t>
             </tg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>набить кому шишку ___TE на лбу TE___</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">набить кому шишку ___TE на лбу TE___</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">мунн ёрре, вуэһць бакаллълувэ</x>
-                <xt>я упал и набил шишку на лбу</xt>
+                <xtg xml:lang="rus">
+                    <xt>я упал и набил шишку на лбу</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="243" link_sm="1">
+    <e kur_ID="243">
         <lg>
-            <l pos="V" orth="1985kuru">бакалхаһтӭ</l>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
-            </infl>
+            <l pos="V">бакалхаһтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">бакалхаһтӭ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
             <der type="SM">бакалл</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>снять чагу ___TE со ствола берёзы TE___</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">снять чагу ___TE со ствола берёзы TE___</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">мунн пе̄ссь-мӯр бакалхадта</x>
-                <xt>я сниму чагу со ствола берёзы</xt>
+                <xtg xml:lang="rus">
+                    <xt>я сниму чагу со ствола берёзы</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>вылечить шишку ___TE на лбу TE___</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">вылечить шишку ___TE на лбу TE___</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="244" link_sm="1">
+    <e kur_ID="244">
         <lg>
-            <l pos="V" orth="1985kuru">бакалхуввэ</l>
-            <infl>
+            <l pos="V">бакалхуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">бакалхуввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">бакалл</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>остаться без чаги</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">остаться без чаги</t>
             </tg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>избавиться от шишки ___TE на лбу TE___</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">избавиться от шишки ___TE на лбу TE___</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">те̄нҍт бакал вэ̄дз па̄лэнҍ - бакалхувак</x>
-                <xt>приложи к шишке снег - она станет меньше</xt>
-                <xt type="literal">избавишься от неё</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="S">приложи к шишке снег - она станет меньше</xt>
+                    <xtl pos="S">приложи к шишке снег - избавишься от неё</xtl>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="245">
         <lg>
-            <l pos="V" orth="1985kuru">балъе</l>
-            <infl>
+            <l pos="V">балъе</l>
+            <orth>
+                <lvar orth="1985kuru">балъе</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>баловать кого</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">баловать кого</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">парнатҍ балъе</x>
-                <xt>баловать детей</xt>
+                <xtg xml:lang="rus">
+                    <xt>баловать детей</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">парна бальяк, шӯрран — лӯјкак</x>
-                <xt type="proverb">[ребёнка] маленького балуешь - с большим плачешь</xt>
+                <x orth="1985kuru" pos="xxx" pos_type="idiom">парна бальяк, шӯрран — лӯјкак</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S" pos_type="proverb">маленького балуешь - с большим плачешь</xt>
+                    <xtl pos="S">ребёнка балуешь, с большим – плачешь</xtl>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2015ksdp">балъеднэһкь</l>
-            <orthography>
+            <l pos="xxx">балъеднэһкь</l>
+            <orth>
                 <lvar orth="1986kert">балъеднэхьк</lvar>
-            </orthography>
-            <infl>
-                <stem_kert gloss="мн">балъеднэгк</stem_kert>
-            </infl>
+            </orth>
+            <stem>
+                <stem_kert nr="Pl">балъеднэгк</stem_kert>
+            </stem>
+            <der type="SM">балъедтэ</der>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -374,95 +425,119 @@ For the full license text, see the link above.</lic>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">балъедсэ</l>
+            <l pos="xxx">балъедсэ</l>
+            <orth>
+                <lvar orth="1986kert">балъедсэ</lvar>
+            </orth>
+            <der type="SM">балъедтэ</der>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
-    <e kur_ID="246" link_sm="1">
+    <e kur_ID="246">
         <lg>
-            <l pos="V" orth="1985kuru">балъедтлуввэ</l>
-            <infl>
+            <l pos="V">балъедтлуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">балъедтлуввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <der type="STRAD_K">балъе</der>
-            </pointers>
-            <der type="SM">балъе</der>
+            </stem>
+            <der type="STRAD_K">балъе</der>
+            <der type="SM">балъедтэ</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>баловаться</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">баловаться</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">парна вофьсе балъедтлувэ</x>
-                <xt>ребёнок совсем избаловался</xt>
+                <xtg xml:lang="rus">
+                    <xt>ребёнок совсем избаловался</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="247" link_sm="1">
+    <e kur_ID="247">
         <lg>
-            <l pos="N" orth="1985kuru">балъедтмушш</l>
-            <orthography>
+            <l pos="N">балъедтмушш</l>
+            <orth>
+                <lvar orth="1985kuru">балъедтмушш</lvar>
                 <lvar orth="1986kert">балъедтмушш</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">балъедтмуж</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">балъедтмуж</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
-            <der type="SM">балъе</der>
+            </stem>
+            <der type="SM">балъедтэ</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>баловство</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">баловство</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">балъедтмушш пӯрь райя эйй выг</x>
-                <xt>баловство до добра не доводит</xt>
+                <x orth="1985kuru" pos="xxx" pos_type="idiom">балъедтмушш пӯрь райя эйй выг</x>
+                <xtg xml:lang="rus">
+                    <xt>баловство до добра не доводит</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">ке̄ балъедтмуж эйй то̄ӆӆькэй, тэдт лӣ
+                <x orth="1985kuru" pos="xxx" pos_type="idiom">ке̄ балъедтмуж эйй то̄ӆӆькэй, тэдт лӣ
                     мӣлхэмэсь</x>
-                <xt>кто не понимает шуток, тот неумён</xt>
+                <xtg xml:lang="rus">
+                    <xt>кто не понимает шуток, тот неумён</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="248" link_sm="1">
+    <e kur_ID="248">
         <lg>
-            <l pos="V" orth="1985kuru">балъедтэ</l>
-            <orthography>
+            <l pos="V">балъедтэ</l>
+            <orth>
+                <lvar orth="1985kuru">балъедтэ</lvar>
                 <lvar orth="1986kert">балъедтэ</lvar>
-            </orthography>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
+            </orth>
+            <stem>
                 <stem_kert>балъеда, балъядт</stem_kert>
-            </infl>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
             <der type="SM">балъе</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>баловаться</t>
-                <t>шалить</t>
-                <t>проказничать</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">баловаться</t>
+                <t pos="xxx">шалить</t>
+                <t pos="xxx">проказничать</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">балъедтэ эмм анҍт</x>
-                <xt>баловаться не позволю</xt>
+                <xtg xml:lang="rus">
+                    <xt>баловаться не позволю</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="xxx">па̄ррнэ тоаййв балъедтэв</x>
-                <xt>дети часто шалят</xt>
+                <xtg xml:lang="rus">
+                    <xt>дети часто шалят</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">ча̄сс балъедтэв</x>
-                <xt>часы шалят</xt>
+                <x orth="1985kuru" pos="xxx" pos_type="idiom">ча̄сс балъедтэв</x>
+                <xtg xml:lang="rus">
+                    <xt>часы шалят</xt>
+                </xtg>
             </xg>
         </mg>
         <mg>
@@ -471,124 +546,159 @@ For the full license text, see the link above.</lic>
             </tg>
         </mg>
     </e>
-    <e kur_ID="249" link_sm="1">
+    <e kur_ID="249">
         <lg>
-            <l pos="V" orth="1985kuru">балъяһтӭ</l>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
-            </infl>
+            <l pos="V">балъяһтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">балъяһтӭ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
             <der type="SM">балъе</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>потворствовать баловству</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">потворствовать баловству</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">е̄лле балъяһтӭ па̄ррнэтҍ</x>
-                <xt>не потворствуйте баловству детей</xt>
+                <xtg xml:lang="rus">
+                    <xt>не потворствуйте баловству детей</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="251">
+        <note>check etymology and wordhood, the voiced onset might indicate a clitic behavior</note>
         <lg>
-            <l pos="ADV" orth="1985kuru">бара</l>
+            <l pos="Adv">бара</l>
+            <orth>
+                <lvar orth="1985kuru">бара</lvar>
+            </orth>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>же</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">же</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">то̄нн бара касьт лӣйекь?</x>
-                <xt>где же ты был?</xt>
+                <x pos="S" orth="1985kuru">то̄нн бара касьт лӣйекь?</x>
+                <xtg xml:lang="rus">
+                    <xt>где же ты был?</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">манҍтэ бара со̄нн адтҍ лӣ?</x>
-                <xt>какой же он тепёрь?</xt>
+                <x pos="S" orth="1985kuru">манҍтэ бара со̄нн адтҍ лӣ?</x>
+                <xtg xml:lang="rus">
+                    <xt>какой же он тепёрь?</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>разве</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">разве</t>
             </tg>
-            <tg>
-                <t>ли</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">ли</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">мунн бара ва̄льтэтҍ?</x>
-                <xt>меня разве возьмут?</xt>
+                <x pos="S" orth="1985kuru">мунн бара ва̄льтэтҍ?</x>
+                <xtg xml:lang="rus">
+                    <xt>меня разве возьмут?</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">шӯрр бара лӣ па̄ррьшя, а пэҏтэсьт лӣ ве̄һкь</x>
-                <xt>велик ли ребёнок, а всё в доме помощник</xt>
+                <x pos="S" orth="1985kuru">шӯрр бара лӣ па̄ррьшя, а пэҏтэсьт лӣ ве̄һкь</x>
+                <xtg xml:lang="rus">
+                    <xt>велик ли ребёнок, а всё в доме помощник</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g3">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>зачем</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">зачем</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">мэ̄нн бара со̄нн тэнн са̄ррн?</x>
-                <xt>зачем он это говорит?</xt>
+                <x pos="S" orth="1985kuru">мэ̄нн бара со̄нн тэнн са̄ррн?</x>
+                <xtg xml:lang="rus">
+                    <xt>зачем он это говорит?</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
+        <note>check true existence of this lemma</note>
         <lg>
-            <l pos="xxx" orth="1986kert">барабан</l>
+            <l pos="xxx">барбанн</l>
+            <orth>
+                <lvar orth="1986kert">барабан</lvar>
+            </orth>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e kur_ID="252">
         <lg>
-            <l pos="N" orth="1985kuru">батонн</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">батон</stem_kuru>
+            <l pos="N">батонн</l>
+            <orth>
+                <lvar orth="1985kuru">батонн</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">батон</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>батон ___RE хлебный RE___</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">батон ___RE хлебный RE___</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="253">
         <lg>
-            <l pos="Po" orth="1985kuru">баяс</l>
-            <orthography>
+            <l pos="Adv" pos_type="post">баяс</l>
+            <orth>
+                <lvar orth="1985kuru">баяс</lvar>
                 <lvar orth="1986kert">байяс</lvar>
                 <lvar orth="2008sars">баяс</lvar>
-            </orthography>
+            </orth>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t valency="ком-чём">о</t>
-                <t valency="ком-чём">об</t>
+            <tg xml:lang="rus">
+                <t pos="Pr" valency="ком-чём" coda="об">о</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">моайнсэгке тэнн баяс!</x>
-                <xt>расскажите об этом!</xt>
+                <x pos="S" orth="1985kuru">моайнсэгке тэнн баяс!</x>
+                <xtg xml:lang="rus">
+                    <xt>расскажите об этом!</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">пӯдӭ роам соагк вуэјјтэм баяс</x>
-                <xt>пришла радостная весть о победе</xt>
+                <x pos="S" orth="1985kuru">пӯдӭ роам соагк вуэјјтэм баяс</x>
+                <xtg xml:lang="rus">
+                    <xt>пришла радостная весть о победе</xt>
+                </xtg>
             </xg>
         </mg>
         <mg>
@@ -602,133 +712,156 @@ For the full license text, see the link above.</lic>
                 </xtg>
             </xg>
             <xg source="2008sarsina1-adposition">
-                <x pos="S" orth="2008sars">Tэдта ли пэ̄̄ҏҏт. Мунн моа̄йнса пэ̄̄ҏт баяс.</x>
+                <x pos="T" orth="2008sars">Tэдта ли пэ̄̄ҏҏт. Мунн моа̄йнса пэ̄̄ҏт баяс.</x>
                 <xtg xml:lang="rus">
                     <xt pos="S">Это дом. Я рассказываю про дом.</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="254" link_sm="1">
+    <e kur_ID="254">
         <lg>
-            <l pos="V" orth="1985kuru">бе̄ййдэднэ</l>
-            <infl>
+            <l pos="V">бе̄ййдэднэ</l>
+            <orth>
+                <lvar orth="1985kuru">бе̄ййдэднэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">бе̄ййдэдтэ</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
-            <tg>
-                <t>добиваться чего</t>
+            <tg xml:lang="rus">
+                <t pos="V" valency="чего">добиваться</t>
             </tg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
-            <tg>
-                <t type="figurative">биться над чем</t>
+            <tg xml:lang="rus">
+                <t sem-cl="figurative">биться над чем</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="255" link_sm="1">
+    <e kur_ID="255">
         <lg>
-            <l pos="V" orth="1985kuru">бе̄ййдэдсэ</l>
-            <infl>
+            <l pos="V">бе̄ййдэдсэ</l>
+            <orth>
+                <lvar orth="1985kuru">бе̄ййдэдсэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">бе̄ййдэдтэ</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
                 <tam>bystro</tam>
             </semantics>
-            <tg>
-                <t>добиться чего</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">добиться чего</t>
             </tg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
                 <tam>nedolgo</tam>
             </semantics>
-            <tg>
-                <t type="figurative">побиться над чем</t>
+            <tg xml:lang="rus">
+                <t sem-cl="figurative">побиться над чем</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="256" link_sm="1">
+    <e kur_ID="256">
         <lg>
-            <l pos="N" orth="1985kuru">бе̄ййдэдтлэ</l>
-            <infl>
+            <l pos="N">бе̄ййдэдтлэ</l>
+            <orth>
+                <lvar orth="1985kuru">бе̄ййдэдтлэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <compare>бе̄ййдэдсэ</compare>
-            </pointers>
+            </stem>
+            <compare>бе̄ййдэдсэ</compare>
             <der type="SM">бе̄ййдэдтэ</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бе̄ййдэдтмушш</l>
+            <l pos="xxx">бе̄ййдэдтмушш</l>
+            <orth>
+                <lvar orth="1986kert">бе̄ййдэдтмушш</lvar>
+            </orth>
+            <der type="SM">бе̄ййдэдтэ</der>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e kur_ID="257">
         <lg>
-            <l pos="V" orth="1985kuru">бе̄ййдэдтэ</l>
-            <orthography>
+            <l pos="V">бе̄ййдэдтэ</l>
+            <orth>
+                <lvar orth="1985kuru">бе̄ййдэдтэ</lvar>
                 <lvar orth="1986kert">бе̄ййдэдтэ</lvar>
-            </orthography>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
-            </infl>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t valency="чего">добиваться</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">мыйй кугкь бе̄ййдэдэмь тэнн уййнлэдтмуж баяс</x>
-                <xt>мы долго добивались этой встречи</xt>
+                <x pos="S" orth="1985kuru">мыйй кугкь бе̄ййдэдэмь тэнн уййнлэдтмуж баяс</x>
+                <xtg xml:lang="rus">
+                    <xt>мы долго добивались этой встречи</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t type="figurative">биться над чем</t>
+            <tg xml:lang="rus">
+                <t sem-cl="figurative">биться над чем</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">ло̄ссесь задача альн бе̄ййдэдтэ</x>
-                <xt>биться над решением трудной задачи</xt>
+                <xtg xml:lang="rus">
+                    <xt>биться над решением трудной задачи</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="V">ле̄ййп куськ гуэйкэ бе̄ййдэдтэ</x>
-                <xt>биться из-за куска хлеба (т.е. бедствовать)</xt>
+                <xtg xml:lang="rus">
+                    <xt>биться из-за куска хлеба (т.е. бедствовать)</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg order="1">
+        <mg>
             <tg xml:lang="rus">
                 <t pos="xxx">бороться</t>
             </tg>
@@ -740,34 +873,33 @@ For the full license text, see the link above.</lic>
             </xg>
         </mg>
     </e>
-    <e kur_ID="258" link_sm="1">
+    <e kur_ID="258">
         <lg>
-            <l pos="N" orth="1985kuru">бе̄ййдэдче</l>
-            <infl>
+            <l pos="N">бе̄ййдэдче</l>
+            <orth>
+                <lvar orth="1985kuru">бе̄ййдэдче</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <compare>бе̄ййдэднэ</compare>
-            </pointers>
+            </stem>
+            <compare>бе̄ййдэднэ</compare>
             <der type="SM">бе̄ййдэдтэ</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бе̄лль</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">беда</l>
+            <l pos="Adv">беда</l>
+            <orth>
+                <lvar orth="1986kert">беда</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -777,7 +909,10 @@ For the full license text, see the link above.</lic>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">безударнэ</l>
+            <l pos="xxx">безударнэ</l>
+            <orth>
+                <lvar orth="1986kert">безударнэ</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -787,66 +922,84 @@ For the full license text, see the link above.</lic>
     </e>
     <e kur_ID="259">
         <lg>
-            <l pos="N" orth="1985kuru">библиотека</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            <l pos="N">библиотека</l>
+            <orth>
+                <lvar orth="1985kuru">библиотека</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>библиотека</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">библиотека</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">ланнҍ библиотека</x>
-                <xt>городская библиотека</xt>
+                <xtg xml:lang="rus">
+                    <xt>городская библиотека</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">па̄ррнэ гуэйкэ библиотека</x>
-                <xt>детская библиотека</xt>
+                <xtg xml:lang="rus">
+                    <xt>детская библиотека</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">уһцэй библиотека</x>
-                <xt>библиотека учителя</xt>
+                <xtg xml:lang="rus">
+                    <xt>библиотека учителя</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">библиотека кнӣга</x>
-                <xt>библиотечная книга</xt>
+                <xtg xml:lang="rus">
+                    <xt>библиотечная книга</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">библиотекасьт лыһкэй</x>
-                <xt>библиотекарь</xt>
+                <xtg xml:lang="rus">
+                    <xt>библиотекарь</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="260">
         <lg>
-            <l pos="N" orth="1985kuru">билеһт</l>
-            <orthography>
+            <l pos="N">билеһт</l>
+            <orth>
+                <lvar orth="1985kuru">билеһт</lvar>
                 <lvar orth="1986kert">билет</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">билет</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">билет</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>билет</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">билет</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">ёадтӭм билеһт</x>
-                <xt>проездной билет</xt>
+                <xtg xml:lang="rus">
+                    <xt>проездной билет</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">о̄һпнуввэй билеһт</x>
-                <xt>ученический билет</xt>
+                <xtg xml:lang="rus">
+                    <xt>ученический билет</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1986kert" pos="xxx">кинобилет</x>
@@ -862,120 +1015,126 @@ For the full license text, see the link above.</lic>
             </xg>
         </mg>
     </e>
-    <e kur_ID="261" link_sm="1">
+    <e kur_ID="261">
         <lg>
-            <l pos="V" orth="1985kuru">билеһтлаһтӭ</l>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
-            </infl>
+            <l pos="V">билеһтлаһтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">билеһтлаһтӭ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
             <der type="SM">билеһт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>обеспечить кого билетом</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">обеспечить кого билетом</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="262" link_sm="1">
+    <e kur_ID="262">
         <lg>
-            <l pos="V" orth="1985kuru">билеһтлуввэ</l>
-            <infl>
+            <l pos="V">билеһтлуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">билеһтлуввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">билеһт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>обзавестись билетом</t>
-                <t>приобрести билет</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">обзавестись билетом</t>
+                <t pos="xxx">приобрести билет</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">билеһтлуввэ бэдт тампханна</x>
-                <xt>билеты нужно приобрести заблаговременно</xt>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="263" link_sm="1">
-        <lg>
-            <l pos="V" orth="1985kuru">билеһтлувнэ</l>
-            <infl>
-                <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <der type="SM">билеһт</der>
-        </lg>
-        <mg km="g">
-            <semantics>
-                <sem class="xxx"/>
-                <tam>postojanno</tam>
-                <tam>inogda_byvalo</tam>
-            </semantics>
-            <tg>
-                <t>обзаводиться билетом</t>
-                <t>приобретать билет</t>
-            </tg>
-        </mg>
-    </e>
-    <e kur_ID="269" link_sm="1">
-        <lg>
-            <l pos="V" orth="1985kuru">бинтнэ</l>
-            <infl>
-                <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <der type="SM">бӣннт</der>
-        </lg>
-        <mg km="g">
-            <semantics>
-                <sem class="xxx"/>
-                <tam>postojanno</tam>
-                <tam>inogda_byvalo</tam>
-            </semantics>
-            <tg>
-                <t>бинтовать кого-что</t>
-            </tg>
-        </mg>
-    </e>
-    <e kur_ID="272" link_sm="1">
-        <lg>
-            <l pos="N" orth="1985kuru">бинтче</l>
-            <infl>
-                <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <compare>бинтнэ_бӣнтнэ</compare>
-            </pointers>
-            <der type="SM">бӣннт</der>
-        </lg>
-        <mg km="g">
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg>
-                <t>xxx</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">битва</l>
-        </lg>
-        <mg>
-            <xg>
-                <x pos="xxx" orth="1986kert">туарр москва гуэйке</x>
-                <xtg>
-                    <xt>битва за москву</xt>
+                <xtg xml:lang="rus">
+                    <xt>билеты нужно приобрести заблаговременно</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
+    <e kur_ID="263">
+        <lg>
+            <l pos="V">билеһтлувнэ</l>
+            <orth>
+                <lvar orth="1985kuru">билеһтлувнэ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </stem>
+            <der type="SM">билеһтлуввэ</der>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+                <tam>postojanno</tam>
+                <tam>inogda_byvalo</tam>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">обзаводиться билетом</t>
+                <t pos="xxx">приобретать билет</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="269">
+        <lg>
+            <l pos="V">бинтнэ</l>
+            <orth>
+                <lvar orth="1985kuru">бинтнэ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </stem>
+            <der type="SM">бӣннт</der>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+                <tam>postojanno</tam>
+                <tam>inogda_byvalo</tam>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">бинтовать кого-что</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="272">
+        <lg>
+            <l pos="N">бинтче</l>
+            <orth>
+                <lvar orth="1985kuru">бинтче</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </stem>
+            <compare>бинтнэ_бӣнтнэ</compare>
+            <der type="SM">бӣннт</der>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бо̄йесь</l>
+            <l pos="A">бо̄йесь</l>
+            <orth>
+                <lvar orth="1986kert">бо̄йесь</lvar>
+            </orth>
+            <der type="SM">бо̄йй</der>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -989,7 +1148,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                 <x pos="xxx" orth="1986kert">бо̄йесь ка̄ннҍц</x>
-                <xtg>
+                <xtg xml:lang="rus">
                     <xt>боевой друг</xt>
                 </xtg>
             </xg>
@@ -997,7 +1156,10 @@ For the full license text, see the link above.</lic>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бо̄йй</l>
+            <l pos="xxx">бо̄йй</l>
+            <orth>
+                <lvar orth="1986kert">бо̄йй</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -1007,151 +1169,173 @@ For the full license text, see the link above.</lic>
     </e>
     <e kur_ID="273">
         <lg>
-            <l pos="N" orth="1985kuru">боаран</l>
-            <orthography>
+            <l pos="N">боаран</l>
+            <orth>
+                <lvar orth="1985kuru">боаран</lvar>
                 <lvar orth="2008sars">боаран</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
-                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </orth>
+            <stem>
                 <stem_sars>---р---</stem_sars>
-            </infl>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
-                <sarsina-chapter>8</sarsina-chapter>
+                <sem class="sars-chap-8"/>
             </semantics>
-            <tg>
-                <t>баран</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">баран</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">боаран чуэз</x>
-                <xt type="literal+figurative">стадо баранов</xt>
+                <xtg xml:lang="rus">
+                    <xt sem-cl="literal-figurative">стадо баранов</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">ёадтёв гӯ боаран чуэз</x>
-                <xt>[они] идут как стадо баранов</xt>
+                <x pos="S" orth="1985kuru">ёадтёв гӯ боаран чуэз</x>
+                <xtg xml:lang="rus">
+                    <xt>[они] идут как стадо баранов</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx" type="idiom">со̄ййлаһтӭ боаран чуэррьвэнҍ</x>
-                <xt>согнуть кого в бараний рог</xt>
+                <x orth="1985kuru" pos="xxx" pos_type="idiom">со̄ййлаһтӭ боаран чуэррьвэнҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>согнуть кого в бараний рог</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="275">
         <lg>
-            <l pos="A" orth="1985kuru">большевистскэ</l>
+            <l pos="A">большевистскэ</l>
+            <orth>
+                <lvar orth="1985kuru">большевистскэ</lvar>
+            </orth>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>большевистский</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">большевистский</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="274">
         <lg>
-            <l pos="N" orth="1985kuru">большевиһк</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">большевик</stem_kuru>
+            <l pos="N">большевиһк</l>
+            <orth>
+                <lvar orth="1985kuru">большевиһк</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">большевик</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>большевик</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">большевик</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="276">
         <lg>
-            <l pos="N" orth="1985kuru">ботинка</l>
-            <orthography>
+            <l pos="N">ботинка</l>
+            <orth>
+                <lvar orth="1985kuru">ботинка</lvar>
                 <lvar orth="1986kert">ботинка</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <compare>камаша</compare>
-            </pointers>
+            </stem>
+            <compare>камаша</compare>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t number="pl">ботинки</t>
-                <t gender="m" number="sg">ботинок</t>
+            <tg xml:lang="rus">
+                <t nr="Pl">ботинки</t>
+                <t gen="m" nr="Sg">ботинок</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">вуэссьтэ о̄дт ботинкатҍ</x>
-                <xt>купить новые ботинки</xt>
+                <xtg xml:lang="rus">
+                    <xt>купить новые ботинки</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2015ksdp">боһтэрь</l>
-            <orthography>
+            <l pos="xxx">боһтэрь</l>
+            <orth>
                 <lvar orth="1986kert">боххьтэрь</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg>
-            <tg>
-                <t>богатырь</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">богатырь</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="277">
         <lg>
-            <l pos="N" orth="1985kuru">бре̄ввьн</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">бре̄вьн</stem_kuru>
+            <l pos="N">бре̄ввьн</l>
+            <orth>
+                <lvar orth="1985kuru">бре̄ввьн</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">бре̄вьн</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>бревно</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">бревно</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">пыллэ брӣвьнэтҍ лӯввьтэнҍ</x>
-                <xt>распилить брёвна на доски</xt>
+                <xtg xml:lang="rus">
+                    <xt>распилить брёвна на доски</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="278">
         <lg>
-            <l pos="N" orth="1985kuru">бригада</l>
-            <orthography>
+            <l pos="N">бригада</l>
+            <orth>
+                <lvar orth="1985kuru">бригада</lvar>
                 <lvar orth="1986kert">бригада</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>бригада</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">бригада</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">кӯлль шыллей бригада</x>
-                <xt>рыболовецкая бригада</xt>
+                <xtg xml:lang="rus">
+                    <xt>рыболовецкая бригада</xt>
+                </xtg>
             </xg>
             <xg>
                 <x pos="xxx" orth="1986kert">коммунистическэ лыгк бригада</x>
@@ -1163,134 +1347,179 @@ For the full license text, see the link above.</lic>
     </e>
     <e kur_ID="279">
         <lg>
-            <l pos="N" orth="1985kuru">бригадирр</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">бригадир</stem_kuru>
+            <l pos="N">бригадирр</l>
+            <orth>
+                <lvar orth="1985kuru">бригадирр</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">бригадир</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>бригадир</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">бригадир</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">бригадиррэнҍ лыһкэ</x>
-                <xt>работать бригадиром</xt>
+                <xtg xml:lang="rus">
+                    <xt>работать бригадиром</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="280">
         <lg>
-            <l pos="N" orth="1985kuru">бро̄шка</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            <l pos="N">брошка</l>
+            <orth>
+                <lvar orth="1985kuru">бро̄шка</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>брошка</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">брошка</t>
             </tg>
-            <tg>
-                <t gender="f">брошь</t>
+            <tg xml:lang="rus">
+                <t gen="f">брошь</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">бро̄шка соалпсэ коаввлсэ</x>
-                <xt>приколоть брошь к воротнику</xt>
+                <xtg xml:lang="rus">
+                    <xt>приколоть брошь к воротнику</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="282">
         <lg>
-            <l pos="N" orth="1985kuru">букваррь</l>
-            <orthography>
+            <l pos="N">букваррь</l>
+            <orth>
+                <lvar orth="1985kuru">букваррь</lvar>
                 <lvar orth="1986kert">букварь</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">букварь</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">букварь</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t gender="m">букварь</t>
+            <tg xml:lang="rus">
+                <t gen="m">букварь</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">са̄мь букваррь</x>
-                <xt>саамский букварь</xt>
+                <xtg xml:lang="rus">
+                    <xt>саамский букварь</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">рӯшш букваррь</x>
-                <xt>русский букварь</xt>
+                <xtg xml:lang="rus">
+                    <xt>русский букварь</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="V">букварь мӣлльтэ ло̄гкэ</x>
-                <xt>читать по букварю</xt>
+                <xtg xml:lang="rus">
+                    <xt>читать по букварю</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">букет</l>
+            <l pos="xxx">*букет</l>
+            <orth>
+                <lvar orth="1986kert">букет</lvar>
+            </orth>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">булка</l>
+            <l pos="xxx">*булка</l>
+            <orth>
+                <lvar orth="1986kert">булка</lvar>
+            </orth>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e kur_ID="283">
         <lg>
-            <l pos="N" orth="1985kuru">буржуазия</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            <l pos="N">*буржуазия</l>
+            <orth>
+                <lvar orth="1985kuru">буржуазия</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>буржуазия</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">буржуазия</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="284">
         <lg>
-            <l pos="A" orth="1985kuru">буржуазнэ</l>
+            <l pos="A">буржуазнэ</l>
+            <orth>
+                <lvar orth="1985kuru">буржуазнэ</lvar>
+            </orth>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>буржуазный</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">буржуазный</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бусь</l>
+            <l pos="N" nr="Pl">*бусь</l>
+            <orth>
+                <lvar orth="1986kert">бусь</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">бусы</t>
+                <t pos="N" nr="Pl">бусы</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бухмарнэ</l>
+            <l pos="xxx">бухмарнэ</l>
+            <orth>
+                <lvar orth="1986kert">бухмарнэ</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -1300,71 +1529,87 @@ For the full license text, see the link above.</lic>
     </e>
     <e kur_ID="xxx">
         <lg>
-            <l pos="V" orth="1985kuru">бэдаһч</l>
-            <orthography>
+            <l pos="V" person="3">бэдаһч</l>
+            <orth>
+                <lvar orth="1985kuru">бэдаһч</lvar>
                 <lvar orth="2008sars">бэдаххч</lvar>
-            </orthography>
+            </orth>
+            <der type="SM">бэдт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>надо бы</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">надо бы</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">бэдаһч куаррэ</x>
-                <xt>надо бы шить</xt>
+                <x pos="S" orth="1985kuru">бэдаһч куаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt>надо бы шить</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">бэдтӭ ля̄йй</x>
-                <xt>надо было</xt>
+                <x pos="S" orth="1985kuru">бэдтӭ ля̄йй</x>
+                <xtg xml:lang="rus">
+                    <xt>надо было</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
-                <xt>нужно было вместе ехать</xt>
+                <x pos="S" orth="1985kuru">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
+                <xtg xml:lang="rus">
+                    <xt>нужно было вместе ехать</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>требуется</t>
-                <t>нужно</t>
-                <t>следует иметь</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">требуется</t>
+                <t pos="xxx">нужно</t>
+                <t pos="xxx">следует иметь</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">заводтӭ бэдт лыһкъетҍ</x>
-                <xt>заводу требуются рабочие</xt>
+                <x pos="S" orth="1985kuru">заводтӭ бэдт лыһкъетҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>заводу требуются рабочие</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="288">
         <lg>
-            <l pos="V" orth="1985kuru">бэдт</l>
-            <orthography>
+            <l pos="V" person="3">бэдт</l>
+            <orth>
+                <lvar orth="1985kuru">бэдт</lvar>
                 <lvar orth="1986kert">быдт</lvar>
                 <lvar orth="2008sars">быдт</lvar>
-            </orthography>
+            </orth>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
-                <sarsina-chapter>6</sarsina-chapter>
+                <sem class="sars-chapt-6"/>
             </semantics>
-            <tg>
+            <lexicon xml:lang="rus">необходимо что-л. сделать</lexicon>
+            <tg xml:lang="rus">
                 <t pos="xxx">нужно</t>
                 <t pos="xxx">следует</t>
                 <t pos="xxx">надо</t>
-                <t pos="AP" type="explanation">необходимо что-л. сделать</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">бэдт це̄ӆӆькэ со̄бэр баяс</x>
-                <xt>нужно сказать о собрании</xt>
+                <x pos="S" orth="1985kuru">бэдт це̄ӆӆькэ со̄бэр баяс</x>
+                <xtg xml:lang="rus">
+                    <xt>нужно сказать о собрании</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1986kert" pos="xxx">быдт мушшьтэ</x>
+                <xtg>
+                    <xt/>
+                </xtg>
             </xg>
             <xg source="2008sarsina1-tense">
                 <x pos="S" orth="2008sars">Соннӭ быдт пуэдтӭ кыджемь ча̄сэсьт.</x>
@@ -1382,334 +1627,405 @@ For the full license text, see the link above.</lic>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="ksdp">бэдтлэсь</l>
-            <orthography>
+            <l pos="xxx">бэдтлэсь</l>
+            <orth>
                 <lvar orth="1986kert">быдтлэсь</lvar>
-            </orthography>
+            </orth>
         </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+        </mg>
     </e>
     <e kur_ID="291">
+        <note>pos??</note>
         <lg>
-            <l pos="V" orth="1985kuru">бэдтэ</l>
+            <l pos="xxx">бэдтэ</l>
+            <orth>
+                <lvar orth="1985kuru">бэдтэ</lvar>
+            </orth>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>неужели</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">неужели</t>
             </tg>
-            <tg>
-                <t>разве</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">разве</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
-                <xt>неужели вы не понимаете?</xt>
+                <x pos="S" orth="1985kuru">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
+                <xtg xml:lang="rus">
+                    <xt>неужели вы не понимаете?</xt>
+                </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="S">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
-                <xt>разве вы к нам придёте?</xt>
-            </xg>
-        </mg>
-        <mg km="g2">
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg>
-                <t>как</t>
-                <t>словно</t>
-            </tg>
-            <xg>
-                <x orth="1985kuru" pos="S">бэдтэ е̄лльмэнҍ кя̄һч</x>
-                <xt>[он] смотрит, как живой</xt>
+                <x pos="S" orth="1985kuru">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
+                <xtg xml:lang="rus">
+                    <xt>разве вы к нам придёте?</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g3">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>что</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">как</t>
+                <t pos="xxx">словно</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="S">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
-                <xt>[он] уверяет, что сам слышал об этом</xt>
+                <x pos="S" orth="1985kuru">бэдтэ е̄лльмэнҍ кя̄һч</x>
+                <xtg xml:lang="rus">
+                    <xt>[он] смотрит, как живой</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">что</t>
+            </tg>
+            <xg>
+                <x pos="S" orth="1985kuru">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
+                <xtg xml:lang="rus">
+                    <xt>[он] уверяет, что сам слышал об этом</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="ksdp">бэдтӭй</l>
-            <orthography>
-                <lvar orth="1986kert">быдтӭй</lvar>
-                <lvar orth="1986ker1">быдтэй</lvar>
-            </orthography>
+            <l pos="N">бэдтэй</l>
+            <orth>
+                <lvar orth="1986kert">быдтэй</lvar>
+                <lvar orth="1986ker1">быдтӭй</lvar>
+            </orth>
+            <der type="SM">бэдтэ</der>
         </lg>
+        <mg>
+            <tg>
+                <t>нужный</t>
+            </tg>
+        </mg>
     </e>
-    <e kur_ID="289" link_sm="1">
+    <e kur_ID="289">
         <lg>
-            <l pos="V" orth="1985kuru">бэдҍсуввэ</l>
-            <infl>
+            <l pos="V">бэдҍсуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">бэдҍсуввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
-            <der type="SM">бэдт</der>
+            </stem>
+            <der type="SM">бэдтҍсэ</der>
         </lg>
-        <mg km="g1">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>потребоваться кому</t>
-                <t>понадобиться кому</t>
-                <t>стать нужным кому</t>
-                <t>стать необходимым кому</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">потребоваться кому</t>
+                <t pos="xxx">понадобиться кому</t>
+                <t pos="xxx">стать нужным кому</t>
+                <t pos="xxx">стать необходимым кому</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">мыннӭ бэдҍсувв то̄н ве̄һкьвудт</x>
-                <xt>мне потребуется твоя помощь</xt>
+                <xtg xml:lang="rus">
+                    <xt>мне потребуется твоя помощь</xt>
+                </xtg>
             </xg>
         </mg>
-        <mg km="g2">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t type="UNPERS">прийтись кому ___TE что-л. сделать TE___</t>
+            <tg xml:lang="rus">
+                <t pos="V" pos_type="UNPERS">прийтись кому ___TE что-л. сделать TE___</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">соннӭ бэдҍсувв уййтэ</x>
-                <xt>ему придётся уйти</xt>
+                <xtg xml:lang="rus">
+                    <xt>ему придётся уйти</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="xxx">мыйе бэдҍсувэ кугкь ва̄ннҍцэ</x>
-                <xt>нам пришлось долго идти</xt>
+                <xtg xml:lang="rus">
+                    <xt>нам пришлось долго идти</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="290" link_sm="1">
+    <e kur_ID="290">
         <lg>
-            <l pos="N" orth="1985kuru">бэдҍсэ</l>
-            <infl>
+            <l pos="N">бэдҍсэ</l>
+            <orth>
+                <lvar orth="1985kuru">бэдҍсэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <der type="SM">бэдт</der>
+            </stem>
+            <der type="SM">бэдтэ</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>потребоваться кому</t>
-                <t>понадобиться кому</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">потребоваться кому</t>
+                <t pos="xxx">понадобиться кому</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">мыннӭ бэдӓст тэдта кнӣга</x>
-                <xt>мне потребуется эта книга</xt>
+                <xtg xml:lang="rus">
+                    <xt>мне потребуется эта книга</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="292">
         <lg>
-            <l pos="A" orth="1985kuru">бяган</l>
+            <l pos="A">бяган</l>
+            <orth>
+                <lvar orth="1985kuru">бяган</lvar>
+            </orth>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>пятнистый</t>
-                <t>пёстрый</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">пятнистый</t>
+                <t pos="xxx">пёстрый</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="N">бяган а̄ллт</x>
-                <xt>пёстрая важенка</xt>
+                <xtg xml:lang="rus">
+                    <xt>пёстрая важенка</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="264">
         <lg>
-            <l pos="N" orth="1985kuru">бӣннт</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">бӣнт</stem_kuru>
+            <l pos="N">бӣннт</l>
+            <orth>
+                <lvar orth="1985kuru">бӣннт</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">бӣнт</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>бинт</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">бинт</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">кӣссэ ра̄ӊҍ бӣнтэнҍ</x>
-                <xt xtnumber="1">наложить бинт на рану</xt>
-                <xt xtnumber="2">замотать рану бинтом</xt>
+                <xtg xml:lang="rus">
+                    <xt>наложить бинт на рану</xt>
+                    <xt>замотать рану бинтом</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="265" link_sm="1">
+    <e kur_ID="265">
         <lg>
-            <l pos="V" orth="1985kuru">бӣннтлэ</l>
-            <infl>
+            <l pos="V">бӣннтлэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӣннтлэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">бӣннт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
                 <tam>bystro</tam>
             </semantics>
-            <tg>
-                <t>забинтовать кого-что</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">забинтовать кого-что</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="266" link_sm="1">
+    <e kur_ID="266">
         <lg>
-            <l pos="V" orth="1985kuru">бӣннтъе</l>
-            <infl>
+            <l pos="V">бӣннтъе</l>
+            <orth>
+                <lvar orth="1985kuru">бӣннтъе</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <der type="STRAD_K">бӣннтэ</der>
-            </pointers>
+            </stem>
+            <der type="STRAD_K">бӣннтэ</der>
             <der type="SM">бӣннт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">ра̄ӊӊҍ бӣннтэй</x>
-                <xt>рана забинтована</xt>
+                <xtg xml:lang="rus">
+                    <xt>рана забинтована</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="267" link_sm="1">
+    <e kur_ID="267">
         <lg>
-            <l pos="V" orth="1985kuru">бӣннтъюввэ</l>
-            <infl>
+            <l pos="V">бӣннтъюввэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӣннтъюввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <compare>бӣннтъе</compare>
-            </pointers>
-            <der type="SM">бӣннт</der>
+            </stem>
+            <der type="SM">бӣннтъе</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="268" link_sm="1">
+    <e kur_ID="268">
         <lg>
-            <l pos="N" orth="1985kuru">бӣннтэ</l>
-            <infl>
+            <l pos="N">бӣннтэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӣннтэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
-            </infl>
+            </stem>
             <der type="SM">бӣннт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t imperf="забинтовать">бинтовать кого-что</t>
+            <tg xml:lang="rus">
+                <t impf="забинтовать">бинтовать кого-что</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">бӣннтэ кӣд</x>
-                <xt>забинтовать руку</xt>
+                <xtg xml:lang="rus">
+                    <xt>забинтовать руку</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="270" link_sm="1">
+    <e kur_ID="270">
         <lg>
-            <l pos="N" orth="1985kuru">бӣнтсэ</l>
-            <infl>
+            <l pos="N">бӣнтсэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӣнтсэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <compare>бӣннтлэ</compare>
-            </pointers>
+            </stem>
+            <compare>бӣннтлэ</compare>
             <der type="SM">бӣннт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
             </tg>
         </mg>
     </e>
-    <e kur_ID="271" link_sm="1">
+    <e kur_ID="271">
         <lg>
-            <l pos="V" orth="1985kuru">бӣнтхэ</l>
-            <infl>
+            <l pos="V">бӣнтхэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӣнтхэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
-            </infl>
-            <pointers>
-                <der type="PONUD_K">бӣннтэ</der>
-            </pointers>
+            </stem>
+            <der type="PONUD_K">бӣннтэ</der>
             <der type="SM">бӣннт</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">xxx</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">бэдт кэ̄бласьт кӣд бӣнтхэ</x>
-                <xt>надо забинтовать больному руку</xt>
+                <xtg xml:lang="rus">
+                    <xt>надо забинтовать больному руку</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="281">
         <lg>
-            <l pos="N" orth="1985kuru">бӯква</l>
-            <orthography>
+            <l pos="N">буква</l>
+            <orth>
+                <lvar orth="1985kuru">бӯква</lvar>
                 <lvar orth="1986kert">буква</lvar>
-            </orthography>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>буква</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">буква</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">кырьйхэ шӯрр бӯкванҍ</x>
-                <xt>писать с большой буквы</xt>
+                <xtg xml:lang="rus">
+                    <xt>писать с большой буквы</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">шӯрр бӯква</x>
-                <xt>прописная буква</xt>
-                <xt>заглавная буква</xt>
-                <xt type="literal">большая буква</xt>
+                <xtg xml:lang="rus">
+                    <xt>прописная буква</xt>
+                    <xt>заглавная буква</xt>
+                    <xtl>большая буква</xtl>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">удць бӯква</x>
-                <xt>строчная буква (т.е. маленькая буква)</xt>
+                <xtg xml:lang="rus">
+                    <xt>строчная буква (т.е. маленькая буква)</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1985kuru" pos="N">бӯкватҍ уһцэм кэ̄сск</x>
-                <xt type="explanation">букварный период в школе</xt>
+                <xtg xml:lang="rus">
+                    <xt>букварный период (в школе)</xt>
+                </xtg>
             </xg>
             <xg>
                 <x orth="1986kert" pos="xxx">гла̄снэ буква</x>
@@ -1727,13 +2043,16 @@ For the full license text, see the link above.</lic>
     </e>
     <e kur_ID="285">
         <lg>
-            <l pos="N" orth="1985kuru">бӯрка</l>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            <l pos="N">бурка</l>
+            <orth>
+                <lvar orth="1985kuru">бӯрка</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </infl>
+            </stem>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
@@ -1741,60 +2060,75 @@ For the full license text, see the link above.</lic>
                 ___LOOKUPкоаммасLOOKUP___; украшаются по швам цветным сукном, передняя часть
                 украшается койбами контрастного цвета с орнаментом, напр. головы оленя с
                 рогами</lexicon>
-            <tg>
-                <t>бурки</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">бурки</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">куаррэ о̄дт бӯркатҍ</x>
-                <xt>сшить новые бурки</xt>
+                <xtg xml:lang="rus">
+                    <xt>сшить новые бурки</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="286" link_sm="1">
+    <e kur_ID="286">
         <lg>
-            <l pos="V" orth="1985kuru">бӯркалаһтӭ</l>
-            <infl>
-                <class_kuru class="I" ablaut="1" special="*"/>
-            </infl>
-            <der type="SM">бӯрка</der>
+            <l pos="V">буркалаһтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">бӯркалаһтӭ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
+            <der type="SM">бурка</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>обеспечить кого бурками</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">обеспечить кого бурками</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">куэссь ӣджь куарак, танна пӣррас вуайй бӯркалаһтӭ</x>
-                <xt>когда сам шьёшь, можно всю семью бурками обеспечить</xt>
+                <xtg xml:lang="rus">
+                    <xt>когда сам шьёшь, можно всю семью бурками обеспечить</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="287" link_sm="1">
+    <e kur_ID="287">
         <lg>
-            <l pos="V" orth="1985kuru">бӯркалуввэ</l>
-            <infl>
+            <l pos="V">буркалуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӯркалуввэ</lvar>
+            </orth>
+            <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </infl>
-            <der type="SM">бӯрка</der>
+            </stem>
+            <der type="SM">бурка</der>
         </lg>
-        <mg km="g">
+        <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>обзавестись бурками</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">обзавестись бурками</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">мунн бӯркалувве</x>
-                <xt>у меня появились бурки</xt>
+                <xtg xml:lang="rus">
+                    <xt>у меня появились бурки</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">бӯрэ</l>
+            <l pos="A">бурэ</l>
+            <orth>
+                <lvar orth="1986kert">бӯрэ</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
