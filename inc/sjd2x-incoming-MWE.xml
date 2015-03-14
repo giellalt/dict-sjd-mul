@@ -2,6 +2,243 @@
 <r>
     <e>
         <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert">аннҍ тӣррвэнҍ ля̄ннч</x>
+                <xtg>
+                    <xt>да здравствует</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="NP">туммплэсь ва̄ррь</x>
+                <xtg>
+                    <xt>дальний лес</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="NP">кӯххтэмплоагант выдыгкса</x>
+                <xtg>
+                    <xt>двенадцатая пятилетка</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="N">вуэйхьтэмпе̄ййв</x>
+                <xtg>
+                    <xt>день победы</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="N">нэммпе̄ййв</x>
+                <xtg>
+                    <xt>день рождения</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="NP">сыййтсовет депутат</x>
+                <xtg>
+                    <xt>депутат сельского совета</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="VP">тӯллье кӣдэсьт</x>
+                <xtg>
+                    <xt>держать в руках</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="VP">тӯллье пӯдзэтҍ</x>
+                <xtg>
+                    <xt>держать оленей</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="N">па̄ррнэсад</x>
+                <xtg>
+                    <xt>детский сад</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="N">е̄мьперьвэ̄дт</x>
+                <xtg>
+                    <xt>дно ведра</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="N">ёгкпоаннҍ</x>
+                <xtg>
+                    <xt>дно реки</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="PoP">ента райя</x>
+                <xtg>
+                    <xt>до завтра</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="PoP">ва̄рь райя</x>
+                <xtg>
+                    <xt>до леса</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="NP">кукесь ва̄рр</x>
+                <xtg>
+                    <xt>долгий путь</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="NP">ко̄а̄ллэш на̄ввьт</x>
+                <xtg>
+                    <xt>дорогой мех</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">xxx</l>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="NP">е̄рркъя о̄лма</x>
+                <xtg>
+                    <xt>древний человек</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="VP" orth="2008sars">гербарий лыххкэ</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sarsina-chapter>9</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="rus"/>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="VP" orth="2008sars">грӣбпэнҍ кэ̄бптуввэ</l>
+            <infl>
+                <stem_sars>---в---</stem_sars>
+            </infl>
+        </lg>
+        <mg>
+            <semantics>
+                <sarsina-chapter>11</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="rus">заболеть грипом</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="xxx" orth="1986kert">в боку колет е̄ҏҏьт ре̄дт</l>
         </lg>
     </e>
@@ -700,8 +937,8 @@
     </e>
     <e>
         <lg>
-            <l pos="Prop" orth="2008sars">Куэлнэгк-нёарк са̄мь кӣлэ лингвистическэ я
-                этнографическэ документация</l>
+            <l pos="Prop" orth="2008sars">Куэлнэгк-нёарк са̄мь кӣлэ лингвистическэ я этнографическэ
+                документация</l>
         </lg>
         <mg>
             <semantics>
