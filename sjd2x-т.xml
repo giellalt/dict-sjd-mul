@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e>
+        <lg>
+            <l pos="xxx">туарр</l>
+            <orth>
+                <lvar orth="1986kert">туарр</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg>
+                <t>битва</t>
+            </tg>
+            <xg>
+                <x pos="xxx" orth="1986kert">туарр москва гуэйке</x>
+                <xtg xml:lang="rus">
+                    <xt>битва за москву</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+</r>
