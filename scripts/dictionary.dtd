@@ -32,7 +32,7 @@
 <!ELEMENT lg (l, orth*, stem*, compare*, der*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
-      pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
+      pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | V | 
                     Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
                     S |
                     Der_N |
@@ -43,9 +43,10 @@
                 ) #REQUIRED
       pos_type  (   ad | post | pre | 
                     rel | pers | indef | refl | 
-                    ord ) #IMPLIED
+                    Prop ) #IMPLIED
       nr        ( Sg | Pl ) #IMPLIED
       person    (3) #IMPLIED
+      val ( IV | TV ) #IMPLIED
 >      
 <!-- I need to check what attributes are really useful here
 attr ( ok | no ) #IMPLIED
@@ -67,14 +68,12 @@ attr ( ok | no ) #IMPLIED
       vow CDATA #IMPLIED
       diph ( yes ) #IMPLIED
       umlaut ( full ) #IMPLIED
-      num ( pl ) #IMPLIED
-      val ( IV | TV ) #IMPLIED
 -->
 
 <!ELEMENT orth (lvar+) >
 <!ELEMENT lvar (#PCDATA) >
 <!ATTLIST lvar
-    orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars | 2008sar1 | 2008sar2 ) #IMPLIED       
+    orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars | 2008sar1 | 2008sar2 ) #REQUIRED       
     >
 
 <!-- the stem group; several values in the fields in this group are inherited from digitalized data -->
@@ -102,7 +101,7 @@ attr ( ok | no ) #IMPLIED
     
 <!ELEMENT der (#PCDATA) >
 <!ATTLIST der
-    type (SM | STRAD_K | PONUD_K) #IMPLIED 
+    type (SM | STRAD_K | PONUD_K) #IMPLIED
     >
 
 <!ELEMENT compare (#PCDATA) >
@@ -112,7 +111,7 @@ attr ( ok | no ) #IMPLIED
 <!ELEMENT semantics (sem+, tam*) >
 <!ELEMENT sem EMPTY >
 <!ATTLIST sem
-    class CDATA #IMPLIED
+    class CDATA #REQUIRED
     >      
 <!ELEMENT tam (#PCDATA) >
 
@@ -125,12 +124,12 @@ attr ( ok | no ) #IMPLIED
 
 <!ELEMENT lexicon (#PCDATA) >
 <!ATTLIST lexicon 
-      xml:lang ( rus ) #IMPLIED
+      xml:lang ( eng | rus ) #REQUIRED
       >
 
 <!ELEMENT tg (t+, re?, te?, valency?) >
 <!ATTLIST tg 
-      xml:lang ( rus ) #IMPLIED
+      xml:lang ( eng | rus ) #REQUIRED
       term (medicine) #IMPLIED
 >
 
@@ -155,11 +154,10 @@ attr ( ok | no ) #IMPLIED
 >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: botanics, physics, ... -->
-<!ATTLIST re xml:lang ( rus ) #IMPLIED
->
+<!ATTLIST re xml:lang ( rus ) #REQUIRED >
 
 <!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
-<!ATTLIST te xml:lang ( rus ) #IMPLIED >
+<!ATTLIST te xml:lang ( rus ) #REQUIRED >
 
 <!ELEMENT valency EMPTY >
 <!ATTLIST valency
@@ -168,7 +166,7 @@ attr ( ok | no ) #IMPLIED
 
 <!ELEMENT xg ((x, xtg+)+) >
 <!ATTLIST xg
-    source (1985kuru | 1986kert | 2008sarsina1-adposition | 2008sarsina1-tense) #IMPLIED
+    source (1985kuru | 1986kert | 2008sars | 2008sarsina1-adposition | 2008sarsina1-tense) #REQUIRED
     lemma  CDATA #IMPLIED
     >
     
@@ -184,12 +182,12 @@ attr ( ok | no ) #IMPLIED
                     xxx
                 ) #REQUIRED
     pos_type ( idiom ) #IMPLIED
-    orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars) #IMPLIED
+    orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars) #REQUIRED
 >
 
 <!ELEMENT xtg (xt+, xtl?) >
 <!ATTLIST xtg
-    xml:lang ( rus ) #IMPLIED
+    xml:lang ( eng| rus ) #REQUIRED
  >
  
 <!ELEMENT xt (#PCDATA)>

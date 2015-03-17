@@ -2,7 +2,8 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 
-<!DOCTYPE r  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictionary.dtd">
+<!DOCTYPE r  
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictionary.dtd">
 <r id="sjd2x" xml:lang="sjd">
     <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always giveproper attribution using the attribution text below. For the full license text, see the link above.</lic>
         
@@ -17,9 +18,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -30,9 +29,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxN-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -43,9 +40,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxN-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -57,9 +52,7 @@
             <der type="SM">-лэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -71,9 +64,7 @@
             <der type="SM">-лэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -85,9 +76,7 @@
             <der type="SM">-лэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -99,9 +88,7 @@
             <compare>-мэнч</compare>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -112,9 +99,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -125,9 +110,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxN-V derivational suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -138,9 +121,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxV-V inflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -151,9 +132,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxN-N inflectional suffix</lexicon>
         </mg>
     </e>
     <e kur_ID="3421">
@@ -169,38 +148,36 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
-            </tg>
-            <xg source="1985kuru" lemma="-налла" lemma_pos="Suf-Adv">
+            <lexicon xml:lang="eng">xxxAdv-N|Pron derivational suffix</lexicon>
+            <xg source="1985kuru" lemma="-налла">
                 <x orth="1985kuru" pos="A">мӣнэ-налла</x>
-                <xtg>
-                    <xt>по-нашему</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">по-нашему</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="-налла" lemma_pos="Suf-Adv">
+            <xg source="1985kuru" lemma="-налла">
                 <x orth="1985kuru" pos="A">пе̄ннэ-налла</x>
-                <xtg>
-                    <xt>по-собачьи</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">по-собачьи</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="-налла" lemma_pos="Suf-Adv">
+            <xg source="1985kuru" lemma="-налла">
                 <x orth="1985kuru" pos="S">пе̄ннэ лӣ паллтас-налла</x>
-                <xtg>
-                    <xt>собака похожа на волка</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">собака похожа на волка</xt>
                 </xtg>
             </xg>
             <xg source="2008sars">
                 <x pos="Adv" orth="2008sars">мӣн-налла</x>
-                <xtg>
-                    <xt>по-нашему</xt>
-                    <xt>как мы</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">по-нашему</xt>
+                    <xt pos="xxx">как мы</xt>
                 </xtg>
             </xg>
             <xg source="2008sars">
                 <x pos="Adv" orth="2008sars">пе̄ннэ-налла</x>
-                <xtg>
-                    <xt>по-собачьи</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">по-собачьи</xt>
                 </xtg>
             </xg>
         </mg>
@@ -218,25 +195,23 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>xxx</t>
-            </tg>
-            <xg source="1985kuru" lemma="-налшэм" lemma_pos="Suf-A">
+            <lexicon xml:lang="eng">xxxA-N|Pron derivational suffix</lexicon>
+            <xg source="1985kuru" lemma="-налшэм">
                 <x orth="1985kuru" pos="Phrase_N">паллтас-налшэм пе̄ннэ</x>
-                <xtg>
-                    <xt>похожая на волка собака</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">похожая на волка собака</xt>
                 </xtg>
             </xg>
             <xg source="2008sars">
                 <x pos="A" orth="2008sars">мӣнэ-налшэм</x>
-                <xtg>
-                    <xt>похож на нас</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">похож на нас</xt>
                 </xtg>
             </xg>
             <xg source="2008sars">
                 <x pos="A" orth="2008sars">пе̄ннэ-налшэм</x>
-                <xtg>
-                    <xt>похож на собаку</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">похож на собаку</xt>
                 </xtg>
             </xg>
         </mg>
@@ -249,9 +224,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxA-N inflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -263,9 +236,7 @@
             <der type="SM">-нэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -277,9 +248,7 @@
             <der type="SM">-нэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -291,9 +260,7 @@
             <compare>пя̄лла</compare>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -305,9 +272,7 @@
             <der type="SM">-сэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -318,9 +283,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -332,9 +295,7 @@
             <der type="SM">-сэ</der>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -345,9 +306,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -359,9 +318,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -373,9 +330,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -388,9 +343,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -401,9 +354,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -415,9 +366,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
     <e>
@@ -428,9 +377,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
-                <t/>
-            </tg>
+            <lexicon xml:lang="eng">xxxinflectional suffix</lexicon>
         </mg>
     </e>
 </r>

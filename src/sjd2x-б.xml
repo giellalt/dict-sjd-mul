@@ -2,7 +2,8 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 
-<!DOCTYPE r  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictionary.dtd">
+<!DOCTYPE r  
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictionary.dtd">
 <r id="sjd2x" xml:lang="sjd">
     <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always giveproper attribution using the attribution text below. For the full license text, see the link above.</lic>
         
@@ -97,7 +98,7 @@
             <tg xml:lang="rus">
                 <t pos="Phrase_Adv">в течение</t>
                 <t pos="Phrase_Adv">во время</t>
-                <te>о времени</te>
+                <te xml:lang="rus">о времени</te>
             </tg>
             <xg source="1986kert" lemma="бай">
                 <x orth="1986kert" pos="Phrase_Adv">пе̄ййв бай</x>
@@ -115,7 +116,7 @@
         <mg>
             <tg xml:lang="rus">
                 <t pos="Adv">при</t>
-                <te>о пространстве</te>
+                <te xml:lang="rus">о пространстве</te>
             </tg>
             <xg source="1986kert" lemma="бай">
                 <x orth="1986kert" pos="Phrase_Adv">ва̄ррь бай</x>
@@ -179,11 +180,10 @@
             <l pos="N">*басня</l>
             <orth>
                 <lvar orth="1986kert">ба̄сня</lvar>
-                <lvar/>
             </orth>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="N">басня</t>
             </tg>
         </mg>
@@ -196,7 +196,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="N">башня</t>
             </tg>
         </mg>
@@ -430,7 +430,7 @@
             <der type="SM">балъедтэ</der>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -646,7 +646,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="N">барабан</t>
             </tg>
         </mg>
@@ -800,7 +800,7 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -814,7 +814,7 @@
             <der type="SM">бе̄ййдэдтэ</der>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -1131,7 +1131,7 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -1456,7 +1456,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="N">букет</t>
             </tg>
         </mg>
@@ -1469,7 +1469,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -1616,7 +1616,7 @@
             </xg>
             <xg source="1986kert" lemma="быдт">
                 <x orth="1986kert" pos="Phrase_V">быдт мушшьтэ</x>
-                <xtg>
+                <xtg xml:lang="rus">
                     <xt pos="xxx"/>
                 </xtg>
             </xg>
@@ -1642,7 +1642,7 @@
             </orth>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="A">нужный</t>
             </tg>
         </mg>
@@ -1718,7 +1718,7 @@
             <der type="SM">бэдтэ</der>
         </lg>
         <mg>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="A">нужный</t>
             </tg>
         </mg>
@@ -1887,7 +1887,7 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
             <xg source="1985kuru" lemma="бӣннтъе">
@@ -1913,7 +1913,7 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -1961,7 +1961,7 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
         </mg>
@@ -1982,7 +1982,7 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
             <xg source="1985kuru" lemma="бӣнтхэ">
