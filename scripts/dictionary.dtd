@@ -32,18 +32,20 @@
 <!ELEMENT lg (l, orth*, stem*, compare*, der*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
-      pos       (     A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
-                       Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
-                S |
-                Der_N |
-                Cmp_N |
-                Mwe |
-                xxx) #REQUIRED
-      pos_type (    ad | post | pre | 
-                rel | pers | indef | refl | 
-                ord ) #IMPLIED
-      nr ( Sg | Pl ) #IMPLIED
-      person (3) #IMPLIED
+      pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
+                    Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
+                    S |
+                    Der_N |
+                    Cmp_N |
+                    Mwe |
+                    Suf-A | Suf-Adv | Suf-N | Suf-V |
+                    xxx
+                ) #REQUIRED
+      pos_type  (   ad | post | pre | 
+                    rel | pers | indef | refl | 
+                    ord ) #IMPLIED
+      nr        ( Sg | Pl ) #IMPLIED
+      person    (3) #IMPLIED
 >      
 <!-- I need to check what attributes are really useful here
 attr ( ok | no ) #IMPLIED
@@ -105,7 +107,7 @@ attr ( ok | no ) #IMPLIED
 
 <!ELEMENT compare (#PCDATA) >
 
-<!ELEMENT mg (semantics?, sources?, lexicon?, tg+, xg*) >
+<!ELEMENT mg (semantics?, sources?, (lexicon?|tg+)+, xg*) >
 
 <!ELEMENT semantics (sem+, tam*) >
 <!ELEMENT sem EMPTY >
@@ -126,26 +128,31 @@ attr ( ok | no ) #IMPLIED
       xml:lang ( rus ) #IMPLIED
       >
 
-<!ELEMENT tg (t+, re?, te?) >
+<!ELEMENT tg (t+, re?, te?, valency?) >
 <!ATTLIST tg 
       xml:lang ( rus ) #IMPLIED
       term (medicine) #IMPLIED
 >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t pos ( A | N  | V | 
-            Adv | P | Pr | Po | Det |
-            Pron | Prop | I | Interj | CC | CS | Num |
-            Pcle | xxx |
-	    Phrase_N | Phrase_A | Phrase_V | Phrase_Adv) #IMPLIED >
-<!ATTLIST t pos_type (UNPERS) #IMPLIED >
-<!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >  
-<!ATTLIST t gen ( m | f | n | xxx ) #IMPLIED >
-<!ATTLIST t valency ( ком-чём | чего) #IMPLIED >
-<!ATTLIST t coda CDATA #IMPLIED >
-<!ATTLIST t sem-cl ( figurative | literal-figurative) #IMPLIED >
-<!ATTLIST t stat ( pref | notpref | perhaps ) #IMPLIED >
-<!ATTLIST t impf CDATA #IMPLIED >
+<!ATTLIST t
+    pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
+                  Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
+                  S | T |
+                  Der_N |
+                  Cmp_N |
+                  Mwe |
+                  Suf-A | Suf-Adv | Suf-N | Suf-V |
+                  xxx
+                ) #REQUIRED
+    pos_type (  ad | post | pre ) #IMPLIED
+    nr ( Sg | Pl ) #IMPLIED  
+    gen ( m | f | n | xxx ) #IMPLIED
+    coda CDATA #IMPLIED
+    sem-cl ( figurative | literal-figurative | UNPERS) #IMPLIED
+    stat ( pref | notpref | perhaps ) #IMPLIED
+    impf CDATA #IMPLIED 
+>
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: botanics, physics, ... -->
 <!ATTLIST re xml:lang ( rus ) #IMPLIED
@@ -154,16 +161,28 @@ attr ( ok | no ) #IMPLIED
 <!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
 <!ATTLIST te xml:lang ( rus ) #IMPLIED >
 
+<!ELEMENT valency EMPTY >
+<!ATTLIST valency
+    val ( кого | кого-что | ком-чём | кому | чего) #IMPLIED
+    >
+
 <!ELEMENT xg ((x, xtg+)+) >
 <!ATTLIST xg
-    source (2008sarsina1-adposition | 2008sarsina1-tense) #IMPLIED
+    source (1985kuru | 1986kert | 2008sarsina1-adposition | 2008sarsina1-tense) #IMPLIED
+    lemma  CDATA #IMPLIED
     >
     
 <!ELEMENT x (#PCDATA)>
 <!ATTLIST x
-    pos (   N | V |
-            S | T |
-            xxx ) #IMPLIED
+      pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
+                    Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
+                    S | T |
+                    Der_N |
+                    Cmp_N |
+                    Mwe |
+                    Suf-A | Suf-Adv | Suf-N | Suf-V |
+                    xxx
+                ) #REQUIRED
     pos_type ( idiom ) #IMPLIED
     orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars) #IMPLIED
 >
@@ -175,14 +194,30 @@ attr ( ok | no ) #IMPLIED
  
 <!ELEMENT xt (#PCDATA)>
 <!ATTLIST xt 
-    pos ( N | S | V | xxx ) #IMPLIED
-    pos_type (proverb) #IMPLIED
+      pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
+                    Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
+                    S | T |
+                    Der_N |
+                    Cmp_N |
+                    Mwe |
+                    Suf-A | Suf-Adv | Suf-N | Suf-V |
+                    xxx
+                ) #REQUIRED
+    pos_type (idiom | proverb) #IMPLIED
     sem-cl ( figurative | literal-figurative) #IMPLIED
  >
 
 <!ELEMENT xtl (#PCDATA)> <!-- literal translation -->
 <!ATTLIST xtl 
-    pos ( N | S | V | xxx ) #IMPLIED
+    pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
+                    Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
+                    S | T |
+                    Der_N |
+                    Cmp_N |
+                    Mwe |
+                    Suf-A | Suf-Adv | Suf-N | Suf-V |
+                    xxx
+                ) #REQUIRED
     >
 
 <!ELEMENT xhtml:script EMPTY >

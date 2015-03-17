@@ -27,30 +27,30 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">баня</t>
+                <t pos="N">баня</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="ба̄йна">
                 <x orth="1985kuru" pos="V">ба̄йнасьт лоавкнэдтэ</x>
                 <xtg xml:lang="rus">
-                    <xt>мыться в бане</xt>
+                    <xt pos="Phrase_V">мыться в бане</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="ба̄йна">
                 <x orth="1985kuru" pos="V">ба̄йнасьт поаррдэдтэ</x>
                 <xtg xml:lang="rus">
-                    <xt>париться в бане</xt>
+                    <xt pos="Phrase_V">париться в бане</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="ба̄йна">
                 <x orth="1985kuru" pos="V">вӯллькэ ба̄йная</x>
                 <xtg xml:lang="rus">
-                    <xt>пойти в баню</xt>
+                    <xt pos="Phrase_V">пойти в баню</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx" pos_type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
+            <xg source="1985kuru" lemma="ба̄йна">
+                <x orth="1985kuru" pos="Phrase_V" pos_type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
                 <xtg xml:lang="rus">
-                    <xt>задать баню кому-либо</xt>
+                    <xt pos="Phrase_V">задать баню кому-либо</xt>
                 </xtg>
             </xg>
         </mg>
@@ -67,17 +67,17 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">работа</t>
+                <t pos="N">работа</t>
             </tg>
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">сказка</t>
+                <t pos="N">сказка</t>
             </tg>
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">басня</t>
+                <t pos="N">басня</t>
             </tg>
         </mg>
     </e>
@@ -95,32 +95,32 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">в течение</t>
-                <t pos="xxx">во время</t>
+                <t pos="Phrase_Adv">в течение</t>
+                <t pos="Phrase_Adv">во время</t>
                 <te>о времени</te>
             </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">пе̄ййв бай</x>
+            <xg source="1986kert" lemma="бай">
+                <x orth="1986kert" pos="Phrase_Adv">пе̄ййв бай</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">в течение дня</xt>
+                    <xt pos="Phrase_Adv">в течение дня</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">каникулэ ба̄ль</x>
+            <xg source="1986kert" lemma="ба̄ль">
+                <x orth="1986kert" pos="Phrase_Adv">каникулэ ба̄ль</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">во время каникул</xt>
+                    <xt pos="Phrase_Adv">во время каникул</xt>
                 </xtg>
             </xg>
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">при</t>
+                <t pos="Adv">при</t>
                 <te>о пространстве</te>
             </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">ва̄ррь бай</x>
+            <xg source="1986kert" lemma="бай">
+                <x orth="1986kert" pos="Phrase_Adv">ва̄ррь бай</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">на весь лес</xt>
+                    <xt pos="Phrase_Adv">на весь лес</xt>
                 </xtg>
             </xg>
         </mg>
@@ -144,18 +144,18 @@
                 <sem class="sars-chap-2"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">банка</t>
+                <t pos="N">банка</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="ба̄нка">
                 <x orth="1985kuru" pos="N">сте̄клэ ба̄нка</x>
                 <xtg xml:lang="rus">
-                    <xt>стеклянная банка</xt>
+                    <xt pos="Phrase_N">стеклянная банка</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="ба̄нка">
                 <x orth="1985kuru" pos="V">а̄ввьдэ консерв ба̄нка</x>
                 <xtg xml:lang="rus">
-                    <xt>открыть банку консервов</xt>
+                    <xt pos="Phrase_V">открыть банку консервов</xt>
                 </xtg>
             </xg>
         </mg>
@@ -164,19 +164,19 @@
                 <sem class="health"/>
             </semantics>
             <tg xml:lang="rus" term="medicine">
-                <t nr="Pl">банки</t>
+                <t pos="N" nr="Pl">банки</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="ба̄нка">
                 <x orth="1985kuru" pos="V">пыйе кэ̄блая ба̄нкатҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>поставить больному банки</xt>
+                    <xt pos="Phrase_V">поставить больному банки</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">басня</l>
+            <l pos="N">*басня</l>
             <orth>
                 <lvar orth="1986kert">ба̄сня</lvar>
                 <lvar/>
@@ -184,20 +184,20 @@
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="N">басня</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">башня</l>
+            <l pos="N">*башня</l>
             <orth>
                 <lvar orth="1986kert">ба̄шня</lvar>
             </orth>
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="N">башня</t>
             </tg>
         </mg>
     </e>
@@ -218,12 +218,12 @@
             </semantics>
             <lexicon xml:lang="rus">гриб-трутовик на стволе берёзы</lexicon>
             <tg xml:lang="rus">
-                <t pos="xxx">чага</t>
+                <t pos="N">чага</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бакалл">
                 <x orth="1985kuru" pos="N">пе̄ссь-мӯрр бакал</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">чага на стволе берёзы</xt>
+                    <xt pos="Phrase_N">чага на стволе берёзы</xt>
                 </xtg>
             </xg>
         </mg>
@@ -232,13 +232,10 @@
                 <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">шишка на лбу</lexicon>
-            <tg>
-                <t/>
-            </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бакалл">
                 <x pos="S" orth="1985kuru">бакал вуаһца вэллей</x>
                 <xtg xml:lang="rus">
-                    <xt>шишка на лбу вскочила</xt>
+                    <xt pos="Phrase_N">шишка на лбу вскочила</xt>
                 </xtg>
             </xg>
         </mg>
@@ -259,7 +256,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обеспечить кого чагой</t>
+                <t pos="Phrase_V">обеспечить кого чагой</t>
             </tg>
         </mg>
         <mg>
@@ -267,7 +264,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">набить кому шишку ___TE на лбу TE___</t>
+                <t pos="Phrase_V">набить кому шишку ___TE на лбу TE___</t>
             </tg>
         </mg>
     </e>
@@ -287,7 +284,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обеспечиться чагой</t>
+                <t pos="Phrase_V">обеспечиться чагой</t>
             </tg>
         </mg>
         <mg>
@@ -295,12 +292,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">набить кому шишку ___TE на лбу TE___</t>
+                <t pos="Phrase_V">набить кому шишку ___TE на лбу TE___</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">мунн ёрре, вуэһць бакаллълувэ</x>
+            <xg source="1985kuru" lemma="бакаллълуввэ">
+                <x orth="1985kuru" pos="S">мунн ёрре, вуэһць бакаллълувэ</x>
                 <xtg xml:lang="rus">
-                    <xt>я упал и набил шишку на лбу</xt>
+                    <xt pos="S">я упал и набил шишку на лбу</xt>
                 </xtg>
             </xg>
         </mg>
@@ -321,12 +318,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">снять чагу ___TE со ствола берёзы TE___</t>
+                <t pos="Phrase_V">снять чагу ___TE со ствола берёзы TE___</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">мунн пе̄ссь-мӯр бакалхадта</x>
+            <xg source="1985kuru" lemma="бакалхаһтӭ">
+                <x orth="1985kuru" pos="S">мунн пе̄ссь-мӯр бакалхадта</x>
                 <xtg xml:lang="rus">
-                    <xt>я сниму чагу со ствола берёзы</xt>
+                    <xt pos="S">я сниму чагу со ствола берёзы</xt>
                 </xtg>
             </xg>
         </mg>
@@ -335,7 +332,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">вылечить шишку ___TE на лбу TE___</t>
+                <t pos="Phrase_V">вылечить шишку ___TE на лбу TE___</t>
             </tg>
         </mg>
     </e>
@@ -355,7 +352,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">остаться без чаги</t>
+                <t pos="Phrase_V">остаться без чаги</t>
             </tg>
         </mg>
         <mg>
@@ -363,10 +360,10 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">избавиться от шишки ___TE на лбу TE___</t>
+                <t pos="Phrase_V">избавиться от шишки ___TE на лбу TE___</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">те̄нҍт бакал вэ̄дз па̄лэнҍ - бакалхувак</x>
+            <xg source="1985kuru" lemma="бакалхуввэ">
+                <x orth="1985kuru" pos="S">те̄нҍт бакал вэ̄дз па̄лэнҍ - бакалхувак</x>
                 <xtg xml:lang="rus">
                     <xt pos="S">приложи к шишке снег - она станет меньше</xt>
                     <xtl pos="S">приложи к шишке снег - избавишься от неё</xtl>
@@ -389,16 +386,17 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">баловать кого</t>
+                <t pos="V">баловать</t>
+                <valency val="кого"/>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="балъе">
                 <x orth="1985kuru" pos="V">парнатҍ балъе</x>
                 <xtg xml:lang="rus">
-                    <xt>баловать детей</xt>
+                    <xt pos="Phrase_V">баловать детей</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx" pos_type="idiom">парна бальяк, шӯрран — лӯјкак</x>
+            <xg source="1985kuru" lemma="балъе">
+                <x orth="1985kuru" pos="S" pos_type="idiom">парна бальяк, шӯрран — лӯјкак</x>
                 <xtg xml:lang="rus">
                     <xt pos="S" pos_type="proverb">маленького балуешь - с большим плачешь</xt>
                     <xtl pos="S">ребёнка балуешь, с большим – плачешь</xtl>
@@ -408,7 +406,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx">балъеднэһкь</l>
+            <l pos="N">балъеднэһкь</l>
             <orth>
                 <lvar orth="1986kert">балъеднэхьк</lvar>
             </orth>
@@ -419,13 +417,13 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">шутка</t>
+                <t pos="N">шутка</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">балъедсэ</l>
+            <l pos="V">балъедсэ</l>
             <orth>
                 <lvar orth="1986kert">балъедсэ</lvar>
             </orth>
@@ -433,7 +431,7 @@
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -454,12 +452,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">баловаться</t>
+                <t pos="V">баловаться</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">парна вофьсе балъедтлувэ</x>
+            <xg source="1985kuru" lemma="балъедтлуввэ">
+                <x orth="1985kuru" pos="S">парна вофьсе балъедтлувэ</x>
                 <xtg xml:lang="rus">
-                    <xt>ребёнок совсем избаловался</xt>
+                    <xt pos="S">ребёнок совсем избаловался</xt>
                 </xtg>
             </xg>
         </mg>
@@ -482,19 +480,19 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">баловство</t>
+                <t pos="N">баловство</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx" pos_type="idiom">балъедтмушш пӯрь райя эйй выг</x>
+            <xg source="1985kuru" lemma="балъедтмушш">
+                <x orth="1985kuru" pos="S" pos_type="idiom">балъедтмушш пӯрь райя эйй выг</x>
                 <xtg xml:lang="rus">
-                    <xt>баловство до добра не доводит</xt>
+                    <xt pos="S">баловство до добра не доводит</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx" pos_type="idiom">ке̄ балъедтмуж эйй то̄ӆӆькэй, тэдт лӣ
+            <xg source="1985kuru" lemma="балъедтмушш">
+                <x orth="1985kuru" pos="S" pos_type="idiom">ке̄ балъедтмуж эйй то̄ӆӆькэй, тэдт лӣ
                     мӣлхэмэсь</x>
                 <xtg xml:lang="rus">
-                    <xt>кто не понимает шуток, тот неумён</xt>
+                    <xt pos="S">кто не понимает шуток, тот неумён</xt>
                 </xtg>
             </xg>
         </mg>
@@ -517,32 +515,33 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">баловаться</t>
-                <t pos="xxx">шалить</t>
-                <t pos="xxx">проказничать</t>
+                <t pos="V">баловаться</t>
+                <t pos="V">шалить</t>
+                <t pos="V">проказничать</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">балъедтэ эмм анҍт</x>
+            <xg source="1985kuru" lemma="балъедтэ">
+                <x orth="1985kuru" pos="S">балъедтэ эмм анҍт</x>
                 <xtg xml:lang="rus">
-                    <xt>баловаться не позволю</xt>
+                    <xt pos="S">баловаться не позволю</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">па̄ррнэ тоаййв балъедтэв</x>
+            <xg source="1985kuru" lemma="балъедтэ">
+                <x orth="1985kuru" pos="S">па̄ррнэ тоаййв балъедтэв</x>
                 <xtg xml:lang="rus">
-                    <xt>дети часто шалят</xt>
+                    <xt pos="S">дети часто шалят</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx" pos_type="idiom">ча̄сс балъедтэв</x>
+            <xg source="1985kuru" lemma="балъедтэ">
+                <x orth="1985kuru" pos="S" pos_type="idiom">ча̄сс балъедтэв</x>
                 <xtg xml:lang="rus">
-                    <xt>часы шалят</xt>
+                    <xt pos="S">часы шалят</xt>
                 </xtg>
             </xg>
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">шутить, пошутить</t>
+                <t pos="V">шутить</t>
+                <t pos="V">пошутить</t>
             </tg>
         </mg>
     </e>
@@ -562,12 +561,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">потворствовать баловству</t>
+                <t pos="Phrase_V">потворствовать баловству</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">е̄лле балъяһтӭ па̄ррнэтҍ</x>
+            <xg source="1985kuru" lemma="балъяһтӭ">
+                <x orth="1985kuru" pos="S">е̄лле балъяһтӭ па̄ррнэтҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>не потворствуйте баловству детей</xt>
+                    <xt pos="S">не потворствуйте баловству детей</xt>
                 </xtg>
             </xg>
         </mg>
@@ -585,18 +584,18 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">же</t>
+                <t pos="Pcle">же</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бара">
                 <x pos="S" orth="1985kuru">то̄нн бара касьт лӣйекь?</x>
                 <xtg xml:lang="rus">
-                    <xt>где же ты был?</xt>
+                    <xt pos="S">где же ты был?</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бара">
                 <x pos="S" orth="1985kuru">манҍтэ бара со̄нн адтҍ лӣ?</x>
                 <xtg xml:lang="rus">
-                    <xt>какой же он тепёрь?</xt>
+                    <xt pos="S">какой же он тепёрь?</xt>
                 </xtg>
             </xg>
         </mg>
@@ -605,21 +604,21 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">разве</t>
+                <t pos="Pcle">разве</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">ли</t>
+                <t pos="Pcle">ли</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бара">
                 <x pos="S" orth="1985kuru">мунн бара ва̄льтэтҍ?</x>
                 <xtg xml:lang="rus">
-                    <xt>меня разве возьмут?</xt>
+                    <xt pos="S">меня разве возьмут?</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бара">
                 <x pos="S" orth="1985kuru">шӯрр бара лӣ па̄ррьшя, а пэҏтэсьт лӣ ве̄һкь</x>
                 <xtg xml:lang="rus">
-                    <xt>велик ли ребёнок, а всё в доме помощник</xt>
+                    <xt pos="S">велик ли ребёнок, а всё в доме помощник</xt>
                 </xtg>
             </xg>
         </mg>
@@ -628,12 +627,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">зачем</t>
+                <t pos="Adv">зачем</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бара">
                 <x pos="S" orth="1985kuru">мэ̄нн бара со̄нн тэнн са̄ррн?</x>
                 <xtg xml:lang="rus">
-                    <xt>зачем он это говорит?</xt>
+                    <xt pos="S">зачем он это говорит?</xt>
                 </xtg>
             </xg>
         </mg>
@@ -641,14 +640,14 @@
     <e>
         <note>check true existence of this lemma</note>
         <lg>
-            <l pos="xxx">барбанн</l>
+            <l pos="N">барбанн</l>
             <orth>
                 <lvar orth="1986kert">барабан</lvar>
             </orth>
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="N">барабан</t>
             </tg>
         </mg>
     </e>
@@ -668,7 +667,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">батон ___RE хлебный RE___</t>
+                <t pos="N">батон ___RE хлебный RE___</t>
             </tg>
         </mg>
     </e>
@@ -686,29 +685,30 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="Pr" valency="ком-чём" coda="об">о</t>
+                <t pos="Adp" pos_type="pre" coda="об">о</t>
+                <valency val="ком-чём"/>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="баяс">
                 <x pos="S" orth="1985kuru">моайнсэгке тэнн баяс!</x>
                 <xtg xml:lang="rus">
-                    <xt>расскажите об этом!</xt>
+                    <xt pos="S">расскажите об этом!</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="баяс">
                 <x pos="S" orth="1985kuru">пӯдӭ роам соагк вуэјјтэм баяс</x>
                 <xtg xml:lang="rus">
-                    <xt>пришла радостная весть о победе</xt>
+                    <xt pos="S">пришла радостная весть о победе</xt>
                 </xtg>
             </xg>
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">про</t>
+                <t pos="Adv">про</t>
             </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">моайнас рӣмьн байяс</x>
+            <xg source="1986kert" lemma="байяс">
+                <x orth="1986kert" pos="Phrase_N">моайнас рӣмьн байяс</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">сказка про лису</xt>
+                    <xt pos="Phrase_N">сказка про лису</xt>
                 </xtg>
             </xg>
             <xg source="2008sarsina1-adposition">
@@ -737,7 +737,8 @@
                 <tam>inogda_byvalo</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="V" valency="чего">добиваться</t>
+                <t pos="V">добиваться</t>
+                <valency val="чего"/>
             </tg>
         </mg>
         <mg>
@@ -747,7 +748,7 @@
                 <tam>inogda_byvalo</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t sem-cl="figurative">биться над чем</t>
+                <t pos="Phrase_V" sem-cl="figurative">биться над чем</t>
             </tg>
         </mg>
     </e>
@@ -768,7 +769,8 @@
                 <tam>bystro</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">добиться чего</t>
+                <t pos="V">добиться</t>
+                <valency val="чего"/>
             </tg>
         </mg>
         <mg>
@@ -777,7 +779,7 @@
                 <tam>nedolgo</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t sem-cl="figurative">побиться над чем</t>
+                <t pos="V" sem-cl="figurative">побиться над чем</t>
             </tg>
         </mg>
     </e>
@@ -797,14 +799,14 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+            <tg>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">бе̄ййдэдтмушш</l>
+            <l pos="Der_N">бе̄ййдэдтмушш</l>
             <orth>
                 <lvar orth="1986kert">бе̄ййдэдтмушш</lvar>
             </orth>
@@ -812,7 +814,7 @@
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -832,12 +834,13 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t valency="чего">добиваться</t>
+                <t pos="V">добиваться</t>
+                <valency val="чего"/>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
                 <x pos="S" orth="1985kuru">мыйй кугкь бе̄ййдэдэмь тэнн уййнлэдтмуж баяс</x>
                 <xtg xml:lang="rus">
-                    <xt>мы долго добивались этой встречи</xt>
+                    <xt pos="S">мы долго добивались этой встречи</xt>
                 </xtg>
             </xg>
         </mg>
@@ -846,29 +849,30 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t sem-cl="figurative">биться над чем</t>
+                <t pos="V" sem-cl="figurative">биться над чем</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
                 <x orth="1985kuru" pos="V">ло̄ссесь задача альн бе̄ййдэдтэ</x>
                 <xtg xml:lang="rus">
-                    <xt>биться над решением трудной задачи</xt>
+                    <xt pos="Phrase_V">биться над решением трудной задачи</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="V">ле̄ййп куськ гуэйкэ бе̄ййдэдтэ</x>
+            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
+                <x orth="1985kuru" pos="V" pos_type="idiom">ле̄ййп куськ гуэйкэ бе̄ййдэдтэ</x>
                 <xtg xml:lang="rus">
-                    <xt>биться из-за куска хлеба (т.е. бедствовать)</xt>
+                    <xt pos="V">бедствовать</xt>
+                    <xtl pos="Phrase_V">биться из-за куска хлеба</xtl>
                 </xtg>
             </xg>
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">бороться</t>
+                <t pos="V">бороться</t>
             </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">бе̄ййдэдтэ мыр гузйке</x>
+            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
+                <x orth="1986kert" pos="Phrase_V">бе̄ййдэдтэ мыр гузйке</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">бороться за мир</xt>
+                    <xt pos="Phrase_V">бороться за мир</xt>
                 </xtg>
             </xg>
         </mg>
@@ -890,7 +894,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -903,20 +907,20 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">очень</t>
+                <t pos="Adv">очень</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">безударнэ</l>
+            <l pos="A">безударнэ</l>
             <orth>
                 <lvar orth="1986kert">безударнэ</lvar>
             </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">безударный</t>
+                <t pos="A">безударный</t>
             </tg>
         </mg>
     </e>
@@ -936,36 +940,36 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">библиотека</t>
+                <t pos="N">библиотека</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="библиотека">
                 <x orth="1985kuru" pos="N">ланнҍ библиотека</x>
                 <xtg xml:lang="rus">
-                    <xt>городская библиотека</xt>
+                    <xt pos="Phrase_N">городская библиотека</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="библиотека">
                 <x orth="1985kuru" pos="N">па̄ррнэ гуэйкэ библиотека</x>
                 <xtg xml:lang="rus">
-                    <xt>детская библиотека</xt>
+                    <xt pos="Phrase_N">детская библиотека</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="библиотека">
                 <x orth="1985kuru" pos="N">уһцэй библиотека</x>
                 <xtg xml:lang="rus">
-                    <xt>библиотека учителя</xt>
+                    <xt pos="Phrase_N">библиотека учителя</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="библиотека">
                 <x orth="1985kuru" pos="N">библиотека кнӣга</x>
                 <xtg xml:lang="rus">
-                    <xt>библиотечная книга</xt>
+                    <xt pos="Phrase_N">библиотечная книга</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="библиотека">
                 <x orth="1985kuru" pos="N">библиотекасьт лыһкэй</x>
                 <xtg xml:lang="rus">
-                    <xt>библиотекарь</xt>
+                    <xt pos="N">библиотекарь</xt>
                 </xtg>
             </xg>
         </mg>
@@ -987,30 +991,30 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">билет</t>
+                <t pos="N">билет</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="билеһт">
                 <x orth="1985kuru" pos="N">ёадтӭм билеһт</x>
                 <xtg xml:lang="rus">
-                    <xt>проездной билет</xt>
+                    <xt pos="Phrase_N">проездной билет</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="билеһт">
                 <x orth="1985kuru" pos="N">о̄һпнуввэй билеһт</x>
                 <xtg xml:lang="rus">
-                    <xt>ученический билет</xt>
+                    <xt pos="Phrase_N">ученический билет</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">кинобилет</x>
+            <xg source="1986kert" lemma="билет">
+                <x orth="1986kert" pos="Cmp_N">кинобилет</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">билет в кино</xt>
+                    <xt pos="Phrase_N">билет в кино</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">профсоюзнэ билет</x>
+            <xg source="1986kert" lemma="билет">
+                <x orth="1986kert" pos="Phrase_N">профсоюзнэ билет</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">профсоюзный билет</xt>
+                    <xt pos="Phrase_N">профсоюзный билет</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1031,7 +1035,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обеспечить кого билетом</t>
+                <t pos="Phrase_V">обеспечить кого билетом</t>
             </tg>
         </mg>
     </e>
@@ -1051,13 +1055,13 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обзавестись билетом</t>
-                <t pos="xxx">приобрести билет</t>
+                <t pos="Phrase_V">обзавестись билетом</t>
+                <t pos="Phrase_V">приобрести билет</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">билеһтлуввэ бэдт тампханна</x>
+            <xg source="1985kuru" lemma="билеһтлуввэ">
+                <x orth="1985kuru" pos="S">билеһтлуввэ бэдт тампханна</x>
                 <xtg xml:lang="rus">
-                    <xt>билеты нужно приобрести заблаговременно</xt>
+                    <xt pos="S">билеты нужно приобрести заблаговременно</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1080,8 +1084,8 @@
                 <tam>inogda_byvalo</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обзаводиться билетом</t>
-                <t pos="xxx">приобретать билет</t>
+                <t pos="Phrase_V">обзаводиться билетом</t>
+                <t pos="Phrase_V">приобретать билет</t>
             </tg>
         </mg>
     </e>
@@ -1103,7 +1107,8 @@
                 <tam>inogda_byvalo</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">бинтовать кого-что</t>
+                <t pos="V">бинтовать</t>
+                <valency val="кого-что"/>
             </tg>
         </mg>
     </e>
@@ -1123,8 +1128,8 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+            <tg>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1138,32 +1143,33 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">боевой</t>
+                <t pos="A">боевой</t>
             </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">бо̄йесъ тоаврэж</x>
+            <xg source="1986kert" lemma="бо̄йесь">
+                <x orth="1986kert" pos="Phrase_N">бо̄йесъ тоаврэж</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">боевой товарищ</xt>
+                    <xt pos="Phrase_N">боевой товарищ</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x pos="xxx" orth="1986kert">бо̄йесь ка̄ннҍц</x>
+            <xg source="1986kert" lemma="бо̄йесь">
+                <x pos="Phrase_N" orth="1986kert">бо̄йесь ка̄ннҍц</x>
                 <xtg xml:lang="rus">
-                    <xt>боевой друг</xt>
+                    <xt pos="Phrase_N">боевой друг</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">бо̄йй</l>
+            <l pos="N">бо̄йй</l>
             <orth>
                 <lvar orth="1986kert">бо̄йй</lvar>
             </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">боевой, бойкий</t>
+                <t pos="A">боевой</t>
+                <t pos="A">бойкий</t>
             </tg>
         </mg>
     </e>
@@ -1186,24 +1192,24 @@
                 <sem class="sars-chap-8"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">баран</t>
+                <t pos="N">баран</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="боаран">
                 <x orth="1985kuru" pos="N">боаран чуэз</x>
                 <xtg xml:lang="rus">
-                    <xt sem-cl="literal-figurative">стадо баранов</xt>
+                    <xt pos="Phrase_N" sem-cl="literal-figurative">стадо баранов</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="боаран">
                 <x pos="S" orth="1985kuru">ёадтёв гӯ боаран чуэз</x>
                 <xtg xml:lang="rus">
-                    <xt>[они] идут как стадо баранов</xt>
+                    <xt pos="S">[они] идут как стадо баранов</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx" pos_type="idiom">со̄ййлаһтӭ боаран чуэррьвэнҍ</x>
+            <xg source="1985kuru" lemma="боаран">
+                <x orth="1985kuru" pos="Phrase_V" pos_type="idiom">со̄ййлаһтӭ боаран чуэррьвэнҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>согнуть кого в бараний рог</xt>
+                    <xt pos="Phrase_V">согнуть кого в бараний рог</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1220,7 +1226,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">большевистский</t>
+                <t pos="A">большевистский</t>
             </tg>
         </mg>
     </e>
@@ -1240,7 +1246,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">большевик</t>
+                <t pos="N">большевик</t>
             </tg>
         </mg>
     </e>
@@ -1262,27 +1268,27 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t nr="Pl">ботинки</t>
-                <t gen="m" nr="Sg">ботинок</t>
+                <t pos="N" nr="Pl">ботинки</t>
+                <t pos="N" gen="m" nr="Sg">ботинок</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="ботинка">
                 <x orth="1985kuru" pos="V">вуэссьтэ о̄дт ботинкатҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>купить новые ботинки</xt>
+                    <xt pos="Phrase_V">купить новые ботинки</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">боһтэрь</l>
+            <l pos="N">боһтэрь</l>
             <orth>
                 <lvar orth="1986kert">боххьтэрь</lvar>
             </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">богатырь</t>
+                <t pos="N">богатырь</t>
             </tg>
         </mg>
     </e>
@@ -1302,12 +1308,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">бревно</t>
+                <t pos="N">бревно</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бре̄ввьн">
                 <x orth="1985kuru" pos="V">пыллэ брӣвьнэтҍ лӯввьтэнҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>распилить брёвна на доски</xt>
+                    <xt pos="Phrase_V">распилить брёвна на доски</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1329,18 +1335,18 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">бригада</t>
+                <t pos="N">бригада</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бригада">
                 <x orth="1985kuru" pos="N">кӯлль шыллей бригада</x>
                 <xtg xml:lang="rus">
-                    <xt>рыболовецкая бригада</xt>
+                    <xt pos="Phrase_N">рыболовецкая бригада</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x pos="xxx" orth="1986kert">коммунистическэ лыгк бригада</x>
+            <xg source="1986kert" lemma="бригада">
+                <x pos="Phrase_N" orth="1986kert">коммунистическэ лыгк бригада</x>
                 <xtg xml:lang="rus">
-                    <xt>бригада коммунистического труда</xt>
+                    <xt pos="Phrase_N">бригада коммунистического труда</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1361,19 +1367,19 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">бригадир</t>
+                <t pos="N">бригадир</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бригадирр">
                 <x orth="1985kuru" pos="V">бригадиррэнҍ лыһкэ</x>
                 <xtg xml:lang="rus">
-                    <xt>работать бригадиром</xt>
+                    <xt pos="Phrase_V">работать бригадиром</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="280">
         <lg>
-            <l pos="N">брошка</l>
+            <l pos="N">*брошка</l>
             <orth>
                 <lvar orth="1985kuru">бро̄шка</lvar>
             </orth>
@@ -1387,15 +1393,15 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">брошка</t>
+                <t pos="N">брошка</t>
             </tg>
             <tg xml:lang="rus">
-                <t gen="f">брошь</t>
+                <t pos="N" gen="f">брошь</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бро̄шка">
                 <x orth="1985kuru" pos="V">бро̄шка соалпсэ коаввлсэ</x>
                 <xtg xml:lang="rus">
-                    <xt>приколоть брошь к воротнику</xt>
+                    <xt pos="Phrase_V">приколоть брошь к воротнику</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1417,51 +1423,51 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t gen="m">букварь</t>
+                <t pos="N" gen="m">букварь</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="букваррь">
                 <x orth="1985kuru" pos="N">са̄мь букваррь</x>
                 <xtg xml:lang="rus">
-                    <xt>саамский букварь</xt>
+                    <xt pos="Phrase_N">саамский букварь</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="букваррь">
                 <x orth="1985kuru" pos="N">рӯшш букваррь</x>
                 <xtg xml:lang="rus">
-                    <xt>русский букварь</xt>
+                    <xt pos="Phrase_N">русский букварь</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="букваррь">
                 <x orth="1985kuru" pos="V">букварь мӣлльтэ ло̄гкэ</x>
                 <xtg xml:lang="rus">
-                    <xt>читать по букварю</xt>
+                    <xt pos="Phrase_V">читать по букварю</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">*букет</l>
+            <l pos="N">*букет</l>
             <orth>
                 <lvar orth="1986kert">букет</lvar>
             </orth>
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="N">букет</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx">*булка</l>
+            <l pos="N">*булка</l>
             <orth>
                 <lvar orth="1986kert">булка</lvar>
             </orth>
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1481,7 +1487,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">буржуазия</t>
+                <t pos="N">буржуазия</t>
             </tg>
         </mg>
     </e>
@@ -1497,7 +1503,7 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">буржуазный</t>
+                <t pos="A">буржуазный</t>
             </tg>
         </mg>
     </e>
@@ -1516,14 +1522,14 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx">бухмарнэ</l>
+            <l pos="A">бухмарнэ</l>
             <orth>
                 <lvar orth="1986kert">бухмарнэ</lvar>
             </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">пасмурный</t>
+                <t pos="A">пасмурный</t>
             </tg>
         </mg>
     </e>
@@ -1541,24 +1547,24 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">надо бы</t>
+                <t pos="S">надо бы</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдаһч">
                 <x pos="S" orth="1985kuru">бэдаһч куаррэ</x>
                 <xtg xml:lang="rus">
-                    <xt>надо бы шить</xt>
+                    <xt pos="S">надо бы шить</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдаһч">
                 <x pos="S" orth="1985kuru">бэдтӭ ля̄йй</x>
                 <xtg xml:lang="rus">
-                    <xt>надо было</xt>
+                    <xt pos="S">надо было</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдаһч">
                 <x pos="S" orth="1985kuru">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
                 <xtg xml:lang="rus">
-                    <xt>нужно было вместе ехать</xt>
+                    <xt pos="S">нужно было вместе ехать</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1567,14 +1573,14 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">требуется</t>
-                <t pos="xxx">нужно</t>
-                <t pos="xxx">следует иметь</t>
+                <t pos="V">требуется</t>
+                <t pos="Phrase_V">нужно</t>
+                <t pos="Phrase_V">следует иметь</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдаһч">
                 <x pos="S" orth="1985kuru">заводтӭ бэдт лыһкъетҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>заводу требуются рабочие</xt>
+                    <xt pos="S">заводу требуются рабочие</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1595,20 +1601,20 @@
             </semantics>
             <lexicon xml:lang="rus">необходимо что-л. сделать</lexicon>
             <tg xml:lang="rus">
-                <t pos="xxx">нужно</t>
-                <t pos="xxx">следует</t>
-                <t pos="xxx">надо</t>
+                <t pos="Phrase_V">нужно</t>
+                <t pos="Phrase_V">следует</t>
+                <t pos="Phrase_V">надо</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдт">
                 <x pos="S" orth="1985kuru">бэдт це̄ӆӆькэ со̄бэр баяс</x>
                 <xtg xml:lang="rus">
-                    <xt>нужно сказать о собрании</xt>
+                    <xt pos="S">нужно сказать о собрании</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">быдт мушшьтэ</x>
+            <xg source="1986kert" lemma="быдт">
+                <x orth="1986kert" pos="Phrase_V">быдт мушшьтэ</x>
                 <xtg>
-                    <xt/>
+                    <xt pos="xxx"/>
                 </xtg>
             </xg>
             <xg source="2008sarsina1-tense">
@@ -1634,14 +1640,14 @@
         </lg>
         <mg>
             <tg>
-                <t/>
+                <t pos="A">нужный</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="291">
         <note>pos??</note>
         <lg>
-            <l pos="xxx">бэдтэ</l>
+            <l pos="V">бэдтэ</l>
             <orth>
                 <lvar orth="1985kuru">бэдтэ</lvar>
             </orth>
@@ -1651,21 +1657,21 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">неужели</t>
+                <t pos="Pcle">неужели</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">разве</t>
+                <t pos="Pcle">разве</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдтэ">
                 <x pos="S" orth="1985kuru">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
                 <xtg xml:lang="rus">
-                    <xt>неужели вы не понимаете?</xt>
+                    <xt pos="S">неужели вы не понимаете?</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдтэ">
                 <x pos="S" orth="1985kuru">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
                 <xtg xml:lang="rus">
-                    <xt>разве вы к нам придёте?</xt>
+                    <xt pos="S">разве вы к нам придёте?</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1674,13 +1680,13 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">как</t>
-                <t pos="xxx">словно</t>
+                <t pos="Adv">как</t>
+                <t pos="Adv">словно</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдтэ">
                 <x pos="S" orth="1985kuru">бэдтэ е̄лльмэнҍ кя̄һч</x>
                 <xtg xml:lang="rus">
-                    <xt>[он] смотрит, как живой</xt>
+                    <xt pos="S">[он] смотрит, как живой</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1689,19 +1695,19 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">что</t>
+                <t pos="CS">что</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бэдтэ">
                 <x pos="S" orth="1985kuru">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
                 <xtg xml:lang="rus">
-                    <xt>[он] уверяет, что сам слышал об этом</xt>
+                    <xt pos="S">[он] уверяет, что сам слышал об этом</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="N">бэдтэй</l>
+            <l pos="Der_N">бэдтэй</l>
             <orth>
                 <lvar orth="1986kert">быдтэй</lvar>
                 <lvar orth="1986ker1">быдтӭй</lvar>
@@ -1710,7 +1716,7 @@
         </lg>
         <mg>
             <tg>
-                <t>нужный</t>
+                <t pos="A">нужный</t>
             </tg>
         </mg>
     </e>
@@ -1730,15 +1736,16 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">потребоваться кому</t>
-                <t pos="xxx">понадобиться кому</t>
-                <t pos="xxx">стать нужным кому</t>
-                <t pos="xxx">стать необходимым кому</t>
+                <t pos="V">потребоваться</t>
+                <t pos="V">понадобиться</t>
+                <t pos="Phrase_V">стать нужным</t>
+                <t pos="Phrase_V">стать необходимым</t>
+                <valency val="кому"/>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">мыннӭ бэдҍсувв то̄н ве̄һкьвудт</x>
+            <xg source="1985kuru" lemma="бэдҍсуввэ">
+                <x orth="1985kuru" pos="S">мыннӭ бэдҍсувв то̄н ве̄һкьвудт</x>
                 <xtg xml:lang="rus">
-                    <xt>мне потребуется твоя помощь</xt>
+                    <xt pos="S">мне потребуется твоя помощь</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1747,18 +1754,18 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="V" pos_type="UNPERS">прийтись кому ___TE что-л. сделать TE___</t>
+                <t pos="V" sem-cl="UNPERS">прийтись кому ___TE что-л. сделать TE___</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">соннӭ бэдҍсувв уййтэ</x>
+            <xg source="1985kuru" lemma="бэдҍсуввэ">
+                <x orth="1985kuru" pos="S">соннӭ бэдҍсувв уййтэ</x>
                 <xtg xml:lang="rus">
-                    <xt>ему придётся уйти</xt>
+                    <xt pos="S">ему придётся уйти</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">мыйе бэдҍсувэ кугкь ва̄ннҍцэ</x>
+            <xg source="1985kuru" lemma="бэдҍсуввэ">
+                <x orth="1985kuru" pos="S">мыйе бэдҍсувэ кугкь ва̄ннҍцэ</x>
                 <xtg xml:lang="rus">
-                    <xt>нам пришлось долго идти</xt>
+                    <xt pos="S">нам пришлось долго идти</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1779,13 +1786,14 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">потребоваться кому</t>
-                <t pos="xxx">понадобиться кому</t>
+                <t pos="V">потребоваться</t>
+                <t pos="V">понадобиться</t>
+                <valency val="кому"/>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">мыннӭ бэдӓст тэдта кнӣга</x>
+            <xg source="1985kuru" lemma="бэдҍсэ">
+                <x orth="1985kuru" pos="S">мыннӭ бэдӓст тэдта кнӣга</x>
                 <xtg xml:lang="rus">
-                    <xt>мне потребуется эта книга</xt>
+                    <xt pos="S">мне потребуется эта книга</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1802,13 +1810,13 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">пятнистый</t>
-                <t pos="xxx">пёстрый</t>
+                <t pos="A">пятнистый</t>
+                <t pos="A">пёстрый</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бяган">
                 <x orth="1985kuru" pos="N">бяган а̄ллт</x>
                 <xtg xml:lang="rus">
-                    <xt>пёстрая важенка</xt>
+                    <xt pos="Phrase_N">пёстрая важенка</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1829,13 +1837,13 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">бинт</t>
+                <t pos="N">бинт</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бӣннт">
                 <x orth="1985kuru" pos="V">кӣссэ ра̄ӊҍ бӣнтэнҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>наложить бинт на рану</xt>
-                    <xt>замотать рану бинтом</xt>
+                    <xt pos="Phrase_V">наложить бинт на рану</xt>
+                    <xt pos="Phrase_V">замотать рану бинтом</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1857,7 +1865,8 @@
                 <tam>bystro</tam>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">забинтовать кого-что</t>
+                <t pos="V">забинтовать</t>
+                <valency val="кого-что"/>
             </tg>
         </mg>
     </e>
@@ -1877,13 +1886,13 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+            <tg>
+                <t pos="xxx"/>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">ра̄ӊӊҍ бӣннтэй</x>
+            <xg source="1985kuru" lemma="бӣннтъе">
+                <x orth="1985kuru" pos="S">ра̄ӊӊҍ бӣннтэй</x>
                 <xtg xml:lang="rus">
-                    <xt>рана забинтована</xt>
+                    <xt pos="S">рана забинтована</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1903,8 +1912,8 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+            <tg>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1924,12 +1933,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t impf="забинтовать">бинтовать кого-что</t>
+                <t pos="V" impf="забинтовать">бинтовать кого-что</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">бӣннтэ кӣд</x>
+            <xg source="1985kuru" lemma="бӣннтэ">
+                <x orth="1985kuru" pos="Phrase_V">бӣннтэ кӣд</x>
                 <xtg xml:lang="rus">
-                    <xt>забинтовать руку</xt>
+                    <xt pos="Phrase_V">забинтовать руку</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1950,8 +1959,8 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+            <tg>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1971,20 +1980,20 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="xxx">xxx</t>
+            <tg>
+                <t pos="xxx"/>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">бэдт кэ̄бласьт кӣд бӣнтхэ</x>
+            <xg source="1985kuru" lemma="бӣнтхэ">
+                <x orth="1985kuru" pos="S">бэдт кэ̄бласьт кӣд бӣнтхэ</x>
                 <xtg xml:lang="rus">
-                    <xt>надо забинтовать больному руку</xt>
+                    <xt pos="S">надо забинтовать больному руку</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="281">
         <lg>
-            <l pos="N">буква</l>
+            <l pos="N">*буква</l>
             <orth>
                 <lvar orth="1985kuru">бӯква</lvar>
                 <lvar orth="1986kert">буква</lvar>
@@ -1999,51 +2008,53 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">буква</t>
+                <t pos="N">буква</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бӯква">
                 <x orth="1985kuru" pos="V">кырьйхэ шӯрр бӯкванҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>писать с большой буквы</xt>
+                    <xt pos="Phrase_V">писать с большой буквы</xt>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бӯква">
                 <x orth="1985kuru" pos="N">шӯрр бӯква</x>
                 <xtg xml:lang="rus">
-                    <xt>прописная буква</xt>
-                    <xt>заглавная буква</xt>
-                    <xtl>большая буква</xtl>
+                    <xt pos="Phrase_N">прописная буква</xt>
+                    <xt pos="Phrase_N">заглавная буква</xt>
+                    <xtl pos="Phrase_N">большая буква</xtl>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бӯква">
                 <x orth="1985kuru" pos="N">удць бӯква</x>
                 <xtg xml:lang="rus">
-                    <xt>строчная буква (т.е. маленькая буква)</xt>
+                    <xt pos="Phrase_N">строчная буква</xt>
+                    <xtl pos="Phrase_N">маленькая буква</xtl>
                 </xtg>
             </xg>
-            <xg>
+            <xg source="1985kuru" lemma="бӯква">
                 <x orth="1985kuru" pos="N">бӯкватҍ уһцэм кэ̄сск</x>
                 <xtg xml:lang="rus">
-                    <xt>букварный период (в школе)</xt>
+                    <xt pos="Phrase_N">букварный период (в школе)</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">гла̄снэ буква</x>
+            <xg source="1985kuru" lemma="бӯква">
+                <x orth="1986kert" pos="Phrase_N">гла̄снэ буква</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">гласная буква</xt>
+                    <xt pos="Phrase_N">гласная буква</xt>
                 </xtg>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">шӯрр буква</x>
+            <xg source="1986kert" lemma="буква">
+                <x orth="1986kert" pos="Phrase_N">шӯрр буква</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">большая (прописная) буква</xt>
+                    <xt pos="Phrase_N">прописная буква</xt>
+                    <xtl pos="Phrase_N">большая буква</xtl>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="285">
         <lg>
-            <l pos="N">бурка</l>
+            <l pos="N">*бурка</l>
             <orth>
                 <lvar orth="1985kuru">бӯрка</lvar>
             </orth>
@@ -2061,12 +2072,12 @@
                 украшается койбами контрастного цвета с орнаментом, напр. головы оленя с
                 рогами</lexicon>
             <tg xml:lang="rus">
-                <t pos="xxx">бурки</t>
+                <t pos="N" nr="Pl">бурки</t>
             </tg>
-            <xg>
+            <xg source="1985kuru" lemma="бӯрка">
                 <x orth="1985kuru" pos="V">куаррэ о̄дт бӯркатҍ</x>
                 <xtg xml:lang="rus">
-                    <xt>сшить новые бурки</xt>
+                    <xt pos="Phrase_V">сшить новые бурки</xt>
                 </xtg>
             </xg>
         </mg>
@@ -2087,12 +2098,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обеспечить кого бурками</t>
+                <t pos="Phrase_V">обеспечить кого бурками</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">куэссь ӣджь куарак, танна пӣррас вуайй бӯркалаһтӭ</x>
+            <xg source="1985kuru" lemma="бӯркалаһтӭ">
+                <x orth="1985kuru" pos="S">куэссь ӣджь куарак, танна пӣррас вуайй бӯркалаһтӭ</x>
                 <xtg xml:lang="rus">
-                    <xt>когда сам шьёшь, можно всю семью бурками обеспечить</xt>
+                    <xt pos="S">когда сам шьёшь, можно всю семью бурками обеспечить</xt>
                 </xtg>
             </xg>
         </mg>
@@ -2113,12 +2124,12 @@
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="xxx">обзавестись бурками</t>
+                <t pos="Phrase_V">обзавестись бурками</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">мунн бӯркалувве</x>
+            <xg source="1985kuru" lemma="бӯркалуввэ">
+                <x orth="1985kuru" pos="S">мунн бӯркалувве</x>
                 <xtg xml:lang="rus">
-                    <xt>у меня появились бурки</xt>
+                    <xt pos="S">у меня появились бурки</xt>
                 </xtg>
             </xg>
         </mg>
@@ -2132,7 +2143,7 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">бурый</t>
+                <t pos="A">бурый</t>
             </tg>
         </mg>
     </e>
