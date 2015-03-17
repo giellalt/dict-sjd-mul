@@ -163,7 +163,7 @@ attr ( ok | no ) #IMPLIED
 
 <!ELEMENT valency EMPTY >
 <!ATTLIST valency
-    val ( кого | кого-что | ком-чём | кому | чего) #IMPLIED
+    val ( кого | кого-что | ком-чём | кому | над_чем | чего) #IMPLIED
     >
 
 <!ELEMENT xg ((x, xtg+)+) >
