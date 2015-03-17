@@ -1,5 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="1107">
+        <lg>
+            <l pos="Det" bound="-дэдт">тэдт</l>
+            <orth>
+                <lvar orth="1985kuru" bound="-дэдт">тэдт</lvar>
+                <lvar orth="1986kert">тэдт</lvar>
+                <lvar orth="2008sars" bound="-дэдт">тэдт</lvar>
+            </orth>
+            <stem>
+                <stem_kert nr="Pl">тэгк</stem_kert>
+            </stem>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg>
+                <t pos="Det" f="эта">этот</t>
+                <t pos="Det" f="та">тот (наименее удалённый)</t>
+            </tg>
+            <tg>
+                <t pos="Det">-то</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="S">мунн-дэдт тон те̄да</x>
+                <xtg>
+                    <xt>я-то тебя знаю</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="N" orth="2008sars">нӣйта-дэдт</x>
+                <xtg>
+                    <xt>девочка-то</xt>
+                    <xt>девочка эта</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="Pron" orth="2008sars">то̄нн-дэдт</x>
+                <xtg>
+                    <xt>ты-то</xt>
+                    <xt>ты это</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="1108" kur_ID2="6505" kur_ID3="6496">
+        <lg>
+            <l pos="Det">тэдта</l>
+            <orth>
+                <lvar orth="1985kuru" bound="-дэдтӭ">тэдта</lvar>
+                <lvar orth="1986kert">тэдта</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">тэгка</stem_kuru>
+            </stem>
+            <compare>тэдт</compare>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg>
+                <t pos="Det" f="эта">этот</t>
+            </tg>
+            <tg>
+                <t pos="Det">-то</t>
+            </tg>
+            <xg source="1985kuru" source_lemma="-дэдтӭ">
+                <x orth="1985kuru" pos="S">касьт-дэдтӭ со̄нн адтҍ лӣ?!</x>
+                <xtg>
+                    <xt>где-то он сейчас?!</xt>
+                </xtg>
+            </xg>
+            <xg source="1985kuru" source_lemma="тэдта">
+                <x orth="1985kuru-sjd" pos="S">ке̄ тэдта пӯдӭ?</x>
+                <xt>кто это пришёл?</xt>
+            </xg>
+            <xg source="1985kuru" source_lemma="тэдта">
+                <x orth="1985kuru-sjd" pos="xxx">тэнна вуэр</x>
+                <xt>на этот раз</xt>
+            </xg>
+            <xg source="1985kuru" source_lemma="тэдта">
+                <x orth="1985kuru-sjd" pos="xxx">тэнна ёгк рынтэсьт</x>
+                <xt>на этом берегу реки</xt>
+            </xg>
+            <xg source="1985kuru" source_lemma="тэдта">
+                <x orth="1985kuru-sjd" pos="xxx">мунн эмм тӣдҍ тэйта сэетҍ</x>
+                <xt>я не знаю этих мест</xt>
+            </xg>
+            <xg source="1985kuru" source_lemma="тэдта">
+                <x orth="1985kuru-sjd" pos="xxx">тэгка сай ле̄в а̄нҍсуввма</x>
+                <xt>эти места заняты</xt>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="Det" bound="-дэйт">тэйт</l>
+            <orth>
+                <lvar orth="2008sars" bound="-дэйт"/>
+            </orth>
+            <infl type="SM">тэдт</infl>
+        </lg>
+        <mg>
+            <tg>
+                <t/>
+            </tg>
+            <xg>
+                <x pos="N" orth="2008sars">кырье-дэйт</x>
+                <xtg>
+                    <xt>книги-то</xt>
+                    <xt>книги эти</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="1109">
+        <lg>
+            <l pos="Det" bound="-дэн">тэ̄нн</l>
+            <orth>
+                <lvar orth="1985kuru" bound="-дэн"/>
+                <lvar orth="2008sars" bound="-дэн"/>
+            </orth>
+            <infl type="SM">тэдт</infl>
+        </lg>
+        <mg>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg>
+                <t>-то</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">кнӣга-дэн ло̄гкекь?</x>
+                <xtg>
+                    <xt>[ты] книгу-то прочёл?</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">нӣййтант-дэн ва̄лтак мӣлльтэ?</x>
+                <xtg>
+                    <xt>а дочку-то возьмёшь с собой?</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="N" orth="2008sars">нӣйта-дэн</x>
+                <xtg>
+                    <xt>девочку-то</xt>
+                    <xt>девочку эту</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="CC" bound="-де">те</l>
+            <orth>
+                <lvar orth="1986kert" bound="де">те</lvar>
+                <lvar orth="2008sars" bound="ди"/>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="CC">и</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">сонн пудӭ де цӣӆьке</x>
+                <xtg>
+                    <xt>он пришёл и сказал</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">сонн пудӭ те цӣӆьке</x>
+                <xtg>
+                    <xt>он пришёл и сказал</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">потом, затем, вот</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">те со̄нн моаст ванҍцель</x>
+                <xtg>
+                    <xt>потом он пошёл обратно</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="xxx">туарр</l>
