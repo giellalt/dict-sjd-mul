@@ -1,15 +1,22 @@
-This directory contains material relevant to Kildin Saami. The src directory contains the data in gtdictionary format (with some adaptations to be explained elsewhere). 
+=======
+General
+=======
 
-Incoming files are in the /inc directory. The incoming data includes Kildin Saami lexical items collected from from
-*fieldnotes (Kola Saami Documentation Project, 2004+)
-*dictionary Itkonen 1958
-*dictionary Afanas'eva et al. 1985
-*dictionary Kert 1986
-*dictionary Sammallahti et al. 1991
-*dictionary Eliseev et al. 2007
-*teaching materials Antonova 1982
-*teaching materials Šaršina et al. 2008
-*phrase book Afanas'eva 2010
+This directory contains lexical material relevant to Kildin Saami. The /src directory contains the data in gtdictionary format (with some adaptations to be explained elsewhere) and is linked to a scheme (found in ../scripts/dictionary.dtd) in order to format it if read by a web browser. 
+
+Incoming files are in the /inc directory. The incoming data includes (or will include) Kildin Saami lexical items collected from:
+*fieldnotes (Kola Saami Documentation Project, 2004+) (spoken) sjd
+*dictionary Itkonen 1958 (spoken) sjd
+*dictionary Afanas'eva et al. 1985 (written) sjd-rus
+*dictionary Kert 1986 (written) sjd-rus
+*dictionary Kert 1986 (written) rus-sjd
+*dictionary Sammallahti et al. 1991 (written) sjd-sme
+*dictionary Sammallahti et al. 1991 (written) sme-sjd
+*dictionary Eliseev et al. 2007 (spoken) sjd
+*dictionary Antonova 2014 (written) sjd-rus
+*teaching materials Antonova 1982 (written) sjd-rus
+*teaching materials Šaršina et al. 2008 (written) sjd-rus
+*phrase book Afanas'eva 2010 (written) sjd-rus
 
 The goal is to merge all incoming lemmas into one new dictionary. /src is the destination directory for the evolving new dictionary entries.
 
@@ -20,6 +27,45 @@ The current goal is to unify the data in the files
 *…
 *sjd2x-т.xml
 and move them into /scr once they are finished.
+
+=======================================
+Instruction how to proceed (for Sirrke)
+=======================================
+--------------------------------
+A Dealing with the incoming data
+--------------------------------
+
+1) Оpen these two incoming files:
+*sjd2x/inc/kurutch1985_sjdrus.xml
+*sjd2x/inc/sjd2x-incoming.xml
+(not the other files, I will clean up them myself)
+
+2) Тake from these two files all dictionary entries (i.e. <e/>, see below) where the lemma (<l/>) starts with the letter а
+
+3) Move these entries into the file:
+*sjd2x/sjd2x-а.xml
+It is not important where in the file you put it, it can be in the beginning or the end or somewhere between other dictionary entries. We will later use a script to sort the entries alphabetically. I will show you this script later.
+
+4) Validate the XML syntax in all three files after the changes and if everything is all right commit the changes in all three files to SVN, i.e. commit the new version of the files in /sjd2x/inc with removed entries and the files in /sjd2x with added entries.
+
+5) Continue with the letters б, в, г, etc. (note that some letters are already finished). If the file for the respective letter does not exist yet, create a new file for it in /sjd2x.
+
+6) Once this task is finished, the old files in /inc
+*sjd2x/inc/kurutch1985_sjdrus.xml
+*sjd2x/inc/sjd2x-incoming.xml
+will be empty and can be removed from SVN.
+
+--------------------------------
+B Merging the content of entries
+--------------------------------
+
+1) The next step is to search for doublets in the newly created files and merge the content of these doublets by removing obsolete information. I will explain more when we have come closer to the end of working step A.
+
+-----------------------
+C Finalizing the merger
+-----------------------
+
+1) The next step is to move the newly created files into the final directory /src and to finalize the lexicographic structure, incl. adding/correcting in the XML markup in order to fullfill the XML scheme (found in ../scripts/dictionary.dtd) as well as adding/correct translations, grammatical information, etc. I will explain more when we have come closer to the end of working step B.
 
 ==========================================
 Explanation of the XML markup (for Sirrke)
