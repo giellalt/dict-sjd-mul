@@ -1,6 +1,6 @@
-This directory contains material relevant to Kildin Saami. The src directory contains the data in gtdictionary format (with some adaptations to be explained elsewhere). Incoming files are in inc directory.
+This directory contains material relevant to Kildin Saami. The src directory contains the data in gtdictionary format (with some adaptations to be explained elsewhere). 
 
-The data includes Kildin Saami lexical items collected from from
+Incoming files are in the /inc directory. The incoming data includes Kildin Saami lexical items collected from from
 *fieldnotes (Kola Saami Documentation Project, 2004+)
 *dictionary Itkonen 1958
 *dictionary Afanas'eva et al. 1985
@@ -10,6 +10,16 @@ The data includes Kildin Saami lexical items collected from from
 *teaching materials Antonova 1982
 *teaching materials Šaršina et al. 2008
 *phrase book Afanas'eva 2010
+
+The goal is to merge all incoming lemmas into one new dictionary. /src is the destination directory for the evolving new dictionary entries.
+
+For each letter we create a separate file. Additional files might be needed for bound morphemes (suffixes, clitics, etc.) and for multiword expressions listed as lemmas in the original data. A final solution for handling these lemmas will be found during our ongoing work.
+
+The current goal is to unify the data in the files
+*sjd2x-а.xml
+*…
+*sjd2x-т.xml
+and move them into /scr once they are finished.
 
 ==================================
 Kildin Saami alphabet (sort order)
@@ -32,7 +42,7 @@ more possible issues
 *latin capital T (instead of cyrillic)
 
 
-THE FOLLOWING ARE OLD NOTES, WHICH HAVE TO BE UPDATED.
+THE FOLLOWING ARE OLD NOTES, WHICH HAVE TO BE UPDATED OR REMOVED IF THEY ARE OBSOLETE.
 
 ====================
 Building the dictionary:
