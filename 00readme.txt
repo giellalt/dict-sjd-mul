@@ -21,6 +21,32 @@ The current goal is to unify the data in the files
 *sjd2x-т.xml
 and move them into /scr once they are finished.
 
+==========================================
+Explanation of the XML markup (for Sirrke)
+==========================================
+
+<r/> "root", i.e. the whole dictionary
+
+<e/> "entry", i.e. one dictionary entry, incl. lemma, grammatical information, meaning, etc.
+
+<lg/> "lemma group", i.e. all information belonging to one lemma
+
+<l/> "lemma", the Kildin Saami word to be explained in the dictionary
+
+<mg/> "meaning group", i.e. all information belonging to the explanation/translation of the meanin or meanings of one lemma; one meaning group for each meaning (words can have several meanings!)
+
+<tg/> "translation group", one translation group for each translation (one and the same meaning can have several translations!) 
+
+<xg/> "example group"
+
+<x/> "example"
+
+<xtg/> "example translation group"
+
+<xt/> "example translation"
+
+…to be completed…
+
 ==================================
 Kildin Saami alphabet (sort order)
 ==================================
