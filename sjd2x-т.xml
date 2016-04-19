@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="5961">
+    <e kur_ID="5961">
 		<lg>
-			<l>та̄</l>
+		    <l pos="Det">та̄</l>
 			<orth>
 				<lvar orth="1985kuru">та̄</lvar>
 				<lvar orth="1986kert" bound="та">та̄</lvar>
 			</orth>
 		</lg>
-		<mg>
-			<tg>
+        <mg km="g">
+		    <semantics>
+		        <stype>xxx</stype>
+		    </semantics>
+		    <tg>
 				<t>на (возьми)</t>
 			</tg>
 			<xg>
-				<x orth="1985kuru">та̄ кнӣга</x>
+			    <x orth="1985kuru" pos="xxx">та̄ кнӣга</x>
 				<xtg xml:lang="rus">
 					<xt>на книгу</xt>
 				</xtg> 
 			</xg>
 			<xg>
-				<x orth="1985kuru">та̄, ва̄льт!</x>
+			    <x orth="1985kuru"  pos="S">та̄, ва̄льт!</x>
 				<xtg xml:lang="rus">
 					<xt>на, возьми!</xt>
 				</xtg>
