@@ -1,6 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e kur_ID="1107">
+  <e kur_ID="5961">
+		<lg>
+			<l>та̄</l>
+			<orth>
+				<lvar orth="1985kuru">та̄</lvar>
+				<lvar orth="1986kert" bound="та">та̄</lvar>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t>на (возьми)</t>
+			</tg>
+			<xg>
+				<x orth="1985kuru">та̄ кнӣга</x>
+				<xtg xml:lang="rus">
+					<xt>на книгу</xt>
+				</xtg> 
+			</xg>
+			<xg>
+				<x orth="1985kuru">та̄, ва̄льт!</x>
+				<xtg xml:lang="rus">
+					<xt>на, возьми!</xt>
+				</xtg>
+			</xg>
+		</mg>
+    </e>
+  <e kur_ID="5962">
+		<lg>
+			<l>та̄бнэ</l>
+			<orth>
+				<lvar orth="1985kuru">та̄бнэ</lvar> 
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t>хватать, ловить кого-что</t>
+			</tg>
+		</mg>	
+    </e>
+  <e kur_ID="5963">
+		<lg>
+			<l>та̄бплэ</l>
+			<orth>
+				<lvar orth="1985kuru">та̄бплэ</lvar>
+			</orth>
+		</lg>
+		<mg>
+			<semantics>
+				<sem class="xxx"/>
+				<tam>bystro_nemnogo</tam>
+			</semantics>
+			<tg>
+				<t>похватать, половить кого-что</t>
+			</tg>
+		</mg>
+	</e>
+  <e kur_ID="5964">
+		<lg>
+			<l>та̄бпшэ</l>
+			<orth>
+				<lvar orth="1985kuru">та̄бпшэ</lvar>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t>считать, что где-л. много знаков, столбов, пирамид из камней</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t>стоять столбом (где-л. перед кем-л.)</t>
+			</tg>
+			<xg>
+				<x orth="1985kuru">ель табпэшьт мун луннҍ!</x>
+				<xtg xml:lang="rus">
+					<xt>не стой столбом рядом со мной!</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+  <e kur_ID="5965">
+		<lg>
+			<l>та̄бпь</l>
+			<orth>
+				<lvar orth="1985kuru">та̄бпь</lvar>
+			</orth>
+			<stem>
+				<stem_kuru>та̄бь</stem_kuru>
+				<class_kuru class="I"/>
+			</stem>
+		</lg>
+		<mg>
+			<tg>
+				<t>столб, пирамида из камней (высотой около полутора метров, складывается на вершинах тундровых гор для ориентирования)</t>
+			</tg>
+			<xg>
+				<x orth="1985kuru">пыйе та̄бь</x>
+				<xtg xml:lang="rus">
+					<xt>поставить знак</xt>
+				</xtg>
+			</xg>
+			<xg>
+				<x orth="1985kuru">ӯйнсэ та̄бь</x>
+				<xtg xml:lang="rus">
+					<xt>увидеть знак</xt>
+				</xtg>	
+			</xg>
+		</mg>
+	</e>
+  <e kur_ID="5966">
+		<lg>
+			<l>та̄бпьлуввэ</l>
+			<orth>
+				<lvar orth="1985kuru">та̄бпьлуввэ</lvar>
+			</orth>
+			<stem>
+				<class_kuru class="I"/>
+			</stem>
+		</lg>
+		<mg>
+			<tg>
+				<t>стать со знаком, со столбом, с пирамидой из камней</t>
+			</tg>
+			<xg>
+				<x orth="1985kuru">па̄һкь та̄бпьлувэ</x>
+				<xtg xml:lang="rus">
+					<xt>на горе появился знак</xt>
+				</xtg>
+			</xg>
+		</mg>
+		<mg>
+			<tg>
+				<t>встать столбом, торчком (где-л., перед кем-л.)</t>
+			</tg>
+		</mg>
+	</e>
+  <e kur_ID="5967">
+		<lg>
+			<l>та̄бпэ</l>
+			<orth>
+				<lvar orth="1985kuru">та̄бпэ</lvar>
+				<lvar orth="1986kert">та̄бпэ</lvar>
+			</orth>
+			<stem>
+				<class_kuru class="I"/>
+			</stem>
+		</lg>
+		<mg>
+			<tg>
+				<t>хватать, ловить кого-что ; захватать что</t>
+			</tg>
+			<xg>
+				<x orth="1985kuru">та̄бпэ кӣдэсьт</x>
+				<xtg xml:lang="rus">
+					<tx>хватать за руку</tx>
+				</xtg>
+			</xg>
+			<xg>
+				<x orth="1985kuru">та̄бпэ па̄лл</x>
+				<xtg xml:lang="rus">
+					<tx>ловить мяч</tx>
+				</xtg>
+			</xg>
+			<xg>
+				<x orth="1985kuru">пугк кнӣга та̄бэ са̄ккьс кӣдэгуэйм</x>
+				<xtg xml:lang="rus">
+					<tx>[он] всю книгу захватал грязными руками</tx>
+				</xtg>
+			</xg>
+			<xg>
+				<x orth="1985kuru">та̄бпэ вӣресь юрртэтҍ</x>
+				<xtg xml:lang="rus">
+					<tx>хватать чужие мысли</tx>
+				</xtg>
+			</xg>
+		</mg>
+		<mg>
+			<tg>
+				<t orth="1986kert">клевать (о рыбе)</t>
+			</tg>
+		</mg>
+	</e>
+  <e>
+        <lg>
+            <l pos="CC" bound="-де">те</l>
+            <orth>
+                <lvar orth="1986kert" bound="де">те</lvar>
+                <lvar orth="2008sars" bound="ди"/>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="CC">и</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">сонн пудӭ де цӣӆьке</x>
+                <xtg>
+                    <xt>он пришёл и сказал</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">сонн пудӭ те цӣӆьке</x>
+                <xtg>
+                    <xt>он пришёл и сказал</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">потом, затем, вот</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">те со̄нн моаст ванҍцель</x>
+                <xtg>
+                    <xt>потом он пошёл обратно</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx">туарр</l>
+            <orth>
+                <lvar orth="1986kert">туарр</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg>
+                <t>битва</t>
+            </tg>
+            <xg>
+                <x pos="xxx" orth="1986kert">туарр москва гуэйке</x>
+                <xtg xml:lang="rus">
+                    <xt>битва за москву</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e kur_ID="1109">
+        <lg>
+            <l pos="Det" bound="-дэн">тэ̄нн</l>
+            <orth>
+                <lvar orth="1985kuru" bound="-дэн"/>
+                <lvar orth="2008sars" bound="-дэн"/>
+            </orth>
+            <infl type="SM">тэдт</infl>
+        </lg>
+        <mg>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg>
+                <t>-то</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">кнӣга-дэн ло̄гкекь?</x>
+                <xtg>
+                    <xt>[ты] книгу-то прочёл?</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="S">нӣййтант-дэн ва̄лтак мӣлльтэ?</x>
+                <xtg>
+                    <xt>а дочку-то возьмёшь с собой?</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="N" orth="2008sars">нӣйта-дэн</x>
+                <xtg>
+                    <xt>девочку-то</xt>
+                    <xt>девочку эту</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e kur_ID="1107">
         <lg>
             <l pos="Det" bound="-дэдт">тэдт</l>
             <orth>
@@ -45,7 +324,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1108" kur_ID2="6505" kur_ID3="6496">
+  <e kur_ID="1108" kur_ID2="6505" kur_ID3="6496">
         <lg>
             <l pos="Det">тэдта</l>
             <orth>
@@ -95,7 +374,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="Det" bound="-дэйт">тэйт</l>
             <orth>
@@ -116,282 +395,4 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1109">
-        <lg>
-            <l pos="Det" bound="-дэн">тэ̄нн</l>
-            <orth>
-                <lvar orth="1985kuru" bound="-дэн"/>
-                <lvar orth="2008sars" bound="-дэн"/>
-            </orth>
-            <infl type="SM">тэдт</infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sem/>
-            </semantics>
-            <tg>
-                <t>-то</t>
-            </tg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="S">кнӣга-дэн ло̄гкекь?</x>
-                <xtg>
-                    <xt>[ты] книгу-то прочёл?</xt>
-                </xtg>
-            </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="S">нӣййтант-дэн ва̄лтак мӣлльтэ?</x>
-                <xtg>
-                    <xt>а дочку-то возьмёшь с собой?</xt>
-                </xtg>
-            </xg>
-            <xg>
-                <x pos="N" orth="2008sars">нӣйта-дэн</x>
-                <xtg>
-                    <xt>девочку-то</xt>
-                    <xt>девочку эту</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="CC" bound="-де">те</l>
-            <orth>
-                <lvar orth="1986kert" bound="де">те</lvar>
-                <lvar orth="2008sars" bound="ди"/>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="CC">и</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">сонн пудӭ де цӣӆьке</x>
-                <xtg>
-                    <xt>он пришёл и сказал</xt>
-                </xtg>
-            </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">сонн пудӭ те цӣӆьке</x>
-                <xtg>
-                    <xt>он пришёл и сказал</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">потом, затем, вот</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">те со̄нн моаст ванҍцель</x>
-                <xtg>
-                    <xt>потом он пошёл обратно</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx">туарр</l>
-            <orth>
-                <lvar orth="1986kert">туарр</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <semantics>
-                <sem/>
-            </semantics>
-            <tg>
-                <t>битва</t>
-            </tg>
-            <xg>
-                <x pos="xxx" orth="1986kert">туарр москва гуэйке</x>
-                <xtg xml:lang="rus">
-                    <xt>битва за москву</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="5961">
-		<lg>
-			<l>та̄</l>
-			<orth>
-				<lvar orth="1985kuru">та̄</lvar>
-				<lvar orth="1986kert" bound="та">та̄</lvar>
-			</orth>
-		</lg>
-		<mg>
-			<tg>
-				<t>на (возьми)</t>
-			</tg>
-			<xg>
-				<x orth="1985kuru">та̄ кнӣга</x>
-				<xtg xml:lang="rus">
-					<xt>на книгу</xt>
-				</xtg> 
-			</xg>
-			<xg>
-				<x orth="1985kuru">та̄, ва̄льт!</x>
-				<xtg xml:lang="rus">
-					<xt>на, возьми!</xt>
-				</xtg>
-			</xg>
-		</mg>
-    </e>
-    <e kur_ID="5962">
-		<lg>
-			<l>та̄бнэ</l>
-			<orth>
-				<lvar orth="1985kuru">та̄бнэ</lvar> 
-			</orth>
-		</lg>
-		<mg>
-			<tg>
-				<t>хватать, ловить кого-что</t>
-			</tg>
-		</mg>	
-    </e>
-	<e kur_ID="5963">
-		<lg>
-			<l>та̄бплэ</l>
-			<orth>
-				<lvar orth="1985kuru">та̄бплэ</lvar>
-			</orth>
-		</lg>
-		<mg>
-			<semantics>
-				<sem class="xxx"/>
-				<tam>bystro_nemnogo</tam>
-			</semantics>
-			<tg>
-				<t>похватать, половить кого-что</t>
-			</tg>
-		</mg>
-	</e>
-	<e kur_ID="5964">
-		<lg>
-			<l>та̄бпшэ</l>
-			<orth>
-				<lvar orth="1985kuru">та̄бпшэ</lvar>
-			</orth>
-		</lg>
-		<mg>
-			<tg>
-				<t>считать, что где-л. много знаков, столбов, пирамид из камней</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t>стоять столбом (где-л. перед кем-л.)</t>
-			</tg>
-			<xg>
-				<x orth="1985kuru">ель табпэшьт мун луннҍ!</x>
-				<xtg xml:lang="rus">
-					<xt>не стой столбом рядом со мной!</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e kur_ID="5965">
-		<lg>
-			<l>та̄бпь</l>
-			<orth>
-				<lvar orth="1985kuru">та̄бпь</lvar>
-			</orth>
-			<stem>
-				<stem_kuru>та̄бь</stem_kuru>
-				<class_kuru class="I"/>
-			</stem>
-		</lg>
-		<mg>
-			<tg>
-				<t>столб, пирамида из камней (высотой около полутора метров, складывается на вершинах тундровых гор для ориентирования)</t>
-			</tg>
-			<xg>
-				<x orth="1985kuru">пыйе та̄бь</x>
-				<xtg xml:lang="rus">
-					<xt>поставить знак</xt>
-				</xtg>
-			</xg>
-			<xg>
-				<x orth="1985kuru">ӯйнсэ та̄бь</x>
-				<xtg xml:lang="rus">
-					<xt>увидеть знак</xt>
-				</xtg>	
-			</xg>
-		</mg>
-	</e>
-	<e kur_ID="5966">
-		<lg>
-			<l>та̄бпьлуввэ</l>
-			<orth>
-				<lvar orth="1985kuru">та̄бпьлуввэ</lvar>
-			</orth>
-			<stem>
-				<class_kuru class="I"/>
-			</stem>
-		</lg>
-		<mg>
-			<tg>
-				<t>стать со знаком, со столбом, с пирамидой из камней</t>
-			</tg>
-			<xg>
-				<x orth="1985kuru">па̄һкь та̄бпьлувэ</x>
-				<xtg xml:lang="rus">
-					<xt>на горе появился знак</xt>
-				</xtg>
-			</xg>
-		</mg>
-		<mg>
-			<tg>
-				<t>встать столбом, торчком (где-л., перед кем-л.)</t>
-			</tg>
-		</mg>
-	</e>
-	<e kur_ID="5967">
-		<lg>
-			<l>та̄бпэ</l>
-			<orth>
-				<lvar orth="1985kuru">та̄бпэ</lvar>
-				<lvar orth="1986kert">та̄бпэ</lvar>
-			</orth>
-			<stem>
-				<class_kuru class="I"/>
-			</stem>
-		</lg>
-		<mg>
-			<tg>
-				<t>хватать, ловить кого-что ; захватать что</t>
-			</tg>
-			<xg>
-				<x orth="1985kuru">та̄бпэ кӣдэсьт</x>
-				<xtg xml:lang="rus">
-					<tx>хватать за руку</tx>
-				</xtg>
-			</xg>
-			<xg>
-				<x orth="1985kuru">та̄бпэ па̄лл</x>
-				<xtg xml:lang="rus">
-					<tx>ловить мяч</tx>
-				</xtg>
-			</xg>
-			<xg>
-				<x orth="1985kuru">пугк кнӣга та̄бэ са̄ккьс кӣдэгуэйм</x>
-				<xtg xml:lang="rus">
-					<tx>[он] всю книгу захватал грязными руками</tx>
-				</xtg>
-			</xg>
-			<xg>
-				<x orth="1985kuru">та̄бпэ вӣресь юрртэтҍ</x>
-				<xtg xml:lang="rus">
-					<tx>хватать чужие мысли</tx>
-				</xtg>
-			</xg>
-		</mg>
-		<mg>
-			<tg>
-				<t orth="1986kert">клевать (о рыбе)</t>
-			</tg>
-		</mg>
-	</e>    
 </r>
