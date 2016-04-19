@@ -20,4 +20,14 @@
             </tg>
         </mg>
     </e>
+    <e meta="01">
+        <lg source="NEA">
+            <l pos="n">нялльм-сыһкэм пымме</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="n">paper napkin</t>
+            </tg>
+        </mg>
+    </e>
 </r>
