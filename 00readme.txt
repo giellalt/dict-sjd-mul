@@ -93,6 +93,23 @@ Explanation of the XML markup (for Sirrke)
 
 …to be completed…
 
+==========================================
+Explanation of scripts we use (for Sirrke)
+==========================================
+
+all script live in /sripts
+you run the scripts from the command line
+
+----------------------
+Sorting alphabetically
+----------------------
+1) use this command for sorting in the preliminary files (like for instance /sjd2x/sjd2x-т.xml):
+xsltproc --param sortlang 'ru' scripts/sort-dict.xsl sjd2x-т.xml > sjd2x-т-sorted.xml
+2) check if everything looks all right in the new file
+3) remove sjd2x-т.xml
+4) rename sjd2x-т-sorted > sjd2x-т.xml
+5) commit the new version of sjd2x-т.xml to SVN
+
 ==================================
 Kildin Saami alphabet (sort order)
 ==================================
