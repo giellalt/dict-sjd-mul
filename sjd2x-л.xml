@@ -10,4 +10,17 @@
             </tg>
         </mg>
     </e>
+    <e meta="01">
+        <lg source="NEA">
+            <l dialect="ars" pos="cc">lube</l>
+        </lg>
+        <mg>
+            <tg xml:lang="deu">
+                <t pos="cc">oder</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="cc">или</t>
+            </tg>
+        </mg>
+    </e>
 </r>
