@@ -114,96 +114,117 @@
     </e>
     <e kur_ID="5965">
         <lg>
-            <l>та̄бпь</l>
+            <l pos="N">та̄бпь</l>
             <orth>
                 <lvar orth="1985kuru">та̄бпь</lvar>
             </orth>
-            <stem>
-                <stem_kuru>та̄бь</stem_kuru>
-                <class_kuru class="I"/>
-            </stem>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="5971">та̄бь</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
         </lg>
-        <mg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
             <tg>
-                <t>столб, пирамида из камней (высотой около полутора метров, складывается на
-                    вершинах тундровых гор для ориентирования)</t>
+                <t>столб</t>
+                <t>пирамида из камней (высотой около полутора метров, складывается на вершинах
+                    тундровых гор для ориентирования)</t>
             </tg>
             <xg>
-                <x orth="1985kuru">пыйе та̄бь</x>
+                <x orth="1985kuru" pos="xxx">пыйе та̄бь</x>
                 <xtg xml:lang="rus">
                     <xt>поставить знак</xt>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru">ӯйнсэ та̄бь</x>
+                <x orth="1985kuru" pos="xxx">ӯйнсэ та̄бь</x>
                 <xtg xml:lang="rus">
                     <xt>увидеть знак</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="5966">
+    <e kur_ID="5966" link_sm="1">
         <lg>
-            <l>та̄бпьлуввэ</l>
+            <l pos="V">та̄бпьлуввэ</l>
             <orth>
                 <lvar orth="1985kuru">та̄бпьлуввэ</lvar>
             </orth>
-            <stem>
-                <class_kuru class="I"/>
-            </stem>
+            <infl>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+            <der type="SM">та̄бпь</der>
         </lg>
-        <mg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
             <tg>
-                <t>стать со знаком, со столбом, с пирамидой из камней</t>
+                <t>стать со знаком</t>
+                <t>со столбом</t>
+                <t>с пирамидой из камней</t>
             </tg>
             <xg>
-                <x orth="1985kuru">па̄һкь та̄бпьлувэ</x>
+                <x orth="1985kuru" pos="xxx">па̄һкь та̄бпьлувэ</x>
                 <xtg xml:lang="rus">
                     <xt>на горе появился знак</xt>
                 </xtg>
             </xg>
         </mg>
-        <mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
             <tg>
-                <t>встать столбом, торчком (где-л., перед кем-л.)</t>
+                <t type="figurative">встать столбом</t>
+                <t type="figurative">встать торчком (где-л., перед кем-л.)</t>
             </tg>
         </mg>
     </e>
     <e kur_ID="5967">
         <lg>
-            <l>та̄бпэ</l>
+            <l pos="V">та̄бпэ</l>
             <orth>
                 <lvar orth="1985kuru">та̄бпэ</lvar>
                 <lvar orth="1986kert">та̄бпэ</lvar>
             </orth>
-            <stem>
-                <class_kuru class="I"/>
-            </stem>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
         </lg>
-        <mg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
             <tg>
-                <t>хватать, ловить кого-что ; захватать что</t>
+                <t type="literal+figurative">хватать</t>
+                <t>ловить кого-что</t>
+            </tg>
+            <tg>
+                <t>захватать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru">та̄бпэ кӣдэсьт</x>
+                <x orth="1985kuru" pos="xxx">та̄бпэ кӣдэсьт</x>
                 <xtg xml:lang="rus">
                     <tx>хватать за руку</tx>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru">та̄бпэ па̄лл</x>
+                <x orth="1985kuru" pos="xxx">та̄бпэ па̄лл</x>
                 <xtg xml:lang="rus">
                     <tx>ловить мяч</tx>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru">пугк кнӣга та̄бэ са̄ккьс кӣдэгуэйм</x>
+                <x orth="1985kuru" pos="xxx">пугк кнӣга та̄бэ са̄ккьс кӣдэгуэйм</x>
                 <xtg xml:lang="rus">
                     <tx>[он] всю книгу захватал грязными руками</tx>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru">та̄бпэ вӣресь юрртэтҍ</x>
+                <x orth="1985kuru" pos="xxx">та̄бпэ вӣресь юрртэтҍ</x>
                 <xtg xml:lang="rus">
                     <tx>хватать чужие мысли</tx>
                 </xtg>
