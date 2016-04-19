@@ -15,56 +15,6 @@
         </mg>
     </e>
   <e meta="01">
-        <lg source="NEA">
-            <l dialect="ars" pos="n">saːʲjːk</l>
-        </lg>
-        <mg>
-            <lexg xml:lang="deu">
-                <lex>Wolle vom Schaaf</lex>
-            </lexg>
-        </mg>
-    </e>
-  <e meta="01">
-        <lg source="NEA">
-            <l dialect="ars" pos="v">sɨhke</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="v">чистить</t>
-            </tg>
-        </mg>
-    </e>
-  <e meta="01">
-        <lg source="NEA">
-            <l dialect="kil" pos="v">sɨhke</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="v">sich mit Liebe beschäftigen</t>
-            </tg>
-        </mg>
-    </e>
-  <e meta="01">
-        <lg source="NEA">
-            <l dialect="lov" pos="v">sɨhke</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="v">sich mit Liebe beschäftigen</t>
-            </tg>
-        </mg>
-    </e>
-  <e meta="01">
-        <lg source="NEA">
-            <l dialect="vor" pos="v">sɨhke</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="v">sich mit Liebe beschäftigen</t>
-            </tg>
-        </mg>
-    </e>
-  <e meta="01">
         <lg source="afanaseva2010">
             <l type="idiom" pos="S">Ве̄ссьлэсь о̄ллмасьт лыһк кӣдэсьт роаммшадт.</l>
         </lg>
@@ -231,11 +181,6 @@
                 <t pos="n">Geschirrspühlmaschine</t>
             </tg>
         </mg>
-    </e>
-  <e meta="01">
-        <lg source="kuruc1985">
-            <l pos="n">лӣвлас</l>
-        </lg>
     </e>
   <e meta="01">
         <lg source="NEA">
