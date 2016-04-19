@@ -56674,16 +56674,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">чинчпялла</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">налево, влево</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">чинчас</l>
         </lg>
     </e>
@@ -56746,6 +56736,16 @@
                 <lvar orth="1986ker1">чинчпялла</lvar>
             </orth>
         </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">чинчпялла</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">налево, влево</t>
+            </tg>
+        </mg>
     </e>
     <e>
         <lg>
