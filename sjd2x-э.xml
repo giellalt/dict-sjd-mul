@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e meta="01">
+        <lg source="NEA">
+            <l dialect="ars" pos="cc">ele=še</l>
+        </lg>
+        <mg>
+            <tg xml:lang="deu">
+                <t pos="cc">oder</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="cc">или</t>
+            </tg>
+        </mg>
+    </e>
+</r>
