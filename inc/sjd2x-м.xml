@@ -2,7 +2,10 @@
 <r>
     <e kur_ID="3316">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">мӯнь</l>
+            <l pos="N">мӯнь</l>
+            <orth>
+                <lvar orth="1985kuru">мӯнь</lvar>
+            </orth>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="3310">мӯнне</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
@@ -10,31 +13,41 @@
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
-            <tg>
-                <t>мороз</t>
-                <t>стужа</t>
+            <tg xml:lang="rus">
+                <t pos="N">мороз</t>
+                <t pos="N">стужа</t>
             </tg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пуэлльтэй мӯнь</x>
-                <xt>жгучий мороз</xt>
+            <xg source="1985kuru" lemma="мӯнь">
+                <x orth="1985kuru" pos="Phrase_N">пуэлльтэй мӯнь</x>
+                <xtg xml:lang="rus">
+                    <xt>жгучий мороз</xt>
+                </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">чуэннче мӯнньгэнҍ</x>
-                <xt>стоять на морозе</xt>
+            <xg source="1985kuru" lemma="мӯнь">
+                <x orth="1985kuru" pos="Phrase_V">чуэннче мӯнньгэнҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>стоять на морозе</xt>
+                </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">лоагкь градсэдтӭ мӯнне</x>
-                <xt>десять градусов мороза</xt>
+            <xg source="1985kuru" lemma="мӯнь">
+                <x orth="1985kuru" pos="Phrase_N">лоагкь градсэдтӭ мӯнне</x>
+                <xtg xml:lang="rus">
+                    <xt>десять градусов мороза</xt>
+                </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">та̄лльв мӯнь</x>
-                <xt>зимняя стужа</xt>
+            <xg source="1985kuru" lemma="мӯнь">
+                <x orth="1985kuru" pos="Phrase_N">та̄лльв мӯнь</x>
+                <xtg xml:lang="rus">
+                    <xt>зимняя стужа</xt>
+                </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мӯрьй кадцьсуввенҍ мӯнненҍ</x>
-                <xt>ягоды прихвачены морозом</xt>
+            <xg source="1985kuru" lemma="мӯнь">
+                <x orth="1985kuru" pos="Phrase_S">мӯрьй кадцьсуввенҍ мӯнненҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>ягоды прихвачены морозом</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
