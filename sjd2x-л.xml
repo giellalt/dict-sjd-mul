@@ -9,13 +9,16 @@
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">болотная ягода</t>
+                <t pos="Phrase_N">болотная ягода</t>
             </tg>
         </mg>
     </e>
     <e meta="01">
         <lg source="NEA">
-            <l dialect="ars" pos="Cc">lube</l>
+            <l pos="Cc">лубэ</l>
+            <orth>
+                <lvar orth="2014anto">лубэ</lvar>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="deu">
@@ -23,6 +26,11 @@
             </tg>
             <tg xml:lang="rus">
                 <t pos="Cc">или</t>
+            </tg>
+        </mg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Cc">либо</t>
             </tg>
         </mg>
     </e>
