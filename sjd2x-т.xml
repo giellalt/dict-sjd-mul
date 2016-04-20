@@ -11,13 +11,13 @@
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>на (возьми)</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx">та̄ кнӣга</x>
+                <x orth="1985kuru" pos="Phrase_N">та̄ кнӣга</x>
                 <xtg xml:lang="rus">
                     <xt>на книгу</xt>
                 </xtg>
@@ -43,7 +43,7 @@
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
                 <tam>postojanno</tam>
                 <tam>inogda_byvalo</tam>
             </semantics>
@@ -88,7 +88,7 @@
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>считать</t>
@@ -99,7 +99,7 @@
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t type="figurative">стоять столбом (где-л., перед кем-л.)</t>
@@ -125,7 +125,7 @@
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>столб</t>
@@ -133,13 +133,13 @@
                     тундровых гор для ориентирования)</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx">пыйе та̄бь</x>
+                <x orth="1985kuru" pos="Phrase_V">пыйе та̄бь</x>
                 <xtg xml:lang="rus">
                     <xt>поставить знак</xt>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx">ӯйнсэ та̄бь</x>
+                <x orth="1985kuru" pos="Phrase_V">ӯйнсэ та̄бь</x>
                 <xtg xml:lang="rus">
                     <xt>увидеть знак</xt>
                 </xtg>
@@ -159,7 +159,7 @@
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>стать со знаком</t>
@@ -167,7 +167,7 @@
                 <t>с пирамидой из камней</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx">па̄һкь та̄бпьлувэ</x>
+                <x orth="1985kuru" pos="Phrase_S">па̄һкь та̄бпьлувэ</x>
                 <xtg xml:lang="rus">
                     <xt>на горе появился знак</xt>
                 </xtg>
@@ -175,7 +175,7 @@
         </mg>
         <mg km="g2">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t type="figurative">встать столбом</t>
@@ -196,7 +196,7 @@
         </lg>
         <mg km="g">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t type="literal+figurative">хватать</t>
@@ -206,25 +206,25 @@
                 <t>захватать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru" pos="xxx">та̄бпэ кӣдэсьт</x>
+                <x orth="1985kuru" pos="Phrase_V">та̄бпэ кӣдэсьт</x>
                 <xtg xml:lang="rus">
                     <tx>хватать за руку</tx>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx">та̄бпэ па̄лл</x>
+                <x orth="1985kuru" pos="Phrase_V">та̄бпэ па̄лл</x>
                 <xtg xml:lang="rus">
                     <tx>ловить мяч</tx>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx">пугк кнӣга та̄бэ са̄ккьс кӣдэгуэйм</x>
+                <x orth="1985kuru" pos="Phrase_S">пугк кнӣга та̄бэ са̄ккьс кӣдэгуэйм</x>
                 <xtg xml:lang="rus">
                     <tx>[он] всю книгу захватал грязными руками</tx>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1985kuru" pos="xxx">та̄бпэ вӣресь юрртэтҍ</x>
+                <x orth="1985kuru" pos="Phrase_V">та̄бпэ вӣресь юрртэтҍ</x>
                 <xtg xml:lang="rus">
                     <tx>хватать чужие мысли</tx>
                 </xtg>
@@ -249,13 +249,13 @@
                 <t pos="CC">и</t>
             </tg>
             <xg>
-                <x orth="1986kert" pos="xxx">сонн пудӭ де цӣӆьке</x>
+                <x orth="1986kert" pos="Phrase_S">сонн пудӭ де цӣӆьке</x>
                 <xtg>
                     <xt>он пришёл и сказал</xt>
                 </xtg>
             </xg>
             <xg>
-                <x orth="1986kert" pos="xxx">сонн пудӭ те цӣӆьке</x>
+                <x orth="1986kert" pos="Phrase_S">сонн пудӭ те цӣӆьке</x>
                 <xtg>
                     <xt>он пришёл и сказал</xt>
                 </xtg>
@@ -263,10 +263,12 @@
         </mg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx">потом, затем, вот</t>
+                <t pos="Adv">потом</t>
+                <t pos="Adv">затем</t>
+                <t pos="Adv">вот</t>
             </tg>
             <xg>
-                <x orth="1986kert" pos="xxx">те со̄нн моаст ванҍцель</x>
+                <x orth="1986kert" pos="Phrase_S">те со̄нн моаст ванҍцель</x>
                 <xtg>
                     <xt>потом он пошёл обратно</xt>
                 </xtg>
@@ -275,7 +277,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx">туарр</l>
+            <l pos="N">туарр</l>
             <orth>
                 <lvar orth="1986kert">туарр</lvar>
             </orth>
@@ -288,7 +290,7 @@
                 <t>битва</t>
             </tg>
             <xg>
-                <x pos="xxx" orth="1986kert">туарр москва гуэйке</x>
+                <x pos="Phrase_N" orth="1986kert">туарр москва гуэйке</x>
                 <xtg xml:lang="rus">
                     <xt>битва за москву</xt>
                 </xtg>
@@ -410,19 +412,19 @@
                 <xt>кто это пришёл?</xt>
             </xg>
             <xg source="1985kuru" source_lemma="тэдта">
-                <x orth="1985kuru-sjd" pos="xxx">тэнна вуэр</x>
+                <x orth="1985kuru-sjd" pos="Phrase_N">тэнна вуэр</x>
                 <xt>на этот раз</xt>
             </xg>
             <xg source="1985kuru" source_lemma="тэдта">
-                <x orth="1985kuru-sjd" pos="xxx">тэнна ёгк рынтэсьт</x>
+                <x orth="1985kuru-sjd" pos="Phrase_N">тэнна ёгк рынтэсьт</x>
                 <xt>на этом берегу реки</xt>
             </xg>
             <xg source="1985kuru" source_lemma="тэдта">
-                <x orth="1985kuru-sjd" pos="xxx">мунн эмм тӣдҍ тэйта сэетҍ</x>
+                <x orth="1985kuru-sjd" pos="Phrase_S">мунн эмм тӣдҍ тэйта сэетҍ</x>
                 <xt>я не знаю этих мест</xt>
             </xg>
             <xg source="1985kuru" source_lemma="тэдта">
-                <x orth="1985kuru-sjd" pos="xxx">тэгка сай ле̄в а̄нҍсуввма</x>
+                <x orth="1985kuru-sjd" pos="Phrase_S">тэгка сай ле̄в а̄нҍсуввма</x>
                 <xt>эти места заняты</xt>
             </xg>
         </mg>
