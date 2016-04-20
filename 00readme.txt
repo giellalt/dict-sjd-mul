@@ -70,7 +70,9 @@ C Finalizing the merger
 ==========================================
 Explanation of the XML markup (for Sirrke)
 ==========================================
-
+------
+Fields
+------
 <r/> "root", i.e. the whole dictionary
 
 <e/> "entry", i.e. one dictionary entry, incl. lemma, grammatical information, meaning, etc.
@@ -100,6 +102,11 @@ Explanation of the XML markup (for Sirrke)
 <xt/> "example translation"
 
 …to be completed…
+
+----------
+Attributes
+----------
+pos= part of speech (часть речи): A (adjective), Adv (adverb), Cc (coordinator), Cs (subordinator), Det (determiner), N (noun), Phrase_N (noun phrase), Phrase_V (verb phrase), Phrase_S (sentence), Pro (pronoun), V (verb), etc.
 
 ==========================================
 Explanation of scripts we use (for Sirrke)
