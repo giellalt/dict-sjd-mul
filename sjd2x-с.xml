@@ -2,7 +2,11 @@
 <r>
     <e meta="01">
         <lg source="NEA">
-            <l dialect="ars" pos="n">saːʲjːk</l>
+            <l pos="N" dialect="ars">са̄ййк</l>
+            <phon>
+                <phonol>saːjːk</phonol>
+                <phonet speaker="NEA">saːʲjːk</phonet>
+            </phon>
         </lg>
         <mg>
             <lexg xml:lang="deu">
@@ -12,41 +16,22 @@
     </e>
     <e meta="01">
         <lg source="NEA">
-            <l dialect="ars" pos="v">sɨhke</l>
+            <l pos="V">сыһкэ</l>
+            <orthography>
+                <lvar orth="2014anto">сыххкэ</lvar>
+            </orthography>
         </lg>
-        <mg>
+        <mg dial="ars">
             <tg xml:lang="rus">
-                <t pos="v">чистить</t>
+                <t pos="V">вытирать</t>
             </tg>
         </mg>
-    </e>
-    <e meta="01">
-        <lg source="NEA">
-            <l dialect="kil" pos="v">sɨhke</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="v">sich mit Liebe beschäftigen</t>
+        <mg dial="kil|lov|var">
+            <tg xml:lang="deu">
+                <t pos="V" style="crude">flachlegen</t>
             </tg>
-        </mg>
-    </e>
-    <e meta="01">
-        <lg source="NEA">
-            <l dialect="lov" pos="v">sɨhke</l>
-        </lg>
-        <mg>
             <tg xml:lang="rus">
-                <t pos="v">sich mit Liebe beschäftigen</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="01">
-        <lg source="NEA">
-            <l dialect="vor" pos="v">sɨhke</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="v">sich mit Liebe beschäftigen</t>
+                <t pos="V" style="vulg">трахать</t>
             </tg>
         </mg>
     </e>
