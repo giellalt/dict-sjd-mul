@@ -2,14 +2,17 @@
 <r>
     <e meta="01">
         <lg source="NEA">
-            <l dialect="ars" pos="cc">ele=še</l>
+            <l dialect="ars" pos="Cc">эlэ-шэ</l>
+            <phon>
+                <phonol>ele=še</phonol>
+            </phon>
         </lg>
         <mg>
             <tg xml:lang="deu">
-                <t pos="cc">oder</t>
+                <t pos="Cc">oder</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="cc">или</t>
+                <t pos="Cc">или</t>
             </tg>
         </mg>
     </e>

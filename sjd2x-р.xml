@@ -2,11 +2,14 @@
 <r>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">ра̄зьпуччк</l>
+            <l pos="N">ра̄зь-пуччк</l>
+            <orth>
+                <lvar orth="1986kert">ра̄зьпуччк</lvar>
+            </orth>
         </lg>
         <mg>
-            <tg>
-                <t>букет цветов</t>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">букет цветов</t>
             </tg>
         </mg>
     </e>
