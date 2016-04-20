@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e kur_ID="3316">
+        <lg>
+            <l pos="N" orth="1985kuru-sjd">мӯнь</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="3310">мӯнне</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>мороз</t>
+                <t>стужа</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx">пуэлльтэй мӯнь</x>
+                <xt>жгучий мороз</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx">чуэннче мӯнньгэнҍ</x>
+                <xt>стоять на морозе</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx">лоагкь градсэдтӭ мӯнне</x>
+                <xt>десять градусов мороза</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx">та̄лльв мӯнь</x>
+                <xt>зимняя стужа</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru-sjd" pos="xxx">мӯрьй кадцьсуввенҍ мӯнненҍ</x>
+                <xt>ягоды прихвачены морозом</xt>
+            </xg>
+        </mg>
+    </e>
+</r>
