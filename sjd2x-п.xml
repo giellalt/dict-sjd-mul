@@ -12,34 +12,37 @@
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg>
+            <tg xml:lang="rus">
                 <t pos="Adv">наполовину</t>
             </tg>
-            <xg>
+            <xg source="kuru1985" lemma="пя̄лла">
                 <x orth="1985kuru" pos="S">кнӣга пя̄лла лӣ ло̄гкма</x>
-                <xtg>
-                    <xt>книга наполовину прочитана</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">книга наполовину прочитана</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">пыммекарьпя</l>
+            <l pos="N">пымме-карьпя</l>
+            <orth>
+                <lvar orth="1986kert">пыммекарьпя</lvar>
+            </orth>
         </lg>
         <mg>
-            <tg>
-                <t>бумажный кораблик</t>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">бумажный кораблик</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">пе̄лльк</l>
+            <l pos="N" orth="1986kert-rus">пе̄лльк</l>
         </lg>
         <mg>
-            <tg>
-                <t>большой палец</t>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">большой палец</t>
             </tg>
         </mg>
     </e>
@@ -47,7 +50,7 @@
         <lg>
             <l pos="N" bound="-бе̄лль">пе̄лль</l>
             <orth>
-                <lvar orth="1985kuru-sjd">пе̄лль</lvar>
+                <lvar orth="1985kuru">пе̄лль</lvar>
                 <lvar orth="1986kert" bound="бе̄лль">пе̄лль</lvar>
             </orth>
             <stem>
@@ -59,21 +62,21 @@
             <tg xml:lang="rus">
                 <t pos="N">половина</t>
             </tg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пе̄ль лыһкэ лыһкъювэ</x>
-                <xt>половина дела сделана</xt>
+            <xg source="kuru1985" lemma="пе̄лль">
+                <x orth="1985kuru-sjd" pos="Phrase_S">пе̄ль лыһкэ лыһкъювэ</x>
+                <xt pos="Phrase_S">половина дела сделана</xt>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пе̄ль ке̄ссе мэ̄нэ</x>
-                <xt>прошла половина лета</xt>
+            <xg source="kuru1985" lemma="пе̄лль">
+                <x orth="1985kuru-sjd" pos="Phrase_S">пе̄ль ке̄ссе мэ̄нэ</x>
+                <xt pos="Phrase_S">прошла половина лета</xt>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пэ̄ҏҏт пе̄лесьт я̄ла</x>
-                <xt>[я] занимаю половину дома</xt>
+            <xg source="kuru1985" lemma="пе̄лль">
+                <x orth="1985kuru-sjd" pos="Phrase_S">пэ̄ҏҏт пе̄лесьт я̄ла</x>
+                <xt pos="Phrase_S">[я] занимаю половину дома</xt>
             </xg>
-            <xg>
-                <x orth="1985kuru-sjd" pos="xxx">оашшьтъюввэ пуэдтӭ кудант ча̄сс пе̄лесьт</x>
-                <xt>[он] обещал прийти в половине шестого</xt>
+            <xg source="kuru1985" lemma="пе̄лль">
+                <x orth="1985kuru-sjd" pos="Phrase_S">оашшьтъюввэ пуэдтӭ кудант ча̄сс пе̄лесьт</x>
+                <xt pos="Phrase_S">[он] обещал прийти в половине шестого</xt>
             </xg>
         </mg>
         <mg>
@@ -81,29 +84,29 @@
                 <t pos="N">сторона</t>
             </tg>
         </mg>
-        <xg>
-            <x orth="1985kuru-sjd" pos="xxx">вӣресь пе̄лль</x>
-            <xt>чужая сторона</xt>
+        <xg source="kuru1985" lemma="пе̄лль">
+            <x orth="1985kuru-sjd" pos="Phrase_N">вӣресь пе̄лль</x>
+            <xt pos="Phrase_N">чужая сторона</xt>
         </xg>
-        <xg>
-            <x orth="1985kuru-sjd" pos="xxx">вӣресь пе̄льт е̄лле</x>
-            <xt>жить на чужой стороне</xt>
+        <xg source="kuru1985" lemma="пе̄лль">
+            <x orth="1985kuru-sjd" pos="Phrase_V">вӣресь пе̄льт е̄лле</x>
+            <xt pos="Phrase_V">жить на чужой стороне</xt>
         </xg>
-        <xg>
-            <x orth="1985kuru-sjd" pos="xxx">пе̄ййв пе̄лль е̄тткас</x>
-            <xt>солнечная сторона улицы</xt>
+        <xg source="kuru1985" lemma="пе̄лль">
+            <x orth="1985kuru-sjd" pos="Phrase_N">пе̄ййв пе̄лль е̄тткас</x>
+            <xt pos="Phrase_N">солнечная сторона улицы</xt>
         </xg>
-        <xg>
-            <x orth="1985kuru-sjd" pos="xxx">эфт пе̄льт пэҏтэсьт</x>
-            <xt>в стороне от дома</xt>
+        <xg source="kuru1985" lemma="пе̄лль">
+            <x orth="1985kuru-sjd" pos="Phrase_N">эфт пе̄льт пэҏтэсьт</x>
+            <xt pos="Phrase_N">в стороне от дома</xt>
         </xg>
-        <xg>
-            <x orth="1985kuru-sjd" pos="xxx">кӣһче эфт пя̄лла</x>
-            <xt>смотреть в сторону</xt>
+        <xg source="kuru1985" lemma="пе̄лль">
+            <x orth="1985kuru-sjd" pos="Phrase_V">кӣһче эфт пя̄лла</x>
+            <xt pos="Phrase_V">смотреть в сторону</xt>
         </xg>
-        <xg>
-            <x orth="1985kuru-sjd" pos="xxx" type="idiom">пе̄ль ва̄льтэ</x>
-            <xt>заступиться</xt>
+        <xg source="kuru1985" lemma="пе̄лль">
+            <x orth="1985kuru-sjd" pos="Phrase_V" type="idiom">пе̄ль ва̄льтэ</x>
+            <xt pos="V">заступиться</xt>
         </xg>
     </e>
 </r>
