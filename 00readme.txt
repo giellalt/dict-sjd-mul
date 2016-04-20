@@ -85,6 +85,8 @@ Explanation of the XML markup (for Sirrke)
 
 <mg/> "meaning group", i.e. all information belonging to the explanation/translation of the meanin or meanings of one lemma; one meaning group for each meaning (words can have several meanings!)
 
+<lexg/> "lexicon group" lexicon-like explanation (rather than true translation)
+
 <tg/> "translation group", one translation group for each translation (one and the same meaning can have several translations!) 
 
 <xg/> "example group"
