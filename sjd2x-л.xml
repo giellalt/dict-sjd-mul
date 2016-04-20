@@ -26,10 +26,37 @@
             </tg>
         </mg>
     </e>
-    <e meta="01">
-        <lg source="kuruc1985">
+    <e kur_ID="2563">
+        <lg>
             <l pos="N">лӣвлас</l>
+            <orth>
+                <lvar orth="1985kuru">лӣвлас</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">лӣввлас</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
         </lg>
+        <mg km="g">
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N">сонливость</t>
+            </tg>
+            <xg source="1985kuru" lemma="лӣвлас">
+                <x orth="1985kuru" pos="Phrase_S">мыннӭ мугка лӣвлас пӯдӭ…</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">на меня такая сонливость напала…</xt>
+                </xtg>
+            </xg>
+            <xg source="1985kuru" lemma="лӣвлас">
+                <x orth="1985kuru" pos="Phrase_N">лӣвлас е̄ррк</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">погода, вызывающая сонливое состояние</xt>
+                </xtg>
+            </xg>
+        </mg>
     </e>
     <e kur_ID="2570">
         <lg>
