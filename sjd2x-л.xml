@@ -2,30 +2,33 @@
 <r>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">ла̄ммьпмӯррьй</l>
+            <l pos="N">ла̄ммьп-мӯррьй</l>
+            <orth>
+                <lvar orth="1986kert">ла̄ммьпмӯррьй</lvar>
+            </orth>
         </lg>
         <mg>
-            <tg>
-                <t>болотная ягода</t>
+            <tg xml:lang="rus">
+                <t pos="xxx">болотная ягода</t>
             </tg>
         </mg>
     </e>
     <e meta="01">
         <lg source="NEA">
-            <l dialect="ars" pos="cc">lube</l>
+            <l dialect="ars" pos="Cc">lube</l>
         </lg>
         <mg>
             <tg xml:lang="deu">
-                <t pos="cc">oder</t>
+                <t pos="Cc">oder</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="cc">или</t>
+                <t pos="Cc">или</t>
             </tg>
         </mg>
     </e>
     <e meta="01">
         <lg source="kuruc1985">
-            <l pos="n">лӣвлас</l>
+            <l pos="N">лӣвлас</l>
         </lg>
     </e>
     <e kur_ID="2570">
