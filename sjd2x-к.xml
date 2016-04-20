@@ -2,31 +2,37 @@
 <r>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">карепьрӯммт</l>
+            <l pos="N">карепь-рӯммт</l>
+            <orth>
+                <lvar orth="1986kert">карепьрӯммт</lvar>
+            </orth>
         </lg>
         <mg>
-            <tg>
-                <t>борт корабля</t>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">борт корабля</t>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">кӯййкка̄ссв</l>
+            <l pos="N">кӯййк-ка̄ссв</l>
+            <orth>
+                <lvar orth="1986kert">кӯййкка̄ссв</lvar>
+            </orth>
         </lg>
         <mg>
-            <tg>
-                <t>бледное лицо</t>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">бледное лицо</t>
             </tg>
         </mg>
     </e>
     <e meta="01">
         <lg source="NEA">
-            <l pos="n">нялльм-сыһкэм пымме</l>
+            <l pos="Phrase_N">ня̄лльм-сыһкэм пымме</l>
         </lg>
         <mg>
             <tg xml:lang="eng">
-                <t pos="n">paper napkin</t>
+                <t pos="Phrase_N">paper napkin</t>
             </tg>
         </mg>
     </e>
