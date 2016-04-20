@@ -28,4 +28,32 @@
             <l pos="n">лӣвлас</l>
         </lg>
     </e>
+    <e kur_ID="2570">
+        <lg>
+            <l pos="V">лӣйе</l>
+            <orth>
+                <lvar orth="1985kuru">лӣйе</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="V">быть</t>
+            </tg>
+            <xg source="1985kuru" lemma="лӣйе">
+                <x orth="1985kuru" pos="Phrase_S">со̄нн лӣ уһцэй</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">он – учитель</xt>
+                </xtg>
+            </xg>
+            <xg source="1985kuru" lemma="лӣйе">
+                <x orth="1985kuru" pos="Phrase_S">сыйй ле̄в о̄һпнуввэй</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">они – ученики</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
 </r>
