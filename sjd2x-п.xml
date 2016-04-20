@@ -38,9 +38,42 @@
     </e>
     <e>
         <lg>
-            <l pos="N" orth="1986kert-rus">пе̄лльк</l>
+            <l pos="N">пе̄лльк</l>
+            <orth>
+                <lvar orth="1986kert">пе̄лльк</lvar>
+                <lvar orth="2008sars">пе̄лльк</lvar>
+                <lvar orth="2014anto">пе̄лльк</lvar>
+            </orth>
+            <infl>
+                <stem_kert gloss="мн">пе̄льк</stem_kert>
+                <stem_sars>льк</stem_sars>
+            </infl>
         </lg>
         <mg>
+            <tg xml:lang="rus">
+                <t pos="N">шест</t>
+                <t pos="N">палка</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="4257">
+        <lg>
+            <l pos="N">пе̄лльк</l>
+            <orth>
+                <lvar orth="1985kuru">пе̄лльк</lvar>
+                <lvar orth="1986kert">пе̄лльк</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">пе̄льк</stem_kuru>
+                <stem_kert gloss="мн">пе̄льк</stem_kert>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype class="xxx"/>
+                <sarsina-chapter>10</sarsina-chapter>
+            </semantics>
             <tg xml:lang="rus">
                 <t pos="Phrase_N">большой палец</t>
             </tg>

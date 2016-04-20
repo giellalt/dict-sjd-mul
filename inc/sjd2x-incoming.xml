@@ -31941,48 +31941,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">пе̄лльк</l>
-            <infl>
-                <stem_sars>льк</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>10</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">большой палец</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">пе̄лльк</l>
-            <infl>
-                <stem_kert gloss="мн">пе̄льк</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">шест, палка</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">пе̄лльк</l>
-            <infl>
-                <stem_kert gloss="мн">пе̄льк</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">большой палец</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">пе̄ллэ</l>
             <infl>
                 <stem_kert>пе̄ла, пя̄лл</stem_kert>
