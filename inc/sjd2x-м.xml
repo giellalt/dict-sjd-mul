@@ -49,6 +49,12 @@
                     <xt>ягоды прихвачены морозом</xt>
                 </xtg>
             </xg>
+            <xg source="1986kert" lemma="мӯнь">
+                <x orth="1986kert" pos="Phrase_S">тэнн ма̄нэсьт лев мӯнне</x>
+                <xtg xml:lang="rus">
+                    <xt>в этом месяце стоят холода</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
 </r>
