@@ -77,11 +77,13 @@ Explanation of the XML markup (for Sirrke)
 
 <lg/> "lemma group", i.e. all information belonging to one lemma
 
-<l/> "lemma", the Kildin Saami word to be explained in the dictionary; the lemma is presented in the spelling preferred by the Kola Saami Documentation Project, in most (but not all!) cases this spelling is similar to kuru1985
+<l/> "lemma"; i.e. the Kildin Saami word to be explained in the dictionary; the lemma is presented in the spelling preferred by the Kola Saami Documentation Project, in most (but not all!) cases this spelling is similar to kuru1985
 
-<orth/> "orthography group", comprising alternative orthographic spellings found in the source data
+<orth/> "orthography group"; comprising alternative orthographic spellings found in the source data
 
-<lvar/> "lemma variant"
+<lvar/> "lemma variant", i.e. variant spellings found in the dictionaries or other written sources
+
+<infl/> "inflection group"; comprising information on inflection class, stem gradation or other morphologically relevant clues
 
 <mg/> "meaning group", i.e. all information belonging to the explanation/translation of the meanin or meanings of one lemma; one meaning group for each meaning (words can have several meanings!)
 
