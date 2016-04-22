@@ -2,6 +2,19 @@
 <r>
     <e>
         <lg>
+            <l pos="xxx">мӯррьй-куэммерь</l>
+            <orth>
+                <lvar orth="1986kert">мӯррьйкуэммерь</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">горсть ягод</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="N">минута</l>
             <orth>
                 <lvar orth="1885kuru">минута</lvar>
@@ -154,10 +167,12 @@
             <l pos="N">мӯнь</l>
             <orth>
                 <lvar orth="1985kuru">мӯнь</lvar>
+                <lvar orth="1986kert" bound="мӯнь-">мӯнь</lvar>
             </orth>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="3310">мӯнне</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+                <stem_kert gloss="мн">мӯнне</stem_kert>
             </infl>
         </lg>
         <mg km="g">
@@ -202,6 +217,24 @@
                 <x orth="1986kert" pos="Phrase_S">тэнн ма̄нэсьт лев мӯнне</x>
                 <xtg xml:lang="rus">
                     <xt>в этом месяце стоят холода</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯнь">
+                <x orth="1986kert" pos="N">мӯньа̄йй</x>
+                <xtg xml:lang="rus">
+                    <t pos="Phrase_N" type="#">дед мороз</t>
+                </xtg>
+            </xg>
+            <xg lemma="мӯнь">
+                <x orth="1986kert" pos="N">мӯнька̄ллса</x>
+                <xtg xml:lang="rus">
+                    <t pos="Phrase_N" type="#">дед мороз</t>
+                </xtg>
+            </xg>
+            <xg lemma="мӯнь">
+                <x orth="1986kert" pos="N">мӯнька̄ллесь</x>
+                <xtg xml:lang="rus">
+                    <t pos="Phrase_N" type="#">дед мороз</t>
                 </xtg>
             </xg>
         </mg>

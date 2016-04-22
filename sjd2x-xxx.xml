@@ -54,19 +54,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx">мӯррьй-куэммерь</l>
-            <orth>
-                <lvar orth="1986kert">мӯррьйкуэммерь</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N">горсть ягод</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert-rus">xxx</l>
         </lg>
         <mg>
@@ -233,45 +220,6 @@
                     <xt type="#">упасть ничком</xt>
                 </xtg>
             </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">мӯнь-а̄йй</l>
-            <orth>
-                <lvar orth="1986kert">мӯньа̄йй</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N" type="#">дед мороз</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">мӯнь-ка̄ллса</l>
-            <orth>
-                <lvar orth="1986kert">мӯнька̄ллса</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N" type="#">дед мороз</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">мӯнь-ка̄ллесь</l>
-            <orth>
-                <lvar orth="1986kert">мӯнька̄ллесь</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N" type="#">дед мороз</t>
-            </tg>
         </mg>
     </e>
     <e>
