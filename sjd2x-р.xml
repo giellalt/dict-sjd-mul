@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="4840">
+        <lg>
+            <l pos="N">ра̄вв</l>
+            <orth>
+                <lvar orth="1985kuru">ра̄вв</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">ра̄в</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/><stem_kert gloss="мн">ра̄в</stem_kert>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N">кулик</t>
+            </tg>
+            <xg lemma="ра̄вв">
+                <x orth="1985kuru" pos="Phrase_N">ра̄в пе̄ссь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">гнездо кулика</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="5229">
         <lg>
             <l pos="N">рыннт</l>
