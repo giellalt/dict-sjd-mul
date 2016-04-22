@@ -1439,6 +1439,7 @@
             <l pos="ADV" orth="1985kuru">а̄йнханна</l>
             <orthography>
                 <lvar orth="1986kert">а̄йнханна</lvar>
+                <lvar orth="2008sars">а̄йнханна</lvar>
             </orthography>
             <der type="SM">а̄ййнэ</der>
         </lg>
@@ -1446,8 +1447,12 @@
             <semantics>
                 <stype>xxx</stype>
             </semantics>
-            <tg>
-                <t>неожиданно</t>
+            <tg xml:lang="rus">
+                <t pos="Adv">неожиданно</t>
+                <t pos="Adv">вдруг</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="Adv">нечаянно</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="xxx">со̄нн пӯдӭ а̄йнханна</x>

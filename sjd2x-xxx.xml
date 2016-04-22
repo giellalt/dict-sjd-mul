@@ -655,45 +655,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>4</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="N">секунда</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>13</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N">старшая сестра жены</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>13</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N">старший брат жены</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert-rus">xxx</l>
         </lg>
         <mg>
@@ -899,16 +860,6 @@
             <xg source="2008sarsina1-numeral">
                 <x pos="S" orth="2008sars">Лоагант вуэр по̄рребпь.</x>
             </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">а̄йнханна</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>неожиданно</t>
-            </tg>
         </mg>
     </e>
 </r>
