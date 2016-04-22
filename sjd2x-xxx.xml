@@ -328,15 +328,15 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="N">куккэшк</l>
+            <orth>
+                <lvar orth="1986kert">куккэшк</lvar>
+            </orth>
         </lg>
         <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">куккэшк</x>
-                <xtg>
-                    <xt type="#">средний палец</xt>
-                </xtg>
-            </xg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N" type="#">средний палец</t>
+            </tg>
         </mg>
     </e>
     <e>
@@ -347,7 +347,7 @@
             <xg lemma="xxx">
                 <x orth="1986kert-rus">че̄песь олма</x>
                 <xtg>
-                    <xt type="#">ма­стер на все руки</xt>
+                    <xt type="#">мастер на все руки</xt>
                 </xtg>
             </xg>
         </mg>
@@ -360,7 +360,7 @@
             <xg lemma="xxx">
                 <x orth="1986kert-rus">чуввесь та̄ссьт</x>
                 <xtg>
-                    <xt type="#">полярная зве­зда</xt>
+                    <xt type="#">полярная звезда</xt>
                 </xtg>
             </xg>
         </mg>
@@ -373,7 +373,7 @@
             <xg lemma="xxx">
                 <x orth="1986kert-rus">шӯрр кӯффьс</x>
                 <xtg>
-                    <xt type="#">большая медведи­ца</xt>
+                    <xt type="#">большая медведица</xt>
                 </xtg>
             </xg>
         </mg>
@@ -524,15 +524,28 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="V">кӣркхэллэ</l>
+            <orth>
+                <lvar orth="1986kert">кӣркхэллэ</lvar>
+            </orth>
         </lg>
         <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">кӣркхэллэ</x>
-                <xtg>
-                    <xt>готовить пищу</xt>
-                </xtg>
-            </xg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_V">готовить пищу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="V">чиннэ</l>
+            <orth>
+                <lvar orth="1986kert">чиннэ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_V">готовить пищу</t>
+            </tg>
         </mg>
     </e>
     <e>
@@ -541,33 +554,7 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">чиннэ</x>
-                <xtg>
-                    <xt>готовить пищу</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">шэ̄ннтэмпе̄ййв</x>
-                <xtg>
-                    <xt>день рождения</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">нэ̄ммпrййв</x>
+                <x orth="1986kert-rus">нэ̄ммпе̄ййв</x>
                 <xtg>
                     <xt>день рождения</xt>
                 </xtg>
