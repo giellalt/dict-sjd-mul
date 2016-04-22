@@ -37965,19 +37965,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ра̄вв</l>
-            <infl>
-                <stem_kert gloss="мн">ра̄в</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">кулик</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">ра̄ввт</l>
             <infl>
                 <stem_sars>вт</stem_sars>
