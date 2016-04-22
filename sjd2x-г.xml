@@ -236,21 +236,27 @@
             <semantics>
                 <stype>xxx</stype>
             </semantics>
-            <tg>
-                <t>герб</t>
+            <tg xml:lang="rus">
+                <t pos="N">герб</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="N">ланнҍ ге̄ррп</x>
-                <xt>государственный герб</xt>
+            <xg lemma="ге̄ррп">
+                <x orth="1985kuru" pos="Phrase_N">ланнҍ ге̄ррп</x>
+                <xt pos="Phrase_N">государственный герб</xt>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="N">ге̄ррп тӣһт</x>
-                <xt>гербовая печать</xt>
+            <xg lemma="ге̄ррп">
+                <x orth="1985kuru" pos="Phrase_N">ге̄ррп тӣһт</x>
+                <xt pos="Phrase_N">гербовая печать</xt>
             </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">е̄ммьне герб</x>
+            <xg lemma="ге̄ррп">
+                <x orth="1986kert" pos="Phrase_N">е̄ммьне герб</x>
                 <xtg xml:lang="rus">
-                    <xt pos="xxx">герб страны</xt>
+                    <xt pos="Phrase_N">герб страны</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ге̄ррп">
+                <x orth="1986kert" pos="Phrase_N">ССРЭ государственна ге̄рб</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">государственный герб СССР</xt>
                 </xtg>
             </xg>
         </mg>
