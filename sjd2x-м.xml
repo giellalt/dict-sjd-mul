@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e>
+        <lg>
+            <l pos="N">минута</l>
+            <orth>
+                <lvar orth="1885kuru">минута</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+                <sarsina-chapter>4</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N">минута</t>
+            </tg>
+        </mg>
+    </e>
     <e kur_ID="3318">
         <lg>
             <l pos="N" orth="1985kuru">мӯрр</l>
@@ -10,7 +27,7 @@
         </lg>
         <mg km="g1">
             <semantics>
-                <stype>xxx</stype>
+                <sem class="xxx"/>
             </semantics>
             <tg>
                 <t>дерево</t>

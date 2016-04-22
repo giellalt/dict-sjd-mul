@@ -662,45 +662,6 @@
                 <sarsina-chapter>13</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="N">кум</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>13</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="N">кума</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>4</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="N">минута</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>13</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
                 <t pos="Phrase_N">младшая сестра жены</t>
             </tg>
         </mg>
