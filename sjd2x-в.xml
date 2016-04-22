@@ -6877,25 +6877,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">воа̄всхэсс</l>
-            <orth>
-                <lvar orth="1985kuru">xxx</lvar>
-            </orth>
-            <infl>
-                <stem_sars>---з---</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>8</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">северное сияние</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">воа̄ррьдэ</l>
         </lg>
     </e>
@@ -8771,16 +8752,20 @@
         <lg>
             <l pos="N" orth="1985kuru">воафсхэсс</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">воафсхэсс</lvar>
+                <lvar orth="1986kert">во̄а̄всхэсс</lvar>
+                <lvar orth="2008sars">воа̄всхэсс</lvar>
             </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">воафсхэз</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
+                <stem_sars>---з---</stem_sars>
             </infl>
         </lg>
         <mg km="g">
             <semantics>
                 <sem class="xxx"/>
+                <sarsina-chapter>8</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
                 <t pos="xxx">северное сияние</t>
@@ -32230,7 +32215,7 @@
             </xg>
         </mg>
     </e>
-        <e>
+    <e>
         <lg>
             <l pos="xxx" orth="1986kert">вуэккьс</l>
         </lg>
