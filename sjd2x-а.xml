@@ -3613,41 +3613,71 @@
             <tg xml:lang="rus">
                 <t pos="N" gender="m">дождь</t>
             </tg>
-            <xg>
+            <xg lemma="аббьр">
                 <x orth="1985kuru" pos="S">аббьр аббр</x>
-                <xt>дождь идёт</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">дождь идёт</xt>
+                </xtg>
             </xg>
-            <xg>
+            <xg lemma="аббьр">
                 <x orth="1985kuru" pos="S">аббьр манн</x>
-                <xt>дождь идёт</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">дождь идёт</xt>
+                </xtg>
             </xg>
-            <xg>
+            <xg lemma="аббьр">
                 <x orth="1985kuru" pos="S">аббьр ёадт</x>
-                <xt>дождь идёт</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">дождь идёт</xt>
+                </xtg>
             </xg>
-            <xg>
+            <xg lemma="аббьр">
                 <x orth="1985kuru" pos="S">аббьр оалкхувэ</x>
-                <xt>дождь начался</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">дождь начался</xt>
+                </xtg>
             </xg>
-            <xg>
+            <xg lemma="аббьр">
                 <x orth="1985kuru" pos="S">эбьрэнҍ тӣвтэ пугк вӯметҍ</x>
-                <xt>водой залило все долины</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">водой залило все долины</xt>
+                </xtg>
             </xg>
-            <xg>
-                <x orth="1985kuru" pos="N">аббьр-чалма</x>
-                <xt xtnumber="1">капля дождя</xt>
-                <xt xtnumber="2" type="literal">глазок дождя</xt>
+            <xg lemma="аббьр">
+                <x orth="1986kert" pos="N">а̄ббьрчалльм</x>
+                <xtg xml:lang="rus">
+                    <xt pos="N" xtnumber="1">дождинка</xt>
+                    <xt pos="Phrase_N" xtnumber="2">капля дождя</xt>
+                    <xt pos="Phrase_N" xtnumber="3" type="literal">глаз дождя</xt>
+                </xtg>
             </xg>
-            <xg>
+            <xg lemma="аббьр">
+                <x orth="1985kuru" pos="N">аббьрчалма</x>
+                <xtg xml:lang="rus">
+                    <xt pos="N" xtnumber="1">дождинка</xt>
+                    <xt pos="Phrase_N" xtnumber="2">капля дождя</xt>
+                    <xt pos="Phrase_N" xtnumber="3" type="literal">глазок дождя</xt>
+                </xtg>
+            </xg>
+            <xg lemma="аббьр">
+                <x orth="1985kuru" pos="Phrase_N">а̄ббьр пе̄ййв</x>
+                <x orth="1986kert" pos="N">а̄ббьрпе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">дождливый день</xt>
+                </xtg>
+            </xg>
+            <xg lemma="аббьр">
                 <x orth="1985kuru" pos="N">коам аббьр</x>
-                <xt xtnumber="1">ливень</xt>
-                <xt xtnumber="2" type="explanation">проливной дождь</xt>
+                <xtg xml:lang="rus">
+                    <xt pos="N" xtnumber="1">ливень</xt>
+                    <xt pos="Phrase_N" xtnumber="2" type="explanation">проливной дождь</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
     <e kur_ID="10" link_sm="1">
         <lg>
-            <l pos="A" orth="1985kuru">аббьръесь</l>
+            <l pos="A">аббьръесь</l>
             <orthography>
                 <lvar orth="1986kert">аббьрьесь</lvar>
                 <lvar orth="1986ker1">а̄ббьрьесь</lvar>
@@ -3661,9 +3691,18 @@
             <tg>
                 <t>дождливый</t>
             </tg>
-            <xg>
-                <x orth="1985kuru" pos="xxx">аббьръесь ке̄ссь</x>
-                <xt>дождливое лето</xt>
+            <xg lemma="аббьръесь">
+                <x orth="1985kuru" pos="Phrase_N">аббьръесь ке̄ссь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">дождливое лето</xt>
+                </xtg>
+            </xg>
+            <xg lemma="аббьръесь">
+                <x orth="1985kuru">аббьръесь пе̄ййв</x>
+                <x orth="1986kert">аббьрьесь пе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">дождливый день</xt>
+                </xtg>
             </xg>
         </mg>
     </e>

@@ -541,47 +541,6 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">аббьрьесь пе̄ййв</x>
-                <xtg>
-                    <xt>дождливый день</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">а̄ббьрпе̄ййв</x>
-                <xtg>
-                    <xt>дождливый день</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">а̄ббьрчалльм</x>
-                <xtg>
-                    <xt>капля дождя</xt>
-                    <xt>дождинка</xt>
-                    <xt type="literal">глаз дождя</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
                 <x orth="1986kert-rus">мыннӭ ко̄а̄шштэдэ</x>
                 <xtg>
                     <xt>мне показалось</xt>
