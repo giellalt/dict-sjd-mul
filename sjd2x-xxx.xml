@@ -263,19 +263,6 @@
     </e>
     <e>
         <lg>
-            <l pos="N">куккэшк</l>
-            <orth>
-                <lvar orth="1986kert">куккэшк</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N" type="#">средний палец</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert-rus">xxx</l>
         </lg>
         <mg>

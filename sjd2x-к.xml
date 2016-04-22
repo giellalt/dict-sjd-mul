@@ -2,6 +2,26 @@
 <r>
     <e>
         <lg>
+            <l pos="N">куһкэшк</l>
+            <orth>
+                <lvar orth="1986kert">куккэшк</lvar>
+                <lvar orth="2008sars">когкэшк</lvar>
+            </orth>
+            <infl>
+                <stem_sars>шк</stem_sars>
+            </infl>
+        </lg>
+        <mg>
+            <semantics>
+                <sarsina-chapter>10</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N" type="#">средний палец</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="N">карепь-рӯммт</l>
             <orth>
                 <lvar orth="1986kert">карепьрӯммт</lvar>
