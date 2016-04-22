@@ -25,6 +25,13 @@
                 </xtg>
             </xg>
             <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_N">ме̄рр рынтэсьт</x>
+                <x orth="1986kert" pos="N">ме̄ррынтэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">с берега моря</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
                 <x orth="1985kuru" pos="Phrase_S">ёгк выйтэ рынтэсьт</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_S">река вышла из берегов</xt>
