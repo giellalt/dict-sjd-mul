@@ -1,5 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="5138">
+        <lg>
+            <l pos="A">рӯппьсесь</l>
+            <orth>
+                <lvar orth="1985kuru">рӯппьсесь</lvar>
+                <lvar orth="1986kert">рӯппьсесь</lvar>
+                <lvar orth="1986ker1">рӯппсесь</lvar>
+                <lvar orth="2008sars">рӯппьсесь</lvar>
+                <lvar orth="2008sar1">рӯппсесь</lvar>
+            </orth>
+        </lg>
+        <mg order="1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="A">красный</t>
+                <t pos="A">алый</t>
+            </tg>
+            <xg lemma="рӯппьсесь">
+                <x orth="1985kuru" pos="Phrase_N">рӯппьсесь карндашш</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">красный карандаш</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <xtg xml:lang="rus">
+                    <x orth="1985kuru" pos="Phrase_N">рӯппьсесь га̄лстэгк</x>
+                    <x orth="1985kuru" pos="Phrase_N">рӯппсесь галстук</x>
+                    <xt pos="Phrase_N">алый галстук</xt>
+                    <xt pos="Phrase_N">красный галстук</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="1985kuru" pos="Phrase_N">рӯппьсесь нӣр</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">румяные щёки</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="1986kert-rus">рӯппьсесь флаг</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">алый флаг</xt>
+                    <xt pos="Phrase_N">красный флаг</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="2008sars" pos="NP">рӯппьсесь кӯлль</x>
+                <xtg xml:lang="rus">
+                    <xt pos="NP">красная рыба</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="2008sars" pos="NP">рӯппьсесь кӯль</x>
+                <xtg xml:lang="rus">
+                    <xt pos="NP">красные рыбы</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="2008sars" pos="NP">рӯппьсесь кӯлесьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="AdpP">в красной рыбе</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="2008sars" pos="S">кӯлль лӣ рӯппсэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">рыба красная</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯппьсесь">
+                <x orth="2008sars" pos="S">кӯль лев рӯппсэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="S">рыбы красные</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="2">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>3</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="A">рыжий</t>
+            </tg>
+            <xg lemma="рӯппьсесь">
+                <x orth="1986kert" pos="Phrase_N">рӯппсесь рӣммьн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">рыжая лиса</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="4840">
         <lg>
             <l pos="N">ра̄вв</l>
@@ -8,7 +101,8 @@
             </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">ра̄в</stem_kuru>
-                <class_kuru class="I" ablaut="_x_" special="_x_"/><stem_kert gloss="мн">ра̄в</stem_kert>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+                <stem_kert gloss="мн">ра̄в</stem_kert>
             </infl>
         </lg>
         <mg km="g">

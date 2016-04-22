@@ -7807,11 +7807,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">красный флаг рӯппьсесь флаг</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">краснэ</l>
         </lg>
     </e>
@@ -41138,108 +41133,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">рӯммт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">рӯппсесь</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>3</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">красный/рыжий</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">рӯппсесь</l>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">красный</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">рӯппсесь галстук</x>
-                <xtg>
-                    <xt>красный галстук</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">рыжий</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">рӯппсесь рӣммьн</x>
-                <xtg>
-                    <xt>рыжая лиса</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">рӯппсесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="a" orth="2008sars">рӯппьсесь</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-adjective">
-                <x pos="NP" orth="2008sars">рӯппьсесь кӯлль</x>
-                <xtg xml:lang="rus">
-                    <xt pos="NP">красная рыба</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-adjective">
-                <x pos="NP" orth="2008sars">рӯппьсесь кӯль</x>
-                <xtg xml:lang="rus">
-                    <xt pos="NP">красные рыбы</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-adjective">
-                <x pos="NP" orth="2008sars">рӯппьсесь кӯлесьт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="AdpP">в красной рыбе</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-adjective">
-                <x pos="S" orth="2008sars">кӯлль лӣ рӯппсэ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">рыба красная</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-adjective">
-                <x pos="S" orth="2008sars">кӯль лев рӯппсэ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">рыбы красные</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">рӯппьсесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">рӯппьсесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">рӯппьсесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">рӯппьсесь</l>
         </lg>
     </e>
     <e>

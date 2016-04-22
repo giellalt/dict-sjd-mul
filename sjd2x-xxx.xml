@@ -143,26 +143,6 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">алый флаг</x>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">рӯппьсесь флаг</x>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
                 <x orth="1986kert-rus">мэ̄ннэ коамма</x>
                 <xtg>
                     <xt type="#">упасть ничком</xt>
