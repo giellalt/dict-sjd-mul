@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e kur_ID="7066">
+        <lg>
+            <l pos="V">чиннэ</l>
+            <orth>
+                <lvar orth="1985kuru">чиннэ</lvar>
+                <lvar orth="1986kert">чиннэ</lvar>
+                <lvar orth="2008sars">чиннэ</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+                <stem_kert>чина, чинн</stem_kert>
+                <stem_sars>н</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>1</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t imperf="починить">чинить что</t>
+                <t imperf="отремонтировать">ремонтировать что</t>
+            </tg>
+            <xg lemma="чиннэ">
+                <x orth="1985kuru" pos="Phrase_V">ноаҏтэтҍ чиннэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">ремонтировать нарты</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="1985kuru" pos="Phrase_V">ва̄ннцнӭтҍ чиннэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">починить обувь</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="2008sars" pos="Phrase_V">чиннэ е̄ллемьсайетҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="V">устраиватся</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="2008sars" pos="Phrase_S">коввас оа̄ссэбпь я то̄ллсай чиннэбпь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">ставим куваксу и делаем место для костра</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>2</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t pos="V" valency="кого-что">готовить</t>
+                <t pos="V" valency="кого-что">приготовить</t>
+                <t pos="V" valency="кого-что">подготовить</t>
+            </tg>
+            <xg lemma="чиннэ">
+                <x orth="1985kuru" pos="Phrase_V">чиннэ ӣнцэсь по̄ррмуж</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">готовить завтрак</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="1985kuru" pos="Phrase_V">чиннэ ке̄нн-не воаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">готовить кого-либо в дорогу</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="2008sars" pos="Phrase_S">ко̄ххт чиннэ?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="rus"/>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="2008sars" pos="Phrase_S">мэ̄нн чиннэ?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="rus"/>
+                </xtg>
+            </xg>
+            <xg lemma="чиннэ">
+                <x orth="2008sars" pos="Phrase_V">пе̄рк чиннэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">готовить еду</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="UNPERS">крепить (желудок)</t>
+            </tg>
+        </mg>
+    </e>
+</r>

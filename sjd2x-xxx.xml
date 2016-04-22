@@ -524,19 +524,6 @@
     </e>
     <e>
         <lg>
-            <l pos="V">чиннэ</l>
-            <orth>
-                <lvar orth="1986kert">чиннэ</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">готовить пищу</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert-rus">xxx</l>
         </lg>
         <mg>
