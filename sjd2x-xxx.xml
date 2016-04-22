@@ -393,19 +393,6 @@
     </e>
     <e>
         <lg>
-            <l pos="A">ӣннхэм</l>
-            <orth>
-                <lvar orth="1986kert">ӣннхем</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N">глухой согласный</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="A">глухэ</l>
             <orth>
                 <lvar orth="1986kert">глухэ</lvar>
