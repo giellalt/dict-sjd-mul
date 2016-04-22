@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e kur_ID="7511">
+        <lg>
+            <l pos="V">шэ̄ннтэ</l>
+            <orth>
+                <lvar orth="1985kuru">шэ̄ннтэ</lvar>
+                <lvar orth="1986kert">шэ̄ннтэ</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+                <stem_kert>шэнта, шаннт</stem_kert>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="вырасти">расти</t>
+            </tg>
+            <xg lemma="шэ̄ннтэ">
+                <x orth="1985kuru" pos="Phrase_S">алльк ша̄ннт тӣррвэнҍ</x>
+                <xt>сын растёт здоровым</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="рождаться">родиться</t>
+            </tg>
+            <xg lemma="шэ̄ннтэ">
+                <x orth="1985kuru" pos="Phrase_S">па̄ррьшя шэ̄нтэ ко̄ллм ма̄н маӈас</x>
+                <xt>мальчик родился три месяца тому назад</xt>
+            </xg>
+            <xg lemma="шэ̄ннтэ">
+                <x orth="1985kuru" pos="Phrase_N">шэ̄ннтэм пе̄ййв</x>
+                <x orth="1986kert" pos="N">шэ̄ннтэмпе̄ййв</x>
+                <xtg>
+                    <xt pos="Phrase_N" type="#">день рождения</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="становиться">стать кем-чем (сделаться)</t>
+                <t>быть кем-чем</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_S">нӣййт шэ̄нтэ лыһцъенҍ</x>
+                <xt>дочь стала врачом</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_N" type="idiom">кэск шэ̄ннтэм па̄ррнэ</x>
+                <xt>подростки</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_S" type="idiom">кэск шэ̄ннтэм мӯрьетҍ пугк уссенҍ</x>
+                <xt>[они] собрали недозрёвшие ягоды</xt>
+            </xg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="V" imperf="выращивать">вырастить</t>
+            </tg>
+        </mg>
+    </e>
+</r>
