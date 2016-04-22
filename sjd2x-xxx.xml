@@ -581,32 +581,6 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">ме̄ррынтэсьт</x>
-                <xtg>
-                    <xt>с берега моря</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus">мӯрэсьт</x>
-                <xtg>
-                    <xt>с дерева</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
                 <x orth="1986kert-rus">мӯрр гурэсьт</x>
                 <xtg>
                     <xt>у дерева</xt>

@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="3318">
+        <lg>
+            <l pos="N" orth="1985kuru">мӯрр</l>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">мӯр</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>дерево</t>
+            </tg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx">лэ̄сст мӯрр</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">лиственное дерево</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx">пӣӈӈк суаррт мӯрэтҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">ветер валит деревья</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx">мӯрр ка̄ррь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">деревянная посуда</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1986kert">мӯрэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adv">с дерева</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>дрова</t>
+            </tg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx">пе̄дзь мӯр</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">сосновые дрова</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx">ча̄дзь мӯр</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">сырые дрова</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx">мӯрэтҍ та̄лвас ра̄дтӭ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">заготовить дрова на зиму</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx" type="idiom">мӯрр кӣд</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">руки как крюки</xt>
+                    <xt pos="Phrase_N" type="literal">деревянные руки</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мӯрр">
+                <x orth="1985kuru" pos="xxx" type="idiom">мӯрр кӣдт олма</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">нело̄вкий человек</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="N">мушштъемушш</l>
