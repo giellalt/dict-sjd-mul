@@ -2,6 +2,19 @@
 <r>
     <e>
         <lg>
+            <l pos="N">лыгк-герой</l>
+            <orth>
+                <lvar orth="1986kert">лыгкгерой</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="">герой труда</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="N">ла̄ммьп-мӯррьй</l>
             <orth>
                 <lvar orth="1986kert">ла̄ммьпмӯррьй</lvar>
