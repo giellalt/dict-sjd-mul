@@ -541,19 +541,6 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">нэ̄ммпе̄ййв</x>
-                <xtg>
-                    <xt>день рождения</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
                 <x orth="1986kert-rus">аббьрьесь пе̄ййв</x>
                 <xtg>
                     <xt>дождливый день</xt>

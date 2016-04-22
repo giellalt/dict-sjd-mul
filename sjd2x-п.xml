@@ -1,5 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="4246">
+        <lg>
+            <l pos="N">пе̄ййв</l>
+            <orth>
+                <lvar orth="1985kuru"/>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">пе̄йв</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t gender="m">день</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэ̄сск пе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="N">полдень</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">кэ̄сск пе̄йвэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">в середине дня</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пе̄ййва нымьп ча̄ссэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">в два часа дня</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">эфт тэнн шэ пе̄йвэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">в один и тот же день</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пе̄йв пуэдтӭм райя</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">за день до приезда</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">кыджемь ча̄сс пайса лыһкэм пе̄йв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">семичасовой рабочий день</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">эфт пя̄ййвса е̄ллей</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="figurative">живущий одним днём</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">вуэјјтэм пе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="#">день победы</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="Phrase_N">нэ̄мм пе̄ййв</x>
+                <x orth="1986kert" pos="N">нэ̄ммпе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="#">день рождения</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>солнце</t>
+            </tg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пе̄йв пэ̄ййнэм райя</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">до восхода солнца</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пуэлльтэм пе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">жгучее солнце</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">оавтчедтэ пе̄йвэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">греться на солнце</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пе̄йв мӣлльтэ о̄дзэ кя̄йн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">ориентироваться по солнцу</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пе̄ййв чувв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">солнечный свет</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="Phrase_V">пе̄ййв поашт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="N" type="#">солнцепёк</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пе̄ййв">
+                <x orth="1985kuru" pos="xxx">пе̄ййв поаштэсьт оаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">сидеть на солнцепёке</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="4812">
         <lg>
             <l pos="N">пя̄лла</l>
@@ -96,19 +221,19 @@
                 <t pos="N">половина</t>
             </tg>
             <xg source="kuru1985" lemma="пе̄лль">
-                <x orth="1985kuru-sjd" pos="Phrase_S">пе̄ль лыһкэ лыһкъювэ</x>
+                <x orth="1985kuru" pos="Phrase_S">пе̄ль лыһкэ лыһкъювэ</x>
                 <xt pos="Phrase_S">половина дела сделана</xt>
             </xg>
             <xg source="kuru1985" lemma="пе̄лль">
-                <x orth="1985kuru-sjd" pos="Phrase_S">пе̄ль ке̄ссе мэ̄нэ</x>
+                <x orth="1985kuru" pos="Phrase_S">пе̄ль ке̄ссе мэ̄нэ</x>
                 <xt pos="Phrase_S">прошла половина лета</xt>
             </xg>
             <xg source="kuru1985" lemma="пе̄лль">
-                <x orth="1985kuru-sjd" pos="Phrase_S">пэ̄ҏҏт пе̄лесьт я̄ла</x>
+                <x orth="1985kuru" pos="Phrase_S">пэ̄ҏҏт пе̄лесьт я̄ла</x>
                 <xt pos="Phrase_S">[я] занимаю половину дома</xt>
             </xg>
             <xg source="kuru1985" lemma="пе̄лль">
-                <x orth="1985kuru-sjd" pos="Phrase_S">оашшьтъюввэ пуэдтӭ кудант ча̄сс пе̄лесьт</x>
+                <x orth="1985kuru" pos="Phrase_S">оашшьтъюввэ пуэдтӭ кудант ча̄сс пе̄лесьт</x>
                 <xt pos="Phrase_S">[он] обещал прийти в половине шестого</xt>
             </xg>
         </mg>
@@ -118,27 +243,27 @@
             </tg>
         </mg>
         <xg source="kuru1985" lemma="пе̄лль">
-            <x orth="1985kuru-sjd" pos="Phrase_N">вӣресь пе̄лль</x>
+            <x orth="1985kuru" pos="Phrase_N">вӣресь пе̄лль</x>
             <xt pos="Phrase_N">чужая сторона</xt>
         </xg>
         <xg source="kuru1985" lemma="пе̄лль">
-            <x orth="1985kuru-sjd" pos="Phrase_V">вӣресь пе̄льт е̄лле</x>
+            <x orth="1985kuru" pos="Phrase_V">вӣресь пе̄льт е̄лле</x>
             <xt pos="Phrase_V">жить на чужой стороне</xt>
         </xg>
         <xg source="kuru1985" lemma="пе̄лль">
-            <x orth="1985kuru-sjd" pos="Phrase_N">пе̄ййв пе̄лль е̄тткас</x>
+            <x orth="1985kuru" pos="Phrase_N">пе̄ййв пе̄лль е̄тткас</x>
             <xt pos="Phrase_N">солнечная сторона улицы</xt>
         </xg>
         <xg source="kuru1985" lemma="пе̄лль">
-            <x orth="1985kuru-sjd" pos="Phrase_N">эфт пе̄льт пэҏтэсьт</x>
+            <x orth="1985kuru" pos="Phrase_N">эфт пе̄льт пэҏтэсьт</x>
             <xt pos="Phrase_N">в стороне от дома</xt>
         </xg>
         <xg source="kuru1985" lemma="пе̄лль">
-            <x orth="1985kuru-sjd" pos="Phrase_V">кӣһче эфт пя̄лла</x>
+            <x orth="1985kuru" pos="Phrase_V">кӣһче эфт пя̄лла</x>
             <xt pos="Phrase_V">смотреть в сторону</xt>
         </xg>
         <xg source="kuru1985" lemma="пе̄лль">
-            <x orth="1985kuru-sjd" pos="Phrase_V" type="idiom">пе̄ль ва̄льтэ</x>
+            <x orth="1985kuru" pos="Phrase_V" type="idiom">пе̄ль ва̄льтэ</x>
             <xt pos="V">заступиться</xt>
         </xg>
     </e>
