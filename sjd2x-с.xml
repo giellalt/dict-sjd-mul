@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="5756" link_sm="1">
+        <lg>
+            <l pos="N">сӯӈӈъей</l>
+            <orth>
+                <lvar orth="1985kuru">сӯӈӈъей</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+            </infl>
+            <der type="SM">сӯӈӈъе</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>13</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t gender="m">сват</t>
+                <t gender="f">сваха</t>
+            </tg>
+        </mg>
+    </e>
     <e meta="01">
         <lg source="NEA">
             <l pos="N" dialect="ars">са̄ййк</l>
