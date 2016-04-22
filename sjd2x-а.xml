@@ -6345,13 +6345,20 @@
             <tg>
                 <t gender="m">апрель</t>
             </tg>
-            <xg>
+            <xg lemma="апрелль">
                 <x orth="1985kuru" pos="V">пуэдтӭ апрелесьт</x>
                 <xt>приехать в апреле</xt>
             </xg>
-            <xg>
+            <xg lemma="апрелль">
                 <x orth="1985kuru" pos="N">апрелль пе̄ййв</x>
                 <xt>апрельское солнце</xt>
+            </xg>
+            <xg lemma="апрелль">
+                <x orth="1986kert" pos="N">апрельма̄нн</x>
+                <x orth="1985kuru" pos="Phrase_N">апрелль ма̄нн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="#">апрель месяц</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
