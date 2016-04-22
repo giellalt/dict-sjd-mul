@@ -6,32 +6,6 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">Советскэ Э̄ххтнэг граждан</x>
-                <xtg>
-                    <xt>гражданин Советского Союза</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="NP">«Луяввьр Правда» газета</x>
-                <xtg>
-                    <xt>газета «Ловозерская Правда»</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
                 <x orth="1986kert-rus" pos="N">рӯшас са̄ррнэ</x>
                 <xtg>
                     <xt>говорить по-русски</xt>

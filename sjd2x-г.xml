@@ -3,6 +3,22 @@
 <r>
     <e>
         <lg>
+            <l pos="N">гражданн</l>
+            <orth>
+                <lvar orth="1986kert">граждан</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <xg lemma="гражданн">
+                <x orth="1986kert" pos="Phrase_N">Советскэ Э̄ххтнэг граждан</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">гражданин Советского Союза</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="A">глухэ</l>
             <orth>
                 <lvar orth="1986kert">глухэ</lvar>
@@ -157,8 +173,9 @@
     </e>
     <e kur_ID="1052">
         <lg>
-            <l pos="N" orth="1985kuru">газета</l>
+            <l pos="N">газета</l>
             <orthography>
+                <lvar orth="1985kuru">газета</lvar>
                 <lvar orth="1986kert">газета</lvar>
             </orthography>
             <infl>
@@ -170,29 +187,35 @@
             <semantics>
                 <stype>xxx</stype>
             </semantics>
-            <tg>
-                <t>газета</t>
+            <tg xml:lang="rus">
+                <t pos="N">газета</t>
             </tg>
-            <xg>
+            <xg lemma="газета">
                 <x orth="1985kuru" pos="N">е̄кесь газета</x>
                 <xt>вечерняя газета</xt>
             </xg>
-            <xg>
+            <xg lemma="газета">
                 <x orth="1985kuru" pos="N">югке пя̄ййвса газета</x>
                 <xt>ежедневная газета</xt>
             </xg>
-            <xg>
+            <xg lemma="газета">
                 <x orth="1985kuru" pos="N">кырьйхаһтӭ газета</x>
                 <xt>выписывать газету</xt>
             </xg>
-            <xg>
+            <xg lemma="газета">
                 <x orth="1985kuru" pos="N">газета пымме</x>
                 <xt>газетная бумага</xt>
             </xg>
-            <xg>
+            <xg lemma="газета">
                 <x orth="1986kert" pos="NP">е̄ннҍкилл газета</x>
                 <xtg xml:lang="rus">
                     <xt pos="xxx">газета на родном языке</xt>
+                </xtg>
+            </xg>
+            <xg lemma="газета">
+                <x orth="1986kert-rus" pos="NP">«Луяввьр Правда» газета</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">газета «Ловозерская Правда»</xt>
                 </xtg>
             </xg>
         </mg>
