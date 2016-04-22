@@ -7472,22 +7472,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">когкэшк</l>
-            <infl>
-                <stem_sars>шк</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>10</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">средний палец</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">коййхь</l>
         </lg>
         <mg>
@@ -53605,27 +53589,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">флаг</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">флаг</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">э̄хтнэгэ республикае флаг</x>
-                <xtg>
-                    <xt>флаги союзных республик</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">флаг</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">флот</l>
         </lg>
         <mg>
@@ -64817,11 +64780,6 @@
                 <t pos="rus">дядя, старший брат матери</t>
             </tg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ӣннхем</l>
-        </lg>
     </e>
     <e>
         <lg>

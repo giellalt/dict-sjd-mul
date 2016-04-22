@@ -45,19 +45,6 @@
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">ССРЭ государственна флаг</x>
-                <xtg>
-                    <xt>государственный флаг СССР</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
                 <x orth="1986kert-rus" pos="xxx">грузовэ автомобиль</x>
                 <xtg>
                     <xt>грузовой автомобиль</xt>
