@@ -2,6 +2,19 @@
 <r>
     <e>
         <lg>
+            <l pos="V">кӣркхэллэ</l>
+            <orth>
+                <lvar orth="1986kert">кӣркхэллэ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_V">готовить пищу</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="N">куһкэшк</l>
             <orth>
                 <lvar orth="1986kert">куккэшк</lvar>
