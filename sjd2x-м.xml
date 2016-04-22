@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e>
+        <lg>
+            <l pos="N">мушштъемушш</l>
+            <orth>
+                <lvar orth="1986kert">мушштъемушш</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+                <sarsina-chapter>5</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="rus">повторение</t>
+            </tg>
+            <xg lemma="мушштъемушш">
+                <x orth="1986kert" pos="xxx">ва̄сьт мушштъемушш</x>
+                <x orth="2008sars" pos="xxx">ва̄сьт мушштъемушш</x>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="3342" link_sm="1">
+        <lg>
+            <l pos="V">мушштъе</l>
+            <orth>
+                <lvar orth="1985kuru">мушштъе</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+            <der type="SM">мушшт</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>вспомнить кого-что</t>
+                <t>о ком-чём</t>
+            </tg>
+            <xg lemma="мушштъе">
+                <x orth="1985kuru" pos="Phrase_S">мунн мушштъе ка̄нцан баяс</x>
+                <xt>я вспомнил о друге</xt>
+            </xg>
+            <xg lemma="мушштъе">
+                <x orth="1986kert" pos="Phrase_V">ва̄сьт мушштъе</x>
+                <xtg xml:lang="rus">
+                    <xt>повторить (возобновить в памяти)</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="3316">
         <lg>
             <l pos="N">мӯнь</l>
