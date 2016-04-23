@@ -27383,69 +27383,13 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вӯгкесь</l>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">лохматый</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">мохнатый</t>
-            </tg>
-        </mg>
-        <mg order="3">
-            <tg xml:lang="rus">
-                <t pos="xxx">частый</t>
-            </tg>
-        </mg>
-        <mg order="4">
-            <tg xml:lang="rus">
-                <t pos="xxx">густой</t>
-            </tg>
-        </mg>
-        <mg order="5">
-            <tg xml:lang="rus">
-                <t pos="xxx">дешёвый</t>
-            </tg>
-        </mg>
-    </e>
     <e kur_ID="678">
         <lg>
-            <l pos="A" orth="1985kuru">вӯгкесь</l>
+            <l pos="A">вӯгкесь</l>
+            <orth>
+                <lvar orth="1985kuru">вӯгкесь</lvar>
+                <lvar orth="1986kert">вӯгкесь</lvar>
+            </orth>
         </lg>
         <mg km="g">
             <semantics>
@@ -27454,12 +27398,42 @@
             <tg xml:lang="rus">
                 <t pos="xxx">густой (о шерсти)</t>
             </tg>
-            <xg lemma="xxx">
-                <x orth="1985kuru" pos="N">вӯгкесь улл</x>
+            <xg lemma="вӯгкесь">
+                <x orth="1985kuru" pos="Phrase_N">вӯгкесь улл</x>
                 <xtg xml:lang="rus">
                     <xt pos="xxx">густая шерсть</xt>
                 </xtg>
+                <tg xml:lang="rus">
+                    <t pos="xxx">мохнатый</t>
+                </tg>
             </xg>
+            <xg lemma="вӯгкесь">
+                <x orth="1986kert" pos="Phrase_N">вӯгкесь вӯпт</x>
+                <xtg xml:lang="rus">
+                    <xt>густые волосы</xt>
+                </xtg>
+            </xg>
+            <xg lemma="вӯгкесь">
+                <x orth="1986kert" pos="Phrase_N">вӯгкесь ко̄а̄зя</x>
+                <xtg xml:lang="rus">
+                    <xt>пушистый котёнок</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="1">
+            <tg xml:lang="rus">
+                <t pos="xxx">лохматый</t>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">частый</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">дешёвый</t>
+            </tg>
         </mg>
     </e>
     <e kur_ID="679" link_sm="1">

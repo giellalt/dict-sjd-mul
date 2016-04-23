@@ -2,116 +2,12 @@
 <r>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="N">рӯшас са̄ррнэ</x>
-                <xtg>
-                    <xt>говорить по-русски</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="N">алехь алльм</x>
-                <xtg>
-                    <xt>голубое небо</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">пӯлле чоай</x>
-                <xtg>
-                    <xt>горячий чай</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">грузовэ автомобиль</x>
-                <xtg>
-                    <xt>грузовой автомобиль</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">сӯгкесь уххт</x>
-                <xtg>
-                    <xt>густая каша</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">чоагь то̄а̄йвас поанӭгуэйм</x>
-                <xtg>
-                    <xt>густой гребешок</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">сӯгкесь ва̄ррь</x>
-                <xtg>
-                    <xt>густой лес</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">вӯгкесь вӯпт</x>
-                <xtg>
-                    <xt>густые волосы</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert-rus" pos="xxx">активнэ о̄хпнуввэй</x>
-                <xtg>
+                <x orth="1986kert" pos="xxx">активнэ о̄хпнуввэй</x>
+                <xtg xml:lang="rus">
                     <xt>активный ученик</xt>
                 </xtg>
             </xg>
@@ -119,32 +15,32 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">алые галстуки</x>
+                <x orth="1986kert">алые галстуки</x>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">чӯввесь рӯппсэ галстук</x>
+                <x orth="1986kert">чӯввесь рӯппсэ галстук</x>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">мэ̄ннэ коамма</x>
-                <xtg>
+                <x orth="1986kert">мэ̄ннэ коамма</x>
+                <xtg xml:lang="rus">
                     <xt type="#">упасть ничком</xt>
                 </xtg>
             </xg>
@@ -152,12 +48,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">ме̄вв те̄ӈьк</x>
-                <xtg>
+                <x orth="1986kert">ме̄вв те̄ӈьк</x>
+                <xtg xml:lang="rus">
                     <xt type="#">мелкие деньги</xt>
                 </xtg>
             </xg>
@@ -165,12 +61,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">выгкэ ӣжянт</x>
-                <xtg>
+                <x orth="1986kert">выгкэ ӣжянт</x>
+                <xtg xml:lang="rus">
                     <xt type="#">вести себя</xt>
                 </xtg>
             </xg>
@@ -178,12 +74,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">агкьесь то̄лл</x>
-                <xtg>
+                <x orth="1986kert">агкьесь то̄лл</x>
+                <xtg xml:lang="rus">
                     <xt type="#">вечный огонь</xt>
                 </xtg>
             </xg>
@@ -191,12 +87,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">че̄песь олма</x>
-                <xtg>
+                <x orth="1986kert">че̄песь олма</x>
+                <xtg xml:lang="rus">
                     <xt type="#">мастер на все руки</xt>
                 </xtg>
             </xg>
@@ -204,12 +100,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">чуввесь та̄ссьт</x>
-                <xtg>
+                <x orth="1986kert">чуввесь та̄ссьт</x>
+                <xtg xml:lang="rus">
                     <xt type="#">полярная звезда</xt>
                 </xtg>
             </xg>
@@ -217,12 +113,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">шӯрр кӯффьс</x>
-                <xtg>
+                <x orth="1986kert">шӯрр кӯффьс</x>
+                <xtg xml:lang="rus">
                     <xt type="#">большая медведица</xt>
                 </xtg>
             </xg>
@@ -230,12 +126,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">валлтэдтэ кид кидтӭ</x>
-                <xtg>
+                <x orth="1986kert">валлтэдтэ кид кидтӭ</x>
+                <xtg xml:lang="rus">
                     <xt type="#">взяться за руки</xt>
                 </xtg>
             </xg>
@@ -243,12 +139,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">та̄бхэ пле̄ннӭ</x>
-                <xtg>
+                <x orth="1986kert">та̄бхэ пле̄ннӭ</x>
+                <xtg xml:lang="rus">
                     <xt type="#">взять в плен</xt>
                 </xtg>
             </xg>
@@ -256,12 +152,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">пуфс оаррэв шӣххтлэнне</x>
-                <xtg>
+                <x orth="1986kert">пуфс оаррэв шӣххтлэнне</x>
+                <xtg xml:lang="rus">
                     <xt>брюки сидят хорошо</xt>
                 </xtg>
             </xg>
@@ -269,12 +165,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">пуфс оаррэв шӣгктэнне</x>
-                <xtg>
+                <x orth="1986kert">пуфс оаррэв шӣгктэнне</x>
+                <xtg xml:lang="rus">
                     <xt>брюки сидят хорошо</xt>
                 </xtg>
             </xg>
@@ -282,12 +178,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">ля̄ммт та̄лл</x>
-                <xtg>
+                <x orth="1986kert">ля̄ммт та̄лл</x>
+                <xtg xml:lang="rus">
                     <xt>бурый медведь</xt>
                 </xtg>
             </xg>
@@ -295,12 +191,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">ва̄ррь та̄лл</x>
-                <xtg>
+                <x orth="1986kert">ва̄ррь та̄лл</x>
+                <xtg xml:lang="rus">
                     <xt>бурый медведь</xt>
                 </xtg>
             </xg>
@@ -308,12 +204,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">руччкесь та̄лл</x>
-                <xtg>
+                <x orth="1986kert">руччкесь та̄лл</x>
+                <xtg xml:lang="rus">
                     <xt>бурый медведь</xt>
                 </xtg>
             </xg>
@@ -321,12 +217,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">кӯттҍкешь ро̄ссь</x>
-                <xtg>
+                <x orth="1986kert">кӯттҍкешь ро̄ссь</x>
+                <xtg xml:lang="rus">
                     <xt>горячий конь</xt>
                 </xtg>
             </xg>
@@ -334,12 +230,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">кӯттҍкешь е̄бешь</x>
-                <xtg>
+                <x orth="1986kert">кӯттҍкешь е̄бешь</x>
+                <xtg xml:lang="rus">
                     <xt>горячий конь</xt>
                 </xtg>
             </xg>
@@ -347,12 +243,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">мыннӭ ко̄а̄шштэдэ</x>
-                <xtg>
+                <x orth="1986kert">мыннӭ ко̄а̄шштэдэ</x>
+                <xtg xml:lang="rus">
                     <xt>мне показалось</xt>
                 </xtg>
             </xg>
@@ -360,12 +256,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">мыннӭ чӯдтэдэ</x>
-                <xtg>
+                <x orth="1986kert">мыннӭ чӯдтэдэ</x>
+                <xtg xml:lang="rus">
                     <xt>мне показалось</xt>
                 </xtg>
             </xg>
@@ -373,12 +269,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">пӣдтҍ пӯдӭ</x>
-                <xtg>
+                <x orth="1986kert">пӣдтҍ пӯдӭ</x>
+                <xtg xml:lang="rus">
                     <xt>попасть в беду</xt>
                     <xt type="literal">пришла беда</xt>
                 </xtg>
@@ -387,12 +283,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">мӯрр гурэсьт</x>
-                <xtg>
+                <x orth="1986kert">мӯрр гурэсьт</x>
+                <xtg xml:lang="rus">
                     <xt>у дерева</xt>
                 </xtg>
             </xg>
@@ -400,12 +296,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">ёг луннҍ</x>
-                <xtg>
+                <x orth="1986kert">ёг луннҍ</x>
+                <xtg xml:lang="rus">
                     <xt>у реки</xt>
                 </xtg>
             </xg>
@@ -413,12 +309,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">школьнэ форма</x>
-                <xtg>
+                <x orth="1986kert">школьнэ форма</x>
+                <xtg xml:lang="rus">
                     <xt>школьная форма</xt>
                 </xtg>
             </xg>
@@ -426,12 +322,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">школьнэ о̄а̄ссэ</x>
-                <xtg>
+                <x orth="1986kert">школьнэ о̄а̄ссэ</x>
+                <xtg xml:lang="rus">
                     <xt>школьная форма</xt>
                 </xtg>
             </xg>
@@ -439,12 +335,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x orth="1986kert-rus">Москва лӣ мӣн ша̄ннтъе̄ммьне столица</x>
-                <xtg>
+                <x orth="1986kert">Москва лӣ мӣн ша̄ннтъе̄ммьне столица</x>
+                <xtg xml:lang="rus">
                     <xt>Москва - столица нашей родины</xt>
                 </xtg>
             </xg>
@@ -465,12 +361,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">рӣмьн байяс ба̄сня</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">рӣмьн байяс ба̄сня</x>
+                <xtg xml:lang="rus">
                     <xt>басня про лису</xt>
                 </xtg>
             </xg>
@@ -478,12 +374,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">вӣллькесь та̄лл</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">вӣллькесь та̄лл</x>
+                <xtg xml:lang="rus">
                     <xt>белый медведь</xt>
                 </xtg>
             </xg>
@@ -491,12 +387,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">билет ленинград райя</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">билет ленинград райя</x>
+                <xtg xml:lang="rus">
                     <xt>билет до ленинграда</xt>
                 </xtg>
             </xg>
@@ -504,12 +400,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">та̄гкэ барабан</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">та̄гкэ барабан</x>
+                <xtg xml:lang="rus">
                     <xt>бить в барабан</xt>
                 </xtg>
             </xg>
@@ -517,12 +413,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">вуэӆӆькей сӣря</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">вуэӆӆькей сӣря</x>
+                <xtg xml:lang="rus">
                     <xt>блестящая игрушка</xt>
                 </xtg>
             </xg>
@@ -530,12 +426,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">альтэсь ва̄рр</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">альтэсь ва̄рр</x>
+                <xtg xml:lang="rus">
                     <xt>близкий путь</xt>
                 </xtg>
             </xg>
@@ -543,12 +439,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">вуаййпей ва̄лт гуэйке</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">вуаййпей ва̄лт гуэйке</x>
+                <xtg xml:lang="rus">
                     <xt>борец за свободу</xt>
                 </xtg>
             </xg>
@@ -556,12 +452,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">бе̄ййдэдтмушш мыр гуэйке</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">бе̄ййдэдтмушш мыр гуэйке</x>
+                <xtg xml:lang="rus">
                     <xt>борьба за мир</xt>
                 </xtg>
             </xg>
@@ -569,12 +465,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">брать в руки</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">брать в руки</x>
+                <xtg xml:lang="rus">
                     <xt>ва̄лльтэ кӣдтӭ</xt>
                 </xtg>
             </xg>
@@ -582,12 +478,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">ва̄лльтэ мӣлльтэ</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">ва̄лльтэ мӣлльтэ</x>
+                <xtg xml:lang="rus">
                     <xt>брать с собой</xt>
                 </xtg>
             </xg>
@@ -595,12 +491,12 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert-rus">xxx</l>
+            <l pos="xxx" orth="1986kert">xxx</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert-rus">пуэдтӭй ыгкь</x>
-                <xtg>
+                <x pos="xxx" orth="1986kert">пуэдтӭй ыгкь</x>
+                <xtg xml:lang="rus">
                     <xt>будущий год</xt>
                 </xtg>
             </xg>
@@ -643,7 +539,7 @@
         <mg>
             <xg source="2008sarsina1-pronoun">
                 <x pos="S" orth="2008sars">Tо̄нн шэнтах го мунн.</x>
-                <xtg>
+                <xtg xml:lang="rus">
                     <xt>Tы станешь как я.</xt>
                 </xtg>
             </xg>
@@ -656,7 +552,7 @@
         <mg>
             <xg source="2008sarsina1-pronoun">
                 <x pos="S" orth="2008sars">Tо̄нн шэнтах муннэнҍ.</x>
-                <xtg>
+                <xtg xml:lang="rus">
                     <xt>Tы станешь как я.</xt>
                 </xtg>
             </xg>

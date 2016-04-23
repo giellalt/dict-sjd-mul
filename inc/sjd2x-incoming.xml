@@ -35148,11 +35148,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">пушистый котёнок вӯгкесь ко̄а̄зя</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">пушистый снег сӯбпесь вэ̄дз</l>
         </lg>
     </e>
@@ -46045,32 +46040,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">сӯгкесь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">густой, глухой</t>
-                <tr>о лесе</tr>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">сӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">сӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">сӯгкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">сӯдтэ</l>
         </lg>
     </e>
@@ -47944,50 +47913,8 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">то̄а̄вьяс</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">то̄а̄гэ</l>
         </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">то̄а̄йвас</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">то̄а̄йвас</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">то̄а̄йвас, то̄а̄вьяс</l>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">частый</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">то̄а̄йвас кусе</x>
-                <xtg>
-                    <xt>частый гость</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">густой</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">то̄а̄йвас мӯрр</x>
-                <xtg>
-                    <xt>густой лес</xt>
-                </xtg>
-            </xg>
-        </mg>
     </e>
     <e>
         <lg>

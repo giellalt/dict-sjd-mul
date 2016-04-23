@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e>
+        <lg>
+            <l pos="A">то̄а̄вьяс</l>
+            <orth>
+                <lvar orth="1986kert">то̄а̄вьяс</lvar>
+            </orth>
+            <pointer>
+                <preferred>тоайвас</preferred>
+            </pointer>
+        </lg>
+    </e>
+    <e kur_ID="6229" link_sm="1">
+        <lg>
+            <l pos="A:ALSO_PRED">тоайвас</l>
+            <orth>
+                <lvar orth="1985kuru">тоайвас</lvar>
+                <lvar orth="1986kert">то̄а̄йвас</lvar>
+            </orth>
+            <der type="SM">тоаййв</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>частый (повторяющийся)</t>
+            </tg>
+            <tg>
+                <t>нередкий</t>
+            </tg>
+            <xg lemma="тоайвас">
+                <x orth="1985kuru" pos="Phrase_N">тоайвас кӯссь</x>
+                <x orth="1986kert" pos="Phrase_N">то̄а̄йвас кусе</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">частый гость</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="A">густой</t>
+            </tg>
+            <xg lemma="тоайвас">
+                <x orth="1986kert" pos="Phrase_N">то̄а̄йвас мӯрр</x>
+                <xtg>
+                    <xt pos="Phrase_N">густой лес</xt>
+                </xtg>
+            </xg>
+            <xg lemma="тоайвас">
+                <x orth="1986kert" pos="Phrase_N">чоагь то̄а̄йвас поанӭгуэйм</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">густой гребешок</xt>
+                </xtg>
+                <xtg xml:lang="deu">
+                    <xt pos="Phrase_N" type="literal">Kamm mit dichten Zähnen</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="5961">
         <lg>
             <l pos="Det">та̄</l>
@@ -401,29 +460,29 @@
             <tg>
                 <t pos="Det">-то</t>
             </tg>
-            <xg source="1985kuru" source_lemma="-дэдтӭ">
+            <xg lemma="-дэдтӭ">
                 <x orth="1985kuru" pos="S">касьт-дэдтӭ со̄нн адтҍ лӣ?!</x>
                 <xtg>
                     <xt>где-то он сейчас?!</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" source_lemma="тэдта">
+            <xg lemma="тэдта">
                 <x orth="1985kuru-sjd" pos="S">ке̄ тэдта пӯдӭ?</x>
                 <xt>кто это пришёл?</xt>
             </xg>
-            <xg source="1985kuru" source_lemma="тэдта">
+            <xg lemma="тэдта">
                 <x orth="1985kuru-sjd" pos="Phrase_N">тэнна вуэр</x>
                 <xt>на этот раз</xt>
             </xg>
-            <xg source="1985kuru" source_lemma="тэдта">
+            <xg lemma="тэдта">
                 <x orth="1985kuru-sjd" pos="Phrase_N">тэнна ёгк рынтэсьт</x>
                 <xt>на этом берегу реки</xt>
             </xg>
-            <xg source="1985kuru" source_lemma="тэдта">
+            <xg lemma="тэдта">
                 <x orth="1985kuru-sjd" pos="Phrase_S">мунн эмм тӣдҍ тэйта сэетҍ</x>
                 <xt>я не знаю этих мест</xt>
             </xg>
-            <xg source="1985kuru" source_lemma="тэдта">
+            <xg lemma="тэдта">
                 <x orth="1985kuru-sjd" pos="Phrase_S">тэгка сай ле̄в а̄нҍсуввма</x>
                 <xt>эти места заняты</xt>
             </xg>

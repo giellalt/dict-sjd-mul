@@ -1,5 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="4594">
+        <lg>
+            <l pos="V">пӯлле</l>
+            <orth>
+                <lvar orth="1985kuru">пӯлле</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="literal+figurative">гореть</t>
+                <t>сгореть</t>
+            </tg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">чуввесь то̄ллэнҍ пӯлле</x>
+                <xtg xml:lang="rus">
+                    <xt>гореть ярким пламенем</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">мӯр пӯльнэлле пӯллев</x>
+                <xtg xml:lang="rus">
+                    <xt>дрова жарко горят</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">нӣр пӯллев муннесьт</x>
+                <xtg xml:lang="rus">
+                    <xt>щёки горят на морозе</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">чальм пӯлленҍ роамэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt>глаза горели радостью</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">ча̄дзь мӯр пӯлленҍ мӣлкнесьт</x>
+                <xtg xml:lang="rus">
+                    <xt>мокрые дрова сгорали медленно</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">куэфс чуввдэнне пуэлл</x>
+                <xtg xml:lang="rus">
+                    <xt>закат ярко пламенеет</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">пӯлле огкнэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt>сгореть от стыда</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">е̄ммьне ю̄лькэ вӯлленҍ пуэлл</x>
+                <xtg xml:lang="rus">
+                    <xt>земля горит под ногами</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">со̄нэсьт ва̄ннцэнҍ пӯллев</x>
+                <xtg xml:lang="rus">
+                    <xt>на нём обувь горит</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="4594">
+        <lg>
+            <l pos="A">пӯлле</l>
+            <orth>
+                <lvar orth="1985kuru">пӯлле</lvar>
+                <lvar orth="1986kert">пӯлле</lvar>
+            </orth>
+        </lg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t type="literal+figurative">горячий</t>
+            </tg>
+            <tg>
+                <t>раскалённый</t>
+                <t>накалённый</t>
+            </tg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">пӯлле вя̄рр</x>
+                <xtg xml:lang="rus">
+                    <xt>горячая пища</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1986kert" pos="xxx">пӯлле чоай</x>
+                <xtg xml:lang="rus">
+                    <xt>горячий чай</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">пӯлле рӯввьт</x>
+                <xtg xml:lang="rus">
+                    <xt>раскалённое железо</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">вя̄рр лӣ пӯлле</x>
+                <xtg xml:lang="rus">
+                    <xt>суп горячий</xt>
+                </xtg>
+            </xg>
+            <xg lemma="пӯлле">
+                <x orth="1985kuru" pos="xxx">пӯлле са̄ррнмушш</x>
+                <xtg xml:lang="rus">
+                    <xt>пламенная речь</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="4246">
         <lg>
             <l pos="N">пе̄ййв</l>

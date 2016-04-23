@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="5166" link_sm="1">
+        <lg>
+            <l pos="ADV">рӯшас</l>
+            <orth>
+                <lvar orth="1985kuru">рӯшас</lvar>
+            </orth>
+            <der type="SM">рӯшш</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="Adv">по-русски</t>
+            </tg>
+            <xg lemma="рӯшас">
+                <x orth="1985kuru" pos="Phrase_V">ло̄гкэ рӯшас</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">читать по-русски</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рӯшас">
+                <x orth="1986kert" pos="Phrase_V">рӯшас са̄ррнэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">говорить по-русски</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="5138">
         <lg>
             <l pos="A">рӯппьсесь</l>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="6937">
+        <lg>
+            <l pos="N">ча̄йй</l>
+            <orth>
+                <lvar orth="1985kuru">ча̄йй</lvar>
+                <lvar orth="1986kert">чоай</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">ча̄й</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N">чай</t>
+            </tg>
+            <xg lemma="ча̄йй">
+                <x orth="1985kuru" pos="Phrase_V">югкэ роавас ча̄й</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">пить крепкий чай</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="7066">
         <lg>
             <l pos="V">чиннэ</l>
