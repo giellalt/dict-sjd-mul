@@ -1,66 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-    <e>
+    <e kur_ID="6019">
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="N" orth="1985kuru">та̄лл</l>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="6015">та̄л</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
         </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x orth="1986kert">Москва лӣ мӣн ша̄ннтъе̄ммьне столица</x>
-                <xtg xml:lang="rus">
-                    <xt>Москва - столица нашей родины</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
+        <mg km="g">
             <semantics>
-                <sarsina-chapter>7</sarsina-chapter>
+                <stype>xxx</stype>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="V">биться (человек)</t>
+            <tg>
+                <t gender="m">медведь</t>
             </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert">рӣмьн байяс ба̄сня</x>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_N" type="#">вӣллькесь та̄лл</x>
+                <x orth="1986kert" pos="Phrase_N" type="#">вӣллькесь та̄лл</x>
                 <xtg xml:lang="rus">
-                    <xt>басня про лису</xt>
+                    <xt type="#">белый медведь</xt>
                 </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ниӈӈлэсс та̄лл</x>
+                <xt>медведица</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">та̄л ака</x>
+                <xt type="folklore">медведица</xt>
             </xg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">билет</l>
         </lg>
         <mg>
             <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert">вӣллькесь та̄лл</x>
+                <x pos="xxx" orth="1986kert">билет Ленинград райя</x>
                 <xtg xml:lang="rus">
-                    <xt>белый медведь</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg lemma="xxx">
-                <x pos="xxx" orth="1986kert">билет ленинград райя</x>
-                <xtg xml:lang="rus">
-                    <xt>билет до ленинграда</xt>
+                    <xt>билет до Ленинграда</xt>
                 </xtg>
             </xg>
         </mg>

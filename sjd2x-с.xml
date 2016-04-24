@@ -2,6 +2,22 @@
 <r>
     <e>
         <lg>
+            <l pos="N">столица</l>
+            <orth>
+                <lvar orth="1986kert">столица</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <xg lemma="столица">
+                <x orth="1986kert" pos="Phrase_S">Москва лӣ мӣн ша̄ннтъе̄ммьне столица</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Москва – столица нашей родины</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="A">сӯгкесь</l>
             <orth>
                 <lvar orth="1985kuru">сӯгкесь</lvar>
