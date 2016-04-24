@@ -1,5 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="2760-1">
+        <lg>
+            <l pos="ADP">луннҍ</l>
+            <orth>
+                <lvar orth="1985kuru">луннҍ</lvar>
+                <lvar orth="1986kert">луннҍ</lvar>
+                <lvar orth="2008sars">луннҍ</lvar>
+            </orth>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>у</t>
+                <t>около кого-чего</t>
+                <t>рядом с кем-чем (стоять, находиться и т. п.)</t>
+                <t>возле</t>
+            </tg>
+            <xg lemma="луннҍ">
+                <x orth="1985kuru" pos="Phrase_V">чуэннче пэҏт луннҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">стоять около дома</xt>
+                </xtg>
+            </xg>
+            <xg lemma="луннҍ">
+                <x orth="1986kert" pos="Phrase_Adp">ёг луннҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">у реки</xt>
+                </xtg>
+            </xg>
+            <xg lemma="луннҍ">
+                <x orth="2008sars" pos="Phrase_S">Мунн ышта а̄ка луннҍ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Я сяду возле бабушки.</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="2963">
+        <lg>
+            <l pos="N">ля̄ммт</l>
+            <orth>
+                <lvar orth="1985kuru">ля̄ммт</lvar>
+                <lvar orth="1986kert">ля̄ммт</lvar>
+                <lvar orth="2008sars">ля̄ммт</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">ля̄мт</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+                <stem_kert gloss="мн">ля̄мт</stem_kert>
+                <stem_sars>мт</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>7</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t>густой лес</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="N">тайга</t>
+            </tg>
+            <xg lemma="ля̄ммт">
+                <x orth="1985kuru" pos="Phrase_V">выййтэ ля̄мтэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">выйти из леса</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ля̄ммт">
+                <x orth="1985kuru" pos="Phrase_V">уййтэ лӣммтэ ме̄һцьтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">уйти в тайгу охотиться</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ля̄ммт">
+                <x orth="1985kuru" pos="Phrase_N">ля̄ммт чуэз</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">стадо, живущее в густом лесу</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ля̄ммт">
+                <x orth="1985kuru" pos="Phrase_N">ля̄ммт сыййт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">таёжное село</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ля̄ммт">
+                <x orth="1986kert" pos="Phrase_N">ля̄ммт та̄лл</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">бурый медведь</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="N">лыгк-герой</l>

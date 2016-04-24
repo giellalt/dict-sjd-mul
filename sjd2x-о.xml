@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e>
+        <lg>
+            <l pos="N" number="Pl">оассэ</l>
+            <orth>
+                <lvar orth="1985kuru">оассэ</lvar>
+                <lvar orth="1986kert">оассэ</lvar>
+                <lvar orth="1986ker1">о̄а̄ссэ</lvar>
+            </orth>
+            <pointer>
+                <main>оаз-2</main>
+            </pointer>
+        </lg>
+        <mg>
+            <tg>
+                <t pos="N" number="Pl">одежды</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="3863">
+        <lg>
+            <l pos="N" orth="1985kuru">оаз-2</l>
+            <orth>
+                <lvar orth="1985kuru">оаз</lvar>
+                <lvar orth="1986ker1">о̄а̄з</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="3987">оассэ</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+                <stem_kert gloss="мн">о̄а̄ссэ</stem_kert>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t pos="N">одежда (предмет одежды)</t>
+                <t>наряд</t>
+                <t>туалет</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">оалкма нызан оассэ</x>
+                <xt>верхняя женская одежда</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">вуэзхэллэ ӣжянт оасскэтҍ</x>
+                <xt>показывать наряды</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мо̄джесь оаз</x>
+                <xt>красивый наряд</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">вуайхэ пугк оасскэтҍ</x>
+                <xt>сменить весь гардероб (всю одежду)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">оаз на̄лль</x>
+                <xt>фасон одежды</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ря̄ввк оассэ</x>
+                <xt>парадная (праздничная) одежда</xt>
+            </xg>
+            <xg lemma="xxx">
+                <x orth="1986kert">школьнэ о̄а̄ссэ</x>
+                <xtg xml:lang="rus">
+                    <xt>школьная форма</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">лышьк райса оассэ</x>
+                <xt>нательное (нижнее) бельё</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">оаз шкоаһп</x>
+                <xt>шкаф для одежды</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">оаз ныммьп</x>
+                <xt>много одежды</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">оаз ныммьп лӣ ла̄фькэсьт</x>
+                <xt>в магазине много одежды</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="3942">
+        <lg>
+            <l pos="V">оаррэ</l>
+            <orth>
+                <lvar orth="1985kuru">оаррэ</lvar>
+                <lvar orth="1986kert">оаррэ</lvar>
+                <lvar orth="2008sars">оаррэ</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+                <stem_kert>оара, оарр</stem_kert>
+                <stem_sars>р</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>6</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t>сидеть</t>
+            </tg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">оаррэ тэ̄гктэнне</x>
+                <xtg xml:lang="rus">
+                    <xt>сидеть вплотную к кому-чему</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">оаррэ ко̄ххт бэдт парта тӯгкенҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>правильно (как нужно) сидеть за партой</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>сидеть над чем</t>
+                <t>на чём</t>
+                <t>за чем (делать что-л.)</t>
+            </tg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">оаррэ о̄дт кнӣганҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>сидеть за новой книгой</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">оаррэ оарье альн</x>
+                <xtg xml:lang="rus">
+                    <xt>сидеть на вёслах</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>сидеть</t>
+                <t>находиться</t>
+                <t>пребывать (в каком-л. состоянии)</t>
+            </tg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">оаррэ тӣнҍкэха</x>
+                <xtg xml:lang="rus">
+                    <xt>сидеть без денег</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">оаррэ рыссьтэ кӣдэ</x>
+                <xtg xml:lang="rus">
+                    <xt type="figurative">сидеть сложа руки</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">пырре оаррэв пе̄цэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt>пироги сидят в печи</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">чапэх альн оаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt type="figurative">сидеть у кого на шее</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g4">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>сидеть (о судне)</t>
+            </tg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx">вэнс оарр чӣӈӈлэнне</x>
+                <xtg xml:lang="rus">
+                    <xt>лодка сидит глубоко</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g5">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>сидеть (об одежде)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пальта оарр шӣһтлэнне</x>
+                <xtg xml:lang="rus">
+                    <xt>пальто сидит хорошо</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1986kert">пуфс оаррэв шӣххтлэнне</x>
+                <x orth="1986kert">пуфс оаррэв шӣгктэнне</x>
+                <xtg xml:lang="rus">
+                    <xt>брюки сидят хорошо</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx" type="idiom">кэск оаррэм</x>
+                <xtg xml:lang="rus">
+                    <xt>ни с того ни с сего</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx" type="idiom">оарръе ӣджь нимӣ эйй пуэдҍ</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">само собой ничто не приходит</xt>
+                    <xt type="literal">к сидящему само ничто не придёт</xt>
+                    <xt>под лежачий камень вода не течёт</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx" type="idiom">оаррэй ча̄зесьт лӣ е̄ннэ моадтӭ</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">в стоячей воде много грязи</xt>
+                </xtg>
+            </xg>
+            <xg lemma="оаррэ">
+                <x orth="1985kuru" pos="xxx" type="idiom">оаррэй ча̄дзь элля никуэссь чӣллк</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">стоячая вода не бывает прозрачной</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+</r>

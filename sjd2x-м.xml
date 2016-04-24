@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="3067">
+        <lg>
+            <l pos="A" pred="=">ме̄вв</l>
+            <orth>
+                <lvar orth="1885kuru">ме̄вв</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="3065">ме̄в</stem_kuru>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="A" pred="мелок">мелкий</t>
+            </tg>
+            <xg lemma="ме̄вв">
+                <x orth="1985kuru" pos="Phrase_N">ме̄вв вӯнтас</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">мелкий песок</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ме̄вв">
+                <x orth="1985kuru" pos="Phrase_N">ме̄вв кӯлль</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">мелкая рыба</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ме̄вв">
+                <x orth="1985kuru" pos="Phrase_S">кӯлль лӣ ме̄вв</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">рыба мелка</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ме̄вв">
+                <x orth="1985kuru" pos="Phrase_S">кӯль ле̄в ме̄в</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">рыба мелка</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ме̄вв">
+                <x orth="1986kert" pos="Phrase_N" type="#">ме̄вв те̄ӈьк</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="#">мелкие деньги</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="xxx">мӯррьй-куэммерь</l>

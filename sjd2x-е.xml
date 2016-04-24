@@ -1,31 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-<e kur_ID="1110">
-      <lg>
-         <l pos="N" orth="1985kuru-sjd">е̄бешь</l>
-         <infl>
-            <stem_kuru case="nom" number="pl" kur_ID="7790">я̄бпаш</stem_kuru>
-            <class_kuru class="V" ablaut="_x_" special="_x_"/>
-         </infl>
-      </lg>
-      <mg km="g">
-         <semantics>
-            <stype>xxx</stype>
-         </semantics>
-         <tg>
-            <t gender="f">лошадь</t>
-         </tg>
-         <xg>
-            <x orth="1985kuru-sjd" pos="N">е̄бешь алка</x>
-            <xt>жеребёнок</xt>
-         </xg>
-         <xg>
-            <x orth="1985kuru-sjd" pos="V">кэ̄рхэллэ я̄бпаш альн</x>
-            <xt xtnumber="1">участвовать в конских скачках</xt>
-            <xt xtnumber="2">кататься на лошади</xt>
-         </xg>
-      </mg>
-   </e>
+    <e kur_ID="1110">
+        <lg>
+            <l pos="N">е̄бешь</l>
+            <orth>
+                <lvar orth="1985kuru">е̄бешь</lvar>
+                <lvar orth="1986kert">е̄бешь</lvar>
+                <lvar orth="2008sars">е̄бешь</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="7790">я̄бпаш</stem_kuru>
+                <class_kuru class="V" ablaut="_x_" special="_x_"/>
+                <stem_kert gloss="мн">я̄бпаш</stem_kert>
+                <stem_sars>бп</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>8</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N" gender="xxx">конь</t>
+                <t pos="N" gender="f">лошадь</t>
+            </tg>
+            <xg lemma="е̄бешь">
+                <x orth="1985kuru" pos="Phrase_N">е̄бешь алка</x>
+                <xtg xml:lang="rus">
+                    <xt pos="N">жеребёнок</xt>
+                </xtg>
+            </xg>
+            <xg lemma="е̄бешь">
+                <x orth="1986kert" pos="Phrase=N">кӯттҍкешь е̄бешь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">горячий конь</xt>
+                </xtg>
+            </xg>
+            <xg lemma="е̄бешь">
+                <x orth="1985kuru" pos="Phrase_V">кэ̄рхэллэ я̄бпаш альн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V" xtnumber="1">участвовать в конских скачках</xt>
+                    <xt pos="Phrase_V" xtnumber="2">кататься на лошади</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
    <e kur_ID="1111">
       <lg>
          <l pos="A" orth="1985kuru-sjd">е̄весь</l>
@@ -2297,7 +2316,7 @@
    </e>
    <e kur_ID="1128">
       <lg>
-         <l pos="A:ALSO_PRED" orth="1985kuru-sjd">е̄һк</l>
+         <l pos="A" pred="=" orth="1985kuru-sjd">е̄һк</l>
          <infl>
             <stem_kuru case="nom" number="pl" kur_ID="1129">е̄һкан</stem_kuru>
          </infl>

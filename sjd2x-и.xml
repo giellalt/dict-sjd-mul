@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="1353">
+        <lg>
+            <l pos="N">ӣнн-2</l>
+            <orth>
+                <lvar orth="1985kuru">ӣнн</lvar>
+                <lvar orth="1986kert">ӣнн</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="1350">ӣн</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>голос</t>
+            </tg>
+            <xg lemma="ӣнн">
+                <x orth="1985kuru" pos="Phrase_N">тоавас ӣнн</x>
+                <xtg xml:lang="rus">
+                    <xt>сильный голос</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ӣнн">
+                <x orth="1985kuru" pos="Phrase_V">чӯйесь ӣннӭ са̄ррнэ</x>
+                <xtg xml:lang="rus">
+                    <xt>говорить звонким голосом</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ӣнн">
+                <x orth="1985kuru" pos="Phrase_N">ла̄ввл кудтҍ ӣн гуэйкэ</x>
+                <xtg xml:lang="rus">
+                    <xt>песня для двух голосов</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ӣнн">
+                <x orth="1985kuru" pos="Phrase_V" type="idiom">пайнэ ӣн мыр пыннем гуэйкэ</x>
+                <xtg xml:lang="rus">
+                    <xt>поднять голос в защиту мира</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ӣнн">
+                <x orth="1985kuru" pos="Phrase_S" type="idiom">ӣнн рӯстэ</x>
+                <xt>голос охрип</xt>
+                <xtg xml:lang="rus">
+                    <xt type="literal">голос заржавел</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ӣнн">
+                <x orth="1985kuru" pos="Phrase_S" type="idiom">ӣнхэмэссе я ча̄зь едтҍ эннтма</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">тому, кто молчит, и воды не подадут</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ӣнн">
+                <x orth="1986kert" pos="Phrase_V">оаррэ ӣнха</x>
+                <xtg xml:lang="rus">
+                    <xt pos="V">молчать</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg order="2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N">звук</t>
+            </tg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="A">ӣннхэм</l>

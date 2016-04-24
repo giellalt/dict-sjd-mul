@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e>
+        <lg>
+            <l pos="N">ро̄ссь</l>
+            <orth>
+                <lvar orth="1986kert">ро̄ссь</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="N">конь</t>
+                <t pos="N">лошадь</t>
+            </tg>
+            <xg lemma="ро̄ссь">
+                <x orth="1986kert" pos="Phrase_N">кӯттҍкешь ро̄ссь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">горячий конь</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="5160">
+        <lg>
+            <l pos="A">руччкесь</l>
+            <orth>
+                <lvar orth="1985kuru">руччкесь</lvar>
+                <lvar orth="2008sars">руччкесь</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>3</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="A">жёлтый</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="A">оранжевый</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="A">корйчневый</t>
+            </tg>
+            <xg lemma="руччкесь">
+                <x orth="1985kuru" pos="Phrase_N">руччкесь лэст</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">жёлтые листья</xt>
+                </xtg>
+            </xg>
+            <xg lemma="руччкесь">
+                <x orth="1986kert" pos="Phrase_N">руччкесь та̄лл</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">бурый медведь</xt>
+                </xtg>
+            </xg>
+            <xg lemma="руччкесь">
+                <x orth="1985kuru" pos="Phrase_N">руччкесь рӣммьн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">жёлтая лиса (о весенней лисе)</xt>
+                </xtg>
+            </xg>
+            <xg lemma="руччкесь">
+                <x orth="1985kuru" pos="Phrase_N">руччкесь ня̄лльм цыза</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="literal+figurative">желторотый воробей</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="5166" link_sm="1">
         <lg>
             <l pos="ADV">рӯшас</l>
@@ -76,33 +144,33 @@
                 </xtg>
             </xg>
             <xg lemma="рӯппьсесь">
-                <x orth="2008sars" pos="NP">рӯппьсесь кӯлль</x>
+                <x orth="2008sars" pos="Phrase_N">рӯппьсесь кӯлль</x>
                 <xtg xml:lang="rus">
-                    <xt pos="NP">красная рыба</xt>
+                    <xt pos="Phrase_N">красная рыба</xt>
                 </xtg>
             </xg>
             <xg lemma="рӯппьсесь">
-                <x orth="2008sars" pos="NP">рӯппьсесь кӯль</x>
+                <x orth="2008sars" pos="Phrase_N">рӯппьсесь кӯль</x>
                 <xtg xml:lang="rus">
-                    <xt pos="NP">красные рыбы</xt>
+                    <xt pos="Phrase_N">красные рыбы</xt>
                 </xtg>
             </xg>
             <xg lemma="рӯппьсесь">
-                <x orth="2008sars" pos="NP">рӯппьсесь кӯлесьт</x>
+                <x orth="2008sars" pos="Phrase_N">рӯппьсесь кӯлесьт</x>
                 <xtg xml:lang="rus">
-                    <xt pos="AdpP">в красной рыбе</xt>
+                    <xt pos="Phrase_Adp">в красной рыбе</xt>
                 </xtg>
             </xg>
             <xg lemma="рӯппьсесь">
-                <x orth="2008sars" pos="S">кӯлль лӣ рӯппсэ</x>
+                <x orth="2008sars" pos="Phrase_S">кӯлль лӣ рӯппсэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">рыба красная</xt>
+                    <xt pos="Phrase_S">рыба красная</xt>
                 </xtg>
             </xg>
             <xg lemma="рӯппьсесь">
-                <x orth="2008sars" pos="S">кӯль лев рӯппсэ</x>
+                <x orth="2008sars" pos="Phrase_S">кӯль лев рӯппсэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">рыбы красные</xt>
+                    <xt pos="Phrase_S">рыбы красные</xt>
                 </xtg>
             </xg>
         </mg>

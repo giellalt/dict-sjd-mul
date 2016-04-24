@@ -24,50 +24,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">е̄бешь</l>
-            <infl>
-                <stem_sars>бп</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>8</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">лошадь</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">е̄бешь</l>
-            <infl>
-                <stem_kert gloss="мн">я̄бпаш</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">конь, лошадь</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">е̄бешь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">е̄бешь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">е̄бешь алка</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">е̄ввмушш</l>
         </lg>
         <mg>
@@ -5331,11 +5287,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ко̄а̄шштэдтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">ко̄аб</l>
         </lg>
         <mg>
@@ -9408,45 +9359,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">куэфс</l>
-            <infl>
-                <stem_sars>ввс</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>6</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">заря</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">куэфс</l>
-            <infl>
-                <stem_kert gloss="мн">кӯффсэ</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">заря, рассвет</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">куэфс</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">куэфс</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">куэхтасьт</l>
         </lg>
         <mg>
@@ -12152,60 +12064,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">кӣдт</l>
-            <infl>
-                <stem_sars>д</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>10</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">рука</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кӣдт</l>
-            <infl>
-                <stem_kert gloss="мн">кӣд</stem_kert>
-            </infl>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">рука</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">надпись</t>
-            </tg>
-        </mg>
-        <mg order="3">
-            <tg xml:lang="rus">
-                <t pos="xxx">подпись</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кӣдт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кӣдт коаллдэгк</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кӣдт-</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">кӣдтвуэннч</l>
             <infl>
                 <stem_sars>нч</stem_sars>
@@ -12236,6 +12094,7 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">кӣдткоалдэгк</l>
+            <l pos="xxx" orth="1986kert">кӣдт коаллдэгк</l>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -16867,49 +16726,6 @@
     </e>
     <e>
         <lg>
-            <l pos="po" orth="2008sars">луннҍ</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-adposition">
-                <x pos="S" orth="2008sars">Мунн ышта а̄ка луннҍ.</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">Я сяду возле бабушки.</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">луннҍ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>около</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="послелог" orth="1986kert">луннҍ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">у, около, возле</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">луннҍ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">луннҍ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">лунтъе</l>
         </lg>
     </e>
@@ -18250,55 +18066,6 @@
                 </xtg>
             </xg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">ля̄ммт</l>
-            <infl>
-                <stem_sars>мт</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>7</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">лес густой(большой</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">ля̄ммт</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>лес, густой лес, тайга</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ля̄ммт</l>
-            <infl>
-                <stem_kert gloss="мн">ля̄мт</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">лес (большой)</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ля̄ммт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ля̄ммт</l>
-        </lg>
     </e>
     <e>
         <lg>
@@ -27726,29 +27493,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">о̄а̄з</l>
-            <infl>
-                <stem_kert gloss="мн">о̄а̄ссэ</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">одежда (предмет одежды)</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">о̄а̄з</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">о̄а̄з</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">о̄а̄йхьк</l>
         </lg>
         <mg>
@@ -28932,75 +28676,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">оаррэ</l>
-            <infl>
-                <stem_sars>р</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>6</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">сидеть</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">оаррэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>сидеть, находится</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оаррэ</l>
-            <infl>
-                <stem_kert>оара, оарр</stem_kert>
-            </infl>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">сидеть</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">находиться</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оаррэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оаррэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оаррэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оаррэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оаррэ ӣнха</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">оасскэ</l>
             <infl>
                 <stem_kert>оаска, оасск</stem_kert>
@@ -29047,11 +28722,6 @@
                 <t pos="xxx">сосуд</t>
             </tg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">оассэ</l>
-        </lg>
     </e>
     <e>
         <lg>
@@ -32361,11 +32031,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">передаётся послелогами гуэйке</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">передаётся послелогами луннҍ</l>
         </lg>
     </e>
     <e>
@@ -37439,29 +37104,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">пӣдтҍ</l>
-            <infl>
-                <stem_kert gloss="мн">пӣдҍ</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">беда, горе</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">пӣдтҍ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">пӣдтҍ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">пӣдҍкье</l>
         </lg>
         <mg order="1">
@@ -39533,26 +39175,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ро̄ссь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">конь, лошадь</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ро̄ссь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ро̄ссь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">ро̄шшкесь</l>
         </lg>
         <mg order="1">
@@ -40089,53 +39711,7 @@
             <semantics>
                 <sarsina-chapter>3</sarsina-chapter>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">желтый</t>
-            </tg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">руччкесь</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>3</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">оранжевый</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">руччкесь</l>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">жёлтый</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">оранжевый</t>
-            </tg>
-        </mg>
-        <mg order="3">
-            <tg xml:lang="rus">
-                <t pos="xxx">корйчневый</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">руччкесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">руччкесь</l>
-        </lg>
     </e>
     <e>
         <lg>
@@ -46434,16 +46010,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">та̄бпэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄бхэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄бхэ</l>
         </lg>
     </e>
     <e>
@@ -53425,32 +52991,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">форма</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">форма</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">пионерскэ форма</x>
-                <xtg>
-                    <xt>пионерская форма</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">форма</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">форма</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">фотография</l>
         </lg>
     </e>
@@ -55777,16 +55317,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">чепесь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">искусный</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">через, движение, поверх чего</l>
         </lg>
         <mg>
@@ -57167,43 +56697,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">чуввесь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">яркий, светлый, ясный, блестящий</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx" type="#">чуввесь та̄ссьт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="xxx">полярная звезда</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чуввесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="NP" orth="2008sars">чуввесь а̄лльм</l>
-            <infl>
-                <stem_sars>льм</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>2</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">небо чистое</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">чуввкэ</l>
         </lg>
     </e>
@@ -58254,57 +57747,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">чӯввесь</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>3</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">светлый/яркий/ясный</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чӯввесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чӯввесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чӯввесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чӯввесь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="AP" orth="2008sars">чӯввесь а̄лехь</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>3</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">голубой</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чӯввесь рӯппсэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">чӯввнэ</l>
         </lg>
     </e>
@@ -58414,11 +57856,6 @@
                 <t pos="yyy">сотня</t>
             </tg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">чӯдтэдтэ</l>
-        </lg>
     </e>
     <e>
         <lg>
@@ -63706,11 +63143,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">ясное небо чӯввесь алльм</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">яххта</l>
         </lg>
         <mg>
@@ -64340,19 +63772,6 @@
     </e>
     <e>
         <lg>
-            <l pos="S" orth="2008sars">Ӣнца ля̄йй мо̄джесь куэфс.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Утром была красивая заря.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="S" orth="2008sars">Ӣнца пэйенҍ соа̄ййв пӣӈӈк.</l>
         </lg>
         <mg>
@@ -64554,36 +63973,6 @@
                 <t pos="n" type="explanation">брат отца</t>
             </tg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ӣнн</l>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">звук</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">голос</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ӣнн</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ӣнн</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ӣнн</l>
-        </lg>
     </e>
     <e>
         <lg>
