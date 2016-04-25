@@ -21128,68 +21128,6 @@
     </e>
     <e>
         <lg>
-            <l pos="v" orth="2008sars">моа̄йнсе</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-tense">
-                <x pos="S" orth="2008sars">Куэссь то̄нн моа̄йнсешкуадах?</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">Когда ты начнешь рассказывать?</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-tense">
-                <x pos="S" orth="2008sars">А̄йя моа̄йнсэшкудӭ.</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">Дедушка начал рассказывать.</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="v" orth="2008sars">моа̄йнсе</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="S" orth="2008sars">Моа̄йнэсьт!</x>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="S" orth="2008sars">Моа̄йнсэгке!</x>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">моа̄йнсе</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>рассказывать, рассказать</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">моа̄йнсе</l>
-        </lg>
-        <mg>
-            <tg>
-                <t/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">моа̄йнсэ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>рассказать, беседовать, рассказать сказку, выступить</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">моа̄йнсэшкуэдтэ</l>
         </lg>
         <mg>
@@ -21610,31 +21548,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">мун</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">мунн</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>я</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">мунн</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">я</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">мунн</l>
         </lg>
     </e>
     <e>

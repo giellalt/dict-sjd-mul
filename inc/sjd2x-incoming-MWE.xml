@@ -1167,19 +1167,6 @@
     </e>
     <e>
         <lg>
-            <l pos="S" orth="2008sars">Моа̄йнсэгке тэнн баяс!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Расскажите об этом!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="S" orth="2008sars">Мунн ва̄ресьт лийе.</l>
         </lg>
         <mg>
@@ -1258,7 +1245,7 @@
     </e>
     <e>
         <lg>
-            <l pos="S" orth="2008sars">Мунн та̄т а по̄ррэ.</l>
+            <l pos="S" orth="2008sars">Мунн та̄та по̄ррэ.</l>
         </lg>
         <mg>
             <semantics>
@@ -1271,7 +1258,7 @@
     </e>
     <e>
         <lg>
-            <l pos="S" orth="2008sars">Мунн та̄т а югкэ.</l>
+            <l pos="S" orth="2008sars">Мунн та̄та югкэ.</l>
         </lg>
         <mg>
             <semantics>
@@ -1279,19 +1266,6 @@
             </semantics>
             <tg xml:lang="rus">
                 <t pos="rus">Я хочу пить.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Мунн та̄та ло̄гкэ. Мыннӭ быдт кнӣга.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Я хочу читать. Мне нужна книга.</t>
             </tg>
         </mg>
     </e>

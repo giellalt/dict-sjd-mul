@@ -1,45 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-    <xg lemma="я">
-        <x orth="2008sars" pos="Phrase_N">Моа̄йнас, ко̄ххт кӯль чалле я суэллдэ!</x>
-        <xtg xml:lang="rus">
-            <xt pos="Phrase_N"/>
-        </xtg>
-    </xg>
     <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-pronoun">
-                <x pos="S" orth="2008sars">Tо̄нн шэнтах го мунн.</x>
-                <xtg xml:lang="rus">
-                    <xt>Tы станешь как я.</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-pronoun">
-                <x pos="S" orth="2008sars">Tо̄нн шэнтах муннэнҍ.</x>
-                <xtg xml:lang="rus">
-                    <xt>Tы станешь как я.</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-numeral">
-                <x pos="S" orth="2008sars">Лоагант вуэр по̄рребпь.</x>
-            </xg>
-        </mg>
     </e>
 </r>

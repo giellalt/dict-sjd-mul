@@ -1,7 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="3067">
+    <e kur_ID="3309">
+        <lg>
+            <l pos="PRON">мунн</l>
+            <orth>
+                <lvar orth="1985kuru">мунн</lvar>
+                <lvar orth="1986kert">мунн</lvar>
+                <lvar orth="2008sars">мунн</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="PRON">я</t>
+            </tg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx">мунн то̄н вуэрта</x>
+                <xtg xml:lang="rus">
+                    <xt>я жду тебя</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx">пугк мун тамьпе тӣдтӭв</x>
+                <xtg xml:lang="rus">
+                    <xt>меня там все знают</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мыннӭ элля мэ̄нн тоннӭ це̄ӆӆькэ</x>
+                <xtg xml:lang="rus">
+                    <xt>мне нечего тебе сказать</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx">мыннӭ та̄рьм эйй вуэйсадтҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>мне сегодня нездоровится</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx">ель са̄рн мунэнҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>не разговаривай со мной</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx">ёадтӭ мунха</x>
+                <xtg xml:lang="rus">
+                    <xt>поезжайте без меня</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx">мун баяс елле пя̄дцлушшэ</x>
+                <xtg xml:lang="rus">
+                    <xt>обо мне не беспокойтесь</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx" type="idiom">мун ля̄ тӯллтма е̄ннэ лӣмэнҍ</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">я сварен во многих бульонах</xt>
+                    <xt>пройти сквозь огонь, воду и медные трубы</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx" type="idiom">мунн пӣльетҍ эмм вя̄ллктэл</x>
+                <xtg xml:lang="rus">
+                    <xt>я свои уши не одалживаю (т.е. мои уши закрыты для сплетен)</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx" type="idiom">мунн эмм ля̄ кӯлль, ко̄н то̄нн
+                    ся̄пптэлак</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">я не рыба, которую ты используешь в качестве наживки</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="1985kuru" pos="xxx" type="idiom">мунэсьт элля нюэммель кӯттҍк</x>
+                <xtg xml:lang="rus">
+                    <xt type="proverb">у меня не заячье сердце (т.е. я не трус)</xt>
+                </xtg>
+            </xg>
+            <xg lemma="мунн">
+                <x orth="2008sars" pos="Phrase_S">Tо̄нн шэнтах муннэнҍ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Tы станешь как я.</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_T">Мунн та̄та ло̄гкэ. Мыннӭ быдт кнӣга.</x>
+                <tg xml:lang="rus">
+                    <t pos="Phrase_T">Я хочу читать. Мне нужна книга.</t>
+                </tg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="3257" link_sm="1">
+        <lg>
+            <l pos="V">моайнсэ</l>
+            <orth>
+                <lvar orth="1985kuru">моайнсэ</lvar>
+                <lvar orth="2008sars">моа̄йнсе</lvar>
+                <lvar orth="2008sar1">моа̄йнсэ</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+            </infl>
+            <der type="SM">моайнас</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="V" imperf="рассказать">рассказывать</t>
+                <t pos="V" imperf="изложить">излагать что</t>
+            </tg>
+            <tg>
+                <t>повествовать</t>
+            </tg>
+            <xg lemma="моайнсэ">
+                <x orth="1985kuru" pos="xxx">моайнсэ моаййнас</x>
+                <xtg xml:lang="rus">
+                    <xt>рассказывать сказку</xt>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="1985kuru" pos="xxx">пуэдтӭ, а̄ка моайнаст мыйе моаййнас</x>
+                <xtg xml:lang="rus">
+                    <xt>приходите, бабушка расскажет нам сказку</xt>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="1985kuru" pos="xxx">о̄дтсэ моайнсэ</x>
+                <xtg xml:lang="rus">
+                    <xt>пересказывать / пересказать что</xt>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="2008sars" pos="Phrase_S">Моа̄йнас, ко̄ххт кӯль чалле я суэллдэ!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N"/>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="2008sars" pos="Phrase_S">Куэссь то̄нн моа̄йнсешкуадах?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Когда ты начнешь рассказывать?</xt>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="2008sars" pos="Phrase_V">А̄йя моа̄йнсэшкудӭ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Дедушка начал рассказывать.</xt>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="2008sars" pos="Phrase_S">Моа̄йнэсьт!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S"/>
+                </xtg>
+            </xg>
+            <xg lemma="моайнсэ">
+                <x orth="2008sars" pos="Phrase_S">Моа̄йнсэгке!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S"/>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">Моа̄йнсэгке тэнн баяс!</x>
+                <tg xml:lang="rus">
+                    <xt pos="Phrase_S">Расскажите об этом!</xt>
+                </tg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="3067">
         <lg>
             <l pos="A" pred="=">ме̄вв</l>
             <orth>
@@ -50,7 +228,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">минута</l>
             <orth>
@@ -67,7 +245,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="3342" link_sm="1">
+    <e kur_ID="3342" link_sm="1">
         <lg>
             <l pos="V">мушштъе</l>
             <orth>
@@ -98,7 +276,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">мушштъемушш</l>
             <orth>
@@ -119,7 +297,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="3316">
+    <e kur_ID="3316">
         <lg>
             <l pos="N">мӯнь</l>
             <orth>
@@ -196,7 +374,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="3318">
+    <e kur_ID="3318">
         <lg>
             <l pos="N" orth="1985kuru">мӯрр</l>
             <infl>
@@ -276,7 +454,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="xxx">мӯррьй-куэммерь</l>
             <orth>
