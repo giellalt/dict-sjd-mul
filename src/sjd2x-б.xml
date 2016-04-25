@@ -655,6 +655,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">барабан</t>
             </tg>
+            <xg source="1986kert" lemma="барбанн">
+                <x orth="1986kert" pos="Phrase_V">та̄гкэ барабан</x>
+                <xtg xml:lang="rus">
+                    <xt pos="V">барабанить</xt>
+                    <xt pos="Phrase_V">бить в барабан</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
     <e kur_ID="252">
@@ -1024,6 +1031,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <x orth="1986kert" pos="Phrase_N">профсоюзнэ билет</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">профсоюзный билет</xt>
+                </xtg>
+            </xg>
+            <xg source="1986kert" lemma="билет">
+                <x orth="1986kert" pos="Phrase_N">билет Ленинград райя</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">билет до Ленинграда</xt>
                 </xtg>
             </xg>
         </mg>
