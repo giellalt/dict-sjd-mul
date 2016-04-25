@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+    <e kur_ID="6019">
+        <lg>
+            <l pos="N">та̄лл</l>
+            <orth>
+                <lvar orth="1985kuru">та̄лл</lvar>
+                <lvar orth="1986kert" bound="та̄лл-">та̄лл</lvar>
+                <lvar orth="2008sars">та̄лл</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="6015">та̄л</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+                <stem_kert gloss="мн">та̄л</stem_kert>
+                <stem_sars>л</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>7</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t pos="N" gender="m">медведь</t>
+            </tg>
+            <xg lemma="та̄лл">
+                <x orth="1985kuru" pos="Phrase_N" type="#">вӣллькесь та̄лл</x>
+                <x orth="1986kert" pos="Phrase_N" type="#">вӣллькесь та̄лл</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="#">белый медведь</xt>
+                </xtg>
+            </xg>
+            <xg lemma="та̄лл">
+                <x orth="1985kuru" pos="Phrase_N">ниӈӈлэсс та̄лл</x>
+                <xt pos="N">медведица</xt>
+            </xg>
+            <xg lemma="та̄лл">
+                <x orth="1985kuru" pos="Phrase_NP">та̄л ака</x>
+                <x orth="1986kert" pos="N">та̄ллака</x>
+                <xt pos="N" type="folklore">медведица</xt>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="5970" link_sm="1">
         <lg>
             <l pos="V">та̄бхэ</l>

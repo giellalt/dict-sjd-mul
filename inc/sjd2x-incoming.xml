@@ -46286,55 +46286,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="2008sars">та̄лл</l>
-            <infl>
-                <stem_sars>л</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>7</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">медведь</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄лл</l>
-            <infl>
-                <stem_kert gloss="мн">та̄л</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">медведь</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄лл</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄лл</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄лл-</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">та̄ллака</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">та̄лльв</l>
         </lg>
         <mg>
