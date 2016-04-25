@@ -828,8 +828,14 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="xxx"/>
+                <t pos="N">борьба</t>
             </tg>
+            <xg source="1986kert" lemma="бе̄ййдэдтмушш">
+                <x orth="1986kert" pos="Phrase_N">бе̄ййдэдтмушш мыр гуэйке</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">борьба за мир</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
     <e kur_ID="257">
