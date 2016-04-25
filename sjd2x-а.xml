@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-    <e kur_ID="1">
+  <e kur_ID="1">
         <lg>
             <l pos="CS" orth="1985kuru">а</l>
         </lg>
@@ -27,7 +27,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="2">
+  <e kur_ID="2">
         <lg>
             <l pos="Interj" orth="1985kuru">а-а-а</l>
         </lg>
@@ -40,7 +40,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="11">
+  <e kur_ID="11">
         <lg>
             <l pos="N" orth="1985kuru">а̄бей</l>
             <infl>
@@ -80,7 +80,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="12" link_sm="1">
+  <e kur_ID="12" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄бпрюввэ</l>
             <infl>
@@ -101,7 +101,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="13" link_sm="1">
+  <e kur_ID="13" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄бпряһтӭ</l>
             <infl>
@@ -122,7 +122,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄бпь</l>
             <orth>
@@ -142,7 +142,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="14">
+  <e kur_ID="14">
         <lg>
             <l pos="N" orth="1985kuru">а̄бпяр</l>
             <infl>
@@ -168,7 +168,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄бьеннэ</l>
         </lg>
@@ -178,7 +178,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="19" link_sm="1">
+  <e kur_ID="19" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄бьюжнэ</l>
             <infl>
@@ -226,7 +226,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="20" link_sm="1">
+  <e kur_ID="20" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄бьюжсэ</l>
             <infl>
@@ -258,7 +258,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="21" link_sm="1">
+  <e kur_ID="21" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄бьюшшэ</l>
             <orth>
@@ -304,7 +304,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="22">
+  <e kur_ID="22">
         <lg>
             <l pos="A" orth="1985kuru">а̄в</l>
             <orth>
@@ -328,7 +328,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="23" link_sm="1">
+  <e kur_ID="23" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ввдэллэ</l>
             <infl>
@@ -352,7 +352,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="24" link_sm="1">
+  <e kur_ID="24" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ввдэлнэ</l>
             <infl>
@@ -372,17 +372,17 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ввнэ</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ввнэннтэ</l>
         </lg>
     </e>
-    <e kur_ID="26" link_sm="1">
+  <e kur_ID="26" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ввтлэ</l>
             <infl>
@@ -420,7 +420,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="27">
+  <e kur_ID="27">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввтэ</l>
             <orth>
@@ -492,7 +492,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="28">
+  <e kur_ID="28">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввь-1</l>
             <infl>
@@ -517,7 +517,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="29">
+  <e kur_ID="29">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввь-2</l>
             <infl>
@@ -542,7 +542,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="30" link_sm="1">
+  <e kur_ID="30" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввьдэ</l>
             <infl>
@@ -577,7 +577,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="31">
+  <e kur_ID="31">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввьл</l>
             <orth>
@@ -618,7 +618,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="32" link_sm="1">
+  <e kur_ID="32" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ввьлуввэ</l>
             <infl>
@@ -635,7 +635,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="33" link_sm="1">
+  <e kur_ID="33" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ввьлувнэ</l>
             <infl>
@@ -654,7 +654,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="34" link_sm="1">
+  <e kur_ID="34" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввьлье</l>
             <infl>
@@ -687,7 +687,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="35" link_sm="1">
+  <e kur_ID="35" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ввьльюввэ</l>
             <infl>
@@ -711,7 +711,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="36">
+  <e kur_ID="36">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввьн</l>
             <orth>
@@ -739,7 +739,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="37">
+  <e kur_ID="37">
         <lg>
             <l pos="N" orth="1985kuru">а̄ввьт</l>
             <infl>
@@ -756,7 +756,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="n" orth="1986kert">а̄вгустма̄нн</l>
         </lg>
@@ -766,7 +766,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄втнэ</l>
             <infl>
@@ -779,12 +779,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄втсассьтэ</l>
         </lg>
     </e>
-    <e kur_ID="42" link_sm="1">
+  <e kur_ID="42" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄втсэ</l>
             <orth>
@@ -825,7 +825,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄вьдэ</l>
             <infl>
@@ -843,7 +843,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="43" link_sm="1">
+  <e kur_ID="43" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄вьлсэллэ</l>
             <infl>
@@ -865,7 +865,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="44" link_sm="1">
+  <e kur_ID="44" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄вьлсэлнэ</l>
             <infl>
@@ -883,7 +883,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄вьнассьтэ</l>
             <infl>
@@ -896,7 +896,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄вьнэ</l>
             <orth>
@@ -922,7 +922,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="62">
+  <e kur_ID="62">
         <lg>
             <l pos="N" orth="1985kuru">а̄дзь</l>
             <infl>
@@ -943,7 +943,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄жья̄нна</l>
         </lg>
@@ -953,7 +953,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄йвсуввэ</l>
             <infl>
@@ -966,7 +966,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="80" link_sm="1">
+  <e kur_ID="80" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄йев</l>
             <orth>
@@ -1000,7 +1000,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="81">
+  <e kur_ID="81">
         <lg>
             <l pos="N" orth="1985kuru">а̄йй</l>
             <orth>
@@ -1028,7 +1028,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="82">
+  <e kur_ID="82">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййв</l>
             <infl>
@@ -1051,7 +1051,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="83" link_sm="1">
+  <e kur_ID="83" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ййвсаһтӭ</l>
             <infl>
@@ -1068,7 +1068,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="84" link_sm="1">
+  <e kur_ID="84" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ййвсэллэ</l>
             <infl>
@@ -1086,7 +1086,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="85" link_sm="1">
+  <e kur_ID="85" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ййвсэлнэ</l>
             <infl>
@@ -1104,7 +1104,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="86" link_sm="1">
+  <e kur_ID="86" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄ййвсэнне</l>
             <der type="SM">а̄ййв</der>
@@ -1122,7 +1122,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="87" link_sm="1">
+  <e kur_ID="87" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййвшэ</l>
             <infl>
@@ -1141,7 +1141,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="88" link_sm="1">
+  <e kur_ID="88" link_sm="1">
         <lg>
             <l pos="A" orth="1985kuru">а̄ййвэсь</l>
             <der type="SM">аййв</der>
@@ -1165,7 +1165,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="93">
+  <e kur_ID="93">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййк</l>
             <orth>
@@ -1202,7 +1202,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="94">
+  <e kur_ID="94">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййн</l>
             <infl>
@@ -1240,7 +1240,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="95">
+  <e kur_ID="95">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййнэ</l>
             <infl>
@@ -1270,7 +1270,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="96">
+  <e kur_ID="96">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййт</l>
             <orth>
@@ -1299,7 +1299,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="97" link_sm="1">
+  <e kur_ID="97" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ййтнэ</l>
             <infl>
@@ -1322,7 +1322,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ййтэ</l>
             <infl>
@@ -1335,7 +1335,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄йка</l>
         </lg>
@@ -1350,7 +1350,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="98" link_sm="1">
+  <e kur_ID="98" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄йкалт</l>
             <orth>
@@ -1371,7 +1371,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄йкас</l>
         </lg>
@@ -1381,7 +1381,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="99" link_sm="1">
+  <e kur_ID="99" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄йклэнне</l>
             <pointers>
@@ -1398,7 +1398,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="100" link_sm="1">
+  <e kur_ID="100" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄йкмушша</l>
             <der type="SM">а̄ййк</der>
@@ -1416,7 +1416,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="101" link_sm="1">
+  <e kur_ID="101" link_sm="1">
         <lg>
             <l pos="A" orth="1985kuru">а̄йкэсь</l>
             <der type="SM">а̄ййк</der>
@@ -1434,7 +1434,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="102" link_sm="1">
+  <e kur_ID="102" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄йнханна</l>
             <orth>
@@ -1460,7 +1460,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="103" link_sm="1">
+  <e kur_ID="103" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄йнханнэнч</l>
             <der type="SM">а̄ййнэ</der>
@@ -1478,12 +1478,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄йнхем</l>
         </lg>
     </e>
-    <e kur_ID="104" link_sm="1">
+  <e kur_ID="104" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄йтнассьтэ</l>
             <infl>
@@ -1516,7 +1516,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="105">
+  <e kur_ID="105">
         <lg>
             <l pos="N" orth="1985kuru">а̄йтнэ</l>
             <orth>
@@ -1553,7 +1553,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="106" link_sm="1">
+  <e kur_ID="106" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄йтнэдтэ</l>
             <infl>
@@ -1587,7 +1587,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄йтнэллэ</l>
             <infl>
@@ -1600,7 +1600,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="107" link_sm="1">
+  <e kur_ID="107" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄йтнэннтэ</l>
             <infl>
@@ -1621,7 +1621,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="109" link_sm="1">
+  <e kur_ID="109" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄йя</l>
             <orth>
@@ -1654,7 +1654,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="111">
+  <e kur_ID="111">
         <lg>
             <l pos="N" orth="1985kuru">а̄к</l>
             <infl>
@@ -1679,7 +1679,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="112" link_sm="1">
+  <e kur_ID="112" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ка</l>
             <orth>
@@ -1722,12 +1722,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄кашка</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄кэнч</l>
             <orth>
@@ -1746,7 +1746,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">а̄лехь</l>
         </lg>
@@ -1759,7 +1759,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="117" link_sm="1">
+  <e kur_ID="117" link_sm="1">
         <lg>
             <l pos="A:PRED" orth="1985kuru">а̄ллай</l>
             <der type="SM">а̄лль</der>
@@ -1779,7 +1779,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="118" link_sm="1">
+  <e kur_ID="118" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ллдэ</l>
             <infl>
@@ -1801,7 +1801,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="119" link_sm="1">
+  <e kur_ID="119" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ллдэллэ</l>
             <infl>
@@ -1820,7 +1820,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="120" link_sm="1">
+  <e kur_ID="120" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ллдэлнэ</l>
             <infl>
@@ -1839,12 +1839,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ллк</l>
         </lg>
     </e>
-    <e kur_ID="122" link_sm="1">
+  <e kur_ID="122" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ллктэ</l>
             <infl>
@@ -1865,7 +1865,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="127">
+  <e kur_ID="127">
         <lg>
             <l pos="N" orth="1985kuru">а̄ллт</l>
             <orth>
@@ -1891,12 +1891,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ллткэнне</l>
         </lg>
     </e>
-    <e kur_ID="128" link_sm="1">
+  <e kur_ID="128" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ллъюввэ</l>
             <infl>
@@ -1916,7 +1916,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="129">
+  <e kur_ID="129">
         <lg>
             <l pos="N" orth="1985kuru">а̄лль</l>
             <infl>
@@ -1946,7 +1946,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄лльв</l>
             <infl>
@@ -1959,7 +1959,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="132" link_sm="1">
+  <e kur_ID="132" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄лльлуввэ</l>
             <infl>
@@ -1979,7 +1979,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="136">
+  <e kur_ID="136">
         <lg>
             <l pos="N" orth="1985kuru">а̄лльс</l>
             <orth>
@@ -2012,7 +2012,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="139" link_sm="1">
+  <e kur_ID="139" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ллэ</l>
             <orth>
@@ -2039,12 +2039,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ллэнч</l>
         </lg>
     </e>
-    <e kur_ID="142" link_sm="1">
+  <e kur_ID="142" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄лсэ</l>
             <infl>
@@ -2064,7 +2064,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="153">
+  <e kur_ID="153">
         <lg>
             <l pos="N" orth="1985kuru">а̄льп</l>
             <orth>
@@ -2091,7 +2091,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="164">
+  <e kur_ID="164">
         <lg>
             <l pos="N" orth="1985kuru">а̄ммпэ</l>
             <infl>
@@ -2135,7 +2135,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="166" link_sm="1">
+  <e kur_ID="166" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ммьсассьтэ</l>
             <infl>
@@ -2153,7 +2153,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="165" link_sm="1">
+  <e kur_ID="165" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ммьсаһтӭ</l>
             <infl>
@@ -2174,7 +2174,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="167">
+  <e kur_ID="167">
         <lg>
             <l pos="N" orth="1985kuru">а̄ммьсэ</l>
             <orth>
@@ -2198,7 +2198,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="168" link_sm="1">
+  <e kur_ID="168" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ммьсэллэ</l>
             <infl>
@@ -2216,7 +2216,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="169" link_sm="1">
+  <e kur_ID="169" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ммьсэлнэ</l>
             <infl>
@@ -2234,7 +2234,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="170" link_sm="1">
+  <e kur_ID="170" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ммьсэмушш</l>
             <infl>
@@ -2256,7 +2256,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="171" link_sm="1">
+  <e kur_ID="171" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄мпсэ</l>
             <infl>
@@ -2298,7 +2298,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="172" link_sm="1">
+  <e kur_ID="172" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄мпсэллэ</l>
             <infl>
@@ -2334,7 +2334,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="173" link_sm="1">
+  <e kur_ID="173" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄мпсэлнэ</l>
             <infl>
@@ -2370,7 +2370,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="174" link_sm="1">
+  <e kur_ID="174" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄мшуввлэ</l>
             <infl>
@@ -2390,7 +2390,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="175">
+  <e kur_ID="175">
         <lg>
             <l pos="V" orth="1985kuru">а̄мшуввэ</l>
             <orth>
@@ -2416,7 +2416,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="176" link_sm="1">
+  <e kur_ID="176" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄мшувнэ</l>
             <infl>
@@ -2435,7 +2435,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="177" link_sm="1">
+  <e kur_ID="177" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄мшувсэ</l>
             <infl>
@@ -2455,7 +2455,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄нкэ</l>
             <infl>
@@ -2468,7 +2468,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ннмушш</l>
             <infl>
@@ -2481,7 +2481,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="178" link_sm="1">
+  <e kur_ID="178" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ннсэ</l>
             <infl>
@@ -2502,7 +2502,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="184">
+  <e kur_ID="184">
         <lg>
             <l pos="N" orth="1985kuru">а̄ннэ</l>
             <orth>
@@ -2542,7 +2542,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ннҍтмушш</l>
             <orth>
@@ -2550,7 +2550,7 @@
             </orth>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">а̄ннҍтэ</l>
         </lg>
@@ -2560,7 +2560,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="185" link_sm="1">
+  <e kur_ID="185" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄нсэ</l>
             <infl>
@@ -2581,7 +2581,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄нсэллэ</l>
             <infl>
@@ -2604,12 +2604,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄нхэ</l>
         </lg>
     </e>
-    <e kur_ID="187" link_sm="1">
+  <e kur_ID="187" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄нҍсэ</l>
             <orth>
@@ -2652,7 +2652,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="192">
+  <e kur_ID="192">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррв</l>
             <orth>
@@ -2686,7 +2686,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="193" link_sm="1">
+  <e kur_ID="193" link_sm="1">
         <lg>
             <l pos="A:PRED" orth="1985kuru">а̄ррвай</l>
             <der type="SM">а̄ррв</der>
@@ -2707,7 +2707,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="194" link_sm="1">
+  <e kur_ID="194" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррвдэ</l>
             <orth>
@@ -2736,7 +2736,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="195" link_sm="1">
+  <e kur_ID="195" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ррвдэллэ</l>
             <infl>
@@ -2758,7 +2758,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="196" link_sm="1">
+  <e kur_ID="196" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ррвдэлнэ</l>
             <infl>
@@ -2776,7 +2776,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="197" link_sm="1">
+  <e kur_ID="197" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄ррвъенне</l>
             <der type="SM">а̄ррв</der>
@@ -2794,7 +2794,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="198" link_sm="1">
+  <e kur_ID="198" link_sm="1">
         <lg>
             <l pos="A" orth="1985kuru">а̄ррвъесь</l>
             <orth>
@@ -2820,7 +2820,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="199">
+  <e kur_ID="199">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррьв</l>
             <orth>
@@ -2844,7 +2844,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="200" link_sm="1">
+  <e kur_ID="200" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррьвдэ</l>
             <orth>
@@ -2876,7 +2876,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ррьвдэгк</l>
             <infl>
@@ -2889,7 +2889,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="201" link_sm="1">
+  <e kur_ID="201" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ррьвдэллэ</l>
             <orth>
@@ -2925,7 +2925,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="202" link_sm="1">
+  <e kur_ID="202" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ррьвдэлнэ</l>
             <infl>
@@ -2945,7 +2945,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ррьвдэмушш</l>
             <infl>
@@ -2958,7 +2958,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ррьвхэ</l>
             <infl>
@@ -2971,7 +2971,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="203">
+  <e kur_ID="203">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррьй</l>
             <orth>
@@ -2999,7 +2999,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="204">
+  <e kur_ID="204">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррьк</l>
             <orth>
@@ -3038,12 +3038,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">а̄ррькесь</l>
         </lg>
     </e>
-    <e kur_ID="205" link_sm="1">
+  <e kur_ID="205" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄ррькъенне</l>
             <pointers>
@@ -3064,7 +3064,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="206" link_sm="1">
+  <e kur_ID="206" link_sm="1">
         <lg>
             <l pos="A" orth="1985kuru">а̄ррькъесь</l>
             <der type="SM">а̄ррьк</der>
@@ -3084,7 +3084,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="207">
+  <e kur_ID="207">
         <lg>
             <l pos="N" orth="1985kuru">а̄ррьп</l>
             <infl>
@@ -3107,7 +3107,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="208" link_sm="1">
+  <e kur_ID="208" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">а̄рькэльт</l>
             <orth>
@@ -3130,7 +3130,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="222">
+  <e kur_ID="222">
         <lg>
             <l pos="N" orth="1985kuru">а̄тҍсэ</l>
             <orth>
@@ -3155,7 +3155,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="223" link_sm="1">
+  <e kur_ID="223" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄тҍсэллэ</l>
             <orth>
@@ -3181,7 +3181,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="224" link_sm="1">
+  <e kur_ID="224" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄тҍсэлнэ</l>
             <infl>
@@ -3204,7 +3204,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="230" link_sm="1">
+  <e kur_ID="230" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">а̄ххьтлэ</l>
             <infl>
@@ -3226,7 +3226,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="231">
+  <e kur_ID="231">
         <lg>
             <l pos="N" orth="1985kuru">а̄ххьтэ</l>
             <infl>
@@ -3250,7 +3250,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="234" link_sm="1">
+  <e kur_ID="234" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄хьтсэ</l>
             <infl>
@@ -3274,7 +3274,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="237">
+  <e kur_ID="237">
         <lg>
             <l pos="N" orth="1985kuru">а̄шшь</l>
             <orth>
@@ -3316,7 +3316,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="110">
+  <e kur_ID="110">
         <lg>
             <l pos="N" orth="1985kuru">а̄јјт</l>
             <infl>
@@ -3346,7 +3346,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">а̄ҏҏьтпелльтаффьт</l>
             <infl>
@@ -3362,7 +3362,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="75">
+  <e kur_ID="75">
         <lg>
             <l pos="N" orth="1985kuru">а̄һклэӈӈк</l>
             <infl>
@@ -3383,7 +3383,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="76">
+  <e kur_ID="76">
         <lg>
             <l pos="N" orth="1985kuru">а̄һкь</l>
             <orth>
@@ -3428,7 +3428,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="77" link_sm="1">
+  <e kur_ID="77" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">а̄һкэв</l>
             <orth>
@@ -3460,7 +3460,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="3" link_sm="1">
+  <e kur_ID="3" link_sm="1">
         <lg>
             <l pos="A:PRED" orth="1985kuru">аббрай</l>
             <der type="SM">аббьр</der>
@@ -3479,7 +3479,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="4" link_sm="1">
+  <e kur_ID="4" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аббршэ</l>
             <infl>
@@ -3500,7 +3500,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="5" link_sm="1">
+  <e kur_ID="5" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аббръе</l>
             <infl>
@@ -3521,7 +3521,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="6" link_sm="1">
+  <e kur_ID="6" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">аббръенне</l>
             <der type="SM">аббьр</der>
@@ -3535,7 +3535,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="7" link_sm="1">
+  <e kur_ID="7" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аббръюввэ</l>
             <infl>
@@ -3555,7 +3555,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">аббрьоаз</l>
             <infl>
@@ -3571,7 +3571,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="8" link_sm="1">
+  <e kur_ID="8" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аббрэ</l>
             <orth>
@@ -3596,7 +3596,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="9">
+  <e kur_ID="9">
         <lg>
             <l pos="N" orth="1985kuru">аббьр</l>
             <orth>
@@ -3680,7 +3680,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="10" link_sm="1">
+  <e kur_ID="10" link_sm="1">
         <lg>
             <l pos="A">аббьръесь</l>
             <orth>
@@ -3711,7 +3711,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="15" link_sm="1">
+  <e kur_ID="15" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">абрнэ</l>
             <infl>
@@ -3732,7 +3732,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="16" link_sm="1">
+  <e kur_ID="16" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">абрсэ</l>
             <infl>
@@ -3757,7 +3757,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="17" link_sm="1">
+  <e kur_ID="17" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">абрсэллэ</l>
             <infl>
@@ -3792,7 +3792,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="18" link_sm="1">
+  <e kur_ID="18" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">абрсэлнэ</l>
             <infl>
@@ -3819,7 +3819,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="25">
+  <e kur_ID="25">
         <lg>
             <l pos="ADV" orth="1985kuru">аввта</l>
             <orth>
@@ -3850,7 +3850,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="38">
+  <e kur_ID="38">
         <lg>
             <l pos="N" orth="1985kuru">авгусст</l>
             <orth>
@@ -3870,7 +3870,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="39" link_sm="1">
+  <e kur_ID="39" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">автнэллэ</l>
             <infl>
@@ -3888,7 +3888,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="40" link_sm="1">
+  <e kur_ID="40" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">автнэлнэ</l>
             <infl>
@@ -3906,7 +3906,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="41">
+  <e kur_ID="41">
         <lg>
             <l pos="N" orth="1985kuru">автобус</l>
             <orth>
@@ -3936,7 +3936,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">автомобиль</l>
         </lg>
@@ -3952,7 +3952,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">автор</l>
         </lg>
@@ -3968,7 +3968,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="45" link_sm="1">
+  <e kur_ID="45" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">авьтвудт</l>
             <infl>
@@ -3989,7 +3989,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="46" link_sm="1">
+  <e kur_ID="46" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">авьтмусс</l>
             <orth>
@@ -4020,7 +4020,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="47" link_sm="1">
+  <e kur_ID="47" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">авьтнэ</l>
             <infl>
@@ -4041,7 +4041,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="48" link_sm="1">
+  <e kur_ID="48" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">авьтэм</l>
             <der type="SM">э̄ввт</der>
@@ -4064,7 +4064,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">авьтэмьбе̄лль</l>
             <orth>
@@ -4085,7 +4085,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">авьтэмьбе̄лльт</l>
             <orth>
@@ -4103,7 +4103,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">агас</l>
         </lg>
@@ -4113,12 +4113,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">агксэнч</l>
         </lg>
     </e>
-    <e kur_ID="50" link_sm="1">
+  <e kur_ID="50" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">агкъя</l>
             <pointers>
@@ -4135,7 +4135,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="51">
+  <e kur_ID="51">
         <lg>
             <l pos="N" orth="1985kuru">агкь</l>
             <orth>
@@ -4162,12 +4162,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">агкь байяс</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">агкьбайя</l>
         </lg>
@@ -4177,7 +4177,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="52" link_sm="1">
+  <e kur_ID="52" link_sm="1">
         <lg>
             <l pos="A">агкьесь</l>
             <orth>
@@ -4216,7 +4216,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="53" link_sm="1">
+  <e kur_ID="53" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">агкьлуввэ</l>
             <infl>
@@ -4237,7 +4237,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="54">
+  <e kur_ID="54">
         <lg>
             <l pos="A" orth="1985kuru">агрессивнэ</l>
         </lg>
@@ -4250,7 +4250,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="55">
+  <e kur_ID="55">
         <lg>
             <l pos="N" orth="1985kuru">агрессия</l>
             <infl>
@@ -4267,7 +4267,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="56">
+  <e kur_ID="56">
         <lg>
             <l pos="N" orth="1985kuru">агрономм</l>
             <infl>
@@ -4288,7 +4288,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="58">
+  <e kur_ID="58">
         <lg>
             <l pos="N" orth="1985kuru">аджь</l>
             <orth>
@@ -4311,7 +4311,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="59" link_sm="1">
+  <e kur_ID="59" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аджь-пе̄лль</l>
             <infl>
@@ -4328,7 +4328,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="60" link_sm="1">
+  <e kur_ID="60" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аджя</l>
             <orth>
@@ -4352,7 +4352,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="61">
+  <e kur_ID="61">
         <lg>
             <l pos="N" orth="1985kuru">адзе</l>
             <infl>
@@ -4381,7 +4381,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="63" link_sm="1">
+  <e kur_ID="63" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">адзьлэ</l>
             <infl>
@@ -4411,7 +4411,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="64">
+  <e kur_ID="64">
         <lg>
             <l pos="N" orth="1985kuru">адресс</l>
             <orth>
@@ -4445,7 +4445,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="65">
+  <e kur_ID="65">
         <lg>
             <l pos="ADV" orth="1985kuru">адтҍ</l>
             <orth>
@@ -4473,7 +4473,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="66" link_sm="1">
+  <e kur_ID="66" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">адтҍенч</l>
             <der type="SM">адтҍ</der>
@@ -4491,7 +4491,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="ksdp">адтҍешь</l>
             <orth>
@@ -4507,7 +4507,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="67" link_sm="1">
+  <e kur_ID="67" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">адтҍханна</l>
             <der type="SM">адтҍ</der>
@@ -4525,7 +4525,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="68" link_sm="1">
+  <e kur_ID="68" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">адтҍя</l>
             <orth>
@@ -4545,7 +4545,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">аже̄сь-налла</l>
         </lg>
@@ -4555,7 +4555,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">аже̄сь-налшэм</l>
         </lg>
@@ -4565,7 +4565,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">ажье̄ммьн</l>
         </lg>
@@ -4575,7 +4575,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">ажье̄ммьне</l>
         </lg>
@@ -4585,7 +4585,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="ksdp">ажьенҍ гоанҍц</l>
             <orth>
@@ -4593,7 +4593,7 @@
             </orth>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">ажьнэ̄мм</l>
         </lg>
@@ -4603,7 +4603,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="xxx">
+  <e kur_ID="xxx">
         <lg>
             <l pos="N" orth="1985kuru">ажьнӣййт</l>
         </lg>
@@ -4615,7 +4615,7 @@
                 свадьбу</lexicon>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="ksdp">ажьпа̄јјк</l>
             <orth>
@@ -4629,7 +4629,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">ажьхемь</l>
         </lg>
@@ -4639,7 +4639,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="70" link_sm="1">
+  <e kur_ID="70" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">ажя</l>
             <infl>
@@ -4657,7 +4657,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="71" link_sm="1">
+  <e kur_ID="71" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">азнэ</l>
             <infl>
@@ -4679,7 +4679,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="74" link_sm="1">
+  <e kur_ID="74" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">азьсэ</l>
             <infl>
@@ -4702,7 +4702,7 @@
             </хg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">ай</l>
         </lg>
@@ -4718,7 +4718,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="79">
+  <e kur_ID="79">
         <lg>
             <l pos="N" orth="1985kuru">айе</l>
             <orth>
@@ -4742,7 +4742,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="89" link_sm="1">
+  <e kur_ID="89" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аййдэ</l>
             <orth>
@@ -4773,7 +4773,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="90" link_sm="1">
+  <e kur_ID="90" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аййдэллэ</l>
             <infl>
@@ -4793,7 +4793,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="91" link_sm="1">
+  <e kur_ID="91" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аййдэлнэ</l>
             <infl>
@@ -4813,7 +4813,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="92" link_sm="1">
+  <e kur_ID="92" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аййдэлсэ</l>
             <infl>
@@ -4837,7 +4837,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">айкалт</l>
         </lg>
@@ -4847,12 +4847,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">айтмесь</l>
         </lg>
     </e>
-    <e kur_ID="108">
+  <e kur_ID="108">
         <lg>
             <l pos="ADV" orth="1985kuru">айтэ</l>
         </lg>
@@ -4905,7 +4905,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">айтэмьбе̄лль</l>
             <orth>
@@ -4918,7 +4918,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="A">активнэ</l>
             <orth>
@@ -4937,7 +4937,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="114">
+  <e kur_ID="114">
         <lg>
             <l pos="N" orth="1985kuru">алаш</l>
             <infl>
@@ -4960,7 +4960,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">але</l>
         </lg>
@@ -4970,7 +4970,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="115">
+  <e kur_ID="115">
         <lg>
             <l pos="A">алехь</l>
             <orth>
@@ -5014,7 +5014,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="116" link_sm="1">
+  <e kur_ID="116" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">алехьлуввэ</l>
             <infl>
@@ -5034,7 +5034,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">алка</l>
             <orth>
@@ -5047,7 +5047,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">алкэнч</l>
         </lg>
@@ -5057,7 +5057,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">алл</l>
         </lg>
@@ -5067,7 +5067,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="121">
+  <e kur_ID="121">
         <lg>
             <l pos="N" orth="1985kuru">аллк</l>
             <infl>
@@ -5088,7 +5088,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="123">
+  <e kur_ID="123">
         <lg>
             <l pos="N" orth="1985kuru">аллмэ</l>
             <infl>
@@ -5114,7 +5114,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="124" link_sm="1">
+  <e kur_ID="124" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аллнэ</l>
             <infl>
@@ -5134,7 +5134,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="125" link_sm="1">
+  <e kur_ID="125" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аллнэллэ</l>
             <der type="SM">э̄лл</der>
@@ -5149,7 +5149,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="126" link_sm="1">
+  <e kur_ID="126" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аллнэлнэ</l>
             <der type="SM">э̄лл</der>
@@ -5164,7 +5164,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">аллткэнне</l>
         </lg>
@@ -5174,7 +5174,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="130">
+  <e kur_ID="130">
         <lg>
             <l pos="N" orth="1985kuru">алльк</l>
             <orth>
@@ -5214,7 +5214,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="131">
+  <e kur_ID="131">
         <lg>
             <l pos="N" orth="1985kuru">аллькэ</l>
             <orth>
@@ -5263,7 +5263,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="133">
+  <e kur_ID="133">
         <lg>
             <l pos="N" orth="1985kuru">алльм-1</l>
             <orth>
@@ -5298,7 +5298,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="134">
+  <e kur_ID="134">
         <lg>
             <l pos="N" orth="1985kuru">алльм-2</l>
             <orth>
@@ -5335,7 +5335,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="adv" orth="2008sars">алльн</l>
         </lg>
@@ -5348,7 +5348,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="po" orth="2008sars">алльн</l>
         </lg>
@@ -5361,7 +5361,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="137">
+  <e kur_ID="137">
         <lg>
             <l pos="A" orth="1985kuru">алльт</l>
             <orth>
@@ -5385,7 +5385,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">алльтла</l>
         </lg>
@@ -5395,7 +5395,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="138" link_sm="1">
+  <e kur_ID="138" link_sm="1">
         <lg>
             <l pos="A" orth="1985kuru">алльтлэс</l>
             <der type="SM">алльт</der>
@@ -5421,7 +5421,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">алльтъенне</l>
             <orth>
@@ -5434,7 +5434,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="140" link_sm="1">
+  <e kur_ID="140" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">алнэллэ</l>
             <infl>
@@ -5456,7 +5456,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="141" link_sm="1">
+  <e kur_ID="141" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">алнэлнэ</l>
             <infl>
@@ -5474,7 +5474,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="143" link_sm="1">
+  <e kur_ID="143" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">алтнэллэ</l>
             <infl>
@@ -5510,7 +5510,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="144" link_sm="1">
+  <e kur_ID="144" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">алтнэлнэ</l>
             <infl>
@@ -5538,7 +5538,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="145">
+  <e kur_ID="145">
         <lg>
             <l pos="N" orth="1985kuru">алфавиһт</l>
             <orth>
@@ -5567,7 +5567,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="146" link_sm="1">
+  <e kur_ID="146" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">альмсэ</l>
             <infl>
@@ -5598,7 +5598,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="147" link_sm="1">
+  <e kur_ID="147" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альмсэллэ</l>
             <infl>
@@ -5631,7 +5631,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="148" link_sm="1">
+  <e kur_ID="148" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альмсэлнэ</l>
             <infl>
@@ -5660,7 +5660,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="149">
+  <e kur_ID="149">
         <lg>
             <l pos="ADP" orth="1985kuru">альн</l>
             <orth>
@@ -5706,7 +5706,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="151" link_sm="1">
+  <e kur_ID="151" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альнассьтэ</l>
             <infl>
@@ -5724,7 +5724,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="150" link_sm="1">
+  <e kur_ID="150" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альнаһтӭ</l>
             <infl>
@@ -5752,7 +5752,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="152" link_sm="1">
+  <e kur_ID="152" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альнэ</l>
             <infl>
@@ -5781,7 +5781,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="154" link_sm="1">
+  <e kur_ID="154" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">альт</l>
             <der type="SM">алльт</der>
@@ -5800,7 +5800,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="155" link_sm="1">
+  <e kur_ID="155" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">альтнэ</l>
             <orth>
@@ -5838,7 +5838,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">альтнэллэ</l>
             <infl>
@@ -5851,7 +5851,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="156" link_sm="1">
+  <e kur_ID="156" link_sm="1">
         <lg>
             <l pos="A">альтэсь</l>
             <orth>
@@ -5881,7 +5881,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="157" link_sm="1">
+  <e kur_ID="157" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">альтэсьт</l>
             <der type="SM">алльт</der>
@@ -5899,7 +5899,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="159" link_sm="1">
+  <e kur_ID="159" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альхассьтэ</l>
             <orth>
@@ -5938,7 +5938,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="158" link_sm="1">
+  <e kur_ID="158" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альхаһтӭ</l>
             <infl>
@@ -5959,7 +5959,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="160" link_sm="1">
+  <e kur_ID="160" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">альхуввэ</l>
             <infl>
@@ -5981,7 +5981,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="161">
+  <e kur_ID="161">
         <lg>
             <l pos="ADV" orth="1985kuru">ама</l>
         </lg>
@@ -6031,7 +6031,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="pcle" orth="2008sars">ама|амэ|аме</l>
         </lg>
@@ -6065,7 +6065,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="162">
+  <e kur_ID="162">
         <lg>
             <l pos="N" orth="1985kuru">амель</l>
             <infl>
@@ -6086,7 +6086,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">аннтэднэ</l>
             <infl>
@@ -6099,7 +6099,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="179" link_sm="1">
+  <e kur_ID="179" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аннтэдтмушш</l>
             <infl>
@@ -6121,7 +6121,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="180" link_sm="1">
+  <e kur_ID="180" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аннтэдтэ</l>
             <orth>
@@ -6161,7 +6161,38 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
+        <lg>
+            <l pos="v" orth="2008sars">аннҍ?</l>
+        </lg>
+        <mg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] са̄ррн!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [он] говорит!</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] са̄ррнэв!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [они] говорят!</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] вуадт!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [он] спит!</xt>
+                </xtg>
+            </xg>
+            <xg source="2008sarsina1-imperative">
+                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] по̄ррэв!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [они] кушают!</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="xxx" orth="ksdp">аннҍтлассьтэ</l>
             <orth>
@@ -6169,7 +6200,7 @@
             </orth>
         </lg>
     </e>
-    <e kur_ID="181" link_sm="1">
+  <e kur_ID="181" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">аннҍтлэ</l>
             <infl>
@@ -6206,7 +6237,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="182" link_sm="1">
+  <e kur_ID="182" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">аннҍтмушш</l>
             <infl>
@@ -6228,38 +6259,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="v" orth="2008sars">аннҍ?</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] са̄ррн!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [он] говорит!</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] са̄ррнэв!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [они] говорят!</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] вуадт!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [он] спит!</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] по̄ррэв!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [они] кушают!</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="183">
+  <e kur_ID="183">
         <lg>
             <l pos="N" orth="1985kuru">аннҍтэ</l>
             <orth>
@@ -6336,7 +6336,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="186">
+  <e kur_ID="186">
         <lg>
             <l pos="ADV" orth="1985kuru">анҍ</l>
             <orth>
@@ -6357,7 +6357,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="ksdp">анҍсаһтӭ</l>
             <orth>
@@ -6384,7 +6384,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">аппьсе</l>
             <infl>
@@ -6402,7 +6402,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="188">
+  <e kur_ID="188">
         <lg>
             <l pos="N" orth="1985kuru">апрелль</l>
             <orth>
@@ -6437,7 +6437,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">апс</l>
         </lg>
@@ -6447,12 +6447,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">апснэ</l>
         </lg>
     </e>
-    <e kur_ID="189">
+  <e kur_ID="189">
         <lg>
             <l pos="N" orth="1985kuru">аптека</l>
             <infl>
@@ -6469,7 +6469,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="190">
+  <e kur_ID="190">
         <lg>
             <l pos="A" orth="1985kuru">аптечнэ</l>
         </lg>
@@ -6486,7 +6486,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="191">
+  <e kur_ID="191">
         <lg>
             <l pos="N" orth="1985kuru">армия</l>
             <orth>
@@ -6514,7 +6514,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">аррк</l>
         </lg>
@@ -6529,7 +6529,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">арркъенне</l>
             <orth>
@@ -6542,7 +6542,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">арркъесь</l>
         </lg>
@@ -6552,7 +6552,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="209" link_sm="1">
+  <e kur_ID="209" link_sm="1">
         <lg>
             <l pos="A:PRED" orth="1985kuru">ассай</l>
             <der type="SM">ассь</der>
@@ -6573,7 +6573,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="210" link_sm="1">
+  <e kur_ID="210" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">ассктуввэ</l>
             <infl>
@@ -6598,7 +6598,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="211">
+  <e kur_ID="211">
         <lg>
             <l pos="N" orth="1985kuru">ассктэ</l>
             <orth>
@@ -6623,7 +6623,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="212" link_sm="1">
+  <e kur_ID="212" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">ассктэдтэ</l>
             <infl>
@@ -6644,7 +6644,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="213" link_sm="1">
+  <e kur_ID="213" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">ассктэллэ</l>
             <orth>
@@ -6670,7 +6670,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="214" link_sm="1">
+  <e kur_ID="214" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">ассктэлнэ</l>
             <infl>
@@ -6688,7 +6688,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="215" link_sm="1">
+  <e kur_ID="215" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">асснэ</l>
             <infl>
@@ -6709,7 +6709,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="216">
+  <e kur_ID="216">
         <lg>
             <l pos="N" orth="1985kuru">асст</l>
             <orth>
@@ -6739,7 +6739,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="217" link_sm="1">
+  <e kur_ID="217" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">асстлуввэ</l>
             <infl>
@@ -6762,7 +6762,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="218" link_sm="1">
+  <e kur_ID="218" link_sm="1">
         <lg>
             <l pos="A" orth="1985kuru">ассъесь</l>
             <der type="SM">ассь</der>
@@ -6781,7 +6781,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="219">
+  <e kur_ID="219">
         <lg>
             <l pos="N" orth="1985kuru">ассь</l>
             <orth>
@@ -6821,7 +6821,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="220">
+  <e kur_ID="220">
         <lg>
             <l pos="N" orth="1985kuru">асськ</l>
             <infl>
@@ -6845,7 +6845,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="221">
+  <e kur_ID="221">
         <lg>
             <l pos="Interj" orth="1985kuru">асьт-асьт-асьт</l>
         </lg>
@@ -6859,7 +6859,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">ахтар</l>
         </lg>
@@ -6869,7 +6869,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="225" link_sm="1">
+  <e kur_ID="225" link_sm="1">
         <lg>
             <l pos="ADV" orth="1985kuru">аххтан</l>
             <orth>
@@ -6900,7 +6900,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="226">
+  <e kur_ID="226">
         <lg>
             <l pos="NUM" orth="1985kuru">аххц</l>
             <orth>
@@ -6926,7 +6926,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="227" link_sm="1">
+  <e kur_ID="227" link_sm="1">
         <lg>
             <l pos="NUM" orth="1985kuru">аххцлоагкь</l>
             <orth>
@@ -6944,7 +6944,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="228" link_sm="1">
+  <e kur_ID="228" link_sm="1">
         <lg>
             <l pos="Det" orth="1985kuru">аххцэмплоагант</l>
             <der type="SM">аххц</der>
@@ -6958,7 +6958,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="229" link_sm="1">
+  <e kur_ID="229" link_sm="1">
         <lg>
             <l pos="NUM" orth="1985kuru">аххцэмплоагкь</l>
             <der type="SM">аххц</der>
@@ -6972,7 +6972,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="232" link_sm="1">
+  <e kur_ID="232" link_sm="1">
         <lg>
             <l pos="Det" orth="1985kuru">ахцант</l>
             <orth>
@@ -7021,7 +7021,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="233" link_sm="1">
+  <e kur_ID="233" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">ахцас</l>
             <orth>
@@ -7042,7 +7042,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">ахцэ-ахцэ</l>
         </lg>
@@ -7052,7 +7052,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="235">
+  <e kur_ID="235">
         <lg>
             <l pos="Interj" orth="1985kuru">аць-аць-аць</l>
         </lg>
@@ -7065,7 +7065,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="236">
+  <e kur_ID="236">
         <lg>
             <l pos="Interj" orth="1985kuru">аш-аш-аш</l>
         </lg>
@@ -7079,7 +7079,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">ашшт</l>
             <orth>
@@ -7098,7 +7098,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="238">
+  <e kur_ID="238">
         <lg>
             <l pos="N" orth="1985kuru">аэропоррт</l>
             <infl>

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e>
+  <e meta="01">
+        <lg source="NEA">
+            <l pos="N" dialect="ars">са̄ййк</l>
+            <phon>
+                <phonol>saːjːk</phonol>
+                <phonet speaker="NEA">saːʲjːk</phonet>
+            </phon>
+        </lg>
+        <mg>
+            <lexg xml:lang="deu">
+                <lex>Wolle vom Schaaf</lex>
+            </lexg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="N">столица</l>
             <orth>
@@ -16,7 +31,28 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e meta="01">
+        <lg source="NEA">
+            <l pos="V">сыһкэ</l>
+            <orthography>
+                <lvar orth="2014anto">сыххкэ</lvar>
+            </orthography>
+        </lg>
+        <mg dial="ars">
+            <tg xml:lang="rus">
+                <t pos="V">вытирать</t>
+            </tg>
+        </mg>
+        <mg dial="kil|lov|var">
+            <tg xml:lang="deu">
+                <t pos="V" style="crude">flachlegen</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="V" style="vulg">трахать</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="A">сӯгкесь</l>
             <orth>
@@ -49,7 +85,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="5756" link_sm="1">
+  <e kur_ID="5756" link_sm="1">
         <lg>
             <l pos="N">сӯӈӈъей</l>
             <orth>
@@ -69,41 +105,6 @@
             <tg>
                 <t gender="m">сват</t>
                 <t gender="f">сваха</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="01">
-        <lg source="NEA">
-            <l pos="N" dialect="ars">са̄ййк</l>
-            <phon>
-                <phonol>saːjːk</phonol>
-                <phonet speaker="NEA">saːʲjːk</phonet>
-            </phon>
-        </lg>
-        <mg>
-            <lexg xml:lang="deu">
-                <lex>Wolle vom Schaaf</lex>
-            </lexg>
-        </mg>
-    </e>
-    <e meta="01">
-        <lg source="NEA">
-            <l pos="V">сыһкэ</l>
-            <orthography>
-                <lvar orth="2014anto">сыххкэ</lvar>
-            </orthography>
-        </lg>
-        <mg dial="ars">
-            <tg xml:lang="rus">
-                <t pos="V">вытирать</t>
-            </tg>
-        </mg>
-        <mg dial="kil|lov|var">
-            <tg xml:lang="deu">
-                <t pos="V" style="crude">flachlegen</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="V" style="vulg">трахать</t>
             </tg>
         </mg>
     </e>

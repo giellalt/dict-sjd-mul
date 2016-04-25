@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e kur_ID="1353">
+  <e kur_ID="1353">
         <lg>
             <l pos="N">ӣнн-2</l>
             <orth>
@@ -72,7 +73,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="A">ӣннхэм</l>
             <orth>

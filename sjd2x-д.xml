@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e kur_ID="1091">
+  <e>
+        <lg>
+            <l pos="CC" orth="1986kert">да</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="CC">и</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1091">
         <lg>
             <l pos="ADV" orth="1985kuru-sjd">дак</l>
         </lg>
@@ -21,7 +32,38 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1092">
+  <e>
+        <lg>
+            <l pos="Pcle" orth="2008sars">дак</l>
+        </lg>
+        <mg>
+            <tg>
+                <t>так</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">дворец</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дворец</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">пионердворец</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">дворец пионеров</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">дежурнэ</l>
+        </lg>
+    </e>
+  <e kur_ID="1092">
         <lg>
             <l pos="N" orth="1985kuru-sjd">декаббрь</l>
             <infl>
@@ -46,7 +88,38 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1094">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">декабрь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">декабрь</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">декабрьма̄нн</l>
+        </lg>
+    </e>
+  <e>
+        <lg>
+            <l pos="N" orth="1986kert">делегат</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="N">делегат</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="N">съездделегат</x>
+                <xtg xml:lang="rus">
+                    <xt pos="NP">делегат съезда</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e kur_ID="1094">
         <lg>
             <l pos="N" orth="1985kuru-sjd">делегация</l>
             <infl>
@@ -63,7 +136,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1093">
+  <e kur_ID="1093">
         <lg>
             <l pos="N" orth="1985kuru-sjd">делегаһт</l>
             <infl>
@@ -84,7 +157,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1095">
+  <e kur_ID="1095">
         <lg>
             <l pos="A" orth="1985kuru-sjd">демократическэ</l>
         </lg>
@@ -101,7 +174,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1096">
+  <e kur_ID="1096">
         <lg>
             <l pos="N" orth="1985kuru-sjd">демократия</l>
             <infl>
@@ -118,7 +191,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1097">
+  <e kur_ID="1097">
         <lg>
             <l pos="N" orth="1985kuru-sjd">демонстрация</l>
             <infl>
@@ -139,7 +212,33 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1098">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">демонстрация</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">демонстрация</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">депутат</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">депутат</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">нарэдтдепутат</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">народный депутат</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e kur_ID="1098">
         <lg>
             <l pos="N" orth="1985kuru-sjd">депутаһт</l>
             <infl>
@@ -168,7 +267,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1100">
+  <e kur_ID="1100">
         <lg>
             <l pos="N" orth="1985kuru-sjd">диванн</l>
             <infl>
@@ -193,7 +292,22 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1101">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">дивъедтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">удивиться</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">дивъюввэ</l>
+        </lg>
+    </e>
+  <e kur_ID="1101">
         <lg>
             <l pos="N" orth="1985kuru-sjd">диктаннт</l>
             <infl>
@@ -218,7 +332,32 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1102">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">диктовайе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">диктовать</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">дикэ</l>
+        </lg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">директор</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">директор</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1102">
         <lg>
             <l pos="N" orth="1985kuru-sjd">директэр</l>
             <infl>
@@ -243,7 +382,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1103">
+  <e kur_ID="1103">
         <lg>
             <l pos="N" orth="1985kuru-sjd">днивнэһкь</l>
             <infl>
@@ -264,7 +403,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1104">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">доайтэсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">достойный (уважаемый)</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1104">
         <lg>
             <l pos="N" orth="1985kuru-sjd">докладт</l>
             <infl>
@@ -289,7 +438,41 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1105">
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">досельнэ</l>
+        </lg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">дружина</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дружина</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">пионерскэ дружина</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">пионерская дружина</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">друшшэ</l>
+            <infl>
+                <stem_kert>друлса, друшш</stem_kert>
+            </infl>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дружить</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1105">
         <lg>
             <l pos="N" orth="1985kuru-sjd">духа</l>
             <infl>
@@ -310,7 +493,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1106">
+  <e kur_ID="1106">
         <lg>
             <l pos="N" orth="1985kuru-sjd">дэбэнҍ</l>
             <infl>
@@ -336,7 +519,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1099">
+  <e kur_ID="1099">
         <lg>
             <l pos="ADV" orth="1985kuru-sjd">дӣ</l>
         </lg>
@@ -359,189 +542,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="CC" orth="1986kert">да</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="CC">и</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="Pcle" orth="2008sars">дак</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>так</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">дворец</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">дворец</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">пионердворец</x>
-                <xtg xml:lang="rus">
-                    <xt pos="xxx">дворец пионеров</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">дежурнэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">декабрь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">декабрь</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">декабрьма̄нн</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N" orth="1986kert">делегат</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="N">делегат</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="N">съездделегат</x>
-                <xtg xml:lang="rus">
-                    <xt pos="NP">делегат съезда</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">демонстрация</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">демонстрация</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">депутат</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">депутат</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">нарэдтдепутат</x>
-                <xtg xml:lang="rus">
-                    <xt pos="xxx">народный депутат</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">дивъедтэ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">удивиться</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">дивъюввэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">диктовайе</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">диктовать</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">дикэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">директор</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">директор</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">доайтэсь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">достойный (уважаемый)</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">досельнэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">дружина</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">дружина</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">пионерскэ дружина</x>
-                <xtg xml:lang="rus">
-                    <xt pos="xxx">пионерская дружина</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">друшшэ</l>
-            <infl>
-                <stem_kert>друлса, друшш</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">дружить</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">дӣкэ</l>
         </lg>

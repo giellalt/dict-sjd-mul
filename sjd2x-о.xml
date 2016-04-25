@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e>
-        <lg>
-            <l pos="N" number="Pl">оассэ</l>
-            <orth>
-                <lvar orth="1985kuru">оассэ</lvar>
-                <lvar orth="1986kert">оассэ</lvar>
-                <lvar orth="1986ker1">о̄а̄ссэ</lvar>
-            </orth>
-            <pointer>
-                <main>оаз-2</main>
-            </pointer>
-        </lg>
-        <mg>
-            <tg>
-                <t pos="N" number="Pl">одежды</t>
-            </tg>
-        </mg>
-    </e>
-    <e kur_ID="3863">
+  <e kur_ID="3863">
         <lg>
             <l pos="N" orth="1985kuru">оаз-2</l>
             <orth>
@@ -88,7 +71,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="3942">
+  <e kur_ID="3942">
         <lg>
             <l pos="V">оаррэ</l>
             <orth>
@@ -239,6 +222,24 @@
                     <xt type="proverb">стоячая вода не бывает прозрачной</xt>
                 </xtg>
             </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="N" number="Pl">оассэ</l>
+            <orth>
+                <lvar orth="1985kuru">оассэ</lvar>
+                <lvar orth="1986kert">оассэ</lvar>
+                <lvar orth="1986ker1">о̄а̄ссэ</lvar>
+            </orth>
+            <pointer>
+                <main>оаз-2</main>
+            </pointer>
+        </lg>
+        <mg>
+            <tg>
+                <t pos="N" number="Pl">одежды</t>
+            </tg>
         </mg>
     </e>
 </r>

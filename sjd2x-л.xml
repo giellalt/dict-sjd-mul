@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e kur_ID="2760-1">
+  <e>
+        <lg>
+            <l pos="N">ла̄ммьп-мӯррьй</l>
+            <orth>
+                <lvar orth="1986kert">ла̄ммьпмӯррьй</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">болотная ягода</t>
+            </tg>
+        </mg>
+    </e>
+  <e meta="01">
+        <lg source="NEA">
+            <l pos="Cc">лубэ</l>
+            <orth>
+                <lvar orth="2014anto">лубэ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="deu">
+                <t pos="Cc">oder</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="Cc">или</t>
+            </tg>
+        </mg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Cc">либо</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="2760-1">
         <lg>
             <l pos="ADP">луннҍ</l>
             <orth>
@@ -39,7 +74,20 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="2963">
+  <e>
+        <lg>
+            <l pos="N">лыгк-герой</l>
+            <orth>
+                <lvar orth="1986kert">лыгкгерой</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="">герой труда</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="2963">
         <lg>
             <l pos="N">ля̄ммт</l>
             <orth>
@@ -97,54 +145,7 @@
             </xg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="N">лыгк-герой</l>
-            <orth>
-                <lvar orth="1986kert">лыгкгерой</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="">герой труда</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">ла̄ммьп-мӯррьй</l>
-            <orth>
-                <lvar orth="1986kert">ла̄ммьпмӯррьй</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N">болотная ягода</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="01">
-        <lg source="NEA">
-            <l pos="Cc">лубэ</l>
-            <orth>
-                <lvar orth="2014anto">лубэ</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="deu">
-                <t pos="Cc">oder</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="Cc">или</t>
-            </tg>
-        </mg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Cc">либо</t>
-            </tg>
-        </mg>
-    </e>
-    <e kur_ID="2563">
+  <e kur_ID="2563">
         <lg>
             <l pos="N">лӣвлас</l>
             <orth>
@@ -176,7 +177,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="2570">
+  <e kur_ID="2570">
         <lg>
             <l pos="V">лӣйе</l>
             <orth>

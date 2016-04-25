@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e>
+  <e kur_ID="6937">
         <lg>
-            <l pos="V">чӯдтэдтэ</l>
+            <l pos="N">ча̄йй</l>
             <orth>
-                <lvar orth="1986kert">чӯдтэдтэ</lvar>
+                <lvar orth="1985kuru">ча̄йй</lvar>
+                <lvar orth="1986kert">чоай</lvar>
             </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">ча̄й</stem_kuru>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
         </lg>
-        <mg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
             <tg xml:lang="rus">
-                <t pos="V">показаться</t>
+                <t pos="N">чай</t>
             </tg>
-            <xg lemma="чӯдтэдтэ">
-                <x orth="1986kert" pos="Phrase_V">мыннӭ чӯдтэдэ</x>
+            <xg lemma="ча̄йй">
+                <x orth="1985kuru" pos="Phrase_V">югкэ роавас ча̄й</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">мне показалось</xt>
+                    <xt pos="Phrase_V">пить крепкий чай</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="7005" link_sm="1">
+  <e kur_ID="7005" link_sm="1">
         <lg>
             <l pos="A">че̄песь</l>
             <orth>
@@ -51,111 +60,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="7222" link_sm="1">
-        <lg>
-            <l pos="A">чуввесь</l>
-            <orth>
-                <lvar orth="1985kuru">чуввесь</lvar>
-                <lvar orth="1986kert">чуввесь</lvar>
-                <lvar orth="1986ker1">чӯввесь</lvar>
-                <lvar orth="2008sars">чуввесь</lvar>
-                <lvar orth="2008sar1">чӯввесь</lvar>
-            </orth>
-            <der type="SM">чувв</der>
-        </lg>
-        <mg km="g">
-            <semantics>
-                <stype>xxx</stype>
-                <sarsina-chapter>3</sarsina-chapter>
-            </semantics>
-            <tg>
-                <t type="literal+figurative">светлый</t>
-                <t>ясный</t>
-                <t>яркий</t>
-                <t>блестящий</t>
-            </tg>
-            <xg lemma="чуввесь">
-                <x orth="1985kuru" pos="Phrase_N">чуввесь пе̄ййв</x>
-                <xtg xml:lang="rus">
-                    <xt>светлый день</xt>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <x orth="1985kuru" pos="Phrase_N">чуввесь чальм</x>
-                <xtg xml:lang="rus">
-                    <xt>ясные глаза</xt>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <x orth="1985kuru" pos="Phrase_N">чуввесь пуадтмушш</x>
-                <xtg xml:lang="rus">
-                    <xt>светлое будущее</xt>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <x orth="1986kert" pos="Phrase_N" type="#">чуввесь та̄ссьт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N" type="#">полярная звезда</xt>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <l orth="1986kert" pos="Phrase_N">чӯввесь алльм</l>
-                <x orth="2008sars" pos="Phrase_N">чуввесь а̄лльм</x>
-                <xtg xml:lang="rus">
-                    <t pos="Phrase_N">чистое небо</t>
-                    <t pos="Phrase_N">ясное небо</t>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <x orth="1986kert" pos="Phrase_A">чӯввесь рӯппсэ</x>
-                <xtg xml:lang="rus">
-                    <t pos="A">алый</t>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <x orth="1986kert" pos="Phrase_N">чӯввесь рӯппсэ галстук</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N" type="Phrase_N">алые галстуки</xt>
-                </xtg>
-            </xg>
-            <xg lemma="чуввесь">
-                <x orth="1985kuru" pos="A">чуввесь-алехь</x>
-                <x orth="2008sars" pos="Phrase_A">чӯввесь а̄лехь</x>
-                <xtg xml:lang="rus">
-                    <xt pos="A">голубой</xt>
-                    <xt pos="A">бледно-голубой</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="6937">
-        <lg>
-            <l pos="N">ча̄йй</l>
-            <orth>
-                <lvar orth="1985kuru">ча̄йй</lvar>
-                <lvar orth="1986kert">чоай</lvar>
-            </orth>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">ча̄й</stem_kuru>
-                <class_kuru class="I" ablaut="1" special="_x_"/>
-            </infl>
-        </lg>
-        <mg km="g">
-            <semantics>
-                <stype>xxx</stype>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="N">чай</t>
-            </tg>
-            <xg lemma="ча̄йй">
-                <x orth="1985kuru" pos="Phrase_V">югкэ роавас ча̄й</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">пить крепкий чай</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="7066">
+  <e kur_ID="7066">
         <lg>
             <l pos="V">чиннэ</l>
             <orth>
@@ -251,6 +156,102 @@
             <tg>
                 <t type="UNPERS">крепить (желудок)</t>
             </tg>
+        </mg>
+    </e>
+  <e kur_ID="7222" link_sm="1">
+        <lg>
+            <l pos="A">чуввесь</l>
+            <orth>
+                <lvar orth="1985kuru">чуввесь</lvar>
+                <lvar orth="1986kert">чуввесь</lvar>
+                <lvar orth="1986ker1">чӯввесь</lvar>
+                <lvar orth="2008sars">чуввесь</lvar>
+                <lvar orth="2008sar1">чӯввесь</lvar>
+            </orth>
+            <der type="SM">чувв</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>3</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t type="literal+figurative">светлый</t>
+                <t>ясный</t>
+                <t>яркий</t>
+                <t>блестящий</t>
+            </tg>
+            <xg lemma="чуввесь">
+                <x orth="1985kuru" pos="Phrase_N">чуввесь пе̄ййв</x>
+                <xtg xml:lang="rus">
+                    <xt>светлый день</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <x orth="1985kuru" pos="Phrase_N">чуввесь чальм</x>
+                <xtg xml:lang="rus">
+                    <xt>ясные глаза</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <x orth="1985kuru" pos="Phrase_N">чуввесь пуадтмушш</x>
+                <xtg xml:lang="rus">
+                    <xt>светлое будущее</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <x orth="1986kert" pos="Phrase_N" type="#">чуввесь та̄ссьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="#">полярная звезда</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <l orth="1986kert" pos="Phrase_N">чӯввесь алльм</l>
+                <x orth="2008sars" pos="Phrase_N">чуввесь а̄лльм</x>
+                <xtg xml:lang="rus">
+                    <t pos="Phrase_N">чистое небо</t>
+                    <t pos="Phrase_N">ясное небо</t>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <x orth="1986kert" pos="Phrase_A">чӯввесь рӯппсэ</x>
+                <xtg xml:lang="rus">
+                    <t pos="A">алый</t>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <x orth="1986kert" pos="Phrase_N">чӯввесь рӯппсэ галстук</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N" type="Phrase_N">алые галстуки</xt>
+                </xtg>
+            </xg>
+            <xg lemma="чуввесь">
+                <x orth="1985kuru" pos="A">чуввесь-алехь</x>
+                <x orth="2008sars" pos="Phrase_A">чӯввесь а̄лехь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="A">голубой</xt>
+                    <xt pos="A">бледно-голубой</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="V">чӯдтэдтэ</l>
+            <orth>
+                <lvar orth="1986kert">чӯдтэдтэ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="V">показаться</t>
+            </tg>
+            <xg lemma="чӯдтэдтэ">
+                <x orth="1986kert" pos="Phrase_V">мыннӭ чӯдтэдэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">мне показалось</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
 </r>

@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <r>
-    <e>
+  <e kur_ID="4840">
+        <lg>
+            <l pos="N">ра̄вв</l>
+            <orth>
+                <lvar orth="1985kuru">ра̄вв</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">ра̄в</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+                <stem_kert gloss="мн">ра̄в</stem_kert>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="N">кулик</t>
+            </tg>
+            <xg lemma="ра̄вв">
+                <x orth="1985kuru" pos="Phrase_N">ра̄в пе̄ссь</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">гнездо кулика</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e>
+        <lg>
+            <l pos="N">ра̄зь-пуччк</l>
+            <orth>
+                <lvar orth="1986kert">ра̄зьпуччк</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Phrase_N">букет цветов</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="N">ро̄ссь</l>
             <orth>
@@ -20,7 +61,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="5160">
+  <e kur_ID="5160">
         <lg>
             <l pos="A">руччкесь</l>
             <orth>
@@ -68,36 +109,82 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="5166" link_sm="1">
+  <e kur_ID="5229">
         <lg>
-            <l pos="ADV">рӯшас</l>
+            <l pos="N">рыннт</l>
             <orth>
-                <lvar orth="1985kuru">рӯшас</lvar>
+                <lvar orth="1985kuru">рыннт</lvar>
             </orth>
-            <der type="SM">рӯшш</der>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">рынт</stem_kuru>
+                <class_kuru class="II" ablaut="_x_" special="_x_"/>
+            </infl>
         </lg>
         <mg km="g">
             <semantics>
                 <stype>xxx</stype>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="Adv">по-русски</t>
+                <t pos="N">берег</t>
             </tg>
-            <xg lemma="рӯшас">
-                <x orth="1985kuru" pos="Phrase_V">ло̄гкэ рӯшас</x>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_N">ме̄рр рыннт</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">читать по-русски</xt>
+                    <xt pos="Phrase_N">морской берег</xt>
                 </xtg>
             </xg>
-            <xg lemma="рӯшас">
-                <x orth="1986kert" pos="Phrase_V">рӯшас са̄ррнэ</x>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_N">ме̄рр рынтэсьт</x>
+                <x orth="1986kert" pos="N">ме̄ррынтэсьт</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">говорить по-русски</xt>
+                    <xt pos="Phrase_Adp">с берега моря</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_S">ёгк выйтэ рынтэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">река вышла из берегов</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_N">коалле рыннт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">скалистый берег</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_V">тӯлльедтэ рыннтэсьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">держаться берега</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_V">выййтэ рыннта</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">сойти на берег</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1985kuru" pos="Phrase_N">рыннт пӣӈӈк</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">береговой ветер</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1986kert">рыннҍтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">на берег</xt>
+                </xtg>
+            </xg>
+            <xg lemma="рыннт">
+                <x orth="1986kert">рыннта</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">на берег</xt>
                 </xtg>
             </xg>
         </mg>
     </e>
-    <e kur_ID="5138">
+  <e kur_ID="5138">
         <lg>
             <l pos="A">рӯппьсесь</l>
             <orth>
@@ -190,119 +277,33 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="4840">
+  <e kur_ID="5166" link_sm="1">
         <lg>
-            <l pos="N">ра̄вв</l>
+            <l pos="ADV">рӯшас</l>
             <orth>
-                <lvar orth="1985kuru">ра̄вв</lvar>
+                <lvar orth="1985kuru">рӯшас</lvar>
             </orth>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">ра̄в</stem_kuru>
-                <class_kuru class="I" ablaut="_x_" special="_x_"/>
-                <stem_kert gloss="мн">ра̄в</stem_kert>
-            </infl>
+            <der type="SM">рӯшш</der>
         </lg>
         <mg km="g">
             <semantics>
                 <stype>xxx</stype>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="N">кулик</t>
+                <t pos="Adv">по-русски</t>
             </tg>
-            <xg lemma="ра̄вв">
-                <x orth="1985kuru" pos="Phrase_N">ра̄в пе̄ссь</x>
+            <xg lemma="рӯшас">
+                <x orth="1985kuru" pos="Phrase_V">ло̄гкэ рӯшас</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">гнездо кулика</xt>
+                    <xt pos="Phrase_V">читать по-русски</xt>
                 </xtg>
             </xg>
-        </mg>
-    </e>
-    <e kur_ID="5229">
-        <lg>
-            <l pos="N">рыннт</l>
-            <orth>
-                <lvar orth="1985kuru">рыннт</lvar>
-            </orth>
-            <infl>
-                <stem_kuru kur_ID="xxx" case="nom" number="pl">рынт</stem_kuru>
-                <class_kuru class="II" ablaut="_x_" special="_x_"/>
-            </infl>
-        </lg>
-        <mg km="g">
-            <semantics>
-                <stype>xxx</stype>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="N">берег</t>
-            </tg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_N">ме̄рр рыннт</x>
+            <xg lemma="рӯшас">
+                <x orth="1986kert" pos="Phrase_V">рӯшас са̄ррнэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">морской берег</xt>
+                    <xt pos="Phrase_V">говорить по-русски</xt>
                 </xtg>
             </xg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_N">ме̄рр рынтэсьт</x>
-                <x orth="1986kert" pos="N">ме̄ррынтэсьт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_Adp">с берега моря</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_S">ёгк выйтэ рынтэсьт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">река вышла из берегов</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_N">коалле рыннт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">скалистый берег</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_V">тӯлльедтэ рыннтэсьт</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">держаться берега</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_V">выййтэ рыннта</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">сойти на берег</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1985kuru" pos="Phrase_N">рыннт пӣӈӈк</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">береговой ветер</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1986kert">рыннҍтэ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_Adp">на берег</xt>
-                </xtg>
-            </xg>
-            <xg lemma="рыннт">
-                <x orth="1986kert">рыннта</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_Adp">на берег</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">ра̄зь-пуччк</l>
-            <orth>
-                <lvar orth="1986kert">ра̄зьпуччк</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_N">букет цветов</t>
-            </tg>
         </mg>
     </e>
 </r>
