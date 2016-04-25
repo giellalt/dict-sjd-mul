@@ -129,7 +129,7 @@ xsltproc --param sortlang 'ru' scripts/sort-dict.xsl sjd2x-т.xml > sjd2x-т-sor
 Kildin Saami alphabet (sort order)
 ==================================
 all possible (small) letters of all known orthography variants are included
-а а̄ ӓ б в г д е е̄ ё ё̄ ж з һ ' и ӣ й ј ҋ к л ӆ м ӎ н ӊ ӈ о о̄ ӧ п р ҏ с т у ӯ ӱ ф x ц ч ш щ ъ ы ы̄ ӹ ь ҍ э ӭ ю ю̄ я я̄
+а а̄ ӓ б в г д е е̄ ё ё̄ ж з һ ' и ӣ й ј ҋ к л ӆ м ӎ н ӊ ӈ о о̄ ӧ п р ҏ с т у ӯ ӱ ф х ц ч ш щ ъ ы ы̄ ӹ ь ҍ э ӭ ю ю̄ я я̄
 
 =====================
 Unicode issues
