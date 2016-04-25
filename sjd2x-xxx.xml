@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-    <e>
-        <lg>
-            <l pos="n" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina2-content">
-                <x pos="NP" orth="2008sars">кыррьтэй я пе̄гкей</x>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="n" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina2-content">
-                <x pos="NP" orth="2008sars">размер я кэск</x>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="n" orth="2008sars">xxx</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina2-content">
-                <x pos="NP" orth="2008sars">пэ̄ҏҏт я е̄ллемсайй</x>
-            </xg>
-        </mg>
-    </e>
+    <xg lemma="я">
+        <x orth="2008sars" pos="Phrase_N">Моа̄йнас, ко̄ххт кӯль чалле я суэллдэ!</x>
+        <xtg xml:lang="rus">
+            <xt pos="Phrase_N"/>
+        </xtg>
+    </xg>
     <e>
         <lg>
             <l pos="xxx" orth="2008sars">xxx</l>

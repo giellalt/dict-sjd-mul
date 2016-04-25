@@ -1128,32 +1128,6 @@
     </e>
     <e>
         <lg>
-            <l pos="S" orth="2008sars">Моа̄йнас, ко̄ххт кӯль чалле я суэллдэ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_camp</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Моа̄йнас, ко̄ххт мӯрэтҍ ра̄дтӭ я те̄ҏҏпэ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_camp</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="S" orth="2008sars">Моа̄йнас, ко̄ххт соа̄ймэтҍ лӯшшьтэ я ко̄ххт кӣххче!</l>
         </lg>
         <mg>
@@ -2103,19 +2077,6 @@
     </e>
     <e>
         <lg>
-            <l pos="S" orth="2008sars">Тӣрьмесь вуэххт пудӭ я то̄лл роасс.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Грозовая туча пришла и огонь сыплет.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="S" orth="2008sars">Уйнэхь эгк то̄нн манҍтэннӭ ноа̄вьтэтҍ?</l>
         </lg>
         <mg>
@@ -2345,19 +2306,6 @@
             </semantics>
             <tg xml:lang="rus">
                 <t pos="rus">погода и времена года</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="VP" orth="2008sars">а̄ррьвдӭ оа̄ссэтҍ я вуайхуввэ оа̄ссэгуэйм</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>3</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
             </tg>
         </mg>
     </e>
