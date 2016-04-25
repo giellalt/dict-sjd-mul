@@ -3,6 +3,34 @@
 <r>
     <e>
         <lg>
+            <l pos="N">грӣбп</l>
+            <orth>
+                <lvar>
+                    <lvar orth="2008sars">грӣбп</lvar>
+                </lvar>
+            </orth>
+            <infl>
+                <stem_sars>---в---</stem_sars>
+            </infl>
+        </lg>
+        <mg>
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>11</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="rus">грип</t>
+            </tg>
+            <xg lemma="">
+                <x orth="2008sars" pos="Phrase_V">грӣбпэнҍ кэ̄бптуввэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">заболеть грипом</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="xxx" orth="1986kert">га̄з</l>
         </lg>
     </e>
@@ -34,10 +62,10 @@
     <e kur_ID="1052">
         <lg>
             <l pos="N">газета</l>
-            <orthography>
+            <orth>
                 <lvar orth="1985kuru">газета</lvar>
                 <lvar orth="1986kert">газета</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
@@ -83,10 +111,10 @@
     <e kur_ID="1058">
         <lg>
             <l pos="N" orth="1985kuru">ге̄ррп</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">ге̄рб</lvar>
                 <lvar orth="1986ker1">герб</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">ге̄рп</stem_kuru>
                 <class_kuru class="II" ablaut="_x_" special="_x_"/>
@@ -141,9 +169,9 @@
     <e kur_ID="1055">
         <lg>
             <l pos="N" orth="1985kuru">геройй</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">герой</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">герой</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -421,9 +449,9 @@
     <e>
         <lg>
             <l pos="ADV" orth="1986kert">го̄рдъэнне</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">го̄рдъенне</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -494,9 +522,9 @@
     <e kur_ID="1066">
         <lg>
             <l pos="N" orth="1985kuru">гоаррь</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гоаррь</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">гоарь</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -567,9 +595,9 @@
     <e kur_ID="1067" link_sm="1">
         <lg>
             <l pos="Po" orth="1985kuru">гоаррэ</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гоаррэ</lvar>
-            </orthography>
+            </orth>
             <der type="SM">гоаррь</der>
         </lg>
         <mg km="g1">
@@ -628,9 +656,9 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">горн</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">го̄рн</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -651,9 +679,9 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">государствэ</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">государство</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -674,10 +702,10 @@
     <e kur_ID="1071">
         <lg>
             <l pos="N" orth="1985kuru">гра̄мэта</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гра̄мота</lvar>
                 <lvar orth="1986ker1">грамота</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
@@ -741,9 +769,9 @@
     <e kur_ID="1070">
         <lg>
             <l pos="N" orth="1985kuru">грамм</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">грамм</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
@@ -761,9 +789,9 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">грамматика</l>
-            <orthography>
+            <orth>
                 <lvar orth="2008sarsina">грамматика</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg term="linguistics">
             <tg xml:lang="rus">
@@ -930,9 +958,9 @@
     <e kur_ID="1072">
         <lg>
             <l pos="N" orth="1985kuru">грӣбп</l>
-            <orthography>
+            <orth>
                 <lvar orth="2008sarsina">грӣбп</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">грӣб</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -1164,9 +1192,9 @@
     <e kur_ID="1090">
         <lg>
             <l pos="ADP" orth="1985kuru">гуэйкэ</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гуэйке</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg km="g1">
             <semantics>
@@ -1225,9 +1253,9 @@
     <e kur_ID="1059">
         <lg>
             <l pos="N" orth="1985kuru">гӣммн</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гимн</lvar>
-            </orthography>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">гӣмн</stem_kuru>
                 <class_kuru class="II" ablaut="_x_" special="_x_"/>
@@ -1265,9 +1293,9 @@
     <e kur_ID="1082">
         <lg>
             <l pos="ADV" orth="1985kuru">гӯ</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гу</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg km="g">
             <semantics>
@@ -1369,11 +1397,11 @@
     <e kur_ID="1089">
         <lg>
             <l pos="Po" orth="1985kuru">гӯрэсьт</l>
-            <orthography>
+            <orth>
                 <lvar orth="1986kert">гӯрэсьт</lvar>
                 <lvar orth="1986ker1">гурэсьт</lvar>
                 <lvar orth="2008sars">гӯрэсьт</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg km="g">
             <semantics>

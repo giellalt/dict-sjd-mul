@@ -15,7 +15,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">туммплэсь</l>
         </lg>
         <mg>
             <xg>
@@ -67,20 +67,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="NP">сыййтсовет депутат</x>
-                <xtg>
-                    <xt>депутат сельского совета</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">тӯллье</l>
         </lg>
         <mg>
             <xg>
@@ -93,7 +80,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">тӯллье</l>
         </lg>
         <mg>
             <xg>
@@ -106,7 +93,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">па̄ррнэсад</l>
         </lg>
         <mg>
             <xg>
@@ -171,7 +158,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">кукесь</l>
         </lg>
         <mg>
             <xg>
@@ -184,7 +171,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">ко̄а̄ллэш</l>
         </lg>
         <mg>
             <xg>
@@ -197,7 +184,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
+            <l pos="xxx" orth="1986kert">е̄рркъя</l>
         </lg>
         <mg>
             <xg>
@@ -218,22 +205,6 @@
             </semantics>
             <tg xml:lang="rus">
                 <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="VP" orth="2008sars">грӣбпэнҍ кэ̄бптуввэ</l>
-            <infl>
-                <stem_sars>---в---</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>11</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">заболеть грипом</t>
             </tg>
         </mg>
     </e>
