@@ -73,7 +73,7 @@
             </tg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="A">ӣннхэм</l>
             <orth>
@@ -86,4 +86,380 @@
             </tg>
         </mg>
     </e>
+        <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">иннъе</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">июль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">июльма̄нн июль</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">июль</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">июльма̄нн</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">июнь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">июньма̄нн июнь</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">июнь</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">июньма̄нн</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">иё̄ллькесь</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">к отцу аджьсан</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx" orth="1986kert">к чуму ко̄ввас луз</l>
+        </lg>
+    </e>
+   <e kur_ID="1329" link_sm="1">
+      <lg>
+         <l pos="V" orth="1985kuru">игкьсассьтэ</l>
+         <infl>
+            <class_kuru class="II" ablaut="1" special="*"/>
+         </infl>
+         <der type="SM">игкьсэ</der>
+      </lg>
+      <mg km="g1">
+         <semantics>
+            <stype>xxx</stype>
+            <tam>nemnogo</tam>
+         </semantics>
+         <tg>
+            <t>поикать</t>
+         </tg>
+      </mg>
+      <mg km="g2">
+         <semantics>
+            <stype>xxx</stype>
+            <tam>odnokr</tam>
+         </semantics>
+         <tg>
+            <t>икнуть</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="1328" link_sm="1">
+      <lg>
+         <l pos="V" orth="1985kuru">игкьсаһтӭ</l>
+         <infl>
+            <class_kuru class="I" ablaut="1" special="*"/>
+         </infl>
+         <der type="SM">игкьсэ</der>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t type="UNPERS">икаться кому</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="xxx">пе̄ййв пайе мун игкьсэдтӭ</x>
+            <xt>мне сегодня целый день икалось</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1330">
+      <lg>
+         <l pos="V" orth="1985kuru">игкьсэ</l>
+         <infl>
+            <class_kuru class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>икать</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="1331" link_sm="1">
+      <lg>
+         <l pos="V" orth="1985kuru">игкьсэннтэ</l>
+         <infl>
+            <class_kuru class="II" ablaut="1" special="*"/>
+         </infl>
+         <der type="SM">игкьсэ</der>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+            <tam>postojanno</tam>
+            <tam>inogda_byvalo</tam>
+         </semantics>
+         <tg>
+            <t>икать</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="1333">
+      <lg>
+         <l pos="A" orth="1985kuru">идеологическэ</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>идеологический</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="N">идеологическэ лыһк</x>
+            <xt>идеологическая работа</xt>
+         </xg>
+         <xg>
+            <x orth="1985kuru" pos="N">идеологическэ туарр</x>
+            <xt>идеологическая борьба</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1346" link_sm="1">
+      <lg>
+         <l pos="V" orth="1985kuru">илче</l>
+         <infl>
+            <class_kuru class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+         <pointers>
+            <compare>ӣлнэ</compare>
+         </pointers>
+         <der type="SM">я̄л</der>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>xxx</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="xxx">кӣзе мӣлльтэ сыйй ӣлченҍ ча̄рэсьт</x>
+            <xt>летом они обычно жили в тундре</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1347">
+      <lg>
+         <l pos="N" orth="1985kuru">иммель</l>
+         <infl>
+            <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            <class_kuru class="V" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>бог</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="N">иммель лоаннҍт</x>
+            <xt>sem_zool оляпка</xt>
+            <xt type="literal">божья птичка</xt>
+            <xt type="explanation">по саамским поверьям эта птичка принесла богу травинку, с которой
+               пошла земля</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1348">
+      <lg>
+         <l pos="N" orth="1985kuru">империализм</l>
+         <infl>
+            <class_kuru class="II" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>империализм</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="1349">
+      <lg>
+         <l pos="A" orth="1985kuru">империалистическэ</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>империалистический</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="N">империалистическэ туарр</x>
+            <xt>империалистическая война</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1351">
+      <lg>
+         <l pos="N" orth="1985kuru">инженерр</l>
+         <infl>
+            <stem_kuru kur_ID="xxx" case="nom" number="pl">инженер</stem_kuru>
+            <class_kuru class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>инженер</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="V">шэ̄ннтэ инженеррэнҍ</x>
+            <xt>стать инженером</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1361">
+      <lg>
+         <l pos="N" orth="1985kuru">интернаһт</l>
+         <infl>
+            <stem_kuru kur_ID="xxx" case="nom" number="pl">интернат</stem_kuru>
+            <class_kuru class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>интернат</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="V">интернатэсьт е̄лле</x>
+            <xt>жить в интернате</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1390">
+      <lg>
+         <l pos="A" orth="1985kuru">историческэ</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>исторический</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="N">историческэ кэ̄сск</x>
+            <xt>исторический период</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1391">
+      <lg>
+         <l pos="N" orth="1985kuru">история</l>
+         <infl>
+            <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
+            <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g1">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>история</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="V">уһцэ история</x>
+            <xt>изучать историю</xt>
+         </xg>
+      </mg>
+      <mg km="g2">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>история</t>
+            <t>происшествие</t>
+         </tg>
+         <xg>
+            <x orth="1985kuru" pos="N">тыгквэннҍ история</x>
+            <xt>интересная история</xt>
+         </xg>
+         <xg>
+            <x orth="1985kuru" pos="xxx" type="idiom">история тэнн баяс эйй са̄рн нимэ̄нн</x>
+            <xt>история об этом умалчивает</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="1396">
+      <lg>
+         <l pos="N" orth="1985kuru">июлль</l>
+         <infl>
+            <stem_kuru kur_ID="xxx" case="nom" number="pl">июль</stem_kuru>
+            <class_kuru class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t gender="m">июль</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="1397">
+      <lg>
+         <l pos="N" orth="1985kuru">июннь</l>
+         <infl>
+            <stem_kuru kur_ID="xxx" case="nom" number="pl">июнь</stem_kuru>
+            <class_kuru class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t gender="m">июнь</t>
+         </tg>
+      </mg>
+   </e>
 </r>
