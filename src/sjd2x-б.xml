@@ -10,48 +10,46 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
         <ref>Work by Giellatekno at UiT – Norges Arktiske Universitet, University of Freiburg, and members of the Kildin Saami language community. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:feedback@divvun.no</a> or <a>mailto:giellatekno@hum.uit.no</a>.
             
             Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote></lics>
-    <e kur_ID="239">
+    <e>
+        <note>check lemma and its lvariants</note>
         <lg>
-            <l pos="N">байна</l>
+            <l pos="Adp" pos_type="post">ба̄ль</l>
             <orth>
-                <lvar orth="1985kuru">ба̄йна</lvar>
-                <lvar orth="1986kert">ба̄йна</lvar>
-                <lvar orth="1986ker1">байна</lvar>
+                <lvar orth="1986kert">ба̄ль</lvar>
+                <lvar orth="1986ker1">бай</lvar>
+                <lvar orth="2008sars">ба̄ль</lvar>
+                <lvar orth="2008sar1">байе</lvar>
+                <lvar orth="2008sar2">байя</lvar>
             </orth>
-            <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
-                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </stem>
         </lg>
         <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
             <tg xml:lang="rus">
-                <t pos="N">баня</t>
+                <t pos="Phrase_Adv">в течение</t>
+                <t pos="Phrase_Adv">во время</t>
+                <te xml:lang="rus">о времени</te>
             </tg>
-            <xg source="1985kuru" lemma="ба̄йна">
-                <x orth="1985kuru" pos="Phrase_V">ба̄йнасьт лоавкнэдтэ</x>
+            <xg lemma="бай">
+                <x orth="1986kert" pos="Phrase_Adv">пе̄ййв бай</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">мыться в бане</xt>
+                    <xt pos="Phrase_Adv">в течение дня</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="ба̄йна">
-                <x orth="1985kuru" pos="Phrase_V">ба̄йнасьт поаррдэдтэ</x>
+            <xg lemma="ба̄ль">
+                <x orth="1986kert" pos="Phrase_Adv">каникулэ ба̄ль</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">париться в бане</xt>
+                    <xt pos="Phrase_Adv">во время каникул</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="ба̄йна">
-                <x orth="1985kuru" pos="Phrase_V">вӯллькэ ба̄йная</x>
+        </mg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="Adv">при</t>
+                <te xml:lang="rus">о пространстве</te>
+            </tg>
+            <xg lemma="бай">
+                <x orth="1986kert" pos="Phrase_Adv">ва̄ррь бай</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">пойти в баню</xt>
-                </xtg>
-            </xg>
-            <xg source="1985kuru" lemma="ба̄йна">
-                <x orth="1985kuru" pos="Phrase_V" pos_type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">задать баню кому-либо</xt>
+                    <xt pos="Phrase_Adv">на весь лес</xt>
                 </xtg>
             </xg>
         </mg>
@@ -82,59 +80,16 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             </tg>
         </mg>
     </e>
-    <e>
-        <note>check lemma and its lvariants</note>
+    <e kur_ID="239">
         <lg>
-            <l pos="Adp" pos_type="post">ба̄ль</l>
+            <l pos="N">ба̄йна</l>
             <orth>
-                <lvar orth="1986kert">ба̄ль</lvar>
-                <lvar orth="1986ker1">бай</lvar>
-                <lvar orth="2008sars">ба̄ль</lvar>
-                <lvar orth="2008sar1">байе</lvar>
-                <lvar orth="2008sar2">байя</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Phrase_Adv">в течение</t>
-                <t pos="Phrase_Adv">во время</t>
-                <te xml:lang="rus">о времени</te>
-            </tg>
-            <xg source="1986kert" lemma="бай">
-                <x orth="1986kert" pos="Phrase_Adv">пе̄ййв бай</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_Adv">в течение дня</xt>
-                </xtg>
-            </xg>
-            <xg source="1986kert" lemma="ба̄ль">
-                <x orth="1986kert" pos="Phrase_Adv">каникулэ ба̄ль</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_Adv">во время каникул</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="Adv">при</t>
-                <te xml:lang="rus">о пространстве</te>
-            </tg>
-            <xg source="1986kert" lemma="бай">
-                <x orth="1986kert" pos="Phrase_Adv">ва̄ррь бай</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_Adv">на весь лес</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="250">
-        <lg>
-            <l pos="N">банка</l>
-            <orth>
-                <lvar orth="1985kuru">ба̄нка</lvar>
-                <lvar orth="2008sars">банка</lvar>
+                <lvar orth="1985kuru">ба̄йна</lvar>
+                <lvar orth="1986kert">ба̄йна</lvar>
+                <lvar orth="1986ker1">байна</lvar>
+                <lvar orth="1991samm">ба̄йна</lvar>
             </orth>
             <stem>
-                <stem_sars>---нк---</stem_sars>
                 <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
@@ -142,69 +97,34 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
         <mg>
             <semantics>
                 <sem class="xxx"/>
-                <sem class="sars-chap-2"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="N">банка</t>
+                <t pos="N">баня</t>
             </tg>
-            <xg source="1985kuru" lemma="ба̄нка">
-                <x orth="1985kuru" pos="Phrase_N">сте̄клэ ба̄нка</x>
+            <xg lemma="ба̄йна">
+                <x orth="1985kuru" pos="Phrase_V">ба̄йнасьт лоавкнэдтэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">стеклянная банка</xt>
+                    <xt pos="Phrase_V">мыться в бане</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="ба̄нка">
-                <x orth="1985kuru" pos="Phrase_V">а̄ввьдэ консерв ба̄нка</x>
+            <xg lemma="ба̄йна">
+                <x orth="1985kuru" pos="Phrase_V">ба̄йнасьт поаррдэдтэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">открыть банку консервов</xt>
+                    <xt pos="Phrase_V">париться в бане</xt>
                 </xtg>
             </xg>
-        </mg>
-        <mg>
-            <semantics>
-                <sem class="health"/>
-            </semantics>
-            <tg xml:lang="rus" term="medicine">
-                <t pos="N" nr="Pl">банки</t>
-            </tg>
-            <xg source="1985kuru" lemma="ба̄нка">
-                <x orth="1985kuru" pos="Phrase_V">пыйе кэ̄блая ба̄нкатҍ</x>
+            <xg lemma="ба̄йна">
+                <x orth="1985kuru" pos="Phrase_V">вӯллькэ ба̄йная</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">поставить больному банки</xt>
+                    <xt pos="Phrase_V">пойти в баню</xt>
                 </xtg>
             </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">*басня</l>
-            <orth>
-                <lvar orth="1986kert">ба̄сня</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="N">басня</t>
-            </tg>
-            <xg source="1986kert" lemma="ба̄сня">
-                <x orth="1986kert" pos="Phrase_N">рӣмьн байяс ба̄сня</x>
+            <xg lemma="ба̄йна">
+                <x orth="1985kuru" pos="Phrase_V" pos_type="idiom">вӯзьхэ ба̄йна ке̄з-не</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">басня про лису</xt>
+                    <xt pos="Phrase_V">задать баню кому-либо</xt>
                 </xtg>
             </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">*башня</l>
-            <orth>
-                <lvar orth="1986kert">ба̄шня</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="N">башня</t>
-            </tg>
         </mg>
     </e>
     <e kur_ID="240">
@@ -212,6 +132,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <l pos="N">бакалл</l>
             <orth>
                 <lvar orth="1985kuru">бакалл</lvar>
+                <lvar orth="1991samm">бакалл</lvar>
             </orth>
             <stem>
                 <stem_kuru case="Nom" nr="Pl">бакал</stem_kuru>
@@ -223,10 +144,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">гриб-трутовик на стволе берёзы</lexicon>
+            <tg xml:lang="sme">
+                <t pos="N">báhkkol</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="N">чага</t>
             </tg>
-            <xg source="1985kuru" lemma="бакалл">
+            <xg lemma="бакалл">
                 <x orth="1985kuru" pos="Phrase_N">пе̄ссь-мӯрр бакал</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">чага на стволе берёзы</xt>
@@ -238,8 +162,8 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">шишка на лбу</lexicon>
-            <xg source="1985kuru" lemma="бакалл">
-                <x pos="S" orth="1985kuru">бакал вуаһца вэллей</x>
+            <xg lemma="бакалл">
+                <x pos="Phrase_S" orth="1985kuru">бакал вуаһца вэллей</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">шишка на лбу вскочила</xt>
                 </xtg>
@@ -300,10 +224,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="Phrase_V">набить кому шишку ___TE на лбу TE___</t>
             </tg>
-            <xg source="1985kuru" lemma="бакаллълуввэ">
-                <x orth="1985kuru" pos="S">мунн ёрре, вуэһць бакаллълувэ</x>
+            <xg lemma="бакаллълуввэ">
+                <x orth="1985kuru" pos="Phrase_S">мунн ёрре, вуэһць бакаллълувэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">я упал и набил шишку на лбу</xt>
+                    <xt pos="Phrase_S">я упал и набил шишку на лбу</xt>
                 </xtg>
             </xg>
         </mg>
@@ -326,10 +250,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="Phrase_V">снять чагу ___TE со ствола берёзы TE___</t>
             </tg>
-            <xg source="1985kuru" lemma="бакалхаһтӭ">
-                <x orth="1985kuru" pos="S">мунн пе̄ссь-мӯр бакалхадта</x>
+            <xg lemma="бакалхаһтӭ">
+                <x orth="1985kuru" pos="Phrase_S">мунн пе̄ссь-мӯр бакалхадта</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">я сниму чагу со ствола берёзы</xt>
+                    <xt pos="Phrase_S">я сниму чагу со ствола берёзы</xt>
                 </xtg>
             </xg>
         </mg>
@@ -368,11 +292,11 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="Phrase_V">избавиться от шишки ___TE на лбу TE___</t>
             </tg>
-            <xg source="1985kuru" lemma="бакалхуввэ">
-                <x orth="1985kuru" pos="S">те̄нҍт бакал вэ̄дз па̄лэнҍ - бакалхувак</x>
+            <xg lemma="бакалхуввэ">
+                <x orth="1985kuru" pos="Phrase_S">те̄нҍт бакал вэ̄дз па̄лэнҍ - бакалхувак</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">приложи к шишке снег - она станет меньше</xt>
-                    <xtl pos="S">приложи к шишке снег - избавишься от неё</xtl>
+                    <xt pos="Phrase_S">приложи к шишке снег - она станет меньше</xt>
+                    <xtl pos="Phrase_S">приложи к шишке снег - избавишься от неё</xtl>
                 </xtg>
             </xg>
         </mg>
@@ -395,17 +319,18 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="V">баловать</t>
                 <valency val="кого"/>
             </tg>
-            <xg source="1985kuru" lemma="балъе">
+            <xg lemma="балъе">
                 <x orth="1985kuru" pos="Phrase_V">парнатҍ балъе</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">баловать детей</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="балъе">
-                <x orth="1985kuru" pos="S" pos_type="idiom">парна бальяк, шӯрран — лӯјкак</x>
+            <xg lemma="балъе">
+                <x orth="1985kuru" pos="Phrase_S" pos_type="idiom">парна бальяк, шӯрран — лӯјкак</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S" pos_type="proverb">маленького балуешь - с большим плачешь</xt>
-                    <xtl pos="S">ребёнка балуешь, с большим – плачешь</xtl>
+                    <xt pos="Phrase_S" pos_type="proverb">маленького балуешь - с большим
+                        плачешь</xt>
+                    <xtl pos="Phrase_S">ребёнка балуешь, с большим – плачешь</xtl>
                 </xtg>
             </xg>
         </mg>
@@ -460,10 +385,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="V">баловаться</t>
             </tg>
-            <xg source="1985kuru" lemma="балъедтлуввэ">
-                <x orth="1985kuru" pos="S">парна вофьсе балъедтлувэ</x>
+            <xg lemma="балъедтлуввэ">
+                <x orth="1985kuru" pos="Phrase_S">парна вофьсе балъедтлувэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">ребёнок совсем избаловался</xt>
+                    <xt pos="Phrase_S">ребёнок совсем избаловался</xt>
                 </xtg>
             </xg>
         </mg>
@@ -488,17 +413,17 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">баловство</t>
             </tg>
-            <xg source="1985kuru" lemma="балъедтмушш">
-                <x orth="1985kuru" pos="S" pos_type="idiom">балъедтмушш пӯрь райя эйй выг</x>
+            <xg lemma="балъедтмушш">
+                <x orth="1985kuru" pos="Phrase_S" pos_type="idiom">балъедтмушш пӯрь райя эйй выг</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">баловство до добра не доводит</xt>
+                    <xt pos="Phrase_S">баловство до добра не доводит</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="балъедтмушш">
-                <x orth="1985kuru" pos="S" pos_type="idiom">ке̄ балъедтмуж эйй то̄ӆӆькэй, тэдт лӣ
-                    мӣлхэмэсь</x>
+            <xg lemma="балъедтмушш">
+                <x orth="1985kuru" pos="Phrase_S" pos_type="idiom">ке̄ балъедтмуж эйй то̄ӆӆькэй,
+                    тэдт лӣ мӣлхэмэсь</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">кто не понимает шуток, тот неумён</xt>
+                    <xt pos="Phrase_S">кто не понимает шуток, тот неумён</xt>
                 </xtg>
             </xg>
         </mg>
@@ -525,22 +450,22 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="V">шалить</t>
                 <t pos="V">проказничать</t>
             </tg>
-            <xg source="1985kuru" lemma="балъедтэ">
-                <x orth="1985kuru" pos="S">балъедтэ эмм анҍт</x>
+            <xg lemma="балъедтэ">
+                <x orth="1985kuru" pos="Phrase_S">балъедтэ эмм анҍт</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">баловаться не позволю</xt>
+                    <xt pos="Phrase_S">баловаться не позволю</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="балъедтэ">
-                <x orth="1985kuru" pos="S">па̄ррнэ тоаййв балъедтэв</x>
+            <xg lemma="балъедтэ">
+                <x orth="1985kuru" pos="Phrase_S">па̄ррнэ тоаййв балъедтэв</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">дети часто шалят</xt>
+                    <xt pos="Phrase_S">дети часто шалят</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="балъедтэ">
-                <x orth="1985kuru" pos="S" pos_type="idiom">ча̄сс балъедтэв</x>
+            <xg lemma="балъедтэ">
+                <x orth="1985kuru" pos="Phrase_S" pos_type="idiom">ча̄сс балъедтэв</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">часы шалят</xt>
+                    <xt pos="Phrase_S">часы шалят</xt>
                 </xtg>
             </xg>
         </mg>
@@ -569,10 +494,66 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="Phrase_V">потворствовать баловству</t>
             </tg>
-            <xg source="1985kuru" lemma="балъяһтӭ">
-                <x orth="1985kuru" pos="S">е̄лле балъяһтӭ па̄ррнэтҍ</x>
+            <xg lemma="балъяһтӭ">
+                <x orth="1985kuru" pos="Phrase_S">е̄лле балъяһтӭ па̄ррнэтҍ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">не потворствуйте баловству детей</xt>
+                    <xt pos="Phrase_S">не потворствуйте баловству детей</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="250">
+        <lg>
+            <l pos="N">ба̄нка</l>
+            <orth>
+                <lvar orth="1985kuru">ба̄нка</lvar>
+                <lvar orth="1991samm">ба̄нка</lvar>
+                <lvar orth="2008sars">банка</lvar>
+            </orth>
+            <stem>
+                <stem_sars>---нк---</stem_sars>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </stem>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+                <sem class="sars-chap-2"/>
+            </semantics>
+            <tg xml:lang="sme">
+                <t pos="N">burke</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="N">stobe</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="N">банка</t>
+            </tg>
+            <xg lemma="ба̄нка">
+                <x orth="1985kuru" pos="Phrase_N">сте̄клэ ба̄нка</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">стеклянная банка</xt>
+                </xtg>
+            </xg>
+            <xg lemma="ба̄нка">
+                <x orth="1985kuru" pos="Phrase_V">а̄ввьдэ консерв ба̄нка</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">открыть банку консервов</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <semantics>
+                <sem class="health"/>
+            </semantics>
+            <tg xml:lang="rus" term="medicine">
+                <t pos="N" nr="Pl">банки</t>
+            </tg>
+            <xg lemma="ба̄нка">
+                <x orth="1985kuru" pos="Phrase_V">пыйе кэ̄блая ба̄нкатҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">поставить больному банки</xt>
                 </xtg>
             </xg>
         </mg>
@@ -583,25 +564,32 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <l pos="Adv">бара</l>
             <orth>
                 <lvar orth="1985kuru">бара</lvar>
+                <lvar orth="1991samm">бара</lvar>
             </orth>
         </lg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">-son</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="xxx">-bat</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="Pcle">же</t>
             </tg>
-            <xg source="1985kuru" lemma="бара">
-                <x pos="S" orth="1985kuru">то̄нн бара касьт лӣйекь?</x>
+            <xg lemma="бара">
+                <x pos="Phrase_S" orth="1985kuru">то̄нн бара касьт лӣйекь?</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">где же ты был?</xt>
+                    <xt pos="Phrase_S">где же ты был?</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бара">
-                <x pos="S" orth="1985kuru">манҍтэ бара со̄нн адтҍ лӣ?</x>
+            <xg lemma="бара">
+                <x pos="Phrase_S" orth="1985kuru">манҍтэ бара со̄нн адтҍ лӣ?</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">какой же он тепёрь?</xt>
+                    <xt pos="Phrase_S">какой же он тепёрь?</xt>
                 </xtg>
             </xg>
         </mg>
@@ -609,22 +597,25 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">várra</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="Pcle">разве</t>
             </tg>
             <tg xml:lang="rus">
                 <t pos="Pcle">ли</t>
             </tg>
-            <xg source="1985kuru" lemma="бара">
-                <x pos="S" orth="1985kuru">мунн бара ва̄льтэтҍ?</x>
+            <xg lemma="бара">
+                <x pos="Phrase_S" orth="1985kuru">мунн бара ва̄льтэтҍ?</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">меня разве возьмут?</xt>
+                    <xt pos="Phrase_S">меня разве возьмут?</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бара">
-                <x pos="S" orth="1985kuru">шӯрр бара лӣ па̄ррьшя, а пэҏтэсьт лӣ ве̄һкь</x>
+            <xg lemma="бара">
+                <x pos="Phrase_S" orth="1985kuru">шӯрр бара лӣ па̄ррьшя, а пэҏтэсьт лӣ ве̄һкь</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">велик ли ребёнок, а всё в доме помощник</xt>
+                    <xt pos="Phrase_S">велик ли ребёнок, а всё в доме помощник</xt>
                 </xtg>
             </xg>
         </mg>
@@ -635,10 +626,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="Adv">зачем</t>
             </tg>
-            <xg source="1985kuru" lemma="бара">
-                <x pos="S" orth="1985kuru">мэ̄нн бара со̄нн тэнн са̄ррн?</x>
+            <xg lemma="бара">
+                <x pos="Phrase_S" orth="1985kuru">мэ̄нн бара со̄нн тэнн са̄ррн?</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">зачем он это говорит?</xt>
+                    <xt pos="Phrase_S">зачем он это говорит?</xt>
                 </xtg>
             </xg>
         </mg>
@@ -655,11 +646,30 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">барабан</t>
             </tg>
-            <xg source="1986kert" lemma="барбанн">
+            <xg lemma="барбанн">
                 <x orth="1986kert" pos="Phrase_V">та̄гкэ барабан</x>
                 <xtg xml:lang="rus">
                     <xt pos="V">барабанить</xt>
                     <xt pos="Phrase_V">бить в барабан</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="N" status="nonce">басня</l>
+            <orth>
+                <lvar orth="1986kert">ба̄сня</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="N">басня</t>
+            </tg>
+            <xg lemma="ба̄сня">
+                <x orth="1986kert" pos="Phrase_N">рӣмьн байяс ба̄сня</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">басня про лису</xt>
                 </xtg>
             </xg>
         </mg>
@@ -684,12 +694,26 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             </tg>
         </mg>
     </e>
+    <e>
+        <lg>
+            <l pos="N" status="nonce">башня</l>
+            <orth>
+                <lvar orth="1986kert">ба̄шня</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="N">башня</t>
+            </tg>
+        </mg>
+    </e>
     <e kur_ID="253">
         <lg>
             <l pos="Adv" pos_type="post">баяс</l>
             <orth>
                 <lvar orth="1985kuru">баяс</lvar>
                 <lvar orth="1986kert">байяс</lvar>
+                <lvar orth="1991samm">баяс</lvar>
                 <lvar orth="2008sars">баяс</lvar>
             </orth>
         </lg>
@@ -697,37 +721,55 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">birra</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="Adp" pos_type="pre" coda="об">о</t>
                 <valency val="ком-чём"/>
             </tg>
-            <xg source="1985kuru" lemma="баяс">
-                <x pos="S" orth="1985kuru">моайнсэгке тэнн баяс!</x>
+            <xg lemma="баяс">
+                <x pos="Phrase_S" orth="1985kuru">моайнсэгке тэнн баяс!</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">расскажите об этом!</xt>
+                    <xt pos="Phrase_S">расскажите об этом!</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="баяс">
-                <x pos="S" orth="1985kuru">пӯдӭ роам соагк вуэјјтэм баяс</x>
+            <xg lemma="баяс">
+                <x pos="Phrase_S" orth="1985kuru">пӯдӭ роам соагк вуэјјтэм баяс</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">пришла радостная весть о победе</xt>
+                    <xt pos="Phrase_S">пришла радостная весть о победе</xt>
+                </xtg>
+            </xg>
+            <xg lemma="баяс">
+                <x pos="Phrase_S" orth="1991samm">мунн сōа̄ррнэ пӯдзэ баяс</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_S">mun human bohccuid birra</xt>
+                </xtg>
+            </xg>
+            <xg lemma="баяс">
+                <x pos="Phrase_S" orth="1991samm">сōнн вōа̄нѣцэ пырр пэҏт</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_S">пырр son vázzá storu birra</xt>
                 </xtg>
             </xg>
         </mg>
         <mg>
+            <tg xml:lang="sme">
+                <t pos="xxx">birra</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="Adv">про</t>
             </tg>
-            <xg source="1986kert" lemma="байяс">
+            <xg lemma="баяс">
                 <x orth="1986kert" pos="Phrase_N">моайнас рӣмьн байяс</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">сказка про лису</xt>
                 </xtg>
             </xg>
-            <xg source="2008sarsina1-adposition">
-                <x pos="T" orth="2008sars">Tэдта ли пэ̄̄ҏҏт. Мунн моа̄йнса пэ̄̄ҏт баяс.</x>
+            <xg lemma="xxx">
+                <x pos="Phrase_T" orth="2008sars">Tэдта ли пэ̄̄ҏҏт. Мунн моа̄йнса пэ̄̄ҏт баяс.</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">Это дом. Я рассказываю про дом.</xt>
+                    <xt pos="Phrase_S">Это дом. Я рассказываю про дом.</xt>
                 </xtg>
             </xg>
         </mg>
@@ -830,7 +872,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">борьба</t>
             </tg>
-            <xg source="1986kert" lemma="бе̄ййдэдтмушш">
+            <xg lemma="бе̄ййдэдтмушш">
                 <x orth="1986kert" pos="Phrase_N">бе̄ййдэдтмушш мыр гуэйке</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">борьба за мир</xt>
@@ -857,10 +899,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="V">добиваться</t>
                 <valency val="чего"/>
             </tg>
-            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
-                <x pos="S" orth="1985kuru">мыйй кугкь бе̄ййдэдэмь тэнн уййнлэдтмуж баяс</x>
+            <xg lemma="бе̄ййдэдтэ">
+                <x pos="Phrase_S" orth="1985kuru">мыйй кугкь бе̄ййдэдэмь тэнн уййнлэдтмуж баяс</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">мы долго добивались этой встречи</xt>
+                    <xt pos="Phrase_S">мы долго добивались этой встречи</xt>
                 </xtg>
             </xg>
         </mg>
@@ -872,13 +914,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="V" sem-cl="figurative">биться</t>
                 <valency val="над_чем"/>
             </tg>
-            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
+            <xg lemma="бе̄ййдэдтэ">
                 <x orth="1985kuru" pos="Phrase_V">ло̄ссесь задача альн бе̄ййдэдтэ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">биться над решением трудной задачи</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
+            <xg lemma="бе̄ййдэдтэ">
                 <x orth="1985kuru" pos="Phrase_V" pos_type="idiom">ле̄ййп куськ гуэйкэ
                     бе̄ййдэдтэ</x>
                 <xtg xml:lang="rus">
@@ -891,7 +933,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="V">бороться</t>
             </tg>
-            <xg source="1985kuru" lemma="бе̄ййдэдтэ">
+            <xg lemma="бе̄ййдэдтэ">
                 <x orth="1986kert" pos="Phrase_V">бе̄ййдэдтэ мыр гузйке</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">бороться за мир</xt>
@@ -951,6 +993,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <l pos="N">библиотека</l>
             <orth>
                 <lvar orth="1985kuru">библиотека</lvar>
+                <lvar orth="1991samm">библиотека</lvar>
             </orth>
             <stem>
                 <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
@@ -961,34 +1004,37 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">girjerádju</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="N">библиотека</t>
             </tg>
-            <xg source="1985kuru" lemma="библиотека">
+            <xg lemma="библиотека">
                 <x orth="1985kuru" pos="Phrase_N">ланнҍ библиотека</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">городская библиотека</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="библиотека">
+            <xg lemma="библиотека">
                 <x orth="1985kuru" pos="Phrase_N">па̄ррнэ гуэйкэ библиотека</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">детская библиотека</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="библиотека">
+            <xg lemma="библиотека">
                 <x orth="1985kuru" pos="Phrase_N">уһцэй библиотека</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">библиотека учителя</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="библиотека">
+            <xg lemma="библиотека">
                 <x orth="1985kuru" pos="Phrase_N">библиотека кнӣга</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">библиотечная книга</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="библиотека">
+            <xg lemma="библиотека">
                 <x orth="1985kuru" pos="Phrase_N">библиотекасьт лыһкэй</x>
                 <xtg xml:lang="rus">
                     <xt pos="N">библиотекарь</xt>
@@ -1002,6 +1048,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <orth>
                 <lvar orth="1985kuru">билеһт</lvar>
                 <lvar orth="1986kert">билет</lvar>
+                <lvar orth="1991samm">билеʼт</lvar>
             </orth>
             <stem>
                 <stem_kuru case="Nom" nr="Pl">билет</stem_kuru>
@@ -1012,34 +1059,37 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">bileahtta</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="N">билет</t>
             </tg>
-            <xg source="1985kuru" lemma="билеһт">
+            <xg lemma="билеһт">
                 <x orth="1985kuru" pos="Phrase_N">ёадтӭм билеһт</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">проездной билет</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="билеһт">
+            <xg lemma="билеһт">
                 <x orth="1985kuru" pos="Phrase_N">о̄һпнуввэй билеһт</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">ученический билет</xt>
                 </xtg>
             </xg>
-            <xg source="1986kert" lemma="билет">
+            <xg lemma="билет">
                 <x orth="1986kert" pos="Cmp_N">кинобилет</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">билет в кино</xt>
                 </xtg>
             </xg>
-            <xg source="1986kert" lemma="билет">
+            <xg lemma="билет">
                 <x orth="1986kert" pos="Phrase_N">профсоюзнэ билет</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">профсоюзный билет</xt>
                 </xtg>
             </xg>
-            <xg source="1986kert" lemma="билет">
+            <xg lemma="билет">
                 <x orth="1986kert" pos="Phrase_N">билет Ленинград райя</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">билет до Ленинграда</xt>
@@ -1086,10 +1136,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="Phrase_V">обзавестись билетом</t>
                 <t pos="Phrase_V">приобрести билет</t>
             </tg>
-            <xg source="1985kuru" lemma="билеһтлуввэ">
-                <x orth="1985kuru" pos="S">билеһтлуввэ бэдт тампханна</x>
+            <xg lemma="билеһтлуввэ">
+                <x orth="1985kuru" pos="Phrase_S">билеһтлуввэ бэдт тампханна</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">билеты нужно приобрести заблаговременно</xt>
+                    <xt pos="Phrase_S">билеты нужно приобрести заблаговременно</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1173,13 +1223,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="A">боевой</t>
             </tg>
-            <xg source="1986kert" lemma="бо̄йесь">
+            <xg lemma="бо̄йесь">
                 <x orth="1986kert" pos="Phrase_N">бо̄йесъ тоаврэж</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">боевой товарищ</xt>
                 </xtg>
             </xg>
-            <xg source="1986kert" lemma="бо̄йесь">
+            <xg lemma="бо̄йесь">
                 <x pos="Phrase_N" orth="1986kert">бо̄йесь ка̄ннҍц</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">боевой друг</xt>
@@ -1206,6 +1256,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <l pos="N">боаран</l>
             <orth>
                 <lvar orth="1985kuru">боаран</lvar>
+                <lvar orth="1991samm">боаран</lvar>
                 <lvar orth="2008sars">боаран</lvar>
             </orth>
             <stem>
@@ -1219,22 +1270,25 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
                 <sem class="sars-chap-8"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">vierca</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="N">баран</t>
             </tg>
-            <xg source="1985kuru" lemma="боаран">
+            <xg lemma="боаран">
                 <x orth="1985kuru" pos="Phrase_N">боаран чуэз</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N" sem-cl="literal-figurative">стадо баранов</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="боаран">
-                <x pos="S" orth="1985kuru">ёадтёв гӯ боаран чуэз</x>
+            <xg lemma="боаран">
+                <x pos="Phrase_S" orth="1985kuru">ёадтёв гӯ боаран чуэз</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">[они] идут как стадо баранов</xt>
+                    <xt pos="Phrase_S">[они] идут как стадо баранов</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="боаран">
+            <xg lemma="боаран">
                 <x orth="1985kuru" pos="Phrase_V" pos_type="idiom">со̄ййлаһтӭ боаран чуэррьвэнҍ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">согнуть кого в бараний рог</xt>
@@ -1299,7 +1353,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="N" nr="Pl">ботинки</t>
                 <t pos="N" gen="m" nr="Sg">ботинок</t>
             </tg>
-            <xg source="1985kuru" lemma="ботинка">
+            <xg lemma="ботинка">
                 <x orth="1985kuru" pos="Phrase_V">вуэссьтэ о̄дт ботинкатҍ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">купить новые ботинки</xt>
@@ -1325,6 +1379,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <l pos="N">бре̄ввьн</l>
             <orth>
                 <lvar orth="1985kuru">бре̄ввьн</lvar>
+                <lvar orth="1991samm">брēввьн</lvar>
             </orth>
             <stem>
                 <stem_kuru case="Nom" nr="Pl">бре̄вьн</stem_kuru>
@@ -1335,10 +1390,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">hirsa</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="N">бревно</t>
             </tg>
-            <xg source="1985kuru" lemma="бре̄ввьн">
+            <xg lemma="бре̄ввьн">
                 <x orth="1985kuru" pos="Phrase_V">пыллэ брӣвьнэтҍ лӯввьтэнҍ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">распилить брёвна на доски</xt>
@@ -1365,13 +1423,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">бригада</t>
             </tg>
-            <xg source="1985kuru" lemma="бригада">
+            <xg lemma="бригада">
                 <x orth="1985kuru" pos="Phrase_N">кӯлль шыллей бригада</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">рыболовецкая бригада</xt>
                 </xtg>
             </xg>
-            <xg source="1986kert" lemma="бригада">
+            <xg lemma="бригада">
                 <x pos="Phrase_N" orth="1986kert">коммунистическэ лыгк бригада</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">бригада коммунистического труда</xt>
@@ -1397,7 +1455,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">бригадир</t>
             </tg>
-            <xg source="1985kuru" lemma="бригадирр">
+            <xg lemma="бригадирр">
                 <x orth="1985kuru" pos="Phrase_V">бригадиррэнҍ лыһкэ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">работать бригадиром</xt>
@@ -1407,7 +1465,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="280">
         <lg>
-            <l pos="N">*брошка</l>
+            <l pos="N" status="nonce">брошка</l>
             <orth>
                 <lvar orth="1985kuru">бро̄шка</lvar>
             </orth>
@@ -1426,10 +1484,75 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N" gen="f">брошь</t>
             </tg>
-            <xg source="1985kuru" lemma="бро̄шка">
+            <xg lemma="бро̄шка">
                 <x orth="1985kuru" pos="Phrase_V">бро̄шка соалпсэ коаввлсэ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">приколоть брошь к воротнику</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="281">
+        <lg>
+            <l pos="N">бӯква</l>
+            <orth>
+                <lvar orth="1985kuru">бӯква</lvar>
+                <lvar orth="1986kert">буква</lvar>
+                <lvar orth="1991samm">бӯква</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </stem>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">bustávva</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="N">буква</t>
+            </tg>
+            <xg lemma="бӯква">
+                <x orth="1985kuru" pos="Phrase_V">кырьйхэ шӯрр бӯкванҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">писать с большой буквы</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бӯква">
+                <x orth="1985kuru" pos="Phrase_N">шӯрр бӯква</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">прописная буква</xt>
+                    <xt pos="Phrase_N">заглавная буква</xt>
+                    <xtl pos="Phrase_N">большая буква</xtl>
+                </xtg>
+            </xg>
+            <xg lemma="бӯква">
+                <x orth="1985kuru" pos="Phrase_N">удць бӯква</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">строчная буква</xt>
+                    <xtl pos="Phrase_N">маленькая буква</xtl>
+                </xtg>
+            </xg>
+            <xg lemma="бӯква">
+                <x orth="1985kuru" pos="Phrase_N">бӯкватҍ уһцэм кэ̄сск</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">букварный период (в школе)</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бӯква">
+                <x orth="1986kert" pos="Phrase_N">гла̄снэ буква</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">гласная буква</xt>
+                </xtg>
+            </xg>
+            <xg lemma="буква">
+                <x orth="1986kert" pos="Phrase_N">шӯрр буква</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">прописная буква</xt>
+                    <xtl pos="Phrase_N">большая буква</xtl>
                 </xtg>
             </xg>
         </mg>
@@ -1440,6 +1563,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <orth>
                 <lvar orth="1985kuru">букваррь</lvar>
                 <lvar orth="1986kert">букварь</lvar>
+                <lvar orth="1991samm">букваррь</lvar>
             </orth>
             <stem>
                 <stem_kuru case="Nom" nr="Pl">букварь</stem_kuru>
@@ -1450,22 +1574,25 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="xxx">áppesgirji</t>
+            </tg>
             <tg xml:lang="rus">
                 <t pos="N" gen="m">букварь</t>
             </tg>
-            <xg source="1985kuru" lemma="букваррь">
+            <xg lemma="букваррь">
                 <x orth="1985kuru" pos="Phrase_N">са̄мь букваррь</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">саамский букварь</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="букваррь">
+            <xg lemma="букваррь">
                 <x orth="1985kuru" pos="Phrase_N">рӯшш букваррь</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">русский букварь</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="букваррь">
+            <xg lemma="букваррь">
                 <x orth="1985kuru" pos="Phrase_V">букварь мӣлльтэ ло̄гкэ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">читать по букварю</xt>
@@ -1475,7 +1602,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e>
         <lg>
-            <l pos="N">*букет</l>
+            <l pos="N" status="nonce">букет</l>
             <orth>
                 <lvar orth="1986kert">букет</lvar>
             </orth>
@@ -1488,7 +1615,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e>
         <lg>
-            <l pos="N">*булка</l>
+            <l pos="N" status="nonce">булка</l>
             <orth>
                 <lvar orth="1986kert">булка</lvar>
             </orth>
@@ -1501,7 +1628,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="283">
         <lg>
-            <l pos="N">*буржуазия</l>
+            <l pos="N" status="nonce">буржуазия</l>
             <orth>
                 <lvar orth="1985kuru">буржуазия</lvar>
             </orth>
@@ -1535,9 +1662,105 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             </tg>
         </mg>
     </e>
+    <e kur_ID="285">
+        <lg>
+            <l pos="N" status="nonce">бурка</l>
+            <orth>
+                <lvar orth="1985kuru">бӯрка</lvar>
+            </orth>
+            <stem>
+                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+            </stem>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <lexicon xml:lang="rus">до колен, женские или детские, шьются из койб
+                ___LOOKUPкоаммасLOOKUP___; украшаются по швам цветным сукном, передняя часть
+                украшается койбами контрастного цвета с орнаментом, напр. головы оленя с
+                рогами</lexicon>
+            <tg xml:lang="rus">
+                <t pos="N" nr="Pl">бурки</t>
+            </tg>
+            <xg lemma="бӯрка">
+                <x orth="1985kuru" pos="Phrase_V">куаррэ о̄дт бӯркатҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">сшить новые бурки</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="286">
+        <lg>
+            <l pos="V">буркалаһтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">бӯркалаһтӭ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+            </stem>
+            <der type="SM">бурка</der>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="Phrase_V">обеспечить кого бурками</t>
+            </tg>
+            <xg lemma="бӯркалаһтӭ">
+                <x orth="1985kuru" pos="Phrase_S">куэссь ӣджь куарак, танна пӣррас вуайй
+                    бӯркалаһтӭ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">когда сам шьёшь, можно всю семью бурками обеспечить</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="287">
+        <lg>
+            <l pos="V">буркалуввэ</l>
+            <orth>
+                <lvar orth="1985kuru">бӯркалуввэ</lvar>
+            </orth>
+            <stem>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+            </stem>
+            <der type="SM">бурка</der>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="Phrase_V">обзавестись бурками</t>
+            </tg>
+            <xg lemma="бӯркалуввэ">
+                <x orth="1985kuru" pos="Phrase_S">мунн бӯркалувве</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">у меня появились бурки</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
-            <l pos="N" nr="Pl">*бусь</l>
+            <l pos="A">бурэ</l>
+            <orth>
+                <lvar orth="1986kert">бӯрэ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="A">бурый</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="N" nr="Pl" status="nonce">бусь</l>
             <orth>
                 <lvar orth="1986kert">бусь</lvar>
             </orth>
@@ -1561,6 +1784,41 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             </tg>
         </mg>
     </e>
+    <e>
+        <lg>
+            <l pos="V">быдт</l>
+            <orth>
+                <lvar orth="1991samm"/>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t pos="xxx">fertet</t>
+            </tg>
+            <xg lemma="xxx">
+                <x orth="1991samm" pos="Phrase_V">mun ferten</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_V">мыннӭ быдт</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx">быдтэ</l>
+            <orth>
+                <lvar orth="1991samm">быдтэ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t pos="xxx">várra</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="xxx">dego</t>
+            </tg>
+        </mg>
+    </e>
     <e kur_ID="xxx">
         <lg>
             <l pos="V" person="3">бэдаһч</l>
@@ -1575,24 +1833,24 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="S">надо бы</t>
+                <t pos="Phrase_S">надо бы</t>
             </tg>
-            <xg source="1985kuru" lemma="бэдаһч">
-                <x pos="S" orth="1985kuru">бэдаһч куаррэ</x>
+            <xg lemma="бэдаһч">
+                <x pos="Phrase_S" orth="1985kuru">бэдаһч куаррэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">надо бы шить</xt>
+                    <xt pos="Phrase_S">надо бы шить</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бэдаһч">
-                <x pos="S" orth="1985kuru">бэдтӭ ля̄йй</x>
+            <xg lemma="бэдаһч">
+                <x pos="Phrase_S" orth="1985kuru">бэдтӭ ля̄йй</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">надо было</xt>
+                    <xt pos="Phrase_S">надо было</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бэдаһч">
-                <x pos="S" orth="1985kuru">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
+            <xg lemma="бэдаһч">
+                <x pos="Phrase_S" orth="1985kuru">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">нужно было вместе ехать</xt>
+                    <xt pos="Phrase_S">нужно было вместе ехать</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1605,10 +1863,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="Phrase_V">нужно</t>
                 <t pos="Phrase_V">следует иметь</t>
             </tg>
-            <xg source="1985kuru" lemma="бэдаһч">
-                <x pos="S" orth="1985kuru">заводтӭ бэдт лыһкъетҍ</x>
+            <xg lemma="бэдаһч">
+                <x pos="Phrase_S" orth="1985kuru">заводтӭ бэдт лыһкъетҍ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">заводу требуются рабочие</xt>
+                    <xt pos="Phrase_S">заводу требуются рабочие</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1633,28 +1891,28 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="Phrase_V">следует</t>
                 <t pos="Phrase_V">надо</t>
             </tg>
-            <xg source="1985kuru" lemma="бэдт">
-                <x pos="S" orth="1985kuru">бэдт це̄ӆӆькэ со̄бэр баяс</x>
+            <xg lemma="бэдт">
+                <x pos="Phrase_S" orth="1985kuru">бэдт це̄ӆӆькэ со̄бэр баяс</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">нужно сказать о собрании</xt>
+                    <xt pos="Phrase_S">нужно сказать о собрании</xt>
                 </xtg>
             </xg>
-            <xg source="1986kert" lemma="быдт">
+            <xg lemma="быдт">
                 <x orth="1986kert" pos="Phrase_V">быдт мушшьтэ</x>
                 <xtg xml:lang="rus">
                     <xt pos="xxx"/>
                 </xtg>
             </xg>
-            <xg source="2008sarsina1-tense">
-                <x pos="S" orth="2008sars">Соннӭ быдт пуэдтӭ кыджемь ча̄сэсьт.</x>
+            <xg lemma="xxx">
+                <x pos="Phrase_S" orth="2008sars">Соннӭ быдт пуэдтӭ кыджемь ча̄сэсьт.</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">Ему надо прийти в седьмом часу.</xt>
+                    <xt pos="Phrase_S">Ему надо прийти в седьмом часу.</xt>
                 </xtg>
             </xg>
-            <xg source="2008sarsina1-tense">
-                <x pos="S" orth="2008sars">Соннӭ быдтӭ ляй пуэдтӭ кыджемь ча̄сэсьт.</x>
+            <xg lemma="xxx">
+                <x pos="Phrase_S" orth="2008sars">Соннӭ быдтӭ ляй пуэдтӭ кыджемь ча̄сэсьт.</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">Ему надо было прийти в седьмом часу.</xt>
+                    <xt pos="Phrase_S">Ему надо было прийти в седьмом часу.</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1690,16 +1948,16 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="Pcle">разве</t>
             </tg>
-            <xg source="1985kuru" lemma="бэдтэ">
-                <x pos="S" orth="1985kuru">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
+            <xg lemma="бэдтэ">
+                <x pos="Phrase_S" orth="1985kuru">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">неужели вы не понимаете?</xt>
+                    <xt pos="Phrase_S">неужели вы не понимаете?</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бэдтэ">
-                <x pos="S" orth="1985kuru">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
+            <xg lemma="бэдтэ">
+                <x pos="Phrase_S" orth="1985kuru">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">разве вы к нам придёте?</xt>
+                    <xt pos="Phrase_S">разве вы к нам придёте?</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1711,10 +1969,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="Adv">как</t>
                 <t pos="Adv">словно</t>
             </tg>
-            <xg source="1985kuru" lemma="бэдтэ">
-                <x pos="S" orth="1985kuru">бэдтэ е̄лльмэнҍ кя̄һч</x>
+            <xg lemma="бэдтэ">
+                <x pos="Phrase_S" orth="1985kuru">бэдтэ е̄лльмэнҍ кя̄һч</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">[он] смотрит, как живой</xt>
+                    <xt pos="Phrase_S">[он] смотрит, как живой</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1725,10 +1983,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="CS">что</t>
             </tg>
-            <xg source="1985kuru" lemma="бэдтэ">
-                <x pos="S" orth="1985kuru">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
+            <xg lemma="бэдтэ">
+                <x pos="Phrase_S" orth="1985kuru">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">[он] уверяет, что сам слышал об этом</xt>
+                    <xt pos="Phrase_S">[он] уверяет, что сам слышал об этом</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1770,10 +2028,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="Phrase_V">стать необходимым</t>
                 <valency val="кому"/>
             </tg>
-            <xg source="1985kuru" lemma="бэдҍсуввэ">
-                <x orth="1985kuru" pos="S">мыннӭ бэдҍсувв то̄н ве̄һкьвудт</x>
+            <xg lemma="бэдҍсуввэ">
+                <x orth="1985kuru" pos="Phrase_S">мыннӭ бэдҍсувв то̄н ве̄һкьвудт</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">мне потребуется твоя помощь</xt>
+                    <xt pos="Phrase_S">мне потребуется твоя помощь</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1782,16 +2040,16 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">прийтись кому что-л. сделать</lexicon>
-            <xg source="1985kuru" lemma="бэдҍсуввэ">
-                <x orth="1985kuru" pos="S">соннӭ бэдҍсувв уййтэ</x>
+            <xg lemma="бэдҍсуввэ">
+                <x orth="1985kuru" pos="Phrase_S">соннӭ бэдҍсувв уййтэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">ему придётся уйти</xt>
+                    <xt pos="Phrase_S">ему придётся уйти</xt>
                 </xtg>
             </xg>
-            <xg source="1985kuru" lemma="бэдҍсуввэ">
-                <x orth="1985kuru" pos="S">мыйе бэдҍсувэ кугкь ва̄ннҍцэ</x>
+            <xg lemma="бэдҍсуввэ">
+                <x orth="1985kuru" pos="Phrase_S">мыйе бэдҍсувэ кугкь ва̄ннҍцэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">нам пришлось долго идти</xt>
+                    <xt pos="Phrase_S">нам пришлось долго идти</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1816,12 +2074,25 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="V">понадобиться</t>
                 <valency val="кому"/>
             </tg>
-            <xg source="1985kuru" lemma="бэдҍсэ">
-                <x orth="1985kuru" pos="S">мыннӭ бэдӓст тэдта кнӣга</x>
+            <xg lemma="бэдҍсэ">
+                <x orth="1985kuru" pos="Phrase_S">мыннӭ бэдӓст тэдта кнӣга</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">мне потребуется эта книга</xt>
+                    <xt pos="Phrase_S">мне потребуется эта книга</xt>
                 </xtg>
             </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="xxx">бэта</l>
+            <orth>
+                <lvar orth="1991samm">бэта</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t pos="xxx">mahká</t>
+            </tg>
         </mg>
     </e>
     <e kur_ID="292">
@@ -1839,7 +2110,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="A">пятнистый</t>
                 <t pos="A">пёстрый</t>
             </tg>
-            <xg source="1985kuru" lemma="бяган">
+            <xg lemma="бяган">
                 <x orth="1985kuru" pos="Phrase_N">бяган а̄ллт</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N">пёстрая важенка</xt>
@@ -1865,7 +2136,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">бинт</t>
             </tg>
-            <xg source="1985kuru" lemma="бӣннт">
+            <xg lemma="бӣннт">
                 <x orth="1985kuru" pos="Phrase_V">кӣссэ ра̄ӊҍ бӣнтэнҍ</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">наложить бинт на рану</xt>
@@ -1915,10 +2186,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
-            <xg source="1985kuru" lemma="бӣннтъе">
-                <x orth="1985kuru" pos="S">ра̄ӊӊҍ бӣннтэй</x>
+            <xg lemma="бӣннтъе">
+                <x orth="1985kuru" pos="Phrase_S">ра̄ӊӊҍ бӣннтэй</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">рана забинтована</xt>
+                    <xt pos="Phrase_S">рана забинтована</xt>
                 </xtg>
             </xg>
         </mg>
@@ -1962,7 +2233,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <t pos="V" impf="забинтовать">бинтовать</t>
                 <valency val="кого-что"/>
             </tg>
-            <xg source="1985kuru" lemma="бӣннтэ">
+            <xg lemma="бӣннтэ">
                 <x orth="1985kuru" pos="Phrase_V">бӣннтэ кӣд</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_V">забинтовать руку</xt>
@@ -2010,168 +2281,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="xxx"/>
             </tg>
-            <xg source="1985kuru" lemma="бӣнтхэ">
-                <x orth="1985kuru" pos="S">бэдт кэ̄бласьт кӣд бӣнтхэ</x>
+            <xg lemma="бӣнтхэ">
+                <x orth="1985kuru" pos="Phrase_S">бэдт кэ̄бласьт кӣд бӣнтхэ</x>
                 <xtg xml:lang="rus">
-                    <xt pos="S">надо забинтовать больному руку</xt>
+                    <xt pos="Phrase_S">надо забинтовать больному руку</xt>
                 </xtg>
             </xg>
-        </mg>
-    </e>
-    <e kur_ID="281">
-        <lg>
-            <l pos="N">*буква</l>
-            <orth>
-                <lvar orth="1985kuru">бӯква</lvar>
-                <lvar orth="1986kert">буква</lvar>
-            </orth>
-            <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
-                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </stem>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="N">буква</t>
-            </tg>
-            <xg source="1985kuru" lemma="бӯква">
-                <x orth="1985kuru" pos="Phrase_V">кырьйхэ шӯрр бӯкванҍ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">писать с большой буквы</xt>
-                </xtg>
-            </xg>
-            <xg source="1985kuru" lemma="бӯква">
-                <x orth="1985kuru" pos="Phrase_N">шӯрр бӯква</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">прописная буква</xt>
-                    <xt pos="Phrase_N">заглавная буква</xt>
-                    <xtl pos="Phrase_N">большая буква</xtl>
-                </xtg>
-            </xg>
-            <xg source="1985kuru" lemma="бӯква">
-                <x orth="1985kuru" pos="Phrase_N">удць бӯква</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">строчная буква</xt>
-                    <xtl pos="Phrase_N">маленькая буква</xtl>
-                </xtg>
-            </xg>
-            <xg source="1985kuru" lemma="бӯква">
-                <x orth="1985kuru" pos="Phrase_N">бӯкватҍ уһцэм кэ̄сск</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">букварный период (в школе)</xt>
-                </xtg>
-            </xg>
-            <xg source="1985kuru" lemma="бӯква">
-                <x orth="1986kert" pos="Phrase_N">гла̄снэ буква</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">гласная буква</xt>
-                </xtg>
-            </xg>
-            <xg source="1986kert" lemma="буква">
-                <x orth="1986kert" pos="Phrase_N">шӯрр буква</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_N">прописная буква</xt>
-                    <xtl pos="Phrase_N">большая буква</xtl>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="285">
-        <lg>
-            <l pos="N">*бурка</l>
-            <orth>
-                <lvar orth="1985kuru">бӯрка</lvar>
-            </orth>
-            <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
-                <class_kuru class="IV" ablaut="_x_" special="_x_"/>
-            </stem>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <lexicon xml:lang="rus">до колен, женские или детские, шьются из койб
-                ___LOOKUPкоаммасLOOKUP___; украшаются по швам цветным сукном, передняя часть
-                украшается койбами контрастного цвета с орнаментом, напр. головы оленя с
-                рогами</lexicon>
-            <tg xml:lang="rus">
-                <t pos="N" nr="Pl">бурки</t>
-            </tg>
-            <xg source="1985kuru" lemma="бӯрка">
-                <x orth="1985kuru" pos="Phrase_V">куаррэ о̄дт бӯркатҍ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">сшить новые бурки</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="286">
-        <lg>
-            <l pos="V">буркалаһтӭ</l>
-            <orth>
-                <lvar orth="1985kuru">бӯркалаһтӭ</lvar>
-            </orth>
-            <stem>
-                <class_kuru class="I" ablaut="1" special="ASTERISK"/>
-            </stem>
-            <der type="SM">бурка</der>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">обеспечить кого бурками</t>
-            </tg>
-            <xg source="1985kuru" lemma="бӯркалаһтӭ">
-                <x orth="1985kuru" pos="S">куэссь ӣджь куарак, танна пӣррас вуайй бӯркалаһтӭ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">когда сам шьёшь, можно всю семью бурками обеспечить</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="287">
-        <lg>
-            <l pos="V">буркалуввэ</l>
-            <orth>
-                <lvar orth="1985kuru">бӯркалуввэ</lvar>
-            </orth>
-            <stem>
-                <class_kuru class="I" ablaut="_x_" special="_x_"/>
-            </stem>
-            <der type="SM">бурка</der>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">обзавестись бурками</t>
-            </tg>
-            <xg source="1985kuru" lemma="бӯркалуввэ">
-                <x orth="1985kuru" pos="S">мунн бӯркалувве</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">у меня появились бурки</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="A">бурэ</l>
-            <orth>
-                <lvar orth="1986kert">бӯрэ</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="A">бурый</t>
-            </tg>
         </mg>
     </e>
 </r>
