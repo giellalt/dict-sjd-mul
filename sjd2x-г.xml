@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e source="1991samm">
+        <lg>
+            <l>гудэль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dego</t>
+            </tg>
+        </mg>
+    </e>
+    <e source="1991samm">
+        <lg>
+            <l>гӯ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dego</t>
+            </tg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="N">грӣбп</l>
