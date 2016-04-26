@@ -3,7 +3,6 @@ Current tasks
 =============
 
 after meeting with Cip 2016-04-25 (topic "sort order")
--->remove non-ASCI letters from file names
 -->remove underscore in entries
 -->think about sort order of non-letters, ! , - 1 2 space etc.
 
