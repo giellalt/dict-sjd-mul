@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e>
+    <e>
         <lg>
             <l pos="N">карепь-рӯммт</l>
             <orth>
@@ -14,7 +14,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="1737" link_sm="1">
+    <e kur_ID="1737" link_sm="1">
         <lg>
             <l pos="A:PRED">коамма</l>
             <orth>
@@ -37,7 +37,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="1737" link_sm="1">
+    <e kur_ID="1737" link_sm="1">
         <lg>
             <l pos="Adv">коамма</l>
             <orth>
@@ -66,7 +66,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="1799">
+    <e kur_ID="1799">
         <lg>
             <l pos="V">коашштэдтэ</l>
             <orth>
@@ -118,7 +118,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="2164">
+    <e kur_ID="2164">
         <lg>
             <l pos="N">куэфс</l>
             <orth>
@@ -174,7 +174,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">куһкэшк</l>
             <orth>
@@ -194,7 +194,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="1608">
+    <e kur_ID="1608">
         <lg>
             <l pos="N">кӣдт</l>
             <orth>
@@ -270,7 +270,7 @@
             </tg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="V">кӣркхэллэ</l>
             <orth>
@@ -283,7 +283,7 @@
             </tg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">кӯййк-ка̄ссв</l>
             <orth>
@@ -296,7 +296,7 @@
             </tg>
         </mg>
     </e>
-  <e meta="01">
+    <e meta="01">
         <lg source="NEA">
             <l pos="Phrase_N">ня̄лльм-сыһкэм пымме</l>
         </lg>
