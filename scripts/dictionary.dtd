@@ -34,7 +34,7 @@
 <!ATTLIST l 
       pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | V | 
                     Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
-                    S |
+                    Phrase_S |
                     Der_N |
                     Cmp_N |
                     Mwe |
@@ -47,6 +47,7 @@
       nr        ( Sg | Pl ) #IMPLIED
       person    (3) #IMPLIED
       val ( IV | TV ) #IMPLIED
+      status    (nonce) #IMPLIED
 >      
 <!-- I need to check what attributes are really useful here
 attr ( ok | no ) #IMPLIED
@@ -73,7 +74,7 @@ attr ( ok | no ) #IMPLIED
 <!ELEMENT orth (lvar+) >
 <!ELEMENT lvar (#PCDATA) >
 <!ATTLIST lvar
-    orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars | 2008sar1 | 2008sar2 ) #REQUIRED       
+    orth ( 1985kuru | 1986kert | 1986ker1 | 1991samm | 2008sars | 2008sar1 | 2008sar2 ) #REQUIRED       
     >
 
 <!-- the stem group; several values in the fields in this group are inherited from digitalized data -->
@@ -129,7 +130,7 @@ attr ( ok | no ) #IMPLIED
 
 <!ELEMENT tg (t+, re?, te?, valency?) >
 <!ATTLIST tg 
-      xml:lang ( eng | rus ) #REQUIRED
+      xml:lang ( eng | rus | sme ) #REQUIRED
       term (medicine) #IMPLIED
 >
 
@@ -137,7 +138,7 @@ attr ( ok | no ) #IMPLIED
 <!ATTLIST t
     pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
                   Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
-                  S | T |
+                  Phrase_S | Phrase_T |
                   Der_N |
                   Cmp_N |
                   Mwe |
@@ -166,15 +167,14 @@ attr ( ok | no ) #IMPLIED
 
 <!ELEMENT xg ((x, xtg+)+) >
 <!ATTLIST xg
-    source (1985kuru | 1986kert | 2008sars | 2008sarsina1-adposition | 2008sarsina1-tense) #REQUIRED
-    lemma  CDATA #IMPLIED
+    lemma  CDATA #REQUIRED
     >
     
 <!ELEMENT x (#PCDATA)>
 <!ATTLIST x
       pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
                     Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
-                    S | T |
+                    Phrase_S | Phrase_T |
                     Der_N |
                     Cmp_N |
                     Mwe |
@@ -182,19 +182,19 @@ attr ( ok | no ) #IMPLIED
                     xxx
                 ) #REQUIRED
     pos_type ( idiom ) #IMPLIED
-    orth ( 1985kuru | 1986kert | 1986ker1 | 2008sars) #REQUIRED
+    orth ( 1985kuru | 1986kert | 1986ker1 | 1991samm | 2008sars) #REQUIRED
 >
 
 <!ELEMENT xtg (xt+, xtl?) >
 <!ATTLIST xtg
-    xml:lang ( eng| rus ) #REQUIRED
+    xml:lang ( eng| rus | sme ) #REQUIRED
  >
  
 <!ELEMENT xt (#PCDATA)>
 <!ATTLIST xt 
       pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
                     Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
-                    S | T |
+                    Phrase_S | Phrase_T |
                     Der_N |
                     Cmp_N |
                     Mwe |
@@ -209,7 +209,7 @@ attr ( ok | no ) #IMPLIED
 <!ATTLIST xtl 
     pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | Prop | V | 
                     Phrase_A | Phrase_Adv | Phrase_N | Phrase_V |
-                    S | T |
+                    Phrase_S | Phrase_T |
                     Der_N |
                     Cmp_N |
                     Mwe |
