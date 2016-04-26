@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<r>
+    <e meta="01" source="NEA">
+        <lg>
+            <l pos="N">машына</l>
+        </lg>
+        <mg>
+            <xg lemma="">
+                <l pos="Phrase_N">ка̄рeтҍ-пэ̄ссем машына</l>
+                <xtg xml:lang="deu">
+                    <t pos="N">Geschirrspühlmaschine</t>
+                </xtg>
+            </xg>
+            <хg lemma="машына">
+                <x orth="2008sars" pos="Phrase_T">То̄нэсьт ли машина? Манҍтэ машина то̄нэсьт ли?</x>
+                <tg xml:lang="rus">
+                    <t pos="rus"/>
+                </tg>
+            </хg>
+        </mg>
+    </e>
+    <e kur_ID="7789">
+        <lg>
+            <l pos="CC">я</l>
+            <orth>
+                <lvar orth="1985kuru">я</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="CC">и</t>
+            </tg>
+            <xg lemma="я">
+                <x orth="1985kuru" pos="Phrase_N">мунн я то̄нн</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">я и ты</xt>
+                </xtg>
+            </xg>
+            <xg lemma="я">
+                <x orth="1985kuru" pos="Phrase_N">ке̄ссь я кыдт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N">зима и лето</xt>
+                </xtg>
+            </xg>
+            <xg lemma="я">
+                <x orth="2008sars" pos="Phrase_N">кыррьтэй я пе̄гкей</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N"/>
+                </xtg>
+            </xg>
+            <xg lemma="я">
+                <x orth="2008sars" pos="Phrase_N">размер я кэск</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N"/>
+                </xtg>
+            </xg>
+            <xg lemma="я">
+                <x orth="2008sars" pos="Phrase_N">пэ̄ҏҏт я е̄ллемсайй</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_N"/>
+                </xtg>
+            </xg>
+            <xg lemma="я">
+                <x orth="2008sars" pos="Phrase_S">Тӣрьмесь вуэххт пудӭ я то̄лл роасс.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Грозовая туча пришла и огонь сыплет.</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_V">а̄ррьвдӭ оа̄ссэтҍ я вуайхуввэ оа̄ссэгуэйм</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Грозовая туча пришла и огонь сыплет.</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+</r>
