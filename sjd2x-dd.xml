@@ -495,6 +495,10 @@
     <e kur_ID="1106">
         <lg>
             <l pos="N" orth="1985kuru">дэбэнҍ</l>
+            <orth>
+                <lvar orth="1985kuru">дэбэнҍ</lvar>
+                <lvar orth="1991samm">дэбэнҍ</lvar>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
@@ -504,7 +508,10 @@
             <semantics>
                 <stype>xxx</stype>
             </semantics>
-            <tg>
+            <tg xml:lang="sme">
+                <t>opmu</t>
+            </tg>
+            <tg xml:lang="rus">
                 <t gender="f">топь</t>
                 <t>трясина</t>
             </tg>
