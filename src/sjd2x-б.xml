@@ -741,13 +741,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 </xtg>
             </xg>
             <xg lemma="баяс">
-                <x pos="Phrase_S" orth="1991samm">мунн сōа̄ррнэ пӯдзэ баяс</x>
+                <x pos="Phrase_S" orth="1991samm">мунн со̄а̄ррнэ пӯдзэ баяс</x>
                 <xtg xml:lang="sme">
                     <xt pos="Phrase_S">mun human bohccuid birra</xt>
                 </xtg>
             </xg>
             <xg lemma="баяс">
-                <x pos="Phrase_S" orth="1991samm">сōнн вōа̄нѣцэ пырр пэҏт</x>
+                <x pos="Phrase_S" orth="1991samm">со̄нн во̄а̄нѣцэ пырр пэҏт</x>
                 <xtg xml:lang="sme">
                     <xt pos="Phrase_S">пырр son vázzá storu birra</xt>
                 </xtg>
@@ -1379,7 +1379,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <l pos="N">бре̄ввьн</l>
             <orth>
                 <lvar orth="1985kuru">бре̄ввьн</lvar>
-                <lvar orth="1991samm">брēввьн</lvar>
+                <lvar orth="1991samm">бре̄ввьн</lvar>
             </orth>
             <stem>
                 <stem_kuru case="Nom" nr="Pl">бре̄вьн</stem_kuru>
