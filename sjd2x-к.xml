@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-    <e>
+    <e source="1991samm">
+        <lg>
+            <l>ко̄ххт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dego</t>
+            </tg>
+        </mg>
+    </e>    <e>
         <lg>
             <l pos="N">карепь-рӯммт</l>
             <orth>
