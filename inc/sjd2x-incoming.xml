@@ -52982,25 +52982,6 @@
     </e>
     <e>
         <lg>
-            <l pos="pcle" orth="2008sars">хэс</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-particle">
-                <x pos="S" orth="2008sars">Tо̄̄нн хэс пугк те̄дах.</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">Зато ты все знаешь.</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-particle">
-                <x pos="S" orth="2008sars">Ко̄̄з хэс то̄̄нн вӯ̄ллькэкь?</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">Куда же ты пошел?</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">хя̄брхэсс</l>
         </lg>
         <mg>
