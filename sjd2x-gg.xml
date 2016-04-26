@@ -1,60 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-    <e source="1991samm">
-        <lg>
-            <l>гудэль</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>dego</t>
-            </tg>
-        </mg>
-    </e>
-    <e source="1991samm">
-        <lg>
-            <l>гӯ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>dego</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="N">грӣбп</l>
-            <orth>
-                <lvar>
-                    <lvar orth="2008sars">грӣбп</lvar>
-                </lvar>
-            </orth>
-            <infl>
-                <stem_sars>---в---</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <stype>xxx</stype>
-                <sarsina-chapter>11</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">грип</t>
-            </tg>
-            <xg lemma="">
-                <x orth="2008sars" pos="Phrase_V">грӣбпэнҍ кэ̄бптуввэ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_V">заболеть грипом</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">га̄з</l>
         </lg>
     </e>
-    <e kur_ID="1053">
+  <e kur_ID="1053">
         <lg>
             <l pos="N" orth="1985kuru">га̄лстэгк</l>
             <infl>
@@ -79,7 +31,27 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1052">
+  <e>
+        <lg source="1991samm">
+            <l>газета</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>aviisa</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg source="1991samm">
+            <l>газета</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>áviisa</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1052">
         <lg>
             <l pos="N">газета</l>
             <orth>
@@ -128,7 +100,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1058">
+  <e>
+        <lg source="1991samm">
+            <l>ге̄ррп</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vearjogovva</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1058">
         <lg>
             <l pos="N" orth="1985kuru">ге̄ррп</l>
             <orth>
@@ -169,7 +151,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1054">
+  <e>
+        <lg source="1991samm">
+            <l>гектарр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hektára</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1054">
         <lg>
             <l pos="N" orth="1985kuru">гектарр</l>
             <infl>
@@ -186,7 +178,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1055">
+  <e kur_ID="1055">
         <lg>
             <l pos="N" orth="1985kuru">геройй</l>
             <orth>
@@ -214,7 +206,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1056" link_sm="1">
+  <e kur_ID="1056" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">героййлуввэ</l>
             <infl>
@@ -231,7 +223,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1057" link_sm="1">
+  <e kur_ID="1057" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">героййлувнэ</l>
             <infl>
@@ -250,7 +242,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1060">
+  <e kur_ID="1060">
         <lg>
             <l pos="V" orth="1985kuru">гла̄дҍе</l>
             <infl>
@@ -271,7 +263,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1061" link_sm="1">
+  <e kur_ID="1061" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гла̄дҍедтэ</l>
             <infl>
@@ -292,7 +284,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1062" link_sm="1">
+  <e kur_ID="1062" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гла̄дҍюввэ</l>
             <infl>
@@ -320,7 +312,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1063" link_sm="1">
+  <e kur_ID="1063" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гла̄дҍяссьтэ</l>
             <infl>
@@ -342,7 +334,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">гла̄снэ</l>
         </lg>
@@ -352,7 +344,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">главнэ</l>
         </lg>
@@ -374,7 +366,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">глагол</l>
         </lg>
@@ -393,7 +385,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="A">глухэ</l>
             <orth>
@@ -407,12 +399,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">глухэ</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="ADV">го</l>
             <orth>
@@ -431,7 +423,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1069">
+  <e>
+        <lg source="1991samm">
+            <l>го̄а̄нҍц, gácci - го̄а̄нҍцэ, gázzái - го̄а̄нҍцэтҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gázzi</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1069">
         <lg>
             <l pos="N" orth="1985kuru">го̄лехь</l>
             <infl>
@@ -453,7 +455,17 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
+        <lg source="1991samm">
+            <l>го̄лехь, ва̄сст</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luvdá</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">го̄ннэ</l>
             <infl>
@@ -466,7 +478,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="ADV" orth="1986kert">го̄рдъэнне</l>
             <orth>
@@ -479,7 +491,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">го̄тӭ|годтӭ</l>
         </lg>
@@ -489,7 +501,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1064">
+  <e kur_ID="1064">
         <lg>
             <l pos="N" orth="1985kuru">гоанҍц</l>
         </lg>
@@ -517,7 +529,27 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1065" link_sm="1">
+  <e>
+        <lg source="1991samm">
+            <l>гоарренҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dáfus</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
+        <lg source="1991samm">
+            <l>гоарренҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>guovllus</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1065" link_sm="1">
         <lg>
             <l pos="Po" orth="1985kuru">гоарренҍ</l>
             <der type="SM">гоаррь</der>
@@ -539,7 +571,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1066">
+  <e>
+        <lg source="1991samm">
+            <l>гоаррь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>guovlu</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1066">
         <lg>
             <l pos="N" orth="1985kuru">гоаррь</l>
             <orth>
@@ -592,7 +634,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гоаррэ</l>
         </lg>
@@ -602,7 +644,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="Pr" orth="1986kert">гоаррэ</l>
         </lg>
@@ -612,7 +654,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1067" link_sm="1">
+  <e kur_ID="1067" link_sm="1">
         <lg>
             <l pos="Po" orth="1985kuru">гоаррэ</l>
             <orth>
@@ -655,7 +697,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1068">
+  <e>
+        <lg source="1991samm">
+            <l>гоаррэ, луз, lusan, lusat, lusas - лузан, лузант, лузэсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lusa</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1068">
         <lg>
             <l pos="N" orth="1985kuru">годтҍ</l>
         </lg>
@@ -673,7 +725,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">горн</l>
             <orth>
@@ -686,7 +738,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">горнист</l>
         </lg>
@@ -696,7 +748,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">государствэ</l>
             <orth>
@@ -709,17 +761,17 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">государствэннэ</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">гра̄мотнэ</l>
         </lg>
     </e>
-    <e kur_ID="1071">
+  <e kur_ID="1071">
         <lg>
             <l pos="N" orth="1985kuru">гра̄мэта</l>
             <orth>
@@ -754,7 +806,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">граждан</l>
         </lg>
@@ -770,7 +822,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="N">гражданн</l>
             <orth>
@@ -786,7 +838,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1070">
+  <e kur_ID="1070">
         <lg>
             <l pos="N" orth="1985kuru">грамм</l>
             <orth>
@@ -806,7 +858,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">грамматика</l>
             <orth>
@@ -819,12 +871,12 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">граница</l>
         </lg>
     </e>
-    <e kur_ID="1075" link_sm="1">
+  <e kur_ID="1075" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гроабнэ</l>
             <infl>
@@ -843,7 +895,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1076" link_sm="1">
+  <e kur_ID="1076" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гроабплэ</l>
             <infl>
@@ -861,7 +913,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1077" link_sm="1">
+  <e kur_ID="1077" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">гроабпмушш</l>
             <infl>
@@ -880,7 +932,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1078">
+  <e kur_ID="1078">
         <lg>
             <l pos="V" orth="1985kuru">гроабпэ</l>
             <infl>
@@ -896,7 +948,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1079" link_sm="1">
+  <e kur_ID="1079" link_sm="1">
         <lg>
             <l pos="N" orth="1985kuru">гроабпэй</l>
             <infl>
@@ -914,7 +966,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1080" link_sm="1">
+  <e kur_ID="1080" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гроабсэ</l>
             <infl>
@@ -934,7 +986,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1081" link_sm="1">
+  <e kur_ID="1081" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гроабче</l>
             <infl>
@@ -954,7 +1006,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="A">грузовэ</l>
             <orth>
@@ -970,12 +1022,40 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">гря̄дка</l>
         </lg>
     </e>
-    <e kur_ID="1072">
+  <e>
+        <lg>
+            <l pos="N">грӣбп</l>
+            <orth>
+                <lvar>
+                    <lvar orth="2008sars">грӣбп</lvar>
+                </lvar>
+            </orth>
+            <infl>
+                <stem_sars>---в---</stem_sars>
+            </infl>
+        </lg>
+        <mg>
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>11</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="rus">грип</t>
+            </tg>
+            <xg lemma="">
+                <x orth="2008sars" pos="Phrase_V">грӣбпэнҍ кэ̄бптуввэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">заболеть грипом</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+  <e kur_ID="1072">
         <lg>
             <l pos="N" orth="1985kuru">грӣбп</l>
             <orth>
@@ -1005,7 +1085,17 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1073" link_sm="1">
+  <e>
+        <lg source="1991samm">
+            <l>грӣбп (= -пп-)</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>influensa</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1073" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">грӣбплаһтӭ</l>
             <infl>
@@ -1026,7 +1116,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1074" link_sm="1">
+  <e kur_ID="1074" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">грӣбплуввэ</l>
             <infl>
@@ -1047,12 +1137,12 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">грӯз</l>
         </lg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гу</l>
         </lg>
@@ -1062,7 +1152,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1083" link_sm="1">
+  <e kur_ID="1083" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гуднэ</l>
             <infl>
@@ -1081,7 +1171,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1084" link_sm="1">
+  <e kur_ID="1084" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гудсэ</l>
             <infl>
@@ -1099,7 +1189,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1085" link_sm="1">
+  <e kur_ID="1085" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гудтлэ</l>
             <infl>
@@ -1117,7 +1207,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1086">
+  <e kur_ID="1086">
         <lg>
             <l pos="V" orth="1985kuru">гудтэ</l>
             <infl>
@@ -1137,7 +1227,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1087" link_sm="1">
+  <e kur_ID="1087" link_sm="1">
         <lg>
             <l pos="V" orth="1985kuru">гудче</l>
             <infl>
@@ -1157,7 +1247,17 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e source="1991samm">
+        <lg>
+            <l>гудэль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dego</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гудэль</l>
         </lg>
@@ -1167,7 +1267,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1088">
+  <e kur_ID="1088">
         <lg>
             <l pos="ADV" orth="1985kuru">гудэль</l>
         </lg>
@@ -1189,7 +1289,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="1986kert">гульедтэ</l>
         </lg>
@@ -1199,7 +1299,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гуэйке</l>
         </lg>
@@ -1209,7 +1309,17 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1090">
+  <e>
+        <lg source="1991samm">
+            <l>гуэйкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>várás</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1090">
         <lg>
             <l pos="ADP" orth="1985kuru">гуэйкэ</l>
             <orth>
@@ -1270,7 +1380,7 @@
             </xg>
         </mg>
     </e>
-    <e kur_ID="1059">
+  <e kur_ID="1059">
         <lg>
             <l pos="N" orth="1985kuru">гӣммн</l>
             <orth>
@@ -1300,7 +1410,17 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e source="1991samm">
+        <lg>
+            <l>гӯ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dego</t>
+            </tg>
+        </mg>
+    </e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гӯ</l>
         </lg>
@@ -1310,7 +1430,7 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1082">
+  <e kur_ID="1082">
         <lg>
             <l pos="ADV" orth="1985kuru">гӯ</l>
             <orth>
@@ -1348,7 +1468,7 @@
             </xg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sarsina">гӯлл</l>
         </lg>
@@ -1362,7 +1482,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гӯрре</l>
         </lg>
@@ -1372,7 +1492,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="Po" orth="1986kert">гӯрре</l>
         </lg>
@@ -1383,7 +1503,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гӯрренҍ</l>
         </lg>
@@ -1393,7 +1513,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="Po" orth="1986kert">гӯрренҍ</l>
         </lg>
@@ -1404,7 +1524,7 @@
             </tg>
         </mg>
     </e>
-    <e>
+  <e>
         <lg>
             <l pos="xxx" orth="2008sars">гӯрренҍ|гоарренҍ</l>
         </lg>
@@ -1414,7 +1534,17 @@
             </tg>
         </mg>
     </e>
-    <e kur_ID="1089">
+  <e>
+        <lg source="1991samm">
+            <l>гӯрэсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>guoras</t>
+            </tg>
+        </mg>
+    </e>
+  <e kur_ID="1089">
         <lg>
             <l pos="Po" orth="1985kuru">гӯрэсьт</l>
             <orth>
@@ -1456,6 +1586,16 @@
                     <xt pos="Phrase_Adp">у дерева</xt>
                 </xtg>
             </xg>
+        </mg>
+    </e>
+  <e>
+        <lg source="1991samm">
+            <l>гӯрэсьт, луннҍ, Iuhtán, luhtát, Iuhtis - лунан, лунант, лунӭсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luhtte</t>
+            </tg>
         </mg>
     </e>
 </r>
