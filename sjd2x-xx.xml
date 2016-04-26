@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e kur_ID="6733">
+        <lg>
+            <l pos="ADV">хэс</l>
+            <orth>
+                <lvar orth="1985kuru">хэс</lvar>
+                <lvar orth="1991samm">хэс</lvar>
+                <lvar orth="2008sars">хэс</lvar>
+            </orth>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t>зато</t>
+            </tg>
+            <xg lemma="хэс">
+                <x orth="1985kuru" pos="Phrase_S">то̄нн хэс пугк те̄дак</x>
+                <xt pos="Phrase_S">зато ты все знаешь</xt>
+            </xg>
+            <xg lemma="хэс">
+                <x orth="1985kuru" pos="Phrase_S">мунн уйта - со̄нн хэс пуадт</x>
+                <xt pos="Phrase_S">я уйду, зато он придёт</xt>
+            </xg>
+            <xg lemma="хэс">
+                <x orth="2008sars" pos="Phrase_S">Tо̄̄нн хэс пугк те̄дах.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Зато ты все знаешь.</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="sme">
+                <t>-bat</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t>же</t>
+            </tg>
+            <xg lemma="хэс">
+                <x orth="1985kuru" pos="Phrase_S">ко̄з хэс то̄нн вӯллкэкь?</x>
+                <x orth="2008sars" pos="Phrase_S">Ко̄̄з хэс то̄̄нн вӯ̄ллькэкь?</x>
+                <xt pos="Phrase_S">куда же ты пошёл?</xt>
+            </xg>
+        </mg>
+    </e>
+</r>
