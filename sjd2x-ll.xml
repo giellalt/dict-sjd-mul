@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e>
+    <e>
+        <lg source="1991samm">
+            <l>луз</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lusa</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>лузан</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lusan</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>лузант</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lusat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>лузэсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lusas</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
         <lg>
             <l pos="N">ла̄ммьп-мӯррьй</l>
             <orth>
@@ -14,7 +54,7 @@
             </tg>
         </mg>
     </e>
-  <e meta="01">
+    <e meta="01">
         <lg source="NEA">
             <l pos="Cc">лубэ</l>
             <orth>
@@ -35,7 +75,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="2760-1">
+    <e kur_ID="2760-1">
         <lg>
             <l pos="ADP">луннҍ</l>
             <orth>
@@ -74,7 +114,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">лыгк-герой</l>
             <orth>
@@ -87,7 +127,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="2963">
+    <e kur_ID="2963">
         <lg>
             <l pos="N">ля̄ммт</l>
             <orth>
@@ -145,7 +185,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="2563">
+    <e kur_ID="2563">
         <lg>
             <l pos="N">лӣвлас</l>
             <orth>
@@ -177,7 +217,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="2570">
+    <e kur_ID="2570">
         <lg>
             <l pos="V">лӣйе</l>
             <orth>
