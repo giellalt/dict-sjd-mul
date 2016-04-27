@@ -29,7 +29,7 @@
 
 <!--  the lemma group; "mg+" = means ≥1 meanings in the entry -->
 <!-- for more potential types, see the GT dtd  -->
-<!ELEMENT lg (l, orth*, stem*, compare*, der*) >
+<!ELEMENT lg (l, orth, stem*, pointer*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
       pos       (   A | Adp | Adv | CC | CS | Det | Interj | N | Num | Pcle | Pron | V | 
@@ -44,7 +44,7 @@
       pos_type  (   ad | post | pre | 
                     rel | pers | indef | refl | 
                     Prop ) #IMPLIED
-      nr        ( Sg | Pl ) #IMPLIED
+      number        ( Sg | Pl ) #IMPLIED
       person    (3) #IMPLIED
       val ( IV | TV ) #IMPLIED
       status    (nonce) #IMPLIED
@@ -74,7 +74,7 @@ attr ( ok | no ) #IMPLIED
 <!ELEMENT orth (lvar+) >
 <!ELEMENT lvar (#PCDATA) >
 <!ATTLIST lvar
-    orth ( 1985kuru | 1986kert | 1986ker1 | 1991samm | 2008sars | 2008sar1 | 2008sar2 ) #REQUIRED       
+    orth ( 1985kuru | 1986kert | 1986ker1 | 1991samm | 2008sars | 2008sar1 | 2008sar2 | 2014anto ) #REQUIRED       
     >
 
 <!-- the stem group; several values in the fields in this group are inherited from digitalized data -->
@@ -82,16 +82,12 @@ attr ( ok | no ) #IMPLIED
 <!ATTLIST stem 
       class ( bisyllabic | trisyllabic | contracted ) #IMPLIED
 -->
-<!ELEMENT stem (stem_sars*, stem_kert*, stem_kuru*, class_kuru*) >
-<!ELEMENT stem_sars (#PCDATA) >
-<!ELEMENT stem_kert (#PCDATA) >
-<!ATTLIST stem_kert
-    nr (Pl) #IMPLIED
-    >
+<!ELEMENT stem (stem_kuru*, class_kuru*, stem_samm*, stem_sars*, stem_kert*, stem_anto*) >
+
 <!ELEMENT stem_kuru (#PCDATA) >
 <!ATTLIST stem_kuru
     case (Nom) #IMPLIED
-    nr (Pl) #IMPLIED
+    number (Pl) #IMPLIED
     >
 <!ELEMENT class_kuru EMPTY >
 <!ATTLIST class_kuru
@@ -100,13 +96,28 @@ attr ( ok | no ) #IMPLIED
     special (_x_ | ASTERISK) #IMPLIED
     >
     
-<!ELEMENT der (#PCDATA) >
-<!ATTLIST der
-    type (SM | STRAD_K | PONUD_K) #IMPLIED
+<!ELEMENT stem_kert (#PCDATA) >
+<!ATTLIST stem_kert
+    number (Pl) #IMPLIED
     >
 
-<!ELEMENT compare (#PCDATA) >
+<!ELEMENT stem_anto (#PCDATA) >
+<!ATTLIST stem_anto
+    number (Pl) #IMPLIED
+    >
 
+<!ELEMENT stem_samm (#PCDATA) >
+<!ELEMENT stem_sars (#PCDATA) >
+
+<!--pointers to other lemmas, e.g. main forms (of sub-variants), roots (of derivations), etc.--> 
+<!ELEMENT pointer (compare*, prefer*, root*) >
+<!ELEMENT compare (#PCDATA) >
+<!ELEMENT prefer (#PCDATA) >
+<!ELEMENT root (#PCDATA) >
+<!ATTLIST root
+    type ( STRAD_K | PONUD_K ) #IMPLIED
+    >
+    
 <!ELEMENT mg (semantics?, sources?, (lexicon?|tg+)+, xg*) >
 
 <!ELEMENT semantics (sem+, tam*) >
@@ -146,7 +157,7 @@ attr ( ok | no ) #IMPLIED
                   xxx
                 ) #REQUIRED
     pos_type (  ad | post | pre ) #IMPLIED
-    nr ( Sg | Pl ) #IMPLIED  
+    number ( Sg | Pl ) #IMPLIED  
     gen ( m | f | n | xxx ) #IMPLIED
     coda CDATA #IMPLIED
     sem-cl ( figurative | literal-figurative | UNPERS) #IMPLIED
@@ -155,7 +166,6 @@ attr ( ok | no ) #IMPLIED
 >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: botanics, physics, ... -->
-<!ATTLIST re xml:lang ( rus ) #REQUIRED >
 
 <!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
 <!ATTLIST te xml:lang ( rus ) #REQUIRED >

@@ -25,10 +25,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
         <mg>
             <tg xml:lang="rus">
                 <t pos="Phrase_Adv">в течение</t>
-                <t pos="Phrase_Adv">во время</t>
                 <te xml:lang="rus">о времени</te>
             </tg>
-            <xg lemma="бай">
+            <tg xml:lang="rus">
+                <t pos="Phrase_Adv">во время</t>
+            </tg>
+            <xg lemma="ба̄ль">
                 <x orth="1986kert" pos="Phrase_Adv">пе̄ййв бай</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_Adv">в течение дня</xt>
@@ -55,13 +57,16 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
         </mg>
     </e>
     <e>
+        <note>check normative spelling</note>
         <lg>
-            <l pos="N">ба̄ҋҋк</l>
+            <l pos="N">ба̄ҋк</l>
             <orth>
                 <lvar orth="1986kert">ба̄йхьк</lvar>
+                <lvar orth="2014anto">ба̄йхьк</lvar>
             </orth>
             <stem>
-                <stem_kert nr="Pl">ба̄йк</stem_kert>
+                <stem_kert number="Pl">ба̄йк</stem_kert>
+                <stem_anto number="Pl">ба̄йкь</stem_anto>
             </stem>
         </lg>
         <mg>
@@ -73,8 +78,6 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <tg xml:lang="rus">
                 <t pos="N">сказка</t>
             </tg>
-        </mg>
-        <mg>
             <tg xml:lang="rus">
                 <t pos="N">басня</t>
             </tg>
@@ -90,7 +93,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">ба̄йна</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -135,7 +138,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">бакалл</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">бакал</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">бакал</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -179,23 +182,21 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="1" special="ASTERISK"/>
             </stem>
-            <der type="SM">бакалл</der>
+            <pointer>
+                <root>бакалл</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">обеспечить кого чагой</t>
-            </tg>
+            <lexicon xml:lang="rus">обеспечить кого чагой</lexicon>
         </mg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">набить кому шишку ___TE на лбу TE___</t>
-            </tg>
+            <lexicon xml:lang="rus">набить кому шишку на лбу</lexicon>
         </mg>
     </e>
     <e kur_ID="242">
@@ -207,23 +208,21 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бакалл</der>
+            <pointer>
+                <root>бакалл</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">обеспечиться чагой</t>
-            </tg>
+            <lexicon xml:lang="rus">обеспечиться чагой</lexicon>
         </mg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">набить кому шишку ___TE на лбу TE___</t>
-            </tg>
+            <lexicon xml:lang="rus">набить кому шишку на лбу</lexicon>
             <xg lemma="бакаллълуввэ">
                 <x orth="1985kuru" pos="Phrase_S">мунн ёрре, вуэһць бакаллълувэ</x>
                 <xtg xml:lang="rus">
@@ -241,15 +240,15 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="1" special="ASTERISK"/>
             </stem>
-            <der type="SM">бакалл</der>
+            <pointer>
+                <root>бакалл</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">снять чагу ___TE со ствола берёзы TE___</t>
-            </tg>
+            <lexicon xml:lang="rus">снять чагу со ствола берёзы</lexicon>
             <xg lemma="бакалхаһтӭ">
                 <x orth="1985kuru" pos="Phrase_S">мунн пе̄ссь-мӯр бакалхадта</x>
                 <xtg xml:lang="rus">
@@ -261,9 +260,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">вылечить шишку ___TE на лбу TE___</t>
-            </tg>
+            <lexicon xml:lang="rus">вылечить шишку на лбу</lexicon>
         </mg>
     </e>
     <e kur_ID="244">
@@ -275,7 +272,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бакалл</der>
+            <pointer>
+                <root>бакалл</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -289,14 +288,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <semantics>
                 <sem class="xxx"/>
             </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">избавиться от шишки ___TE на лбу TE___</t>
-            </tg>
+            <lexicon xml:lang="rus">избавиться от шишки на лбу</lexicon>
             <xg lemma="бакалхуввэ">
-                <x orth="1985kuru" pos="Phrase_S">те̄нҍт бакал вэ̄дз па̄лэнҍ - бакалхувак</x>
+                <x orth="1985kuru" pos="Phrase_S">те̄нҍт бакал вэ̄дз па̄лэнҍ – бакалхувак</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">приложи к шишке снег - она станет меньше</xt>
-                    <xtl pos="Phrase_S">приложи к шишке снег - избавишься от неё</xtl>
+                    <xt pos="Phrase_S">приложи к шишке снег – она станет меньше</xt>
+                    <xtl pos="Phrase_S">приложи к шишке снег – избавишься от неё</xtl>
                 </xtg>
             </xg>
         </mg>
@@ -328,7 +325,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <xg lemma="балъе">
                 <x orth="1985kuru" pos="Phrase_S" pos_type="idiom">парна бальяк, шӯрран — лӯјкак</x>
                 <xtg xml:lang="rus">
-                    <xt pos="Phrase_S" pos_type="proverb">маленького балуешь - с большим
+                    <xt pos="Phrase_S" pos_type="proverb">маленького балуешь – с большим
                         плачешь</xt>
                     <xtl pos="Phrase_S">ребёнка балуешь, с большим – плачешь</xtl>
                 </xtg>
@@ -342,9 +339,11 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1986kert">балъеднэхьк</lvar>
             </orth>
             <stem>
-                <stem_kert nr="Pl">балъеднэгк</stem_kert>
+                <stem_kert number="Pl">балъеднэгк</stem_kert>
             </stem>
-            <der type="SM">балъедтэ</der>
+            <pointer>
+                <root>балъедтэ</root>
+            </pointer>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -358,7 +357,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <orth>
                 <lvar orth="1986kert">балъедсэ</lvar>
             </orth>
-            <der type="SM">балъедтэ</der>
+            <pointer>
+                <root>балъедтэ</root>
+            </pointer>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -375,8 +376,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="STRAD_K">балъе</der>
-            <der type="SM">балъедтэ</der>
+            <pointer>
+                <root type="STRAD_K">балъе</root>
+                <root>балъедтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -401,10 +404,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1986kert">балъедтмушш</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">балъедтмуж</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">балъедтмуж</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">балъедтэ</der>
+            <pointer>
+                <root>балъедтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -436,10 +441,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1986kert">балъедтэ</lvar>
             </orth>
             <stem>
-                <stem_kert>балъеда, балъядт</stem_kert>
                 <class_kuru class="I" ablaut="1" special="ASTERISK"/>
+                <stem_kert>балъеда, балъядт</stem_kert>
             </stem>
-            <der type="SM">балъе</der>
+            <pointer>
+                <root>балъе</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -485,7 +492,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="1" special="ASTERISK"/>
             </stem>
-            <der type="SM">балъе</der>
+            <pointer>
+                <root>балъе</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -511,9 +520,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="2008sars">банка</lvar>
             </orth>
             <stem>
-                <stem_sars>---нк---</stem_sars>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
+                <stem_sars>---нк---</stem_sars>
             </stem>
         </lg>
         <mg>
@@ -548,7 +557,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="health"/>
             </semantics>
             <tg xml:lang="rus" term="medicine">
-                <t pos="N" nr="Pl">банки</t>
+                <t pos="N" number="Pl">банки</t>
             </tg>
             <xg lemma="ба̄нка">
                 <x orth="1985kuru" pos="Phrase_V">пыйе кэ̄блая ба̄нкатҍ</x>
@@ -657,10 +666,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e>
         <lg>
-            <l pos="N" status="nonce">басня</l>
+            <l pos="N">ба̄сня</l>
             <orth>
                 <lvar orth="1986kert">ба̄сня</lvar>
             </orth>
+            <pointer>
+                <prefer>ба̄ҋк</prefer>
+            </pointer>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -681,7 +693,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1985kuru">батонн</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">батон</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">батон</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -690,13 +702,14 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="N">батон ___RE хлебный RE___</t>
+                <t pos="N">батон</t>
+                <re>хлеб</re>
             </tg>
         </mg>
     </e>
     <e>
         <lg>
-            <l pos="N" status="nonce">башня</l>
+            <l pos="N">ба̄шня</l>
             <orth>
                 <lvar orth="1986kert">ба̄шня</lvar>
             </orth>
@@ -709,7 +722,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="253">
         <lg>
-            <l pos="Adv" pos_type="post">баяс</l>
+            <l pos="Adp" pos_type="post">баяс</l>
             <orth>
                 <lvar orth="1985kuru">баяс</lvar>
                 <lvar orth="1986kert">байяс</lvar>
@@ -783,7 +796,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бе̄ййдэдтэ</der>
+            <pointer>
+                <root>бе̄ййдэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -816,7 +831,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бе̄ййдэдтэ</der>
+            <pointer>
+                <root>бе̄ййдэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -848,8 +865,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <compare>бе̄ййдэдсэ</compare>
-            <der type="SM">бе̄ййдэдтэ</der>
+            <pointer>
+                <compare>бе̄ййдэдсэ</compare>
+                <root>бе̄ййдэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -866,7 +885,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <orth>
                 <lvar orth="1986kert">бе̄ййдэдтмушш</lvar>
             </orth>
-            <der type="SM">бе̄ййдэдтэ</der>
+            <pointer>
+                <root>бе̄ййдэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -950,8 +971,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <compare>бе̄ййдэднэ</compare>
-            <der type="SM">бе̄ййдэдтэ</der>
+            <pointer>
+                <compare>бе̄ййдэднэ</compare>
+                <root>бе̄ййдэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -996,7 +1019,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">библиотека</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1051,7 +1074,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">билеʼт</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">билет</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">билет</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1106,7 +1129,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="1" special="ASTERISK"/>
             </stem>
-            <der type="SM">билеһт</der>
+            <pointer>
+                <root>билеһт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1126,7 +1151,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">билеһт</der>
+            <pointer>
+                <root>билеһт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1153,7 +1180,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">билеһтлуввэ</der>
+            <pointer>
+                <root>билеһтлуввэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1176,7 +1205,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1199,8 +1230,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <compare>бинтнэ_бӣнтнэ</compare>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <compare>бинтнэ_бӣнтнэ</compare>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1217,7 +1250,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <orth>
                 <lvar orth="1986kert">бо̄йесь</lvar>
             </orth>
-            <der type="SM">бо̄йй</der>
+            <pointer>
+                <root>бо̄йй</root>
+            </pointer>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -1260,9 +1295,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="2008sars">боаран</lvar>
             </orth>
             <stem>
-                <stem_sars>---р---</stem_sars>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
+                <stem_sars>---р---</stem_sars>
             </stem>
         </lg>
         <mg>
@@ -1319,7 +1354,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1985kuru">большевиһк</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">большевик</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">большевик</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1334,24 +1369,26 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="276">
         <lg>
-            <l pos="N">ботинка</l>
+            <l pos="N" status="nonce">ботинка</l>
             <orth>
                 <lvar orth="1985kuru">ботинка</lvar>
                 <lvar orth="1986kert">ботинка</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
-            <compare>камаша</compare>
+            <pointer>
+                <prefer>камаша</prefer>
+            </pointer>
         </lg>
         <mg>
             <semantics>
                 <sem class="xxx"/>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="N" nr="Pl">ботинки</t>
-                <t pos="N" gen="m" nr="Sg">ботинок</t>
+                <t pos="N" number="Pl">ботинки</t>
+                <t pos="N" gen="m" number="Sg">ботинок</t>
             </tg>
             <xg lemma="ботинка">
                 <x orth="1985kuru" pos="Phrase_V">вуэссьтэ о̄дт ботинкатҍ</x>
@@ -1382,7 +1419,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">бре̄ввьн</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">бре̄вьн</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">бре̄вьн</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
             </stem>
         </lg>
@@ -1412,7 +1449,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1986kert">бригада</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1444,7 +1481,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1985kuru">бригадирр</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">бригадир</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">бригадир</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1465,12 +1502,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="280">
         <lg>
-            <l pos="N" status="nonce">брошка</l>
+            <l pos="N">бро̄шка</l>
             <orth>
                 <lvar orth="1985kuru">бро̄шка</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1501,7 +1538,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">бӯква</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1566,7 +1603,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1991samm">букваррь</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">букварь</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">букварь</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1628,12 +1665,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="283">
         <lg>
-            <l pos="N" status="nonce">буржуазия</l>
+            <l pos="N">буржуазья</l>
             <orth>
                 <lvar orth="1985kuru">буржуазия</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1664,12 +1701,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e kur_ID="285">
         <lg>
-            <l pos="N" status="nonce">бурка</l>
+            <l pos="N">бӯрка</l>
             <orth>
                 <lvar orth="1985kuru">бӯрка</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">о.ч.</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </stem>
         </lg>
@@ -1678,11 +1715,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <sem class="xxx"/>
             </semantics>
             <lexicon xml:lang="rus">до колен, женские или детские, шьются из койб
-                ___LOOKUPкоаммасLOOKUP___; украшаются по швам цветным сукном, передняя часть
-                украшается койбами контрастного цвета с орнаментом, напр. головы оленя с
-                рогами</lexicon>
+                LOOKUPкоаммасLOOKUP; украшаются по швам цветным сукном, передняя часть украшается
+                койбами контрастного цвета с орнаментом, напр. головы оленя с рогами</lexicon>
             <tg xml:lang="rus">
-                <t pos="N" nr="Pl">бурки</t>
+                <t pos="N" number="Pl">бурки</t>
             </tg>
             <xg lemma="бӯрка">
                 <x orth="1985kuru" pos="Phrase_V">куаррэ о̄дт бӯркатҍ</x>
@@ -1701,7 +1737,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="1" special="ASTERISK"/>
             </stem>
-            <der type="SM">бурка</der>
+            <pointer>
+                <root>бурка</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1728,7 +1766,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бурка</der>
+            <pointer>
+                <root>бурка</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1760,14 +1800,14 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e>
         <lg>
-            <l pos="N" nr="Pl" status="nonce">бусь</l>
+            <l pos="N" number="Pl">бусь</l>
             <orth>
                 <lvar orth="1986kert">бусь</lvar>
             </orth>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="N" nr="Pl">бусы</t>
+                <t pos="N" number="Pl">бусы</t>
             </tg>
         </mg>
     </e>
@@ -1826,7 +1866,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1985kuru">бэдаһч</lvar>
                 <lvar orth="2008sars">бэдаххч</lvar>
             </orth>
-            <der type="SM">бэдт</der>
+            <pointer>
+                <root>бэдт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -1998,7 +2040,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1986kert">быдтэй</lvar>
                 <lvar orth="1986ker1">быдтӭй</lvar>
             </orth>
-            <der type="SM">бэдтэ</der>
+            <pointer>
+                <root>бэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -2015,7 +2059,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бэдтҍсэ</der>
+            <pointer>
+                <root>бэдтҍсэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2063,7 +2109,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бэдтэ</der>
+            <pointer>
+                <root>бэдтэ</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2125,7 +2173,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
                 <lvar orth="1985kuru">бӣннт</lvar>
             </orth>
             <stem>
-                <stem_kuru case="Nom" nr="Pl">бӣнт</stem_kuru>
+                <stem_kuru case="Nom" number="Pl">бӣнт</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
             </stem>
         </lg>
@@ -2154,7 +2202,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2176,8 +2226,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="STRAD_K">бӣннтэ</der>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <root type="STRAD_K">бӣннтэ</root>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2203,7 +2255,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="SM">бӣннтъе</der>
+            <pointer>
+                <root>бӣннтъе</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2223,7 +2277,9 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
             </stem>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2250,8 +2306,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <compare>бӣннтлэ</compare>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <compare>бӣннтлэ</compare>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
@@ -2271,8 +2329,10 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             <stem>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </stem>
-            <der type="PONUD_K">бӣннтэ</der>
-            <der type="SM">бӣннт</der>
+            <pointer>
+                <root type="PONUD_K">бӣннтэ</root>
+                <root>бӣннт</root>
+            </pointer>
         </lg>
         <mg>
             <semantics>
