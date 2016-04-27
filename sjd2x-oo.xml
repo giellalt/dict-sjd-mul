@@ -1,7 +1,351 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="3863">
+    <e>
+        <lg source="1991samm">
+            <l>о̄’пнуввмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oahppu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄’пнуввэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oahpahallat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄’пнуввэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>stuđeret</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ввнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>rahpasit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ввтъе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>liegganit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄з</l>
+            <stem-samm>о̄а̄здэ</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>áhčešeatni</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄злаʼтӭ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>bivttastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄лкхэ</l>
+            <stem-samm>о̄а̄лкаʼт</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>álggahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄нтшэ</l>
+            <stem-samm>о̄а̄нташт</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>áddet</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t>ipmirdit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>то̄ӆӆькъе</l>
+            <stem-samm>то̄ӆӆькай</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>áddet</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t>ipmirdit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>та̄йе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>áddet</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t>ipmirdit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ӈкнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>cuoŋudit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ҏҏтэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>garrudit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ҏҏтэдтэ, спо̄ррдэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>riidalit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ссьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lihtti</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ффкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>soaibmat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄ххтлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njuovadit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄шшт, о̄а̄шшьтъемушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lohpádus</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄а̄шшьтъе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lohpidit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄дзлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ohcalit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄дзэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ohcat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄дтсэ, а̄ввта</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ođđasis</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄зхэ, остэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ozahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ййкъе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hoigadit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄лвнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>holvvodit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ллк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>holga</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ллмэвудт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>olmmošsohka</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄лэнҍ</l>
+            <stem-samm>о̄ллэнҍ</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>guohcarássi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ммпан</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>olʼlásit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ммпсэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oalát</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ннъе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>adnot</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ххтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>akto</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>о̄ххтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>okto</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="3863">
         <lg>
             <l pos="N" orth="1985kuru">оаз-2</l>
             <orth>
@@ -71,7 +415,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="3942">
+    <e kur_ID="3942">
         <lg>
             <l pos="V">оаррэ</l>
             <orth>
@@ -224,7 +568,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N" number="Pl">оассэ</l>
             <orth>
