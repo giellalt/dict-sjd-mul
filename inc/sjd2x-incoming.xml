@@ -1684,21 +1684,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">за дом пэҏт туэгка</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">за лесом ва̄рь тӯгкенҍ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">за тобой то̄н гоаррэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="2008sars">за̄весськ</l>
             <infl>
                 <stem_sars>ськ</stem_sars>
@@ -1919,11 +1904,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">из-за болезни кэбпшэмуж гуэйке</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">из-за дерева мӯр тӯгкенҍ</l>
         </lg>
     </e>
     <e>
@@ -31948,11 +31928,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">передаётся послелогами тӯгкенҍ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">передаётся послелогом алльн</l>
         </lg>
     </e>
@@ -49440,27 +49415,6 @@
     </e>
     <e>
         <lg>
-            <l pos="послелог" orth="1986kert">туэгка</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">за</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">мур туэгка</x>
-                <xtg>
-                    <xt>за дерево</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">туэгка</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">туэлл</l>
         </lg>
         <mg>
@@ -51024,43 +50978,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">тӯвнэдтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">тӯгкенҍ</l>
-        </lg>
-        <mg>
-            <tg>
-                <t>за (куда?)</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="послелог" orth="1986kert">тӯгкенҍ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">за, позади</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">туэль тӯгкенгҍ</x>
-                <xtg>
-                    <xt>за столом</xt>
-                </xtg>
-            </xg>
-            <xg>
-                <x orth="1986kert" pos="xxx">пэҏт тӯгкенҍ</x>
-                <xtg>
-                    <xt>позади дома</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">тӯгкенҍ</l>
         </lg>
     </e>
     <e>
@@ -58804,24 +58721,6 @@
         <lg>
             <l pos="xxx" orth="1986kert">шо̄а̄бшэмушш</l>
         </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">шо̄а̄ллшэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">шо̄а̄лшэ</l>
-            <infl>
-                <stem_kert>шо̄а̄лша, шо̄а̄лашт</stem_kert>
-            </infl>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">жалеть, пожалеть</t>
-            </tg>
-        </mg>
     </e>
     <e>
         <lg>

@@ -1,7 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="5961">
+    <e kur_ID="6452">
+        <lg>
+            <l pos="ADP">туэгка</l>
+            <orth>
+                <lvar orth="1985kuru">туэгка</lvar>
+                <lvar orth="1986kert">туэгка</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>за кого-что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_V">ыштхэ кӯссетҍ туэль туэгка</x>
+                <xt pos="Phrase_V">посадить гостей за стол</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_V">ва̄ннҍцэ пагка туэгка мӯрье гоаррэ</x>
+                <xt pos="Phrase_V">идти за горку за ягодами</xt>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">пэҏт туэгка</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">за дом</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">мур туэгка</x>
+                <xtg>
+                    <xt pos="Phrase_Adp">за дерево</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="6360">
+        <lg>
+            <l pos="ADP">тӯгкенҍ</l>
+            <orth>
+                <lvar orth="1985kuru">тӯгкенҍ</lvar>
+                <lvar orth="1986kert">тӯгкенҍ</lvar>
+                <lvar orth="2008sars">тӯгкенҍ</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>за кем-чем</t>
+                <t pos="xxx">позади</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">оаррэ па̄рта тӯгкенҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>сидеть за партой</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">чуэннче мӯр тӯгкенҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>стоять за деревом</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">со̄н тӯгкенҍ эйй ка̄д</x>
+                <xtg xml:lang="rus">
+                    <xt>за ним не пропадёт</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ча̄йй на̄пь тӯгкенҍ моайнсэ</x>
+                <xtg xml:lang="rus">
+                    <xt>беседовать за чашкой чая</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">ва̄рь тӯгкенҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">за лесом</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">туэль тӯгкенгҍ</x>
+                <xtg>
+                    <xt pos="Phrase_Adp">за столом</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">пэҏт тӯгкенҍ</x>
+                <xtg>
+                    <xt pos="Phrase_Adp">позади дома</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">мӯр тӯгкенҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">из-за дерева</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="5961">
         <lg>
             <l pos="Det">та̄</l>
             <orth>
@@ -30,7 +136,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5962" link_sm="1">
+    <e kur_ID="5962" link_sm="1">
         <lg>
             <l pos="V">та̄бнэ</l>
             <orth>
@@ -53,7 +159,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="5963" link_sm="1">
+    <e kur_ID="5963" link_sm="1">
         <lg>
             <l pos="V">та̄бплэ</l>
             <orth>
@@ -75,7 +181,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="5964" link_sm="1">
+    <e kur_ID="5964" link_sm="1">
         <lg>
             <l pos="V">та̄бпшэ</l>
             <orth>
@@ -112,7 +218,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5965">
+    <e kur_ID="5965">
         <lg>
             <l pos="N">та̄бпь</l>
             <orth>
@@ -146,7 +252,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5966" link_sm="1">
+    <e kur_ID="5966" link_sm="1">
         <lg>
             <l pos="V">та̄бпьлуввэ</l>
             <orth>
@@ -183,7 +289,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="5967">
+    <e kur_ID="5967">
         <lg>
             <l pos="V">та̄бпэ</l>
             <orth>
@@ -236,7 +342,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="5970" link_sm="1">
+    <e kur_ID="5970" link_sm="1">
         <lg>
             <l pos="V">та̄бхэ</l>
             <orth>
@@ -296,7 +402,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="6019">
+    <e kur_ID="6019">
         <lg>
             <l pos="N">та̄лл</l>
             <orth>
@@ -337,7 +443,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="CC" bound="-де">те</l>
             <orth>
@@ -376,7 +482,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="A">то̄а̄вьяс</l>
             <orth>
@@ -387,7 +493,7 @@
             </pointer>
         </lg>
     </e>
-  <e kur_ID="6229" link_sm="1">
+    <e kur_ID="6229" link_sm="1">
         <lg>
             <l pos="A" pred="=">тоайвас</l>
             <orth>
@@ -435,7 +541,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">туарр</l>
             <orth>
@@ -457,7 +563,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="1109">
+    <e kur_ID="1109">
         <lg>
             <l pos="Det" bound="-дэн">тэ̄нн</l>
             <orth>
@@ -494,7 +600,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="1107">
+    <e kur_ID="1107">
         <lg>
             <l pos="Det" bound="-дэдт">тэдт</l>
             <orth>
@@ -539,7 +645,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="1108" kur_ID2="6505" kur_ID3="6496">
+    <e kur_ID="1108" kur_ID2="6505" kur_ID3="6496">
         <lg>
             <l pos="Det">тэдта</l>
             <orth>
@@ -589,7 +695,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="Det" bound="-дэйт">тэйт</l>
             <orth>

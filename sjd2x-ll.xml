@@ -3,6 +3,46 @@
 <r>
     <e>
         <lg source="1991samm">
+            <l>луннҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luhtte</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>лунан</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luhtán</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>лунант</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luhtát</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>лунӭсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luhtis</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
             <l>луз</l>
         </lg>
         <mg>

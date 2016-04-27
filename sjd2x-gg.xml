@@ -2,16 +2,6 @@
 
 <r>
     <e>
-        <lg source="1991samm">
-            <l>гӯрэсьт, луннҍ, Iuhtán, luhtát, Iuhtis - лунан, лунант, лунӭсь</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>luhtte</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
         <lg>
             <l pos="xxx" orth="1986kert">га̄з</l>
         </lg>
@@ -591,6 +581,18 @@
             <xg>
                 <x orth="1985kuru" pos="Phrase_S">ме̄рр гоаррь чоапэнҍт</x>
                 <xt>со стороны моря потемнело</xt>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">то̄н гоаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">за тобой</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_Adp">пэҏт гоаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_Adp">за дом</xt>
+                </xtg>
             </xg>
         </mg>
         <mg km="g2">
@@ -1479,6 +1481,9 @@
             <semantics>
                 <stype>xxx</stype>
             </semantics>
+            <tg xml:lang="sme">
+                <t>luhtte</t>
+            </tg>
             <tg xml:lang="sme">
                 <t>guoras</t>
             </tg>

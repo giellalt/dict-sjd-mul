@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="7511">
+    <e kur_ID="7443">
+        <lg>
+            <l pos="V">шоалшэ</l>
+            <orth>
+                <lvar orth="1985kuru">шоалшэ</lvar>
+                <lvar orth="1986kert">шо̄а̄лшэ</lvar>
+                <lvar orth="1986ker1">шо̄а̄ллшэ</lvar>
+                <lvar orth="1991samm">шо̄а̄лшэ</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="III" ablaut="_x_" special="_x_"/>
+                <stem_kert>шо̄а̄лша, шо̄а̄лашт</stem_kert>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="sme">
+                <t pos="V">šállošit</t>
+            </tg>
+            <tg>
+                <t>жалеть</t>
+                <t pos="xxx">пожалеть</t>
+                <t valency="кого-что">щадить</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">шоалшэ нӯрр па̄ль</x>
+                <xt>жалеть о прошедшей молодости</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">шоалшэ ӣжянт тӣрвасвуд</x>
+                <xt>щадить своё здоровье</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="7511">
         <lg>
             <l pos="V">шэ̄ннтэ</l>
             <orth>
