@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e kur_ID="6389">
+        <lg>
+            <l pos="ADV">тула</l>
+            <orth>
+                <lvar orth="1985kuru">тула</lvar>
+                <lvar orth="1991samm">тула</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="Adv">давно</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="Adv">dolin</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">тула бэ ныдтҍ</x>
+                <xtg xml:lang="rus">
+                    <xt>давно бы так</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мунн тула со̄н те̄да</x>
+                <xtg xml:lang="rus">
+                    <xt>я давно его знаю</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">тэдт ля̄йй тула</x>
+                <xtg xml:lang="rus">
+                    <xt>это было давно</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="Adv">тула-тула</x>
+                <x orth="1991samm" pos="Phrase_Adv">тула тула</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Adv">давным-давно</xt>
+                </xtg>
+                <xtg xml:lang="sme">
+                    <xt pos="Adv">dolin</xt>
+                </xtg>
+
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="6452">
         <lg>
             <l pos="ADP">туэгка</l>
