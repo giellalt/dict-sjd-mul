@@ -3,6 +3,2629 @@
 <r>
     <e>
         <lg source="1991samm">
+            <l>вӯлльгесь туэлль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollegis beavdi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄ррдэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fitnat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ввьл</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fávli</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вагкхэсс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>spierku</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вагкь</l>
+            <stem-samm>=-гг-</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hirbma</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>э̄бэсь</l>
+            <stem-samm>эбпас</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hirbma</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ваджь, ваҏҏьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>savda</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄дт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>duorgu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄йвашвудт</l>
+            <stem-samm>=-дд-</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gefodat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ййв, рэ̄сс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>váivi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ййм</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vádjagas</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ллт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>friddjavuohta</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄лль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fál’li</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="xxx">е̄ннэ ва̄ль</x>
+                <xtg xml:lang="sme">
+                    <xt/>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄лльм</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fálbmi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄лльте ла̄йнас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luoikkahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄лльтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>váldit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>váldit (vuostá)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>leaikut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>leiket</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄лсэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>leikestit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ваӆӆтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>jáhcut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ваӆӆтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuovdduštit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄нас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>uhcán</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄нас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>unnán</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ннтсэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gierdudit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ннҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vátna</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ннҍцэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vázzit</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="Phrase_V">мэ̄ннэ шко̄лне</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_V">vázzit skuvlla</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄нҍтэсь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gierdu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄нтас</l>
+            <stem-samm>ва̄ннтас</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gierdu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄нҍцленнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vácci</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄птэгквудт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>riggodat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄рр; кэ̄сск; выянт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>mátki</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ррь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuovdi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>васстэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>spiddut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ссэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vássit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ххтъе, карвуллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fáktet</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄шенҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>dáigi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>то̄а̄йкэн</l>
+            <stem-samm>то̄а̄ййкэн</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gáhkkodáigi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вашшь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>suovka</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄’кь; ве̄’кьвудт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veahkki</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ййк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veaigi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄йймлассьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>movttiidit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄йкнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veiggodit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄кьхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veahkehit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄лльк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vealgi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄лльм</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fielbmá</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ӆӆьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fár’rehit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ӆӆьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuodjelit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>веӊтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fanahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ррь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>sivva</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ррь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vearrivuohta</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ррькэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>iđistit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ррэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fearrat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄рхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>sivahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄рьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veardde</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ҏҏц</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>seahkka</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ҏтэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fieradit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄ссель</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ilolaš</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="Phrase_N">ве̄ссьлэсь па̄ррьн</x>
+                <xtg xml:lang="sme">
+                    <xt/>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄шш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>diŋga</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ве̄шшьк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veaiki</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣгк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fápmu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вла̄ссьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fápmu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣдже</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viehkat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣджьлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viehkalit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣжьнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viegadit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вилка</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gáffal</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣлкнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vilggodit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣлльй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viellja</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣлльй-пе̄лль</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vilbealli</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>reikestallat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣрант</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luohttámuš</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣррэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luohttit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣрряй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luohtehahtti</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="Phrase_N">вӣррьесь па̄ррьшя</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣршэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fierrut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣссь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>deaddu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣссьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vihkket</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӣссэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viessat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вла̄ссьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>váldi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄ʼкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>duohpašuvvat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄ʼц</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fáhcca</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>воайвшуввэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>váivašuvvat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄ййв</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lohti</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄йхуввэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>rievdat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄йхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lonuhit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄йхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>rievdadit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄йхэсс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lonuhangálvu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄йхэсс о̄а̄ссэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>molssabiktasat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄лмшэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>válmmaštit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄лшэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>válljet</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄лшэй</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>válljejeaddji</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄лшэмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>válljejupmi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄а̄ррлэнч</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>matkkálaš</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄дтэ</l>
+            <stem-samm>вуадт</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>láidet</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄дтэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>finadaddat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄сс</l>
+            <stem-samm>во̄з</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>guorbmi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄сстлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oastalit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄ссэ, са̄ʼтӭ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fievrredit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вря̄дт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ama</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯ’п</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuohppa</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯppэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>jalʼlut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуа’кэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luoibmat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаʼкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fuoikit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуагклэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njolggiidit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуагкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njolggástit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуадтъе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oađđát</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуайе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuodjut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаййпэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fággádallat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаййпэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>heaibut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуайпсэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>heaibbastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуакксай</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oaksái</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="Phrase_N">вуакксъесь мӯpp</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаллктэллэ, суэʼпэ, ро̄йе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>bálkut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>bistit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаммэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>boarásmuvvat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаммэ, вуамэсмэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oapmut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаӈкнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>okkodit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаӈксэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oakkastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуаӈӈкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oaggut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуассай, вуазлэш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lihkolaš</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯбресь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuobirs</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯввт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuovda</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯгасмэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hálbut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯглсэнне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hálbái</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯдче</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oađašit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯдӭсь</l>
+            <stem-samm>вуадтас</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>riđđu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯзьхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>čujuhit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯзьхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>čájehit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯйе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuodjat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯййкнэ; нёллкнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njuolgat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯййкъе; нёллькъе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njulget</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯййкэсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njuolga</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯййкэсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>riekta</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="Phrase_S">то̄нн ля̄к вӯййк</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_S">dus lea riekta</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯййнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoiggat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯйнэ, вӯйнэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuojadit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вулкхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>doaimmahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлкхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>sáddet</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлкхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolggahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлл</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fuolla</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлле</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollegaš</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯллель</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoli</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯльн</l>
+            <pointer>вӯлленҍ</pointer>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolde</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлленҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolde</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлленҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollin</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯллклэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolgalit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯллькэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolgit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯллэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯлхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fuolahit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯльнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolidit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯммь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>leahki</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯммь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuopmi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯнн</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuotna</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯӈӈк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuogga</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯппт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuokta</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯррьтэ, а̄ййнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuordit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯрэч</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>skire</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯсо̄а̄ррк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuossárga</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯсс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>giehtalávka</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯссь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>miessi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoste-</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вӯшенҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njáhká</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэʼць</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gál’lu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэгкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>suohkut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэдт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuođđu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэдтӭ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oađđit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэдҍсэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oađestit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэзхэллмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>cealkámuš</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэҋҋтэ, тӯйе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoitit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэйе (е̄лле)</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>birget</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэйе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>sáhttit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэйе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veadjit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэййв ло̄а̄гк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oaivečohkka</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэййв</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oaivi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэйймушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vejolašvuohta</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэккьс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oaksi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэлла</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollái</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэллгэнне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollegasa</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэллнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuollánit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэлльк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hárdu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэлльк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oalgi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэлльктэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>bálkestit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэлэнч</l>
+            <stem-samm>вуэла</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolli</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэӆӆькэ, тӯссэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>čuovgat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэнҍтэсь</l>
+            <stem-samm>вуаннтас</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>veaddi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэӈӈк, вуадт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>biedju</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэӈӈэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoiŋŋastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэӈсэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoiŋŋastastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэрр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuorru</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэрр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>geardi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэррьпэнҍ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oabbá</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэррьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ordi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэрьйла</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oarjjás</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэрьйлэсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oarjin</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэрьялл</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oarji</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэрьялл</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oarjja-</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэск (вӯсскан)</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuskkon</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсскэдт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>miesádat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсста</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ovddal</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vástidit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuostálastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэгк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuostálat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэмушш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>deaivvadeapmi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэннтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>deaivvadit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэсстлэннтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vástádallat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэссь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>lihkku</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэссьтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вуэххьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>oakti</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выббл</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vajahas</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>уйтхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>doalvut eret</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>са̄ʼтӭ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>doalvut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ёадҍхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>doalvut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выгкэ</l>
+            <stem-samm>=-гг-</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>doalvut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдзе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>hiŋkit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l valency="accusative">выдзэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ahkiduššat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viđas</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдтлоагкь</l>
+            <stem-samm>=-гг-</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vihttalogi</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдтэмплоагкь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vihttanuppelohkái</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдчаш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>rohtu</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдыгкса</l>
+            <stem-samm>=—гг-</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viđajahkásaš</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выдэ-выдэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viđaid-viđaid</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выйе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuodjit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>во̄дтэ</l>
+            <stem-samm>вуадт</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuodjit (biilla)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выййленне</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuoji</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выйнэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuojašit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выльшхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vilput</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выльшхэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vilšut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вынна</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vitnjut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вынндэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luohpat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>ва̄ссэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>luohpat (dávdda birra)</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вынньшэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njihkut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выӊӊт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>sruva</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выӊӊҍц</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ladju</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выппш</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vikša</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выррьк</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vierru</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выррьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>rávdnji</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выррэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>čalgat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выррэ (э̄л)</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fal’lehit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выххчтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>doarridit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>выххчтэ; выйхэ; го̄ннэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuojehit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вышшэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>gilʼlet</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вышшэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>viššat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэдтнесс</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>basaldat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄зхэмь</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>muohtaheapme</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄йе</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vadjat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэлас</l>
+            <pointer>валас</pointer>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vulos</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>валас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vulos</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэлас</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vuolás</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэллье</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fal’let</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄ннэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fatnat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄ннэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vatnat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄рр</l>
+            <stem-samm>вэ̄р</stem-samm>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>varra</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэсьт</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>njeaiga</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄цксэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>faskkastit</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄ццкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>faskut</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вэ̄ццкэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>ráhket</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вя̄л</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vel</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="xxx">вя̄л шэшка</x>
+                <xtg xml:lang="sme">
+                    <xt pos="xxx">vel oktii</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вя̄ллктуввэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>vealgáduvvat</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вя̄ӆӆтэдтэ</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>fár’ret</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
+            <l>вя̄рр</l>
+        </lg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>málli</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg source="1991samm">
             <l>ва̄сст</l>
         </lg>
         <mg>
