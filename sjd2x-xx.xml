@@ -16,6 +16,9 @@
             <tg xml:lang="rus">
                 <t>зато</t>
             </tg>
+            <tg xml:lang="sme">
+                <t>fas (nuppe dáfus)</t>
+            </tg>
             <xg lemma="хэс">
                 <x orth="1985kuru" pos="Phrase_S">то̄нн хэс пугк те̄дак</x>
                 <xt pos="Phrase_S">зато ты все знаешь</xt>
