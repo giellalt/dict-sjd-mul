@@ -2,6 +2,31 @@
 
 <r>
     <e>
+        <lg>
+            <l pos="N">выдт-ыгкса</l>
+            <orth>
+                <lvar orth="1986kert">выдыгкса</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg>
+                <t pos="N">пятилетка</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="NP">кӯххтэмплоагант выдыгкса</x>
+                <xtg>
+                    <xt>двенадцатая пятилетка</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert">выдыгкса план</x>
+                <xtg>
+                    <xt>пятилетний план</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e>
         <lg source="1991samm">
             <l>вӯлльгесь туэлль</l>
         </lg>
@@ -15452,42 +15477,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">вуэйхьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вуэйхьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вуэйхьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">вуэйхьтэ</l>
-            <orth>
-                <lvar orth="1985kuru">xxx</lvar>
-            </orth>
-            <infl>
-                <stem_kert>вуайта, вуайхьт</stem_kert>
-            </infl>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">победить, одержать победу</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">побороть</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">вуэйхьтэгк</l>
         </lg>
         <mg>
@@ -18654,14 +18643,14 @@
     </e>
     <e kur_ID="812" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru">вуэјтхуввэ</l>
+            <l pos="V">вуэҋтхуввэ</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">вуэјтхуввэ</lvar>
             </orth>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
-            <der type="SM">вуэјјтэ</der>
+            <der type="SM">вуэҋҋтэ</der>
         </lg>
         <mg km="g">
             <semantics>
@@ -18681,14 +18670,14 @@
     </e>
     <e kur_ID="809" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru">вуэјјтлуввэ</l>
+            <l pos="V">вуэҋҋтлуввэ</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">вуэјјтлуввэ</lvar>
             </orth>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
-            <der type="SM">вуэјјтэ</der>
+            <der type="SM">вуэҋҋтэ</der>
         </lg>
         <mg km="g">
             <semantics>
@@ -18701,14 +18690,14 @@
     </e>
     <e kur_ID="810" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru">вуэјјтлэ</l>
+            <l pos="V">вуэҋҋтлэ</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">вуэјјтлэ</lvar>
             </orth>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
-            <der type="SM">вуэјјтэ</der>
+            <der type="SM">вуэҋҋтэ</der>
         </lg>
         <mg km="g">
             <semantics>
@@ -18726,12 +18715,14 @@
     </e>
     <e kur_ID="811">
         <lg>
-            <l pos="N" orth="1985kuru">вуэјјтэ</l>
+            <l pos="N">вуэҋҋтэ</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">вуэјјтэ</lvar>
+                <lvar orth="1986kert">вуэйхьтэ</lvar>
             </orth>
             <infl>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
+                <stem_kert>вуайта, вуайхьт</stem_kert>
             </infl>
         </lg>
         <mg km="g1">
@@ -18776,6 +18767,12 @@
                 <x orth="1985kuru" pos="xxx" type="idiom">вуэјјтэм пе̄ййв</x>
                 <xtg xml:lang="rus">
                     <xt pos="xxx">день победы</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="N">вуэйхьтэмпе̄ййв</x>
+                <xtg>
+                    <xt>день победы</xt>
                 </xtg>
             </xg>
         </mg>
@@ -34313,14 +34310,14 @@
     </e>
     <e kur_ID="729" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru">вӯјтнэ</l>
+            <l pos="V">вӯҋтнэ</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">вӯјтнэ</lvar>
             </orth>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
-            <der type="SM">вуэјјтэ</der>
+            <der type="SM">вуэҋҋтэ</der>
         </lg>
         <mg km="g">
             <semantics>
@@ -34338,17 +34335,17 @@
     </e>
     <e kur_ID="730" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru">вӯјтче</l>
+            <l pos="N">вӯтче</l>
             <orth>
-                <lvar orth="1985kuru">xxx</lvar>
+                <lvar orth="1985kuru">вӯјтче</lvar>
             </orth>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
-            <pointers>
-                <compare>вӯјтнэ</compare>
-            </pointers>
-            <der type="SM">вуэјјтэ</der>
+            <pointer>
+                <compare>вӯҋтнэ</compare>
+                <root>вуэҋҋтэ</root>
+            </pointer>
         </lg>
         <mg km="g">
             <semantics>

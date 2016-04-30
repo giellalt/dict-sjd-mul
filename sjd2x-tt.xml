@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e>
+        <lg>
+            <l pos="A">туммплэсь</l>
+            <orth>
+                <lvar orth="1985kuru">туммплэсь</lvar>
+                <lvar orth="1986kert">туммплэсь</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">дальний</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">далёкий</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">туммплэсь ва̄ррь</x>
+                <xtg>
+                    <xt>дальний лес</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">туммплэсь ро̄дт</x>
+                <xtg>
+                    <xt>дальняя родня</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="6389">
         <lg>
             <l pos="ADV">тула</l>

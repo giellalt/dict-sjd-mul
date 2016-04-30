@@ -4189,7 +4189,10 @@
     </e>
     <e kur_ID="110">
         <lg>
-            <l pos="N" orth="1985kuru">а̄јјт</l>
+            <l pos="N">аҋҋт</l>
+            <orth>
+                <lvar orth="1985kuru">а̄јјт</lvar>
+            </orth>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">а̄јт</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
@@ -5489,7 +5492,7 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="ksdp">ажьпа̄јјк</l>
+            <l pos="N">ажь-па̄ҋҋк</l>
             <orth>
                 <lvar orth="1986kert">ажьпайхьк</lvar>
                 <lvar orth="1986ker1">ажьпа̄йхьк</lvar>
@@ -7036,37 +7039,6 @@
     </e>
     <e>
         <lg>
-            <l pos="v" orth="2008sars">аннҍ?</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] са̄ррн!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [он] говорит!</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] са̄ррнэв!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [они] говорят!</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] вуадт!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [он] спит!</xt>
-                </xtg>
-            </xg>
-            <xg source="2008sarsina1-imperative">
-                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] по̄ррэв!</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Пусть [они] кушают!</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="ksdp">аннҍтлассьтэ</l>
             <orth>
                 <lvar orth="1986kert">анҍтлассьтэ</lvar>
@@ -7211,9 +7183,10 @@
     </e>
     <e kur_ID="186">
         <lg>
-            <l pos="ADV" orth="1985kuru">анҍ</l>
+            <l pos="V:infl" orth="1985kuru">анҍ</l>
             <orth>
                 <lvar orth="1986kert">аннҍ</lvar>
+                <lvar orth="2008sars">аннҍ</lvar>
             </orth>
         </lg>
         <mg km="g">
@@ -7224,9 +7197,42 @@
                 <t>пусть</t>
                 <t>пускай</t>
             </tg>
+            <tg>
+                <t>да</t>
+            </tg>
             <xg>
                 <x orth="1985kuru" pos="Phrase_S">анҍ со̄нн пуадт!</x>
                 <xt>пусть он придёт!</xt>
+            </xg>
+            <xg>
+                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] са̄ррн!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [он] говорит!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] са̄ррнэв!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [они] говорят!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="Phrase_S" orth="2008sars">Анҍ [со̄нн] вуадт!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [он] спит!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="Phrase_S" orth="2008sars">Анҍ [сыйй] по̄ррэв!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Пусть [они] кушают!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert">аннҍ тӣррвэнҍ ля̄ннч</x>
+                <xtg>
+                    <xt>да здравствует</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
