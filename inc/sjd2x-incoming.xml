@@ -49638,40 +49638,6 @@
     </e>
     <e>
         <lg>
-            <l pos="pcle" orth="2008sars">тэль</l>
-        </lg>
-        <mg>
-            <xg source="2008sarsina1-particle">
-                <x pos="S" orth="2008sars">Tэль сыйй пӯдтӭнҍ.</x>
-                <xtg xml:lang="rus">
-                    <xt pos="S">Вот они пришли.</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">тэль</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">вот</t>
-            </tg>
-            <xg>
-                <x orth="1986kert" pos="xxx">тэль то̄нн касьт ля̄х!</x>
-                <xtg>
-                    <xt>вот ты где!</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">тэль</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">тэнн мӣлльтэ</l>
         </lg>
     </e>

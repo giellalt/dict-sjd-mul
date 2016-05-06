@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e kur_ID="6510">
+        <lg>
+            <l pos="pcle" bound="-дэль">тэль</l>
+            <orth>
+                <lvar orth="1985kuru">тэль</lvar>
+                <lvar orth="1986kert">тэль</lvar>
+                <lvar orth="2008sars">тэль</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="pcle">вот</t>
+            </tg>
+            <xg lemma="тэль">
+                <x orth="1985kuru" pos="Phrase_S">тэль ёадт по̄яс</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">вот идёт поезд</xt>
+                </xtg>
+            </xg>
+            <xg lemma="тэль">
+                <x orth="1985kuru" pos="Phrase_S">тэль касьт мунн я̄ла</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">вот где я живу</xt>
+                </xtg>
+            </xg>
+            <xg lemma="тэль">
+                <x orth="2008sars" pos="Phrase_S">Tэль сыйй пӯдтӭнҍ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Вот они пришли.</xt>
+                </xtg>
+            </xg>
+            <xg lemma="тэль">
+                <x orth="1986kert" pos="Phrase_S">тэль то̄нн касьт ля̄х!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">вот ты где!</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="A">туммплэсь</l>
