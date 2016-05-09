@@ -3351,32 +3351,6 @@
     </e>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">картошка</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">картэшк</l>
-            <infl>
-                <stem_sars>шк</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>2</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">картошка</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">картэшк</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx" orth="1986kert">кархэ</l>
         </lg>
         <mg>
@@ -3484,16 +3458,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">касснэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кастрюль</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кастрюля</l>
         </lg>
     </e>
     <e>
