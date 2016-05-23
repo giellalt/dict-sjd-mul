@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="6937">
+    <e kur_ID="6937">
         <lg>
             <l pos="N">ча̄йй</l>
             <orth>
@@ -28,7 +28,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="7005" link_sm="1">
+    <e kur_ID="7005" link_sm="1">
         <lg>
             <l pos="A">че̄песь</l>
             <orth>
@@ -60,7 +60,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="7066">
+    <e kur_ID="7066">
         <lg>
             <l pos="V">чиннэ</l>
             <orth>
@@ -148,6 +148,12 @@
                     <xt pos="Phrase_V">готовить еду</xt>
                 </xtg>
             </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">А̄ннҍ, чин пе̄рк!</x>
+                <xtg xml:lang="rus">
+                    <t pos="xxx">Анна, приготовь кушать!</t>
+                </xtg>
+            </xg>
         </mg>
         <mg km="g3">
             <semantics>
@@ -158,7 +164,7 @@
             </tg>
         </mg>
     </e>
-  <e kur_ID="7222" link_sm="1">
+    <e kur_ID="7222" link_sm="1">
         <lg>
             <l pos="A">чуввесь</l>
             <orth>
@@ -235,7 +241,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="V">чӯдтэдтэ</l>
             <orth>

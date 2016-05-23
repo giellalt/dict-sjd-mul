@@ -3,6 +3,25 @@
 <r>
     <e>
         <lg>
+            <l pos="N" status="nonce">гербарий</l>
+            <orth>
+                <lvar orth="2008sars">гербарий</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <sarsina-chapter>9</sarsina-chapter>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="rus"/>
+            </tg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_V">гербарий лыххкэ</x>
+            </xg>
+        </mg>
+    </e>
+    <e>
+        <lg>
             <l pos="xxx" orth="1986kert">га̄з</l>
         </lg>
     </e>

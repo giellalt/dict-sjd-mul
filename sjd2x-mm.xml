@@ -1,6 +1,537 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e kur_ID="3372">
+        <lg>
+            <l pos="V" orth="1985kuru">мэ̄ннэ</l>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>двигаться</t>
+                <t>передвигаться</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пэ̄ҏҏьтэ мэ̄ннэ</x>
+                <xt>идти домой</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="S">ко̄з то̄нн мэ̄нак?</x>
+                <xt>куда ты идёшь?</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пуэӆӆьк манн эвтэс</x>
+                <xt>полк идет вперёд</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">по̄яс манн вэххтэнне</x>
+                <xt>поезд идёт быстро</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ӣӈӈ манн ёг мӣлльтэ</x>
+                <xt>по реке идёт лёд</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">вэ̄ннас мэ̄ннэв чӯлл рынт</x>
+                <xt>лодки идут вдоль берега</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="прийти">приходить</t>
+                <t imperf="прибыть">прибывать (в направлении от говорящего или от начала движения)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">воаррла мэ̄ннэнҍ сыййта пе̄ййва</x>
+                <xt>путники пришли в село днем</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мыннӭ бэдт моаст мэ̄ннэ</x>
+                <xt>мне нужно попасть домой</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="пройти">проходить</t>
+                <t>миновать кого-что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">чӯййкэм кэск бэдт ке̄жесьт кя̄ржя мэ̄ннэ</x>
+                <xt>[лыжную] дистанцию нужно пройти от начала до конца</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мэ̄ннэ рай сыйт</x>
+                <xt>миновать село</xt>
+            </xg>
+        </mg>
+        <mg km="g4">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>направляться (с какой-л. целью)</t>
+            </tg>
+            <xg>
+                <x orth="1991samm" pos="Phrase_V">мэ̄ннэ шко̄лне</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_V">vázzit skuvlla</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">шко̄лне мэ̄ннэ</x>
+                <xt>идти в школу</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мя̄һца мэ̄ннэ</x>
+                <xt>идти на охоту</xt>
+            </xg>
+        </mg>
+        <mg km="g5">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>протекать (о времени)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кыдт манн</x>
+                <xt>идёт весна</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мэ̄ннэнҍ ко̄ллм ча̄сс</x>
+                <xt>прошло три часа</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">парнъне манн куалмант ыгкь</x>
+                <xt>ребёнку идёт третий год</xt>
+            </xg>
+        </mg>
+        <mg km="g6">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>иметь место</t>
+                <t>происходить</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">экзамен мэ̄ннэв</x>
+                <xt>идут экзамены</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">са̄ррнмушш манн о̄дт кнӣга баяс</x>
+                <xt>разговор идёт о новой книге</xt>
+            </xg>
+        </mg>
+        <mg km="g7">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>следовать</t>
+                <t>двигаться</t>
+                <t>действовать</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">бэдт пай эвтэс мэ̄ннэ</x>
+                <xt>надо всегда идти вперёд</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пугк манн пэря гоаррэ</x>
+                <xt>всё идёт к лучшему</xt>
+            </xg>
+        </mg>
+        <mg km="g8">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>пролегать</t>
+                <t>простираться</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">чуэкас манн ва̄рь мӣлльтэ</x>
+                <xt>дорога идёт лесом</xt>
+            </xg>
+        </mg>
+        <mg km="g9">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>падать (об осадках)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">аббьр мэ̄нэ ыйй пай</x>
+                <xt>дождь шёл всю ночь</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">вэ̄дз манн</x>
+                <xt>снег идёт</xt>
+            </xg>
+        </mg>
+        <mg km="g10">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>исходить</t>
+                <t>распространяться (откуда-л.)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">коавас ре̄һпьнӭсьт манн сувв</x>
+                <xt>из куваксы (чума) идёт дым</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">соаг мэ̄ннэв сыйт мӣлльтэ</x>
+                <xt>по селу идут слухи</xt>
+            </xg>
+        </mg>
+        <mg km="g11">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>требоваться</t>
+                <t>расходоваться</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пима гуэйкэ манн эйй э̄ххт ко̄нтар</x>
+                <xt>на пимы идёт несколько ходов ___lookupко̄нтарlookup___</xt>
+            </xg>
+        </mg>
+        <mg km="g12">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти</t>
+                <t>подходить</t>
+                <t>быть годным кому-чему</t>
+                <t>к кому-чему</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пла̄тья соннӭ манн</x>
+                <xt>платье ей идёт</xt>
+            </xg>
+        </mg>
+        <mg km="g13">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>идти (о механизмах)</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ча̄сс шӣгктэнне мэ̄ннэв</x>
+                <xt>часы идут хорошо</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">вуаййва нимӣ эйй мэ̄н</x>
+                <xt>в голову ничего не идёт</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">нагерь эйй мэ̄н</x>
+                <xt>не спится</xt>
+                <xt type="literal">сон не идёт</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">мӣ лӣ пуэдтҍмэнҍ тэнн эгк мэ̄н</x>
+                <xt type="proverb">чему быть, того не миновать</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="3163">
+        <lg>
+            <l pos="ADP">мӣлльтэ</l>
+            <orth>
+                <lvar orth="1985kuru">мӣлльтэ</lvar>
+                <lvar orth="1986kert">мӣлльтэ</lvar>
+            </orth>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>с кем-чем</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мунн ва̄лта со̄н мӣлльтэ</x>
+                <xt>я возьму его с собой</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">тэнна картина мӣлльтэ рисэваййма лӣ</x>
+                <xt>срисовано с этой картины</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мӣлльтан</x>
+                <xt>с собой (я)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мунн то̄нн ва̄лта мӣлльтан</x>
+                <xt>я возьму тебя с собой</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мӣлльтант</x>
+                <xt>с собой (ты)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ва̄льт со̄н мӣлльтант</x>
+                <xt>возьми его с собой</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мӣлльтэсь</x>
+                <xt>с собой (он, она)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">со̄нн ва̄ллт то̄н мӣлльтэсь</x>
+                <xt>он возьмёт тебя с собой</xt>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ва̄лльтэ мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt>взять с собой</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Ва̄ннҍце мӯ̄н мӣлльтэ!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Идите за мной!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Ке̄нн я мэ̄нн ва̄лтах мӣлльтэ?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx"/>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>за кем-чем</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">пӯдзэ мӣлльтэ ва̄ннҍцэ</x>
+                <xt>идти за оленями (вслед)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">со̄н юрртэ мӣлльтэ мэ̄ннэ</x>
+                <xt>следить за ею мыслью</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ло̄гкэ кнӣга кнӣга мӣлльтэ</x>
+                <xt>читать книгу за книгой</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мэ̄ннэв ыгь ыге мӣлльтэ</x>
+                <xt>идёт год за годом</xt>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Пэ̄ссэ ӣжянт мӣлльтэ оа̄ссьтэтҍ!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Мойте за собой посуду!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Са̄ррнэ мун мӣлльтэ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Повторите за мной!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="xxx" orth="1986kert">со̄нн уйтэ то̄н мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">он ушёл вслед за тобой</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>по кому-чему</t>
+            </tg>
+            <xg>
+                <x pos="xxx" orth="1986kert">а̄жь ня̄в мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_ADP">по совету отца</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="xxx" orth="1986kert">ёг мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_ADP">по реке</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">выйе чӯһкас мӣлльтэ</x>
+                <xt>ехать по дороге</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэ̄ллье то̄ммтсэ мӣлльтэ</x>
+                <xt>ходить по знакомым</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ва̄ннҍцэ ноавьтэ кӣйе мӣлльтэ</x>
+                <xt>идти по следам зверя</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">лыһкэ пла̄н мӣлльтэ</x>
+                <xt>работать по плану</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">тыввнэдтэ маӈьмусс оаз на̄ль мӣлльтэ</x>
+                <xt>одеваться по последней моде</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ӣнцка мӣлльтэ воанцче</x>
+                <xt>прогуливаться по утрам</xt>
+            </xg>
+            <xg>
+                <x pos="xxx" orth="1986kert">тун мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">потому</xt>
+                </xtg>
+            </xg>
+            <хg>
+                <х pos="xxx" orth="1986kert">тэнн мӣлльтэ</х>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">потому</xt>
+                </xtg>
+            </хg>
+        </mg>
+        <mg km="g4">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>вдоль чего</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">ёг мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt>вдоль реки</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ва̄ннҍцэ рынт мӣлльтэ</x>
+                <xt>идти вдоль берега</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэжь мӣлльтэ</x>
+                <xt>вдоль (от начала до конца) чего</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэжь мӣлльтэ ёг</x>
+                <xt>вдоль реки</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэжь мӣлльтэ я̄вьр</x>
+                <xt>вдоль озера</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэжь мӣлльтэ туэль</x>
+                <xt>вдоль стола</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">кэжь мӣлльтэ роаӈьк</x>
+                <xt>вдоль туловища</xt>
+            </xg>
+        </mg>
+        <mg km="g5">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>позади</t>
+                <t>сзади</t>
+                <t>следом</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">каррэ мӣлльтэ</x>
+                <xtg xml:lang="rus">
+                    <xt>бежать следом</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">а̄ка ва̄ннц авьтэмь пе̄льт, ка̄ллса ва̄ннц мӣлльтэ</x>
+                <xt>бабушка идёт впереди, дедушка идёт следом</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="3290">
+        <lg>
+            <l pos="Det">мудта</l>
+            <orth>
+                <lvar orth="1985kuru">мудта</lvar>
+                <lvar orth="1986kert">мудта</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>другой (не этот)</t>
+                <t>иной</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">мудта вэ̄р</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">иногда</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">мудта вэ̄рр</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">в другой раз</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мудта вуэр са̄рнсэпь</x>
+                <xt>в другой раз поговорим</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">бэдт лӣннчле вофьсе мудта о̄ллмэнҍ</x>
+                <xt>быть совсем иным человеком</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">эфт са̄ррнэ, лыһкэ мудта</x>
+                <xt>говорить одно, а делать другое</xt>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Ва̄льт мудта на̄пь!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Возьми другую чашку!</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e kur_ID="3309">
         <lg>
             <l pos="PRON">мунн</l>

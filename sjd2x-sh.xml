@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e>
+        <lg>
+            <l pos="N">школа</l>
+            <orth>
+                <lvar orth="1985kuru">школа</lvar>
+                <lvar orth="1986kert">школа</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <xg>
+                <x orth="1986kert" pos="N">школасьт</x>
+                <xtg>
+                    <xt>в школе</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="N">школайя</x>
+                <xtg>
+                    <xt>в школу</xt>
+                </xtg>
+            </xg>
+
+        </mg>
+    </e>
     <e kur_ID="7443">
         <lg>
             <l pos="V">шоалшэ</l>

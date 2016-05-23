@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+    <e kur_ID="7537">
+        <lg>
+            <l pos="N">ыгкь</l>
+            <orth>
+                <lvar orth="1985kuru">ыгкь</lvar>
+                <lvar orth="1986kert">ыгкь</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="7539">ыгь</stem_kuru>
+                <class_kuru class="I" ablaut="_x_" special="_x_"/>
+                <stem_kert gloss="мн">ыгь</stem_kert>
+            </infl>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>год</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мэнэ ко̄ллм ыгке</x>
+                <xt>прошло три года</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">та̄ннӓ лӣ сӯййн шэнтант ыгкь</x>
+                <xt>нынче на сено урожай</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мун вуэрьпэнҍ лӣ ыгенҍ пуаррса муннэ</x>
+                <xt>моя сестра на год старше меня</xt>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Е̄ннэ ыгке ли то̄н па̄ррнэтҍ?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx"/>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Е̄ннэ ыгке то̄ннӭ ли?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx"/>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ыгесьт ыгка</x>
+                <xt>из года в год</xt>
+                <xt>с каждым годом</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">о̄дт ыгкь</x>
+                <xt>новый год</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">ыгкь ыгка элля вӣлльй</x>
+                <xt type="proverb">год на год не приходится</xt>
+                <xt type="literal">год году не брат</xt>
+            </xg>
+        </mg>
+    </e>
+</r>

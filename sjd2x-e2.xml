@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e meta="01">
+    <e meta="01">
         <lg source="NEA">
             <l dialect="ars" pos="Cc">эlэ-шэ</l>
             <phon>
@@ -14,6 +14,91 @@
             </tg>
             <tg xml:lang="rus">
                 <t pos="Cc">или</t>
+            </tg>
+        </mg>
+    </e>
+    <e kur_ID="7675">
+        <lg>
+            <l pos="NUM">э̄ххт</l>
+            <orth>
+                <lvar orth="1985kuru">э̄ххт</lvar>
+                <lvar orth="1986kert">э̄ххт</lvar>
+            </orth>
+            <infl>
+                <stem_kuru case="nom" number="pl" kur_ID="7666">эфт</stem_kuru>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="NUM">один</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">э̄ххт карндашш</x>
+                <xt>один карандаш</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">а̄ннҍтэ эфтэ тетрадтӭ</x>
+                <xt>дать по одной тетради</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мунн уййнлэда со̄нэнҍ эфтэнҍ</x>
+                <xt>я встречаюсь с ним одним</xt>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Вӯллькепь эфтэсьт!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Пойдем вместе!</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="xxx" orth="1986kert">э̄фт вэ̄рр</x>
+                <xtg>
+                    <xt>один раз</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">эфт па̄ллса</x>
+                <xt xtnumber="1">ровесники</xt>
+                <xt xtnumber="2">современники</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">э̄ххт тэдт шэ</x>
+                <xt>одно и то же</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">со̄нэсьт эфт нюэзь ле̄в</x>
+                <xt>от него одни неприятности</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">пуэдтӭ э̄ххьтэ</x>
+                <xt>прийти к согласию, прийти к единому мнению</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">ко̄ппче ве̄шшэтҍ э̄ххьтэ</x>
+                <xt>сложить вещи вместе</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">эфтэнҍ оарьенҍ вӯййкэсьт эгк сугкэль</x>
+                <xt type="proverb">с одним веслом прямо не поплывёшь</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">э̄ххт ю̄лльк лӣ, я тэдт луэјјк</x>
+                <xt type="proverb">одна нога, и та плачет (о нерадивом человеке)</xt>
+            </xg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">единица</t>
+                <tr>один предмет</tr>
+            </tg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">единица</t>
+                <tr>отметка</tr>
             </tg>
         </mg>
     </e>

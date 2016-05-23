@@ -1,6 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e kur_ID="1421">
+        <lg>
+            <l pos="V">ка̄һтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">ка̄һтӭ</lvar>
+                <lvar orth="1986kert">ка̄ххьтэ</lvar>
+                <lvar orth="2008sars">ка̄ххьтэ</lvar>
+            </orth>
+            <infl>
+                <class_kuru class="I" ablaut="1" special="_x_"/>
+                <stem_kert>ка̄та, каххт</stem_kert>
+                <stem_sars>ххт, т</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="закрыть">закрывать кого-что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="V">кӣмьн ка̄һтӭ</x>
+                <xt>закрыть котёл</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="V">ка̄һтӭ чильмэтҍ</x>
+                <xt>закрыть глаза</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="V">ка̄һтӭ пэ̄ҏҏьтэ па̄ррнэтҍ</x>
+                <xt>запереть детей в комнате</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="V">ка̄һтӭ со̄бэр</x>
+                <xt>закрыть заседание</xt>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Ка̄тҍ укс!</x>
+                <tg xml:lang="rus">
+                    <t pos="xxx">Закрой дверь!</t>
+                </tg>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="накрыть">накрывать кого-что чем</t>
+                <t imperf="покрыть">покрывать кого-что чем</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="V">ка̄һтӭ парна роаввэнҍ</x>
+                <xt>покрыть ребёнка одеялом из оленьей шкуры</xt>
+            </xg>
+        </mg>
+        <mg km="g3">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="покрыть">покрывать что</t>
+                <t imperf="возместить">возмещать что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="V">ка̄һтӭ ве̄льк</x>
+                <xt>покрыть задолженность</xt>
+            </xg>
+        </mg>
+        <mg km="g4">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="застлать">застилать что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="S">сувв коатӭ альм</x>
+                <xt>дым застлал небо</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="S">кэ̄ннял коаһтэнҍ чильмэтҍ</x>
+                <xt>слезы застлали глаза</xt>
+            </xg>
+        </mg>
+        <mg km="g5">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t imperf="заслонить">заслонять кого-что</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="S">со̄нн коатӭ мыннӭ чув</x>
+                <xt>он заслонил мне свет</xt>
+            </xg>
+        </mg>
+        <mg order="3">
+            <tg xml:lang="rus">
+                <t pos="xxx">запирать, запереть</t>
+            </tg>
+        </mg>
+        <mg order="4">
+            <tg xml:lang="rus">
+                <t pos="xxx">засыпать чём-либо, засыпать чём-либо</t>
+            </tg>
+        </mg>
+        <mg order="5">
+            <tg xml:lang="rus">
+                <t pos="xxx">окутывать туманом, окутать туманом</t>
+            </tg>
+        </mg>
+    </e>
     <e source="1991samm">
         <lg>
             <l>ко̄ххт</l>
@@ -1339,90 +1453,6 @@
     <e>
         <lg>
             <l pos="xxx" orth="1986kert">ка̄ххцлоагкь</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">ка̄ххьтэ</l>
-            <infl>
-                <stem_sars>ххт, т</stem_sars>
-            </infl>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>1</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">закрыть</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-            <infl>
-                <stem_kert>ка̄та, каххт</stem_kert>
-            </infl>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">закрывать, закрыть</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">накрывать, накрыть</t>
-            </tg>
-        </mg>
-        <mg order="3">
-            <tg xml:lang="rus">
-                <t pos="xxx">запирать, запереть</t>
-            </tg>
-        </mg>
-        <mg order="4">
-            <tg xml:lang="rus">
-                <t pos="xxx">засыпать чём-либо, засыпать чём-либо</t>
-            </tg>
-        </mg>
-        <mg order="5">
-            <tg xml:lang="rus">
-                <t pos="xxx">окутывать туманом, окутать туманом</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ка̄ххьтэ</l>
         </lg>
     </e>
     <e>

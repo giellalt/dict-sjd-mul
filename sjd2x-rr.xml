@@ -1,7 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e kur_ID="4840">
+    <e kur_ID="4879">
+        <lg>
+            <l pos="ADP">райя</l>
+            <orth>
+                <lvar orth="1985kuru">райя</lvar>
+                <lvar orth="1986kert">райя</lvar>
+                <lvar orth="2008sars">райя</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>до кого-чего</t>
+                <t pos="ADP">к</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="PoP">ва̄рь райя</x>
+                <xtg>
+                    <xt>до леса</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="Phrase_ADP">ёг райя</x>
+                <xtg xml:lang="rus">
+                    <xt>к реке</xt>
+                    <xt>до реки</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="PoP">ента райя</x>
+                <xtg>
+                    <xt>до завтра</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">па̄һкь лоаг райя лӣ куһкь</x>
+                <xt>до вершины далеко</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">маӈҍмус минута райя</x>
+                <xt>до последней минуты</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ӣнцкасьт е̄кьна райя</x>
+                <xt>с утра до вечера</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">югкэ маӈҍмусс ча̄дзь-чалма райя</x>
+                <xt>выпить до последней капли</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">ва̄лльтэ чӯдҍ ма̄ҏьк райя</x>
+                <xt>получить до ста рублей</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">муннетҍ оалкхуввэм райя</x>
+                <xt>до наступления морозов</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">уййнлэдтэм райя!</x>
+                <xt>до свидания!</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">эфт райя</x>
+                <xt>до какого-л. случая</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">эфт райя сыйй сӣррэв се̄ӈькесь ӣӈ альн</x>
+                <xt>они играют на тонком льду до поры до времени (т.е. могут провалиться)</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="4840">
         <lg>
             <l pos="N">ра̄вв</l>
             <orth>
@@ -28,7 +102,7 @@
             </xg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">ра̄зь-пуччк</l>
             <orth>
@@ -41,7 +115,7 @@
             </tg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">ро̄ссь</l>
             <orth>
@@ -61,7 +135,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5160">
+    <e kur_ID="5160">
         <lg>
             <l pos="A">руччкесь</l>
             <orth>
@@ -109,7 +183,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5229">
+    <e kur_ID="5229">
         <lg>
             <l pos="N">рыннт</l>
             <orth>
@@ -184,7 +258,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5138">
+    <e kur_ID="5138">
         <lg>
             <l pos="A">рӯппьсесь</l>
             <orth>
@@ -277,7 +351,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5166" link_sm="1">
+    <e kur_ID="5166" link_sm="1">
         <lg>
             <l pos="ADV">рӯшас</l>
             <orth>

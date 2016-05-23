@@ -64,16 +64,6 @@
     </e>
     <e>
         <lg source="1991samm">
-            <l>а̄ввьдэ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>rahpat</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg source="1991samm">
             <l>а̄ййв</l>
         </lg>
         <mg>
@@ -180,16 +170,6 @@
         <mg>
             <tg xml:lang="sme">
                 <t>dáhttut</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg source="1991samm">
-            <l>а̄ррв</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>haddi</t>
             </tg>
         </mg>
     </e>
@@ -1414,9 +1394,15 @@
     </e>
     <e kur_ID="30" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru">а̄ввьдэ</l>
+            <l pos="V">а̄ввьдэ</l>
+            <orth>
+                <lvar orth="1985kuru">а̄ввьдэ</lvar>
+                <lvar orth="1986kert">а̄вьдэ</lvar>
+                <lvar orth="1991samm">а̄ввьдэ</lvar>
+            </orth>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
+                <stem_kert>а̄вьда, а̄вядҍ</stem_kert>
             </infl>
             <der type="SM">а̄в</der>
         </lg>
@@ -1424,6 +1410,9 @@
             <semantics>
                 <stype>xxx</stype>
             </semantics>
+            <tg xml:lang="sme">
+                <t pos="V">rahpat</t>
+            </tg>
             <tg>
                 <t type="literal+figurative">открыть что</t>
                 <t>раскрыть что</t>
@@ -1445,6 +1434,23 @@
                 <x orth="1985kuru" pos="xxx">кэ̄бла элэлэ чильмэтҍ а̄введҍ</x>
                 <xt>больной с трудом разомкнул веки</xt>
             </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">А̄ведҍ укс!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Открой дверь!</xt>
+                </xtg>
+            </xg>
+            <хg>
+                <х orth="2008sars" pos="xxx">а̄ведҍ ня̄льм!</х>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">открой рот!</xt>
+                </xtg>
+            </хg>
+        </mg>
+        <mg order="2">
+            <tg xml:lang="rus">
+                <t pos="xxx">распахнуть</t>
+            </tg>
         </mg>
     </e>
     <e kur_ID="31">
@@ -1601,7 +1607,7 @@
                 <sarsina-chapter>6</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">уключина</t>
+                <t pos="xxx">уключина</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="V">пыйе оарьетҍ оавьнэтҍ</x>
@@ -1693,24 +1699,6 @@
                 <x orth="1985kuru" pos="xxx">мунн пе̄ц а̄втса я пуада</x>
                 <xt>я быстро истоплю печь и приду</xt>
             </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">а̄вьдэ</l>
-            <infl>
-                <stem_kert>а̄вьда, а̄вядҍ</stem_kert>
-            </infl>
-        </lg>
-        <mg order="1">
-            <tg xml:lang="rus">
-                <t pos="xxx">открыть, раскрыть</t>
-            </tg>
-        </mg>
-        <mg order="2">
-            <tg xml:lang="rus">
-                <t pos="xxx">распахнуть</t>
-            </tg>
         </mg>
     </e>
     <e kur_ID="43" link_sm="1">
@@ -1890,7 +1878,7 @@
                 <sarsina-chapter>13</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">дед</t>
+                <t pos="xxx">дед</t>
             </tg>
             <xg>
                 <x orth="1985kuru" pos="Phrase_S">мӣн а̄й я ажь тоавсэнне ӣжесь шаннт е̄ммьне
@@ -2613,7 +2601,7 @@
                 <sarsina-chapter>13</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">бабушка, чья-то</t>
+                <t pos="xxx">бабушка, чья-то</t>
             </tg>
         </mg>
     </e>
@@ -2626,7 +2614,7 @@
                 <sarsina-chapter>3</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">синий</t>
+                <t pos="xxx">синий</t>
             </tg>
         </mg>
     </e>
@@ -3525,9 +3513,11 @@
     </e>
     <e kur_ID="192">
         <lg>
-            <l pos="N" orth="1985kuru">а̄ррв</l>
+            <l pos="N">а̄ррв</l>
             <orth>
+                <lvar orth="1985kuru">а̄ррв</lvar>
                 <lvar orth="1986kert">а̄ррв</lvar>
+                <lvar orth="1991samm">а̄ррв</lvar>
             </orth>
             <infl>
                 <stem_kert gloss="мн">а̄рв</stem_kert>
@@ -3543,6 +3533,9 @@
                 <t>цена</t>
                 <t>стоимость</t>
             </tg>
+            <tg xml:lang="sme">
+                <t>haddi</t>
+            </tg>
             <xg>
                 <x orth="1985kuru" pos="N">шӯрр а̄ррв</x>
                 <xt>высокая цена</xt>
@@ -3554,6 +3547,12 @@
             <xg>
                 <x orth="1985kuru" pos="Phrase_S">а̄рв ле̄в вульна</x>
                 <xt>цены снижены</xt>
+            </xg>
+            <xg>
+                <x pos="xxx" orth="1986kert">манҍтэ а̄ррв лӣ тэ̄нн та̄вьресьт?</x>
+                <xtg>
+                    <xt>сколько стоит эта ткань?</xt>
+                </xtg>
             </xg>
         </mg>
     </e>
@@ -4232,7 +4231,7 @@
                 <sarsina-chapter>10</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">ребро</t>
+                <t pos="xxx">ребро</t>
             </tg>
         </mg>
     </e>
@@ -5346,6 +5345,25 @@
                 <x orth="1985kuru" pos="Phrase_S">адтҍ со̄нн пуадт</x>
                 <xt>он сейчас придёт</xt>
             </xg>
+            <хg>
+                <х orth="2008sars" pos="Phrase_S">Адтҍ вуэӈӈэ.</х>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Сейчас отдыхайте!</xt>
+                </xtg>
+            </хg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">Адтҍ ли вуэӈӈмушш.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Сейчас перерыв.</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">Адтҍ тыйй мушшьтсэллэ, мэнн баяс мыйй са̄р нэмь
+                    яххта!</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Сейчас вспоминайте, о чем мы говорили вчера!</xt>
+                </xtg>
+            </xg>
         </mg>
     </e>
     <e kur_ID="66" link_sm="1">
@@ -5378,7 +5396,7 @@
                 <sarsina-chapter>0</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">настоящее время</t>
+                <t pos="xxx">настоящее время</t>
             </tg>
         </mg>
     </e>

@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e kur_ID="4065" link_sm="1">
+        <lg>
+            <l pos="ADV">олкэс</l>
+            <orth>
+                <lvar orth="1985kuru">олкэс</lvar>
+                <lvar orth="1986kert">олкэс</lvar>
+            </orth>
+            <der type="SM">оаллк</der>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>на улицу</t>
+                <t>во двор</t>
+                <t>наружу</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">выййтэ олкэс</x>
+                <xt>выйти наружу</xt>
+            </xg>
+        </mg>
+        <xg>
+            <x pos="S" orth="2008sars">Ва̄нҍц олкэс!</x>
+            <xtg xml:lang="rus">
+                <xt pos="xxx">Иди на улицу!</xt>
+            </xtg>
+        </xg>
+    </e>
     <e>
         <lg source="1991samm">
             <l>о̄’пнуввмушш</l>

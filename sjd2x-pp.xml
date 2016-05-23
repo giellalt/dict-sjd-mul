@@ -70,6 +70,7 @@
             <xg lemma="пе̄ййв">
                 <x orth="1985kuru" pos="Phrase_N">нэ̄мм пе̄ййв</x>
                 <x orth="1986kert" pos="N">нэ̄ммпе̄ййв</x>
+                <x orth="1986ker1" pos="N">нэммпе̄ййв</x>
                 <xtg xml:lang="rus">
                     <xt pos="Phrase_N" type="#">день рождения</xt>
                 </xtg>

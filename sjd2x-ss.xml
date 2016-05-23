@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
-  <e meta="01">
+    <e kur_ID="5344">
+        <lg>
+            <l pos="ADV">садга</l>
+            <orth>
+                <lvar orth="1985kuru">садга</lvar>
+            </orth>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>немного</t>
+                <t>мало</t>
+                <t>слегка</t>
+                <t>чуть-чуть</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">со̄нн садга воанцэч оаллкэнҍ</x>
+                <xt>он немного походил во дворе</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">мунн садга е̄намп то̄ннэ ко̄ппче мӯрьетҍ</x>
+                <xt>я немного больше собрал ягод, чем ты</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">сама садга</x>
+                <xt>чуточку</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">лыгкэсьт сама садга</x>
+                <xt>подвинься чуточку</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx">сада мадта</x>
+                <xt>самая малость</xt>
+                <xt>толика (чего-л.)</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="Phrase_S">нӣйта лӣ сада мадта</x>
+                <xt>девочка - совсем малышка</xt>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">А̄нҍт мыннӭ садмадта…</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Дай мне немножко…</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">А̄нҍт мыннӭ садамушшэ…</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Дай мне немножко…</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="2008sars" pos="Phrase_S">А̄нҍт мыннӭ сада…</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Дай мне немножко…</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
+    <e meta="01">
         <lg source="NEA">
             <l pos="N" dialect="ars">са̄ййк</l>
             <phon>
@@ -15,7 +77,7 @@
             </lexg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="N">столица</l>
             <orth>
@@ -31,12 +93,12 @@
             </xg>
         </mg>
     </e>
-  <e meta="01">
+    <e meta="01">
         <lg source="NEA">
             <l pos="V">сыһкэ</l>
-            <orthography>
+            <orth>
                 <lvar orth="2014anto">сыххкэ</lvar>
-            </orthography>
+            </orth>
         </lg>
         <mg dial="ars">
             <tg xml:lang="rus">
@@ -52,7 +114,7 @@
             </tg>
         </mg>
     </e>
-  <e>
+    <e>
         <lg>
             <l pos="A">сӯгкесь</l>
             <orth>
@@ -85,7 +147,7 @@
             </xg>
         </mg>
     </e>
-  <e kur_ID="5756" link_sm="1">
+    <e kur_ID="5756" link_sm="1">
         <lg>
             <l pos="N">сӯӈӈъей</l>
             <orth>

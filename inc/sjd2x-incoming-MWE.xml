@@ -2,647 +2,6 @@
 <r>
     <e>
         <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="N">нэммпе̄ййв</x>
-                <xtg>
-                    <xt>день рождения</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">тӯллье</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="VP">тӯллье кӣдэсьт</x>
-                <xtg>
-                    <xt>держать в руках</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">тӯллье</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="VP">тӯллье пӯдзэтҍ</x>
-                <xtg>
-                    <xt>держать оленей</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">па̄ррнэсад</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="N">па̄ррнэсад</x>
-                <xtg>
-                    <xt>детский сад</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="N">е̄мьперьвэ̄дт</x>
-                <xtg>
-                    <xt>дно ведра</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="N">ёгкпоаннҍ</x>
-                <xtg>
-                    <xt>дно реки</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="PoP">ента райя</x>
-                <xtg>
-                    <xt>до завтра</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">xxx</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="PoP">ва̄рь райя</x>
-                <xtg>
-                    <xt>до леса</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">кукесь</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="NP">кукесь ва̄рр</x>
-                <xtg>
-                    <xt>долгий путь</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">ко̄а̄ллэш</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="NP">ко̄а̄ллэш на̄ввьт</x>
-                <xtg>
-                    <xt>дорогой мех</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">е̄рркъя</l>
-        </lg>
-        <mg>
-            <xg>
-                <x orth="1986kert" pos="NP">е̄рркъя о̄лма</x>
-                <xtg>
-                    <xt>древний человек</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="VP" orth="2008sars">гербарий лыххкэ</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>9</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">в боку колет е̄ҏҏьт ре̄дт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">в неделе семь дней не̄дтҍлесьт лӣ кыджемь пе̄ййве</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">в школе школасьт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">в школу школайя</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">в шубе тоҏкэсьт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">в этом году та̄нн ыгесьт</l>
-        </lg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">А̄ведҍ укс!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Открой дверь!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">А̄ннҍ, чин пе̄рк!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Анна, приготовь кушать!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">А̄нҍт мыннӭ садамушшэ…</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Дай мне немножко…</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">А̄нҍт мыннӭ сада…</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Дай мне немножко…</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">А̄нҍт мыннӭ садмадта…</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Дай мне немножко…</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Адтҍ вуэӈӈэ.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Сейчас отдыхайте!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Адтҍ ли вуэӈӈмушш.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Сейчас перерыв.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Адтҍ тыйй мушшьтсэллэ, мэнн баяс мыйй са̄р нэмь яххта!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Сейчас вспоминайте, о чем мы говорили вчера!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Бэдахч мӯрэтҍ ко̄ппче.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Надо бы дрова собирать.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Бэдахч ча̄зь пыххьтэ.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Надо бы воду принести.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Бэдтэ тыйй ебпе то̄ӆӆькей.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Как будто вы не понимаете.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ва̄льт мудта на̄пь!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Возьми другую чашку!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ва̄ннҍце мӯ̄н мӣлльтэ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Идите за мной!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ва̄нҍц олкэс!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Иди на улицу!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ва̄нҍц, ко̄шшкэдҍ коа̄ммэтҍ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Иди, суши обувь!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ва̄нҍц, пэ̄з кӣдэтҍ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Иди, мой руки!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ве̄кеть!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Помогайте!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ве̄кьхассьтэ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Помоги!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ве̄кьхассьтэ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Помогите!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ве̄кьхегке!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Помогайте</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вуайй ва̄лльтэ?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Можно взять?</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вуэлках то̄нн ла̄ммпа?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_question</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вуэрьял пӣ̄ӈӈк пыдтӭ тӣрьмесь вуэххьт.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Западный ветер принес грозовую тучу.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вӯллькепь эфтэсьт!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Пойдем вместе!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вӯррьтсегкэ мӯн!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Подождите меня!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вӯррьтэ мӯн!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Ждите меня!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вӯррьтэсь мӯн!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Подожди меня!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Вӯрьт мӯн!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Жди меня!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Е̄ллев тӣн пэ̄ҏтэсьт жэва? Манҍтэ?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_story</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Е̄ннэ вуэррьпнэдтӭ я вӣлье то̄нэсьт ли?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_story</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Е̄ннэ мэ̄нн тыйй ебпе то̄ӆӆькэй?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Многого вы не понимаете?</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Е̄ннэ па̄ррнэдтӭ то̄нэсьт ли?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_story</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Е̄ннэ ыгке ли то̄н па̄ррнэтҍ?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_story</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Е̄ннэ ыгке то̄ннӭ ли?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_story</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ка̄тҍ укс!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Закрой дверь!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="S" orth="2008sars">Касьт то̄нн вуэпьсувах?</l>
         </lg>
         <mg>
@@ -650,7 +9,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -663,7 +22,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -676,7 +35,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -689,7 +48,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -702,7 +61,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Где ты был/а вчера?</t>
+                <t pos="xxx">Где ты был/а вчера?</t>
             </tg>
         </mg>
     </e>
@@ -715,7 +74,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Кто не пришел?</t>
+                <t pos="xxx">Кто не пришел?</t>
             </tg>
         </mg>
     </e>
@@ -728,7 +87,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Кого нет?</t>
+                <t pos="xxx">Кого нет?</t>
             </tg>
         </mg>
     </e>
@@ -741,20 +100,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Кто не пришел?</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Ке̄нн я мэ̄нн ва̄лтах мӣлльтэ?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_question</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx">Кто не пришел?</t>
             </tg>
         </mg>
     </e>
@@ -767,7 +113,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -780,7 +126,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Куда едешь?</t>
+                <t pos="xxx">Куда едешь?</t>
             </tg>
         </mg>
     </e>
@@ -793,7 +139,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -806,7 +152,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Кувакса дымит.</t>
+                <t pos="xxx">Кувакса дымит.</t>
             </tg>
         </mg>
     </e>
@@ -819,7 +165,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Слушайте!</t>
+                <t pos="xxx">Слушайте!</t>
             </tg>
         </mg>
     </e>
@@ -832,7 +178,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Слушай!</t>
+                <t pos="xxx">Слушай!</t>
             </tg>
         </mg>
     </e>
@@ -845,7 +191,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Слушайте!</t>
+                <t pos="xxx">Слушайте!</t>
             </tg>
         </mg>
     </e>
@@ -859,7 +205,7 @@
                 <sarsina-chapter>0</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -872,7 +218,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -885,7 +231,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Который час?</t>
+                <t pos="xxx">Который час?</t>
             </tg>
         </mg>
     </e>
@@ -898,7 +244,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -911,7 +257,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Мусор сюда в мешок бросайте!</t>
+                <t pos="xxx">Мусор сюда в мешок бросайте!</t>
             </tg>
         </mg>
     </e>
@@ -924,7 +270,7 @@
                 <sarsina-chapter>0</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Ловозеро</t>
+                <t pos="xxx">Ловозеро</t>
             </tg>
         </mg>
     </e>
@@ -937,7 +283,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -950,7 +296,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -963,7 +309,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -976,7 +322,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -989,7 +335,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Откуда ты это знаешь?</t>
+                <t pos="xxx">Откуда ты это знаешь?</t>
             </tg>
         </mg>
     </e>
@@ -1002,7 +348,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1015,7 +361,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1028,7 +374,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1041,7 +387,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1054,7 +400,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1067,7 +413,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1080,7 +426,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1093,7 +439,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я был/а в лесу.</t>
+                <t pos="xxx">Я был/а в лесу.</t>
             </tg>
         </mg>
     </e>
@@ -1106,7 +452,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я устал/а, я хочу спать.</t>
+                <t pos="xxx">Я устал/а, я хочу спать.</t>
             </tg>
         </mg>
     </e>
@@ -1119,7 +465,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я замерз/ла.</t>
+                <t pos="xxx">Я замерз/ла.</t>
             </tg>
         </mg>
     </e>
@@ -1132,7 +478,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я устал/а, я хочу спать.</t>
+                <t pos="xxx">Я устал/а, я хочу спать.</t>
             </tg>
         </mg>
     </e>
@@ -1145,7 +491,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">У меня утомление.</t>
+                <t pos="xxx">У меня утомление.</t>
             </tg>
         </mg>
     </e>
@@ -1158,7 +504,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я вспотел/а.</t>
+                <t pos="xxx">Я вспотел/а.</t>
             </tg>
         </mg>
     </e>
@@ -1171,7 +517,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я хочу кушать.</t>
+                <t pos="xxx">Я хочу кушать.</t>
             </tg>
         </mg>
     </e>
@@ -1184,7 +530,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я хочу пить.</t>
+                <t pos="xxx">Я хочу пить.</t>
             </tg>
         </mg>
     </e>
@@ -1197,7 +543,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я хочу в туалет.</t>
+                <t pos="xxx">Я хочу в туалет.</t>
             </tg>
         </mg>
     </e>
@@ -1210,7 +556,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я не помню.</t>
+                <t pos="xxx">Я не помню.</t>
             </tg>
         </mg>
     </e>
@@ -1223,7 +569,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я не понял/а.</t>
+                <t pos="xxx">Я не понял/а.</t>
             </tg>
         </mg>
     </e>
@@ -1236,7 +582,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я не знаю.</t>
+                <t pos="xxx">Я не знаю.</t>
             </tg>
         </mg>
     </e>
@@ -1249,7 +595,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я еду на озеро.</t>
+                <t pos="xxx">Я еду на озеро.</t>
             </tg>
         </mg>
     </e>
@@ -1262,7 +608,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">У меня утомление.</t>
+                <t pos="xxx">У меня утомление.</t>
             </tg>
         </mg>
     </e>
@@ -1275,7 +621,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Вспомни!</t>
+                <t pos="xxx">Вспомни!</t>
             </tg>
         </mg>
     </e>
@@ -1288,7 +634,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Я хочу в туалет.</t>
+                <t pos="xxx">Я хочу в туалет.</t>
             </tg>
         </mg>
     </e>
@@ -1301,7 +647,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Мне жарко.</t>
+                <t pos="xxx">Мне жарко.</t>
             </tg>
         </mg>
     </e>
@@ -1314,7 +660,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1327,7 +673,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1340,7 +686,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1353,7 +699,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1366,20 +712,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Мэ̄нн тоннӭ быдт?</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Что тебе надо?</t>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1392,7 +725,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1405,7 +738,7 @@
                 <sarsina-chapter>14_story</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1418,7 +751,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1431,7 +764,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1444,7 +777,7 @@
                 <sarsina-chapter>14_camp</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1457,7 +790,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">У меня мокрая обувь.</t>
+                <t pos="xxx">У меня мокрая обувь.</t>
             </tg>
         </mg>
     </e>
@@ -1470,7 +803,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">У меня мокрая обувь.</t>
+                <t pos="xxx">У меня мокрая обувь.</t>
             </tg>
         </mg>
     </e>
@@ -1483,7 +816,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Новые слова сами записывайте!</t>
+                <t pos="xxx">Новые слова сами записывайте!</t>
             </tg>
         </mg>
     </e>
@@ -1496,7 +829,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Понимаешь?</t>
+                <t pos="xxx">Понимаешь?</t>
             </tg>
         </mg>
     </e>
@@ -1509,7 +842,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Понимаете?</t>
+                <t pos="xxx">Понимаете?</t>
             </tg>
         </mg>
     </e>
@@ -1522,7 +855,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Спасибо за помошь!</t>
+                <t pos="xxx">Спасибо за помошь!</t>
             </tg>
         </mg>
     </e>
@@ -1535,7 +868,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Спасибо за помошь!</t>
+                <t pos="xxx">Спасибо за помошь!</t>
             </tg>
         </mg>
     </e>
@@ -1548,7 +881,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Собака на улице.</t>
+                <t pos="xxx">Собака на улице.</t>
             </tg>
         </mg>
     </e>
@@ -1561,7 +894,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Обед готов.</t>
+                <t pos="xxx">Обед готов.</t>
             </tg>
         </mg>
     </e>
@@ -1574,7 +907,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Обед готов.</t>
+                <t pos="xxx">Обед готов.</t>
             </tg>
         </mg>
     </e>
@@ -1587,7 +920,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Обед готов.</t>
+                <t pos="xxx">Обед готов.</t>
             </tg>
         </mg>
     </e>
@@ -1600,7 +933,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Идите сюда!</t>
+                <t pos="xxx">Идите сюда!</t>
             </tg>
         </mg>
     </e>
@@ -1613,7 +946,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Иди ко мне!</t>
+                <t pos="xxx">Иди ко мне!</t>
             </tg>
         </mg>
     </e>
@@ -1626,7 +959,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Иди ко мне!</t>
+                <t pos="xxx">Иди ко мне!</t>
             </tg>
         </mg>
     </e>
@@ -1639,7 +972,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Иди сюда!</t>
+                <t pos="xxx">Иди сюда!</t>
             </tg>
         </mg>
     </e>
@@ -1652,7 +985,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Положи дрова в костер!</t>
+                <t pos="xxx">Положи дрова в костер!</t>
             </tg>
         </mg>
     </e>
@@ -1665,20 +998,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Положи чуть-чуть соли!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Пэ̄ссэ ӣжянт мӣлльтэ оа̄с сьтэтҍ!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Мойте за собой посуду!</t>
+                <t pos="xxx">Положи чуть-чуть соли!</t>
             </tg>
         </mg>
     </e>
@@ -1691,20 +1011,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Поставь чайник!</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">Са̄ррнэ мун мӣлльтэ.</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>14_phrases</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">Повторите за мной!</t>
+                <t pos="xxx">Поставь чайник!</t>
             </tg>
         </mg>
     </e>
@@ -1717,7 +1024,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1730,7 +1037,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Он/она внутри. Где? В куваксе.</t>
+                <t pos="xxx">Он/она внутри. Где? В куваксе.</t>
             </tg>
         </mg>
     </e>
@@ -1743,7 +1050,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Он/она идет внутрь.</t>
+                <t pos="xxx">Он/она идет внутрь.</t>
             </tg>
         </mg>
     </e>
@@ -1756,7 +1063,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Он/она заходит.</t>
+                <t pos="xxx">Он/она заходит.</t>
             </tg>
         </mg>
     </e>
@@ -1769,7 +1076,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня шторм.</t>
+                <t pos="xxx">Сегодня шторм.</t>
             </tg>
         </mg>
     </e>
@@ -1782,7 +1089,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">сегодня Идет дождь.</t>
+                <t pos="xxx">сегодня Идет дождь.</t>
             </tg>
         </mg>
     </e>
@@ -1795,7 +1102,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Погода сегодня облачная.</t>
+                <t pos="xxx">Погода сегодня облачная.</t>
             </tg>
         </mg>
     </e>
@@ -1808,7 +1115,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня холодно.</t>
+                <t pos="xxx">Сегодня холодно.</t>
             </tg>
         </mg>
     </e>
@@ -1821,7 +1128,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня теплый день.</t>
+                <t pos="xxx">Сегодня теплый день.</t>
             </tg>
         </mg>
     </e>
@@ -1834,7 +1141,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня ветренная погода.</t>
+                <t pos="xxx">Сегодня ветренная погода.</t>
             </tg>
         </mg>
     </e>
@@ -1847,7 +1154,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня прохладно.</t>
+                <t pos="xxx">Сегодня прохладно.</t>
             </tg>
         </mg>
     </e>
@@ -1860,7 +1167,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Погода сегодня облачная.</t>
+                <t pos="xxx">Погода сегодня облачная.</t>
             </tg>
         </mg>
     </e>
@@ -1873,7 +1180,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня ветренно.</t>
+                <t pos="xxx">Сегодня ветренно.</t>
             </tg>
         </mg>
     </e>
@@ -1886,7 +1193,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сегодня шторм.</t>
+                <t pos="xxx">Сегодня шторм.</t>
             </tg>
         </mg>
     </e>
@@ -1899,7 +1206,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Ты помнишь, куда положил/а нож?</t>
+                <t pos="xxx">Ты помнишь, куда положил/а нож?</t>
             </tg>
         </mg>
     </e>
@@ -1912,7 +1219,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Ты знаешь, где Вася?</t>
+                <t pos="xxx">Ты знаешь, где Вася?</t>
             </tg>
         </mg>
     </e>
@@ -1925,7 +1232,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1938,7 +1245,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">У тебя руки грязные.</t>
+                <t pos="xxx">У тебя руки грязные.</t>
             </tg>
         </mg>
     </e>
@@ -1951,7 +1258,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1964,7 +1271,7 @@
                 <sarsina-chapter>14_question</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus"/>
+                <t pos="xxx"/>
             </tg>
         </mg>
     </e>
@@ -1977,7 +1284,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Одень под куртку что-то!</t>
+                <t pos="xxx">Одень под куртку что-то!</t>
             </tg>
         </mg>
     </e>
@@ -1990,7 +1297,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Скажи еще раз!</t>
+                <t pos="xxx">Скажи еще раз!</t>
             </tg>
         </mg>
     </e>
@@ -2003,7 +1310,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Вода булькает (в животе).</t>
+                <t pos="xxx">Вода булькает (в животе).</t>
             </tg>
         </mg>
     </e>
@@ -2016,7 +1323,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Вода булькает (в животе).</t>
+                <t pos="xxx">Вода булькает (в животе).</t>
             </tg>
         </mg>
     </e>
@@ -2029,7 +1336,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Вода вскипела.</t>
+                <t pos="xxx">Вода вскипела.</t>
             </tg>
         </mg>
     </e>
@@ -2042,7 +1349,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Громче говори!</t>
+                <t pos="xxx">Громче говори!</t>
             </tg>
         </mg>
     </e>
@@ -2055,7 +1362,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Ненадо.</t>
+                <t pos="xxx">Ненадо.</t>
             </tg>
         </mg>
     </e>
@@ -2068,7 +1375,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сядьте рядом!</t>
+                <t pos="xxx">Сядьте рядом!</t>
             </tg>
         </mg>
     </e>
@@ -2081,7 +1388,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Нельзя.</t>
+                <t pos="xxx">Нельзя.</t>
             </tg>
         </mg>
     </e>
@@ -2094,7 +1401,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Каждый день мы будем играть.</t>
+                <t pos="xxx">Каждый день мы будем играть.</t>
             </tg>
         </mg>
     </e>
@@ -2107,7 +1414,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Разнообразные чаи будем пить.</t>
+                <t pos="xxx">Разнообразные чаи будем пить.</t>
             </tg>
         </mg>
     </e>
@@ -2120,7 +1427,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">На озере волны.</t>
+                <t pos="xxx">На озере волны.</t>
             </tg>
         </mg>
     </e>
@@ -2133,7 +1440,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Над озером стелется туман.</t>
+                <t pos="xxx">Над озером стелется туман.</t>
             </tg>
         </mg>
     </e>
@@ -2146,7 +1453,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Сними обувь!</t>
+                <t pos="xxx">Сними обувь!</t>
             </tg>
         </mg>
     </e>
@@ -2159,20 +1466,7 @@
                 <sarsina-chapter>14_phrases</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">Вчера был светлый день.</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="S" orth="2008sars">а̄ведҍ ня̄льм!</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sarsina-chapter>11</sarsina-chapter>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="rus">открой рот!</t>
+                <t pos="xxx">Вчера был светлый день.</t>
             </tg>
         </mg>
     </e>
@@ -2185,7 +1479,7 @@
                 <sarsina-chapter>4</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">погода и времена года</t>
+                <t pos="xxx">погода и времена года</t>
             </tg>
         </mg>
     </e>
@@ -2201,7 +1495,7 @@
                 <sarsina-chapter>1</sarsina-chapter>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="rus">свободное время</t>
+                <t pos="xxx">свободное время</t>
             </tg>
         </mg>
     </e>

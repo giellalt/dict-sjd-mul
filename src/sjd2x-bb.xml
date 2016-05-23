@@ -10,6 +10,186 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
         <ref>Work by Giellatekno at UiT – Norges Arktiske Universitet, University of Freiburg, and members of the Kildin Saami language community. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:feedback@divvun.no</a> or <a>mailto:giellatekno@hum.uit.no</a>.
             
             Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote></lics>
+    <e kur_ID="291">
+        <lg>
+            <l pos="V">бэдтӭ</l>
+            <orth>
+                <lvar orth="1985kuru">бэдтӭ</lvar>
+                <lvar orth="1985kur1">бэдтэ</lvar>
+                <lvar orth="1991samm">быдтэ</lvar>
+                <lvar orth="2008sars">бэдтэ</lvar>
+                <lvar orth="2008sar1">быдтӭ</lvar>
+            </orth>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class=""/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="V"/>
+            </tg>
+            <xg lemma="бэдтӭ">
+                <x orth="1991samm" pos="Phrase_V">мыннӭ быдт</x>
+                <xtg xml:lang="sme">
+                    <xt pos="Phrase_V">mun ferten</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="2008sars">Мэ̄нн тоннӭ быдт?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Что тебе надо?</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ" kur_ID="288">
+                <x orth="1985kuru" pos="V">бэдт</x>
+                <x orth="1986kert" pos="V">быдт</x>
+                <x orth="2008sars" pos="V">быдт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_V">нужно</xt>
+                    <xt pos="Phrase_V">следует</xt>
+                    <xt pos="Phrase_V">надо</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">бэдт це̄ӆӆькэ со̄бэр баяс</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">нужно сказать о собрании</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x orth="1986kert" pos="Phrase_V">быдт мушшьтэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx"/>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="2008sars">Соннӭ быдт пуэдтӭ кыджемь ча̄сэсьт.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Ему надо прийти в седьмом часу.</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="2008sars">Соннӭ быдтӭ ляй пуэдтӭ кыджемь ча̄сэсьт.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">Ему надо было прийти в седьмом часу.</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x orth="1985kuru" pos="V">бэдаһч</x>
+                <x orth="2008sars" pos="V">бэдаххч</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">надо бы</xt>
+                </xtg>
+                <xtg xml:lang="rus">
+                    <xt pos="V">требуется</xt>
+                    <xt pos="Phrase_V">нужно</xt>
+                    <xt pos="Phrase_V">следует иметь</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="2008sars">Бэдахч мӯрэтҍ ко̄ппче.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Надо бы дрова собирать.</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="2008sars">Бэдахч ча̄зь пыххьтэ.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Надо бы воду принести.</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">бэдаһч куаррэ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">надо бы шить</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">бэдтӭ ля̄йй</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">надо было</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">нужно было вместе ехать</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">заводтӭ бэдт лыһкъетҍ</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">заводу требуются рабочие</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="CS">что</t>
+            </tg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">[он] уверяет, что сам слышал об этом</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="Adv">как</t>
+                <t pos="Adv">словно</t>
+            </tg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="1985kuru">бэдтэ е̄лльмэнҍ кя̄һч</x>
+                <xtg xml:lang="rus">
+                    <xt pos="Phrase_S">[он] смотрит, как живой</xt>
+                </xtg>
+            </xg>
+            <xg lemma="бэдтӭ">
+                <x pos="Phrase_S" orth="2008sars">Бэдтэ тыйй ебпе то̄ӆӆькей.</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Как будто вы не понимаете.</xt>
+                </xtg>
+            </xg>
+        </mg>
+        <mg>
+            <tg xml:lang="sme">
+                <t pos="xxx">várra</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="xxx">dego</t>
+            </tg>
+        </mg>
+    </e>
+    <mg>
+        <semantics>
+            <sem class="xxx"/>
+        </semantics>
+        <tg xml:lang="rus">
+            <t pos="Pcle">неужели</t>
+        </tg>
+        <tg xml:lang="rus">
+            <t pos="Pcle">разве</t>
+        </tg>
+        <xg lemma="бэдтӭ">
+            <x pos="Phrase_S" orth="1985kuru">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
+            <xtg xml:lang="rus">
+                <xt pos="Phrase_S">неужели вы не понимаете?</xt>
+            </xtg>
+        </xg>
+        <xg lemma="бэдтӭ">
+            <x pos="Phrase_S" orth="1985kuru">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
+            <xtg xml:lang="rus">
+                <xt pos="Phrase_S">разве вы к нам придёте?</xt>
+            </xtg>
+        </xg>
+    </mg>
     <e>
         <note>check lemma and its lvariants</note>
         <lg>
@@ -1826,141 +2006,6 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
     </e>
     <e>
         <lg>
-            <l pos="V">быдт</l>
-            <orth>
-                <lvar orth="1991samm"/>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t pos="xxx">fertet</t>
-            </tg>
-            <xg lemma="xxx">
-                <x orth="1991samm" pos="Phrase_V">mun ferten</x>
-                <xtg xml:lang="sme">
-                    <xt pos="Phrase_V">мыннӭ быдт</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx">быдтэ</l>
-            <orth>
-                <lvar orth="1991samm">быдтэ</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t pos="xxx">várra</t>
-            </tg>
-            <tg xml:lang="sme">
-                <t pos="xxx">dego</t>
-            </tg>
-        </mg>
-    </e>
-    <e kur_ID="xxx">
-        <lg>
-            <l pos="V" person="3">бэдаһч</l>
-            <orth>
-                <lvar orth="1985kuru">бэдаһч</lvar>
-                <lvar orth="2008sars">бэдаххч</lvar>
-            </orth>
-            <pointer>
-                <root>бэдт</root>
-            </pointer>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Phrase_S">надо бы</t>
-            </tg>
-            <xg lemma="бэдаһч">
-                <x pos="Phrase_S" orth="1985kuru">бэдаһч куаррэ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">надо бы шить</xt>
-                </xtg>
-            </xg>
-            <xg lemma="бэдаһч">
-                <x pos="Phrase_S" orth="1985kuru">бэдтӭ ля̄йй</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">надо было</xt>
-                </xtg>
-            </xg>
-            <xg lemma="бэдаһч">
-                <x pos="Phrase_S" orth="1985kuru">бэдтӭ ля̄йй эфтэсьт ёадтӭ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">нужно было вместе ехать</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="V">требуется</t>
-                <t pos="Phrase_V">нужно</t>
-                <t pos="Phrase_V">следует иметь</t>
-            </tg>
-            <xg lemma="бэдаһч">
-                <x pos="Phrase_S" orth="1985kuru">заводтӭ бэдт лыһкъетҍ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">заводу требуются рабочие</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e kur_ID="288">
-        <lg>
-            <l pos="V" person="3">бэдт</l>
-            <orth>
-                <lvar orth="1985kuru">бэдт</lvar>
-                <lvar orth="1986kert">быдт</lvar>
-                <lvar orth="2008sars">быдт</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-                <sem class="sars-chapt-6"/>
-            </semantics>
-            <lexicon xml:lang="rus">необходимо что-л. сделать</lexicon>
-            <tg xml:lang="rus">
-                <t pos="Phrase_V">нужно</t>
-                <t pos="Phrase_V">следует</t>
-                <t pos="Phrase_V">надо</t>
-            </tg>
-            <xg lemma="бэдт">
-                <x pos="Phrase_S" orth="1985kuru">бэдт це̄ӆӆькэ со̄бэр баяс</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">нужно сказать о собрании</xt>
-                </xtg>
-            </xg>
-            <xg lemma="быдт">
-                <x orth="1986kert" pos="Phrase_V">быдт мушшьтэ</x>
-                <xtg xml:lang="rus">
-                    <xt pos="xxx"/>
-                </xtg>
-            </xg>
-            <xg lemma="xxx">
-                <x pos="Phrase_S" orth="2008sars">Соннӭ быдт пуэдтӭ кыджемь ча̄сэсьт.</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Ему надо прийти в седьмом часу.</xt>
-                </xtg>
-            </xg>
-            <xg lemma="xxx">
-                <x pos="Phrase_S" orth="2008sars">Соннӭ быдтӭ ляй пуэдтӭ кыджемь ча̄сэсьт.</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">Ему надо было прийти в седьмом часу.</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
-    <e>
-        <lg>
             <l pos="xxx">бэдтлэсь</l>
             <orth>
                 <lvar orth="1986kert">быдтлэсь</lvar>
@@ -1972,76 +2017,15 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dictio
             </tg>
         </mg>
     </e>
-    <e kur_ID="291">
-        <note>pos??</note>
-        <lg>
-            <l pos="V">бэдтэ</l>
-            <orth>
-                <lvar orth="1985kuru">бэдтэ</lvar>
-            </orth>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Pcle">неужели</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="Pcle">разве</t>
-            </tg>
-            <xg lemma="бэдтэ">
-                <x pos="Phrase_S" orth="1985kuru">бэдтэ тыйй ебпе то̄ӆӆькэ?</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">неужели вы не понимаете?</xt>
-                </xtg>
-            </xg>
-            <xg lemma="бэдтэ">
-                <x pos="Phrase_S" orth="1985kuru">бэдтэ тыйй мыйе пуэдтҍбэдтӭ?</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">разве вы к нам придёте?</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="Adv">как</t>
-                <t pos="Adv">словно</t>
-            </tg>
-            <xg lemma="бэдтэ">
-                <x pos="Phrase_S" orth="1985kuru">бэдтэ е̄лльмэнҍ кя̄һч</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">[он] смотрит, как живой</xt>
-                </xtg>
-            </xg>
-        </mg>
-        <mg>
-            <semantics>
-                <sem class="xxx"/>
-            </semantics>
-            <tg xml:lang="rus">
-                <t pos="CS">что</t>
-            </tg>
-            <xg lemma="бэдтэ">
-                <x pos="Phrase_S" orth="1985kuru">оасскталл, бэдтэ ӣджь кулэ тэнн баяс</x>
-                <xtg xml:lang="rus">
-                    <xt pos="Phrase_S">[он] уверяет, что сам слышал об этом</xt>
-                </xtg>
-            </xg>
-        </mg>
-    </e>
     <e>
         <lg>
-            <l pos="Der_N">бэдтэй</l>
+            <l pos="Der_N">бэдтӭй</l>
             <orth>
-                <lvar orth="1986kert">быдтэй</lvar>
-                <lvar orth="1986ker1">быдтӭй</lvar>
+                <lvar orth="1986kert">быдтӭй</lvar>
+                <lvar orth="1986ker1">быдтэй</lvar>
             </orth>
             <pointer>
-                <root>бэдтэ</root>
+                <root>бэдтӭ</root>
             </pointer>
         </lg>
         <mg>

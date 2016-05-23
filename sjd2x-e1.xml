@@ -1,6 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <r>
+    <e kur_ID="1193">
+        <lg>
+            <l pos="N">е̄ҏҏьт</l>
+            <orth>
+                <lvar orth="1985kuru">е̄ҏҏьт</lvar>
+                <lvar orth="1986kert">е̄ҏҏьт</lvar>
+                <lvar orth="2008sars">е̄ҏҏьт</lvar>
+            </orth>
+            <infl>
+                <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄ҏьт</stem_kuru>
+                <class_kuru class="II" ablaut="1" special="_x_"/>
+                <stem_kert gloss="мн">е̄ҏьт</stem_kert>
+                <stem_sars>ҏьт</stem_sars>
+            </infl>
+        </lg>
+        <mg km="g1">
+            <semantics>
+                <stype>xxx</stype>
+            </semantics>
+            <tg>
+                <t>бок</t>
+                <t>сторона</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="V">куаррэ вэ̄ннсэ ӣҏьтэтҍ</x>
+                <xt>обшить лодку</xt>
+            </xg>
+        </mg>
+        <mg km="g2">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>10</sarsina-chapter>
+            </semantics>
+            <tg>
+                <t>бок (у человека, животных)</t>
+            </tg>
+            <xg>
+                <x orth="1986kert" pos="xxx">е̄ҏҏьт ре̄дт</x>
+                <xtg>
+                    <xt>в боку колет</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">чинчпелль е̄ҏҏьт</x>
+                <x orth="2008sars" pos="xxx">чинчпелль е̄ҏҏьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">левый бок</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1986kert" pos="xxx">вуэлькесьпе̄лль е̄ҏҏьт</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">правый бок</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="V">вуэдтӭ вуэлькесь пе̄лль е̄ҏьтэсьт</x>
+                <xt>спать на правом боку</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄ҏьтэсьт я̄ҏҏта</x>
+                <xt>с боку на бок</xt>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄ҏҏьт я̄ҏҏта</x>
+                <xt>бок о бок</xt>
+            </xg>
+        </mg>
+    </e>
+    <e kur_ID="1169">
+        <lg>
+            <l pos="ADV">ента</l>
+            <orth>
+                <lvar orth="1985kuru">ента</lvar>
+                <lvar orth="1986kert">ента</lvar>
+                <lvar orth="2008sars">ента</lvar>
+            </orth>
+            <pointers>
+                <compare>янта</compare>
+            </pointers>
+        </lg>
+        <mg km="g">
+            <semantics>
+                <stype>xxx</stype>
+                <sarsina-chapter>4</sarsina-chapter>
+            </semantics>
+            <semantics> </semantics>
+            <tg xml:lang="rus">
+                <t pos="ADV">завтра</t>
+            </tg>
+            <xg>
+                <x orth="1985kuru" pos="S">пуада ента</x>
+                <xt>[я] приеду завтра</xt>
+            </xg>
+            <xg lemma="ента">
+                <x orth="1985kuru" pos="Phrase_ADV">маӈӈа ента</x>
+                <x orth="1986kert" pos="ADV">маӈӈаента</x>
+                <x orth="2008sars" pos="ADV">маӈӈаента</x>
+                <xt>послезавтра</xt>
+            </xg>
+            <xg lemma="ента">
+                <x orth="2008sars" pos="ADV">пэ̄йельента</x>
+                <x orth="1986kert" pos="ADV">пэ̄йельента</x>
+                <xtg xml:lang="rus">
+                    <xt pos="ADV">послезавтра</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e>
         <lg source="1991samm">
             <l>е̄ʼк</l>
@@ -222,36 +331,6 @@
                     <xt>eadnán</xt>
                 </xtg>
             </xg>
-        </mg>
-    </e>
-    <e>
-        <lg source="1991samm">
-            <l>е̄ннэ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>sakka</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg source="1991samm">
-            <l>е̄ннэ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>valjis</t>
-            </tg>
-        </mg>
-    </e>
-    <e>
-        <lg source="1991samm">
-            <l>е̄ннэ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="sme">
-                <t>olu</t>
-            </tg>
         </mg>
     </e>
     <e>
@@ -502,7 +581,7 @@
     </e>
     <e kur_ID="1111">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">е̄весь</l>
+            <l pos="A" orth="1985kuru">е̄весь</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
             </infl>
@@ -517,16 +596,16 @@
                 <t>провизия</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">манҍтэ е̄вьсетҍ ва̄лтак ма̄нна?</x>
+                <x orth="1985kuru" pos="S">манҍтэ е̄вьсетҍ ва̄лтак ма̄нна?</x>
                 <xt>какие продукты возьмёшь на месяц?</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄весь ве̄ҏҏц</x>
+                <x orth="1985kuru" pos="N">е̄весь ве̄ҏҏц</x>
                 <xt>мешок для продуктов</xt>
                 <xt>мешок с продуктами</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄весь ла̄ффьк</x>
+                <x orth="1985kuru" pos="N">е̄весь ла̄ффьк</x>
                 <xt>продуктовый магазин</xt>
             </xg>
         </mg>
@@ -576,7 +655,7 @@
     </e>
     <e kur_ID="1112">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄гель</l>
+            <l pos="N" orth="1985kuru">е̄гель</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="7800">я̄гкал</stem_kuru>
                 <class_kuru class="V" ablaut="1" special="_x_"/>
@@ -590,7 +669,7 @@
                 <t gender="m">ягель</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">я̄гклэтҍ каһце пӯдзэ гуэйкэ</x>
+                <x orth="1985kuru" pos="V">я̄гклэтҍ каһце пӯдзэ гуэйкэ</x>
                 <xt>заготовлять ягель для оленей</xt>
             </xg>
         </mg>
@@ -631,7 +710,7 @@
     </e>
     <e kur_ID="1113" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄гельлуввэ</l>
+            <l pos="V" orth="1985kuru">е̄гельлуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -645,7 +724,7 @@
                 <t>покрыться (зарасти) ягелем</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пуэллэнч сай ча̄рэсьт кугкь ев е̄гельлув</x>
+                <x orth="1985kuru" pos="xxx">пуэллэнч сай ча̄рэсьт кугкь ев е̄гельлув</x>
                 <xt>горелые места в тундре долго не зарастают ягелем</xt>
             </xg>
         </mg>
@@ -657,15 +736,14 @@
                 <t>запастись ягелем</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мунн та̄лвас е̄гельлувве - ла̄ммпас лӣннченҍ
-                    каллас</x>
+                <x orth="1985kuru" pos="xxx">мунн та̄лвас е̄гельлувве - ла̄ммпас лӣннченҍ каллас</x>
                 <xt>я запасся на зиму ягелем - овцы будут сыты</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1114" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄гельлувнэ</l>
+            <l pos="V" orth="1985kuru">е̄гельлувнэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -694,7 +772,7 @@
     </e>
     <e kur_ID="1115" link_sm="1">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">е̄геч</l>
+            <l pos="A" orth="1985kuru">е̄геч</l>
             <pointers>
                 <compare>е̄гкель</compare>
             </pointers>
@@ -708,14 +786,14 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">со̄нн пэре лӣ е̄геч</x>
+                <x orth="1985kuru" pos="xxx">со̄нн пэре лӣ е̄геч</x>
                 <xt>он очень вынослив</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1116">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄гке</l>
+            <l pos="V" orth="1985kuru">е̄гке</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
             </infl>
@@ -730,19 +808,19 @@
                 <t valency="что" imperf="перенести">переносить</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">е̄гке чуэдзмуж</x>
+                <x orth="1985kuru" pos="V">е̄гке чуэдзмуж</x>
                 <xt>терпеть боль</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">мунн пугк я̄га</x>
+                <x orth="1985kuru" pos="S">мунн пугк я̄га</x>
                 <xt>я всё вытерплю</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">а̄ййк я̄гк</x>
+                <x orth="1985kuru" pos="S">а̄ййк я̄гк</x>
                 <xt>время терпит</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">тэдт элля е̄гкьмэсьт</x>
+                <x orth="1985kuru" pos="S">тэдт элля е̄гкьмэсьт</x>
                 <xt>этого нельзя вынести (пережить)</xt>
             </xg>
         </mg>
@@ -754,11 +832,11 @@
                 <t valency="кого-что" imperf="вытерпеть">терпеть</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн эйй е̄гь па̄гкьмужэтҍ</x>
+                <x orth="1985kuru" pos="S">со̄нн эйй е̄гь па̄гкьмужэтҍ</x>
                 <xt>он не терпит возражений</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн эйй шоабэшьт, а лышэ я̄гк мун</x>
+                <x orth="1985kuru" pos="S">со̄нн эйй шоабэшьт, а лышэ я̄гк мун</x>
                 <xt>он не любит, а только терпит меня</xt>
             </xg>
         </mg>
@@ -770,18 +848,18 @@
                 <t valency="кому-чему(чем)" imperf="послужить">служить</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">нӯррь вя̄л я̄гк коарсэгкэнҍ</x>
+                <x orth="1985kuru" pos="S">нӯррь вя̄л я̄гк коарсэгкэнҍ</x>
                 <xt>верёвка ещё послужит для завязывания возов</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">вуэммь тубэрк вя̄л е̄гкев</x>
+                <x orth="1985kuru" pos="S">вуэммь тубэрк вя̄л е̄гкев</x>
                 <xt>старые тоборки ___lookupтубэркlookup___ ещё послужат</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1117" link_sm="1">
         <lg>
-            <l pos="A:PRED" orth="1985kuru-sjd">е̄гкель</l>
+            <l pos="A:PRED" orth="1985kuru">е̄гкель</l>
             <der type="SM">е̄гке</der>
         </lg>
         <mg km="g">
@@ -801,14 +879,14 @@
                 <t>терпелив</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">тэдт пуаз лӣ е̄гкель</x>
+                <x orth="1985kuru" pos="xxx">тэдт пуаз лӣ е̄гкель</x>
                 <xt>этот олень вынослив</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1118">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄гкь</l>
+            <l pos="N" orth="1985kuru">е̄гкь</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="7799">я̄гка</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
@@ -825,7 +903,7 @@
     </e>
     <e kur_ID="1119" link_sm="1">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">е̄гкьесь</l>
+            <l pos="A" orth="1985kuru">е̄гкьесь</l>
             <der type="SM">е̄гке</der>
         </lg>
         <mg km="g">
@@ -839,14 +917,14 @@
                 <t>терпеливый</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄гкьесь пуаз</x>
+                <x orth="1985kuru" pos="xxx">е̄гкьесь пуаз</x>
                 <xt>выносливый олень</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1120" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄гкьлассьтэ</l>
+            <l pos="V" orth="1985kuru">е̄гкьлассьтэ</l>
             <infl>
                 <class_kuru class="II" ablaut="1" special="*"/>
             </infl>
@@ -861,7 +939,7 @@
                 <t>потерпеть что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄гкьласьт, чуэдзмушш вэххтэнне ва̄сс</x>
+                <x orth="1985kuru" pos="xxx">е̄гкьласьт, чуэдзмушш вэххтэнне ва̄сс</x>
                 <xt>потерпи немного, боль скоро пройдёт</xt>
             </xg>
         </mg>
@@ -883,7 +961,7 @@
                 <t>послужить чем</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">нӯррь эйй кугкь е̄гкьласстма коарсэгкэнҍ</x>
+                <x orth="1985kuru" pos="xxx">нӯррь эйй кугкь е̄гкьласстма коарсэгкэнҍ</x>
                 <xt>верёвка недолго послужила для завязывания возов</xt>
             </xg>
         </mg>
@@ -896,14 +974,14 @@
                 <t>послужить кому-чему</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ев кугкь пима е̄гкьласстма мыннӭ</x>
+                <x orth="1985kuru" pos="xxx">ев кугкь пима е̄гкьласстма мыннӭ</x>
                 <xt>пимы мне недолго послужили</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1121" link_sm="1">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">е̄гкьлэнне</l>
+            <l pos="ADV" orth="1985kuru">е̄гкьлэнне</l>
             <der type="SM">е̄гке</der>
         </lg>
         <mg km="g">
@@ -914,7 +992,7 @@
                 <t>терпеливо</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄гкьлэнне куллтлэ вуэпьсэмужэтҍ</x>
+                <x orth="1985kuru" pos="xxx">е̄гкьлэнне куллтлэ вуэпьсэмужэтҍ</x>
                 <xt>терпеливо слушать наставления</xt>
             </xg>
         </mg>
@@ -937,7 +1015,7 @@
     </e>
     <e kur_ID="1122" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄днэ</l>
+            <l pos="V" orth="1985kuru">е̄днэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -953,7 +1031,7 @@
                 <t>резать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ке̄сся мунн е̄дна сӯйнэтҍ ва̄ннцнӭ гуэйкэ</x>
+                <x orth="1985kuru" pos="xxx">ке̄сся мунн е̄дна сӯйнэтҍ ва̄ннцнӭ гуэйкэ</x>
                 <xt>летом я режу траву для обуви</xt>
             </xg>
         </mg>
@@ -986,7 +1064,7 @@
     </e>
     <e kur_ID="1123" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄дсэ</l>
+            <l pos="V" orth="1985kuru">е̄дсэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1002,7 +1080,7 @@
                 <t>разрезать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄дэсьт ню̄ццкан по̄ррэм кӯль</x>
+                <x orth="1985kuru" pos="xxx">е̄дэсьт ню̄ццкан по̄ррэм кӯль</x>
                 <xt>разрежь свежепросольную рыбу</xt>
             </xg>
         </mg>
@@ -1031,7 +1109,7 @@
     </e>
     <e kur_ID="1124" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄дтлэ</l>
+            <l pos="V" orth="1985kuru">е̄дтлэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1049,7 +1127,7 @@
                 <t>отрезать что_чего</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄дтэль мыннӭ та̄вяр рыбпехь туаррва</x>
+                <x orth="1985kuru" pos="xxx">е̄дтэль мыннӭ та̄вяр рыбпехь туаррва</x>
                 <xt>отрежь мне ткани на платок</xt>
             </xg>
         </mg>
@@ -1079,7 +1157,7 @@
     </e>
     <e kur_ID="1125" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄дтсэ</l>
+            <l pos="V" orth="1985kuru">е̄дтсэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1093,7 +1171,7 @@
                 <t>резаться</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ле̄ййп шӣгктэнне е̄дтаст</x>
+                <x orth="1985kuru" pos="xxx">ле̄ййп шӣгктэнне е̄дтаст</x>
                 <xt>хлеб хорошо режется</xt>
             </xg>
         </mg>
@@ -1106,14 +1184,14 @@
                 <t>натереться</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">вуэлльк е̄дтэсьт</x>
+                <x orth="1985kuru" pos="xxx">вуэлльк е̄дтэсьт</x>
                 <xt>плечо стёрто</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1126" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄дтъе</l>
+            <l pos="V" orth="1985kuru">е̄дтъе</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1130,14 +1208,14 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ле̄ййп е̄дтэй куськэ-куськэ</x>
+                <x orth="1985kuru" pos="xxx">ле̄ййп е̄дтэй куськэ-куськэ</x>
                 <xt>хлеб нарезан [на куски]</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1127">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄дтэ</l>
+            <l pos="V" orth="1985kuru">е̄дтэ</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
             </infl>
@@ -1152,11 +1230,11 @@
                 <t imperf="отрезать">отрезать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">е̄дтэ пырре куськэ-куськэ</x>
+                <x orth="1985kuru" pos="V">е̄дтэ пырре куськэ-куськэ</x>
                 <xt>разрезать пирог на куски</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">е̄д ле̄ййп выбл!</x>
+                <x orth="1985kuru" pos="S">е̄д ле̄ййп выбл!</x>
                 <xt>отрежь ломоть хлеба!</xt>
             </xg>
         </mg>
@@ -1168,15 +1246,15 @@
                 <t>резать что и без доп.</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ле̄ӎӎьк я̄дт вуэльк</x>
+                <x orth="1985kuru" pos="S">ле̄ӎӎьк я̄дт вуэльк</x>
                 <xt>ремень режет плечо</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">е̄дтэ раст</x>
+                <x orth="1985kuru" pos="V">е̄дтэ раст</x>
                 <xt>перерезать что</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">е̄д нӯрь раст!</x>
+                <x orth="1985kuru" pos="S">е̄д нӯрь раст!</x>
                 <xt>перережь верёвку!</xt>
             </xg>
         </mg>
@@ -1259,7 +1337,7 @@
     </e>
     <e kur_ID="1133" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄кас</l>
+            <l pos="N" orth="1985kuru">е̄кас</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="1130">е̄һкас</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
@@ -1277,14 +1355,14 @@
                 <t>диковинка</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">мэ̄йт е̄һксэтҍ то̄нн пыһтӭкь?</x>
+                <x orth="1985kuru" pos="S">мэ̄йт е̄һксэтҍ то̄нн пыһтӭкь?</x>
                 <xt>что за диковинки ты принёс?</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1134" link_sm="1">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">е̄кесь</l>
+            <l pos="A" orth="1985kuru">е̄кесь</l>
             <der type="SM">е̄кьнэнч</der>
         </lg>
         <mg km="g">
@@ -1295,19 +1373,19 @@
                 <t>вечерний</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄кесь ва̄ннҍцмушш</x>
+                <x orth="1985kuru" pos="xxx">е̄кесь ва̄ннҍцмушш</x>
                 <xt>вечерняя прогулка</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄кесь куэфс</x>
+                <x orth="1985kuru" pos="xxx">е̄кесь куэфс</x>
                 <xt>вечерняя заря</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄кесь гоарренҍ</x>
+                <x orth="1985kuru" pos="xxx">е̄кесь гоарренҍ</x>
                 <xt>под вечер</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄кесь пе̄ррк</x>
+                <x orth="1985kuru" pos="xxx">е̄кесь пе̄ррк</x>
                 <xt>ужин</xt>
             </xg>
         </mg>
@@ -1347,7 +1425,7 @@
     </e>
     <e kur_ID="1135" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄кесьлуввэ</l>
+            <l pos="V" orth="1985kuru">е̄кесьлуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1361,7 +1439,7 @@
                 <t imperf="наступить">настать (о вечере)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пе̄ййв е̄кесьлувэ</x>
+                <x orth="1985kuru" pos="xxx">пе̄ййв е̄кесьлувэ</x>
                 <xt>настал вечер</xt>
             </xg>
         </mg>
@@ -1373,7 +1451,7 @@
                 <t>быть застигнутым вечером</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мыйй е̄кесьлувэмь ва̄ресьт</x>
+                <x orth="1985kuru" pos="xxx">мыйй е̄кесьлувэмь ва̄ресьт</x>
                 <xt>мы пробыли в лесу до позднего вечера, нас застал в лесу вечер</xt>
             </xg>
         </mg>
@@ -1417,7 +1495,7 @@
     </e>
     <e kur_ID="1136" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄кхуввэ</l>
+            <l pos="V" orth="1985kuru">е̄кхуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1432,14 +1510,14 @@
                 <t>мешаться</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ель е̄кхув ю̄лькэ вӯлленҍ</x>
+                <x orth="1985kuru" pos="xxx">ель е̄кхув ю̄лькэ вӯлленҍ</x>
                 <xt>не путайся под ногами</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1137" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄кхэллмушш</l>
+            <l pos="N" orth="1985kuru">е̄кхэллмушш</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄кхэллмуж</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -1454,18 +1532,18 @@
                 <t>помеха</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">бэдт пе̄ссэ е̄кхэллмуженҍ</x>
+                <x orth="1985kuru" pos="xxx">бэдт пе̄ссэ е̄кхэллмуженҍ</x>
                 <xt>избавиться от помех</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">вэ̄цксэ поагэ е̄кхэллмужэтҍ</x>
+                <x orth="1985kuru" pos="xxx">вэ̄цксэ поагэ е̄кхэллмужэтҍ</x>
                 <xt>устранить помехи</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1138">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄кхэллэ</l>
+            <l pos="V" orth="1985kuru">е̄кхэллэ</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="*"/>
             </infl>
@@ -1480,15 +1558,15 @@
                 <t>противодействовать кому-чему</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">е̄кхэллэ рӣке пя̄јјт лыгкэтҍ</x>
+                <x orth="1985kuru" pos="V">е̄кхэллэ рӣке пя̄јјт лыгкэтҍ</x>
                 <xt>противодействовать проискам врагов</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">елле е̄кхалле мыннӭ лыһкэ!</x>
+                <x orth="1985kuru" pos="S">елле е̄кхалле мыннӭ лыһкэ!</x>
                 <xt>не мешайте мне работать!</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">эйй е̄кхэлче во̄дтэдтэ ланна!</x>
+                <x orth="1985kuru" pos="S">эйй е̄кхэлче во̄дтэдтэ ланна!</x>
                 <xt>не мешало бы съездить в город!</xt>
             </xg>
         </mg>
@@ -1515,7 +1593,7 @@
     </e>
     <e kur_ID="1139" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄кхэлсэ</l>
+            <l pos="V" orth="1985kuru">е̄кхэлсэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1529,14 +1607,14 @@
                 <t>помешать кому-чему</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мыннӭ е̄кхэлсэшь тэнн лыһкэ</x>
+                <x orth="1985kuru" pos="xxx">мыннӭ е̄кхэлсэшь тэнн лыһкэ</x>
                 <xt>мне помешали это сделать</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1140" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄кьна</l>
+            <l pos="N" orth="1985kuru">е̄кьна</l>
             <der type="SM">е̄кьнэнч</der>
         </lg>
         <mg km="g">
@@ -1547,7 +1625,7 @@
                 <t>вечером</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄кьна маӈӈедҍ</x>
+                <x orth="1985kuru" pos="xxx">е̄кьна маӈӈедҍ</x>
                 <xt>поздно вечером</xt>
             </xg>
         </mg>
@@ -1577,7 +1655,7 @@
     </e>
     <e kur_ID="1141">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄кьнэнч</l>
+            <l pos="N" orth="1985kuru">е̄кьнэнч</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄кьна</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
@@ -1591,11 +1669,11 @@
                 <t>вечер</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">юэв е̄кьнэнч</x>
+                <x orth="1985kuru" pos="N">юэв е̄кьнэнч</x>
                 <xt>тихий вечер</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">ӣнцкасьт е̄кьна райя</x>
+                <x orth="1985kuru" pos="N">ӣнцкасьт е̄кьна райя</x>
                 <xt>с утра до вечера</xt>
             </xg>
         </mg>
@@ -1638,7 +1716,7 @@
     </e>
     <e kur_ID="1143" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄лле</l>
+            <l pos="V" orth="1985kuru">е̄лле</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
             </infl>
@@ -1652,19 +1730,19 @@
                 <t>жить</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">со̄нн кугкь ӣле</x>
+                <x orth="1985kuru" pos="xxx">со̄нн кугкь ӣле</x>
                 <xt>он долго жил</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ко̄ххт е̄льбэдтӭ?</x>
+                <x orth="1985kuru" pos="S">ко̄ххт е̄льбэдтӭ?</x>
                 <xt>как [вы] живёте?</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">о̄дт е̄ллем на̄лль</x>
+                <x orth="1985kuru" pos="xxx">о̄дт е̄ллем на̄лль</x>
                 <xt>новый образ жизни</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">е̄лле гӯ кӯшшк</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄лле гӯ кӯшшк</x>
                 <xt>жить бурно</xt>
                 <xt type="literal">жить как порог в реке</xt>
             </xg>
@@ -1739,7 +1817,7 @@
     </e>
     <e kur_ID="1144" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ллей</l>
+            <l pos="N" orth="1985kuru">е̄ллей</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
@@ -1755,7 +1833,7 @@
                 <t gender="f">жительница</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ланнҍ е̄ллей</x>
+                <x orth="1985kuru" pos="xxx">ланнҍ е̄ллей</x>
                 <xt>городской житель, горожанин</xt>
             </xg>
         </mg>
@@ -1856,7 +1934,7 @@
     </e>
     <e kur_ID="1145" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄лльлуввэ</l>
+            <l pos="V" orth="1985kuru">е̄лльлуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1909,7 +1987,7 @@
     </e>
     <e kur_ID="1146" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄лхаһтӭ</l>
+            <l pos="V" orth="1985kuru">е̄лхаһтӭ</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="*"/>
             </infl>
@@ -1929,7 +2007,7 @@
     </e>
     <e kur_ID="1147" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄лхуввэ</l>
+            <l pos="V" orth="1985kuru">е̄лхуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1943,11 +2021,11 @@
                 <t>стать ясным (о погоде)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ркэсь оаллкэнҍ е̄лхувэ</x>
+                <x orth="1985kuru" pos="xxx">е̄ркэсь оаллкэнҍ е̄лхувэ</x>
                 <xt>на улице прояснилось</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄лхувэһч е̄ркэсь - выййлэһчемь</x>
+                <x orth="1985kuru" pos="xxx">е̄лхувэһч е̄ркэсь - выййлэһчемь</x>
                 <xt>прояснилась бы погода - мы бы поехали</xt>
             </xg>
         </mg>
@@ -1970,7 +2048,7 @@
     </e>
     <e kur_ID="1148" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄лхувнэ</l>
+            <l pos="V" orth="1985kuru">е̄лхувнэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -1989,7 +2067,7 @@
     </e>
     <e kur_ID="1149">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄лхэсс</l>
+            <l pos="N" orth="1985kuru">е̄лхэсс</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄лхэз</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -2003,18 +2081,18 @@
                 <t>ясная погода</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">оаллкэнҍ лӣ е̄лхэсс</x>
+                <x orth="1985kuru" pos="S">оаллкэнҍ лӣ е̄лхэсс</x>
                 <xt>на улице ясно</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">мыйй пӯдӭмь е̄лхэзэнҍ</x>
+                <x orth="1985kuru" pos="S">мыйй пӯдӭмь е̄лхэзэнҍ</x>
                 <xt>мы приехали в ясную погоду</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1150" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄лче</l>
+            <l pos="V" orth="1985kuru">е̄лче</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2028,11 +2106,11 @@
                 <t>поживать</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ко̄ххт е̄лчебпе?</x>
+                <x orth="1985kuru" pos="S">ко̄ххт е̄лчебпе?</x>
                 <xt>как поживаете?</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄лле - е̄лче я я̄ллмуж ко̄ппче</x>
+                <x orth="1985kuru" pos="xxx">е̄лле - е̄лче я я̄ллмуж ко̄ппче</x>
                 <xt>жить-поживать да добра наживать</xt>
             </xg>
         </mg>
@@ -2049,7 +2127,7 @@
     </e>
     <e kur_ID="1152" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄льсуввэ</l>
+            <l pos="V" orth="1985kuru">е̄льсуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2066,7 +2144,7 @@
     </e>
     <e kur_ID="1153" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄льсэ</l>
+            <l pos="V" orth="1985kuru">е̄льсэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2088,7 +2166,7 @@
     </e>
     <e kur_ID="1154" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄льхаһтӭ</l>
+            <l pos="V" orth="1985kuru">е̄льхаһтӭ</l>
             <infl>
                 <class_kuru class="II" ablaut="1" special="*"/>
             </infl>
@@ -2108,7 +2186,7 @@
     </e>
     <e kur_ID="1155" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄льхэ</l>
+            <l pos="V" orth="1985kuru">е̄льхэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2123,14 +2201,14 @@
                 <t>оказывать кому помощь</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">па̄ррнэ е̄льхэв пуэресь ро̄дҍхэледэсь</x>
+                <x orth="1985kuru" pos="xxx">па̄ррнэ е̄льхэв пуэресь ро̄дҍхэледэсь</x>
                 <xt>дети помогают старым родителям</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1156">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄меннҍт</l>
+            <l pos="N" orth="1985kuru">е̄меннҍт</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄менҍт</stem_kuru>
                 <class_kuru class="II" ablaut="_x_" special="_x_"/>
@@ -2144,7 +2222,7 @@
                 <t>хозяйка (дома)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">шувв е̄меннҍт</x>
+                <x orth="1985kuru" pos="N">шувв е̄меннҍт</x>
                 <xt>хорошая хозяйка</xt>
             </xg>
         </mg>
@@ -2181,7 +2259,7 @@
     </e>
     <e kur_ID="1157">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ммьне</l>
+            <l pos="N" orth="1985kuru">е̄ммьне</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">о.ч.</stem_kuru>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
@@ -2195,11 +2273,11 @@
                 <t>(Е̄) Земля (планета)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">е̄ммьне ёадт пырр пе̄йв</x>
+                <x orth="1985kuru" pos="S">е̄ммьне ёадт пырр пе̄йв</x>
                 <xt>земля движется вокруг солнца</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄ммьне па̄лл</x>
+                <x orth="1985kuru" pos="N">е̄ммьне па̄лл</x>
                 <xt>земной шар</xt>
             </xg>
         </mg>
@@ -2211,15 +2289,15 @@
                 <t>земля (суша)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ка̄рьпесьт уйнсэнҍ е̄ммьне</x>
+                <x orth="1985kuru" pos="S">ка̄рьпесьт уйнсэнҍ е̄ммьне</x>
                 <xt>с корабля увидели землю</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">нан е̄ммьне</x>
+                <x orth="1985kuru" pos="N">нан е̄ммьне</x>
                 <xt>суша</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄ммьне моант</x>
+                <x orth="1985kuru" pos="N">е̄ммьне моант</x>
                 <xt>материк</xt>
             </xg>
         </mg>
@@ -2232,19 +2310,19 @@
                 <t>почва</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">ышштэ е̄ммьне э̄л</x>
+                <x orth="1985kuru" pos="V">ышштэ е̄ммьне э̄л</x>
                 <xt>сесть на землю</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">вунтас е̄ммьне</x>
+                <x orth="1985kuru" pos="N">вунтас е̄ммьне</x>
                 <xt>песчаная почва</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄ммьне тӯйй</x>
+                <x orth="1985kuru" pos="N">е̄ммьне тӯйй</x>
                 <xt>земледелие</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄ммьне лыгк</x>
+                <x orth="1985kuru" pos="N">е̄ммьне лыгк</x>
                 <xt>земляные работы</xt>
             </xg>
         </mg>
@@ -2257,15 +2335,15 @@
                 <t>страна</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">вӣресь е̄ммьне</x>
+                <x orth="1985kuru" pos="N">вӣресь е̄ммьне</x>
                 <xt>чужие земли (страны)</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">шаннт е̄ммьне</x>
+                <x orth="1985kuru" pos="N">шаннт е̄ммьне</x>
                 <xt>родина</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">е̄ммьнье коаммрэллмушш</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄ммьнье коаммрэллмушш</x>
                 <xt>земной поклон</xt>
             </xg>
         </mg>
@@ -2292,7 +2370,7 @@
     </e>
     <e kur_ID="1158" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ммьнелуввэ</l>
+            <l pos="V" orth="1985kuru">е̄ммьнелуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2306,7 +2384,7 @@
                 <t>получить землю</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">маӈӈа революциясьт ва̄ййваш е̄ммьнелуввенҍ</x>
+                <x orth="1985kuru" pos="xxx">маӈӈа революциясьт ва̄ййваш е̄ммьнелуввенҍ</x>
                 <xt>после революции бедняки получили землю</xt>
             </xg>
         </mg>
@@ -2318,15 +2396,14 @@
                 <t type="figurative">стать землистым (о цвете лица)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">маӈӈа ло̄ссесь кэ̄бпэ со̄нэсьт ка̄ссв
-                    е̄ммьнелувэ</x>
+                <x orth="1985kuru" pos="xxx">маӈӈа ло̄ссесь кэ̄бпэ со̄нэсьт ка̄ссв е̄ммьнелувэ</x>
                 <xt>у него после тяжёлой болезни лицо стало землистым</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1159">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄мьперь</l>
+            <l pos="N" orth="1985kuru">е̄мьперь</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="7831">я̄ммпар</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
@@ -2340,19 +2417,19 @@
                 <t>ведро</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">шӯрр е̄мьперь</x>
+                <x orth="1985kuru" pos="N">шӯрр е̄мьперь</x>
                 <xt>большое ведро</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">удць е̄мьперь</x>
+                <x orth="1985kuru" pos="N">удць е̄мьперь</x>
                 <xt>маленькое ведро</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">пыдтҍ ча̄зь я̄ммпар!</x>
+                <x orth="1985kuru" pos="S">пыдтҍ ча̄зь я̄ммпар!</x>
                 <xt>принеси ведро воды!</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">бэдаһч мӯрье вуэлла я̄ммпар мӣлльтэ ва̄лльтэ</x>
+                <x orth="1985kuru" pos="S">бэдаһч мӯрье вуэлла я̄ммпар мӣлльтэ ва̄лльтэ</x>
                 <xt>для ягод нужно бы взять ведро</xt>
             </xg>
         </mg>
@@ -2393,7 +2470,7 @@
     </e>
     <e kur_ID="1160" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄нас</l>
+            <l pos="N" orth="1985kuru">е̄нас</l>
             <der type="SM">е̄ннэ</der>
         </lg>
         <mg km="g">
@@ -2405,11 +2482,11 @@
                 <t>очень много</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄нас па̄ррнэдтӭ</x>
+                <x orth="1985kuru" pos="xxx">е̄нас па̄ррнэдтӭ</x>
                 <xt>множество детей</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мыйй копчемь е̄нас мӯррье</x>
+                <x orth="1985kuru" pos="xxx">мыйй копчемь е̄нас мӯррье</x>
                 <xt>мы собрали очень много ягод</xt>
             </xg>
         </mg>
@@ -2421,7 +2498,7 @@
     </e>
     <e kur_ID="1161" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄наслуввэ</l>
+            <l pos="V" orth="1985kuru">е̄наслуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2435,14 +2512,14 @@
                 <t>увеличиться (о количестве)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пӣрас е̄наслувэ</x>
+                <x orth="1985kuru" pos="xxx">пӣрас е̄наслувэ</x>
                 <xt>семья увеличилась</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1162" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄наслувнэ</l>
+            <l pos="V" orth="1985kuru">е̄наслувнэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2458,14 +2535,14 @@
                 <t>увеличиваться (о количестве)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пӣрас пай е̄наслувант</x>
+                <x orth="1985kuru" pos="xxx">пӣрас пай е̄наслувант</x>
                 <xt>семья всё увеличивается</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1163" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄насмэ</l>
+            <l pos="V" orth="1985kuru">е̄насмэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2482,11 +2559,11 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мыйй е̄насмэмь, ебпь чоагкма автобсэ</x>
+                <x orth="1985kuru" pos="xxx">мыйй е̄насмэмь, ебпь чоагкма автобсэ</x>
                 <xt>нас было так много, что мы не поместились в автобусе</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пуаз пынней бригада е̄насмэнҍ</x>
+                <x orth="1985kuru" pos="xxx">пуаз пынней бригада е̄насмэнҍ</x>
                 <xt>количество оленеводческих бригад увеличилось</xt>
             </xg>
         </mg>
@@ -2513,7 +2590,7 @@
     </e>
     <e kur_ID="1164" link_sm="1">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">е̄ннгэдтӭ</l>
+            <l pos="ADV" orth="1985kuru">е̄ннгэдтӭ</l>
             <der type="SM">е̄ннэ</der>
         </lg>
         <mg km="g">
@@ -2524,12 +2601,11 @@
                 <t>намного</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ннгэдтӭ шуря</x>
+                <x orth="1985kuru" pos="xxx">е̄ннгэдтӭ шуря</x>
                 <xt>намного больше</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">тэдта та̄лльв лӣ е̄ннгэдтӭ поаһкса, мэ̄нн
-                    тыйймъя</x>
+                <x orth="1985kuru" pos="xxx">тэдта та̄лльв лӣ е̄ннгэдтӭ поаһкса, мэ̄нн тыйймъя</x>
                 <xt>эта зима намного теплее прошлогодней</xt>
             </xg>
         </mg>
@@ -2562,69 +2638,105 @@
     </e>
     <e kur_ID="1168">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">е̄ннэ</l>
+            <l pos="ADV">е̄ннэ</l>
+            <orth>
+                <lvar orth="1985kuru">е̄ннэ</lvar>
+                <lvar orth="1986kert">е̄ннэ</lvar>
+                <lvar orth="1991samm">е̄ннэ</lvar>
+                <lvar orth="2008sars">е̄ннэ</lvar>
+            </orth>
         </lg>
         <mg km="g">
             <semantics>
                 <stype>xxx</stype>
             </semantics>
-            <tg>
-                <t>много</t>
+            <tg xml:lang="rus">
+                <t pos="ADV">много</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="ADV">сколько</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="ADV">olu</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн е̄ннэ лоагк</x>
+                <x pos="xxx" orth="2008sars">мэ̄нн е̄ннэ</x>
+                <xtg>
+                    <xt>сколько</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="S">со̄нн е̄ннэ лоагк</x>
                 <xt>он много читает</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн элькэ е̄намп ло̄гкэ</x>
+                <x orth="1985kuru" pos="S">со̄нн элькэ е̄намп ло̄гкэ</x>
                 <xt>она стала больше читать</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">соннӭ та̄рьм е̄намп лӣ пэря</x>
+                <x orth="1985kuru" pos="S">соннӭ та̄рьм е̄намп лӣ пэря</x>
                 <xt>ему сегодня намного лучше</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">е̄ннэ ля̄йй нарэдтӭ</x>
+                <x orth="1985kuru" pos="S">е̄ннэ ля̄йй нарэдтӭ</x>
                 <xt>было много народу</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">манн ыгкь, е̄ннэ кӯһт, я со̄нн
-                    пуадт</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">манн ыгкь, е̄ннэ кӯһт, я со̄нн пуадт</x>
                 <xt>пройдёт год, от силы два - и он приедет</xt>
                 <xt type="literal">пройдёт год, много два - и он приедет</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">бэдт е̄ннэ тӣдтӭ</x>
+                <x orth="1985kuru" pos="S">бэдт е̄ннэ тӣдтӭ</x>
                 <xt>надо многое знать</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн е̄ннэ эйй тӣдҍ</x>
+                <x orth="1985kuru" pos="S">со̄нн е̄ннэ эйй тӣдҍ</x>
                 <xt>он многого не знает</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">е̄намп юрьт, ванӓмп са̄рн</x>
+                <x pos="S" orth="2008sars">Е̄ннэ мэ̄нн тыйй ебпе то̄ӆӆькэй?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx">Многого вы не понимаете?</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄намп юрьт, ванӓмп са̄рн</x>
                 <xt type="proverb">больше думай, меньше говори</xt>
             </xg>
+            <xg>
+                <x orth="1986kert" pos="S">е̄ннэ стуайй тэдт тавяр?</x>
+                <xtg>
+                    <xt>сколько стоит эта ткань?</xt>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Е̄ннэ вуэррьпнэдтӭ я вӣлье то̄нэсьт ли?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx"/>
+                </xtg>
+            </xg>
+            <xg>
+                <x pos="S" orth="2008sars">Е̄ннэ па̄ррнэдтӭ то̄нэсьт ли?</x>
+                <xtg xml:lang="rus">
+                    <xt pos="xxx"/>
+                </xtg>
+            </xg>
         </mg>
-    </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="2008sars">е̄ннэ</l>
-        </lg>
         <mg>
-            <tg>
-                <t>много</t>
+            <tg xml:lang="sme">
+                <t>sakka</t>
+            </tg>
+        </mg>
+        <mg>
+            <tg xml:lang="sme">
+                <t>valjis</t>
             </tg>
         </mg>
     </e>
-    <e>
-        <lg>
-            <l pos="xxx" orth="1986kert">е̄ннэ</l>
-        </lg>
-    </e>
     <e kur_ID="1165">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ннҍ</l>
+            <l pos="N" orth="1985kuru">е̄ннҍ</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄нҍ</stem_kuru>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
@@ -2638,7 +2750,7 @@
                 <t gender="f">мать</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄нас па̄ррнэе е̄ннҍ</x>
+                <x orth="1985kuru" pos="N">е̄нас па̄ррнэе е̄ннҍ</x>
                 <xt>многодетная мать</xt>
             </xg>
         </mg>
@@ -2676,7 +2788,7 @@
     </e>
     <e kur_ID="1167" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ннҍ-пе̄лль</l>
+            <l pos="N" orth="1985kuru">е̄ннҍ-пе̄лль</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
             </infl>
@@ -2693,7 +2805,7 @@
     </e>
     <e kur_ID="1166" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ннҍлуввэ</l>
+            <l pos="V" orth="1985kuru">е̄ннҍлуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2707,7 +2819,7 @@
                 <t>стать матерью</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">со̄нн маӈӈедҍ е̄ннҍлувэ</x>
+                <x orth="1985kuru" pos="xxx">со̄нн маӈӈедҍ е̄ннҍлувэ</x>
                 <xt>она поздно стала матерью</xt>
             </xg>
         </mg>
@@ -2719,7 +2831,7 @@
                 <t>обзавестись матерью (после вторичной женитьбы отца)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ле̄сск олма па̄ррнэ е̄ннҍлув-венҍ</x>
+                <x orth="1985kuru" pos="xxx">ле̄сск олма па̄ррнэ е̄ннҍлув-венҍ</x>
                 <xt>у детей вдовца появилась мать</xt>
             </xg>
         </mg>
@@ -2736,7 +2848,7 @@
     </e>
     <e kur_ID="1172" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄нҍхуввэ</l>
+            <l pos="V" orth="1985kuru">е̄нҍхуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -2751,14 +2863,14 @@
                 <t>остаться без матери</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">со̄нн а̄йкалт е̄нҍхувэ</x>
+                <x orth="1985kuru" pos="xxx">со̄нн а̄йкалт е̄нҍхувэ</x>
                 <xt>он рано остался без матери</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1177">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">е̄ресь</l>
+            <l pos="A" orth="1985kuru">е̄ресь</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="7843">я̄ррас-2</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
@@ -2772,15 +2884,15 @@
                 <t>другой</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">я̄ррсэнҍ эмм вӯльк</x>
+                <x orth="1985kuru" pos="S">я̄ррсэнҍ эмм вӯльк</x>
                 <xt>[я] с другим не пойду</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">анҍт мыннӭ е̄ресь кнӣга!</x>
+                <x orth="1985kuru" pos="S">анҍт мыннӭ е̄ресь кнӣга!</x>
                 <xt>дай мне другую книгу!</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">це̄ӆӆькэ е̄ресь соанӭгуэйм!</x>
+                <x orth="1985kuru" pos="S">це̄ӆӆькэ е̄ресь соанӭгуэйм!</x>
                 <xt>скажите другими словами!</xt>
             </xg>
         </mg>
@@ -2797,7 +2909,7 @@
     </e>
     <e kur_ID="1178">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ррк</l>
+            <l pos="N" orth="1985kuru">е̄ррк</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄рк</stem_kuru>
                 <class_kuru class="II" ablaut="_x_" special="_x_"/>
@@ -2811,11 +2923,11 @@
                 <t>погода</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">манҍтэ та̄рьм лӣ е̄ррк?</x>
+                <x orth="1985kuru" pos="S">манҍтэ та̄рьм лӣ е̄ррк?</x>
                 <xt>какая сегодня погода?</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">вӯррьтэ е̄рк ме̄рр гӯрэсьт</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">вӯррьтэ е̄рк ме̄рр гӯрэсьт</x>
                 <xt>ждать у моря погоды</xt>
             </xg>
         </mg>
@@ -2889,7 +3001,7 @@
     </e>
     <e kur_ID="1179">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">е̄ррка</l>
+            <l pos="ADV" orth="1985kuru">е̄ррка</l>
         </lg>
         <mg km="g">
             <semantics>
@@ -2901,7 +3013,7 @@
                 <t>в незапамятные времена</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">е̄ррка ӣле са̄мь вӣгкьенч ля̄ййнэ</x>
+                <x orth="1985kuru" pos="S">е̄ррка ӣле са̄мь вӣгкьенч ля̄ййнэ</x>
                 <xt type="folklore">давным-давно жил саамский богатырь ляйнэ (в саамском фольклоре
                     богатырь ляйнэ прославляется как смелый и сильный защитник родной земли и
                     народа)</xt>
@@ -2910,7 +3022,7 @@
     </e>
     <e kur_ID="1180" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄рркъенч</l>
+            <l pos="N" orth="1985kuru">е̄рркъенч</l>
             <der type="SM">е̄ррка</der>
         </lg>
         <mg km="g">
@@ -2924,22 +3036,22 @@
                 <t>далёкий (о времени)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄рркъенч па̄лесьт</x>
+                <x orth="1985kuru" pos="xxx">е̄рркъенч па̄лесьт</x>
                 <xt>с давних времён</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄рркъенч е̄ллем на̄ль</x>
+                <x orth="1985kuru" pos="xxx">е̄рркъенч е̄ллем на̄ль</x>
                 <xt>старые обычаи</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">тэдт е̄рркъенч моайнас лӣ</x>
+                <x orth="1985kuru" pos="xxx">тэдт е̄рркъенч моайнас лӣ</x>
                 <xt>это - старая сказка</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1181" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄рркъя</l>
+            <l pos="N" orth="1985kuru">е̄рркъя</l>
             <pointers>
                 <compare>е̄рркъенч</compare>
             </pointers>
@@ -2998,7 +3110,7 @@
     </e>
     <e kur_ID="1182" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄рркъялуввэ</l>
+            <l pos="V" orth="1985kuru">е̄рркъялуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3015,7 +3127,7 @@
     </e>
     <e kur_ID="1183" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄рркъялувнэ</l>
+            <l pos="V" orth="1985kuru">е̄рркъялувнэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3031,7 +3143,7 @@
                 <t>становиться таким, как раньше</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">оаз на̄ль е̄рркъялувнэв</x>
+                <x orth="1985kuru" pos="xxx">оаз на̄ль е̄рркъялувнэв</x>
                 <xt>время от времени возвращаются старые фасоны одежды</xt>
             </xg>
         </mg>
@@ -3043,7 +3155,7 @@
     </e>
     <e kur_ID="1184" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ррлуввэ</l>
+            <l pos="V" orth="1985kuru">е̄ррлуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3060,7 +3172,7 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">яблэк е̄ррлуввэнҍ ма̄ль гуэйкэ</x>
+                <x orth="1985kuru" pos="xxx">яблэк е̄ррлуввэнҍ ма̄ль гуэйкэ</x>
                 <xt>яблоки для сока натёрты</xt>
             </xg>
         </mg>
@@ -3073,14 +3185,14 @@
                 <t>потереться</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">пе̄ннэ е̄ррлувэ-е̄ррлувэ вэсьт уккьсэ я уйтэ</x>
+                <x orth="1985kuru" pos="xxx">пе̄ннэ е̄ррлувэ-е̄ррлувэ вэсьт уккьсэ я уйтэ</x>
                 <xt>собака потёрлась-потёрлась у порога и ушла</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1185" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ррлэ</l>
+            <l pos="V" orth="1985kuru">е̄ррлэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3094,7 +3206,7 @@
                 <t>потереть что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ррэль вӯйй сай рыпченҍ</x>
+                <x orth="1985kuru" pos="xxx">е̄ррэль вӯйй сай рыпченҍ</x>
                 <xt>потри масляное пятно тряпкой</xt>
             </xg>
         </mg>
@@ -3108,7 +3220,7 @@
                 <t>порастирать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ррэль о̄ввшэтҍ</x>
+                <x orth="1985kuru" pos="xxx">е̄ррэль о̄ввшэтҍ</x>
                 <xt>потри немного овощей</xt>
             </xg>
         </mg>
@@ -3122,14 +3234,14 @@
                 <t>натереть (об обуви и т. п.)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">са̄һпе е̄ррэль ю̄льк</x>
+                <x orth="1985kuru" pos="xxx">са̄һпе е̄ррэль ю̄льк</x>
                 <xt>сапог натёр немного ногу</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1186" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ррмдэ</l>
+            <l pos="V" orth="1985kuru">е̄ррмдэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3143,14 +3255,14 @@
                 <t>запомнить кого-что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ррмэдҍ тэнна пе̄йв</x>
+                <x orth="1985kuru" pos="xxx">е̄ррмэдҍ тэнна пе̄йв</x>
                 <xt>запомни этот день</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1187" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ррмдэллэ</l>
+            <l pos="V" orth="1985kuru">е̄ррмдэллэ</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="*"/>
             </infl>
@@ -3165,14 +3277,14 @@
                 <t>запоминать кого-что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мунн шӣгктэнне е̄ррмдэла уһцэй моайнсэмужэтҍ</x>
+                <x orth="1985kuru" pos="xxx">мунн шӣгктэнне е̄ррмдэла уһцэй моайнсэмужэтҍ</x>
                 <xt>я хорошо запоминаю объяснения учителя</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1188" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ррмдэлнэ</l>
+            <l pos="V" orth="1985kuru">е̄ррмдэлнэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3200,7 +3312,7 @@
     </e>
     <e kur_ID="1189">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ррь</l>
+            <l pos="N" orth="1985kuru">е̄ррь</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄рь</stem_kuru>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
@@ -3216,7 +3328,7 @@
                 <t number="pl">яры</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">куаррэ ӣретҍ</x>
+                <x orth="1985kuru" pos="V">куаррэ ӣретҍ</x>
                 <xt>сшить яры</xt>
             </xg>
         </mg>
@@ -3239,7 +3351,7 @@
     </e>
     <e kur_ID="1190">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ррьк</l>
+            <l pos="N" orth="1985kuru">е̄ррьк</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄рьк</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
@@ -3255,20 +3367,20 @@
                 <t>бык</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">вӯййк е̄ррьк</x>
+                <x orth="1985kuru" pos="N">вӯййк е̄ррьк</x>
                 <xt>бык-передовик</xt>
                 <xt type="explanation">специально обученный левый ведущий бык в упряжке</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">выйем е̄рьк</x>
+                <x orth="1985kuru" pos="N">выйем е̄рьк</x>
                 <xt>ездовые быки</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">кэ̄рхэллэм е̄рьк</x>
+                <x orth="1985kuru" pos="N">кэ̄рхэллэм е̄рьк</x>
                 <xt type="explanation">олени-быки, принимающие участие в гонках</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">ра̄ййт е̄рьк</x>
+                <x orth="1985kuru" pos="N">ра̄ййт е̄рьк</x>
                 <xt>быки для перевозки грузов</xt>
             </xg>
         </mg>
@@ -3293,7 +3405,7 @@
     </e>
     <e kur_ID="1191">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ррэ</l>
+            <l pos="V" orth="1985kuru">е̄ррэ</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="_x_"/>
             </infl>
@@ -3308,7 +3420,7 @@
                 <t>растирать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">чильмэтҍ е̄ррэ</x>
+                <x orth="1985kuru" pos="V">чильмэтҍ е̄ррэ</x>
                 <xt>тереть глаза</xt>
             </xg>
         </mg>
@@ -3321,7 +3433,7 @@
                 <t>растирать что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">е̄ррэ яблэк</x>
+                <x orth="1985kuru" pos="V">е̄ррэ яблэк</x>
                 <xt>тереть яблоко</xt>
             </xg>
         </mg>
@@ -3334,11 +3446,11 @@
                 <t>натирать (об обуви и т. п.)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">коавлас я̄рр ча̄пэх</x>
+                <x orth="1985kuru" pos="S">коавлас я̄рр ча̄пэх</x>
                 <xt>воротник трёт шею</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ва̄ннцэнҍ я̄рр ю̄льк</x>
+                <x orth="1985kuru" pos="S">ва̄ннцэнҍ я̄рр ю̄льк</x>
                 <xt>обувь трёт ногу</xt>
             </xg>
         </mg>
@@ -3358,7 +3470,7 @@
     </e>
     <e kur_ID="1192" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄рхэ</l>
+            <l pos="V" orth="1985kuru">е̄рхэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3375,7 +3487,7 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">бэдт соннӭ о̄ввшэтҍ е̄рхэ</x>
+                <x orth="1985kuru" pos="xxx">бэдт соннӭ о̄ввшэтҍ е̄рхэ</x>
                 <xt>нужно заставить его тереть овощи</xt>
             </xg>
         </mg>
@@ -3412,7 +3524,7 @@
     </e>
     <e kur_ID="1195" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ссклэ</l>
+            <l pos="V" orth="1985kuru">е̄ссклэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3429,7 +3541,7 @@
                 <t>встать (где-л.)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ко̄ллм ча̄сс баяс е̄ссклэпь</x>
+                <x orth="1985kuru" pos="xxx">ко̄ллм ча̄сс баяс е̄ссклэпь</x>
                 <xt>остановимся на три часа</xt>
             </xg>
         </mg>
@@ -3443,14 +3555,14 @@
                 <t>поселиться (где-л.)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">коанҍцэнҍ е̄ссклэ</x>
+                <x orth="1985kuru" pos="xxx">коанҍцэнҍ е̄ссклэ</x>
                 <xt>остановиться ненадолго у друзей</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1196" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ссклэннтэ</l>
+            <l pos="V" orth="1985kuru">е̄ссклэннтэ</l>
             <infl>
                 <class_kuru class="II" ablaut="1" special="*"/>
             </infl>
@@ -3466,7 +3578,7 @@
                 <t>останавливаться</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">мыйй пай тэста е̄ссклэннтэпь</x>
+                <x orth="1985kuru" pos="xxx">мыйй пай тэста е̄ссклэннтэпь</x>
                 <xt>мы всегда здесь останавливаемся</xt>
             </xg>
         </mg>
@@ -3481,7 +3593,7 @@
                 <t>поселяться (где-л.)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">о̄ллмэ тэста е̄ссклэннтэнҍ я э̄ввтэль</x>
+                <x orth="1985kuru" pos="xxx">о̄ллмэ тэста е̄ссклэннтэнҍ я э̄ввтэль</x>
                 <xt>люди здесь селились и раньше</xt>
             </xg>
         </mg>
@@ -3498,7 +3610,7 @@
     </e>
     <e kur_ID="1197" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ссктэ</l>
+            <l pos="V" orth="1985kuru">е̄ссктэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3523,7 +3635,7 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">бэдт выйем пӯдзетҍ е̄ссктэ</x>
+                <x orth="1985kuru" pos="xxx">бэдт выйем пӯдзетҍ е̄ссктэ</x>
                 <xt>остановить оленью упряжку</xt>
             </xg>
         </mg>
@@ -3555,7 +3667,7 @@
     </e>
     <e kur_ID="1198" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ссктэллэ</l>
+            <l pos="V" orth="1985kuru">е̄ссктэллэ</l>
             <infl>
                 <class_kuru class="I" ablaut="1" special="*"/>
             </infl>
@@ -3570,14 +3682,14 @@
                 <t>останавливать кого-что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ссктэл ва̄рэсьт пӯдзэтҍ вуэӈӈэм гуэйкэ</x>
+                <x orth="1985kuru" pos="xxx">е̄ссктэл ва̄рэсьт пӯдзэтҍ вуэӈӈэм гуэйкэ</x>
                 <xt>останавливай в дороге оленей для отдыха</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1199" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ссктэлнэ</l>
+            <l pos="V" orth="1985kuru">е̄ссктэлнэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -3595,7 +3707,7 @@
     </e>
     <e kur_ID="1200">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄сскэ</l>
+            <l pos="V" orth="1985kuru">е̄сскэ</l>
             <infl>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
             </infl>
@@ -3612,23 +3724,23 @@
                 <t>встать</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">поаллкас альн е̄сскэ</x>
+                <x orth="1985kuru" pos="V">поаллкас альн е̄сскэ</x>
                 <xt>остановиться на тропинке</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">выйе е̄скханна</x>
+                <x orth="1985kuru" pos="V">выйе е̄скханна</x>
                 <xt>ехать без остановки</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">кэ̄сск са̄нӭсьт е̄сскэ</x>
+                <x orth="1985kuru" pos="V">кэ̄сск са̄нӭсьт е̄сскэ</x>
                 <xt>остановиться на полуслове</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄сскэм сайй</x>
+                <x orth="1985kuru" pos="N">е̄сскэм сайй</x>
                 <xt>остановка</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">автобус е̄сскэм сайй</x>
+                <x orth="1985kuru" pos="N">автобус е̄сскэм сайй</x>
                 <xt>остановка автобуса</xt>
             </xg>
         </mg>
@@ -3642,7 +3754,7 @@
                 <t>поселиться (где-л.)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">касьт то̄нн е̄сськэкь?</x>
+                <x orth="1985kuru" pos="S">касьт то̄нн е̄сськэкь?</x>
                 <xt>где ты остановился?</xt>
             </xg>
         </mg>
@@ -3689,7 +3801,7 @@
     </e>
     <e kur_ID="1202">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ткас</l>
+            <l pos="N" orth="1985kuru">е̄ткас</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄тткас</stem_kuru>
                 <class_kuru class="V" ablaut="_x_" special="_x_"/>
@@ -3763,7 +3875,7 @@
     </e>
     <e kur_ID="1206" link_sm="1">
         <lg>
-            <l pos="A" orth="1985kuru-sjd">е̄ххьтла</l>
+            <l pos="A" orth="1985kuru">е̄ххьтла</l>
             <pointers>
                 <compare>е̄ххьтлэнч</compare>
             </pointers>
@@ -3780,7 +3892,7 @@
     </e>
     <e kur_ID="1207" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ххьтлэнч</l>
+            <l pos="N" orth="1985kuru">е̄ххьтлэнч</l>
             <der type="SM">е̄ххьтэль</der>
         </lg>
         <mg km="g">
@@ -3791,19 +3903,18 @@
                 <t>прошлый (тот, который был в прошлый раз)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ххьтлэнч со̄брэсьт соаррнэшь ке̄ссь вуэӈӈэм
-                    баяс</x>
+                <x orth="1985kuru" pos="xxx">е̄ххьтлэнч со̄брэсьт соаррнэшь ке̄ссь вуэӈӈэм баяс</x>
                 <xt>на прошлом собрании говорили о летнем отдыхе</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ххьтлэнч не̄дтҍлесьт кӣркхэшь о̄дт школа</x>
+                <x orth="1985kuru" pos="xxx">е̄ххьтлэнч не̄дтҍлесьт кӣркхэшь о̄дт школа</x>
                 <xt>на прошлой неделе закончили строительство новой школы</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1208">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">е̄ххьтэль</l>
+            <l pos="ADV" orth="1985kuru">е̄ххьтэль</l>
         </lg>
         <mg km="g">
             <semantics>
@@ -3814,14 +3925,14 @@
                 <t>в прошлый раз</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">мунн е̄ххьтэль соаррнэ тэнн баяс</x>
+                <x orth="1985kuru" pos="S">мунн е̄ххьтэль соаррнэ тэнн баяс</x>
                 <xt>в прошлый раз я об этом говорил</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1209" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄шштмушш</l>
+            <l pos="N" orth="1985kuru">е̄шштмушш</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄шштмуж</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -3836,7 +3947,7 @@
                 <t>экономия</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">а̄йк е̄шштмушш</x>
+                <x orth="1985kuru" pos="xxx">а̄йк е̄шштмушш</x>
                 <xt>экономия времени</xt>
             </xg>
         </mg>
@@ -3873,7 +3984,7 @@
     </e>
     <e kur_ID="1193">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ҏҏьт</l>
+            <l pos="N" orth="1985kuru">е̄ҏҏьт</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄ҏьт</stem_kuru>
                 <class_kuru class="II" ablaut="1" special="_x_"/>
@@ -3888,7 +3999,7 @@
                 <t>сторона</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">куаррэ вэ̄ннсэ ӣҏьтэтҍ</x>
+                <x orth="1985kuru" pos="V">куаррэ вэ̄ннсэ ӣҏьтэтҍ</x>
                 <xt>обшить лодку</xt>
             </xg>
         </mg>
@@ -3900,15 +4011,15 @@
                 <t>бок (у человека, животных)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="V">вуэдтӭ вуэлькесь пе̄лль е̄ҏьтэсьт</x>
+                <x orth="1985kuru" pos="V">вуэдтӭ вуэлькесь пе̄лль е̄ҏьтэсьт</x>
                 <xt>спать на правом боку</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">е̄ҏьтэсьт я̄ҏҏта</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄ҏьтэсьт я̄ҏҏта</x>
                 <xt>с боку на бок</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">е̄ҏҏьт я̄ҏҏта</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄ҏҏьт я̄ҏҏта</x>
                 <xt>бок о бок</xt>
             </xg>
         </mg>
@@ -3955,7 +4066,7 @@
     </e>
     <e kur_ID="1128">
         <lg>
-            <l pos="A" pred="=" orth="1985kuru-sjd">е̄һк</l>
+            <l pos="A" pred="=" orth="1985kuru">е̄һк</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="1129">е̄һкан</stem_kuru>
             </infl>
@@ -3969,26 +4080,26 @@
                 <t>незнаком</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="N">е̄һк олма</x>
+                <x orth="1985kuru" pos="N">е̄һк олма</x>
                 <xt>незнакомый человек</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">тэдт олма лӣ е̄һк мун гуэйкэ</x>
+                <x orth="1985kuru" pos="S">тэдт олма лӣ е̄һк мун гуэйкэ</x>
                 <xt>этот человек мне не знаком</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">тэгка о̄ллмэ ле̄в е̄һкан мун гуэйкэ</x>
+                <x orth="1985kuru" pos="S">тэгка о̄ллмэ ле̄в е̄һкан мун гуэйкэ</x>
                 <xt>эти люди мне не знакомы</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">е̄һк пе̄рк по̄ррэ</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">е̄һк пе̄рк по̄ррэ</x>
                 <xt>съесть что-нибудь необычное</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1131" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄һклуввэ</l>
+            <l pos="V" orth="1985kuru">е̄һклуввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -4002,14 +4113,14 @@
                 <t>стать незнакомым</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ре̄ельт во̄дтэда сыййта, сыййт е̄һклувэ</x>
+                <x orth="1985kuru" pos="xxx">ре̄ельт во̄дтэда сыййта, сыййт е̄һклувэ</x>
                 <xt>[я] редко приезжаю в село, село стало незнакомым</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1132" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄һкшэ</l>
+            <l pos="V" orth="1985kuru">е̄һкшэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -4024,8 +4135,8 @@
                 <t>считать кого-что чужим</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">со̄нн мун е̄һкашт, а мыйй со̄нэнҍ э̄ввтэль
-                    о̄һпнуввэм эфтэсьт</x>
+                <x orth="1985kuru" pos="xxx">со̄нн мун е̄һкашт, а мыйй со̄нэнҍ э̄ввтэль о̄һпнуввэм
+                    эфтэсьт</x>
                 <xt>он меня считает незнакомым, а мы с ним раньше учились вместе</xt>
             </xg>
         </mg>
@@ -4038,7 +4149,7 @@
                 <t>сторониться кого-чего</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">парна мунэсьт е̄һкашт</x>
+                <x orth="1985kuru" pos="xxx">парна мунэсьт е̄һкашт</x>
                 <xt>ребёнок меня сторонится</xt>
             </xg>
         </mg>
@@ -4060,7 +4171,7 @@
     </e>
     <e kur_ID="1173" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ӈӈкрассьтэ</l>
+            <l pos="V" orth="1985kuru">е̄ӈӈкрассьтэ</l>
             <infl>
                 <class_kuru class="II" ablaut="1" special="*"/>
             </infl>
@@ -4078,7 +4189,7 @@
     </e>
     <e kur_ID="1174" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ӈӈкруввэ</l>
+            <l pos="V" orth="1985kuru">е̄ӈӈкруввэ</l>
             <infl>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
             </infl>
@@ -4095,7 +4206,7 @@
     </e>
     <e kur_ID="1175">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">е̄ӈӈкрэ</l>
+            <l pos="V" orth="1985kuru">е̄ӈӈкрэ</l>
             <infl>
                 <class_kuru class="III" ablaut="_x_" special="_x_"/>
             </infl>
@@ -4108,14 +4219,14 @@
                 <t>выстрелить</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ме̄һцьла е̄ӈӈкэрь пыссэсьт</x>
+                <x orth="1985kuru" pos="S">ме̄һцьла е̄ӈӈкэрь пыссэсьт</x>
                 <xt>охотник выстрелил из ружья</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1176" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">е̄ӈӈкрэмушш</l>
+            <l pos="N" orth="1985kuru">е̄ӈӈкрэмушш</l>
             <infl>
                 <stem_kuru kur_ID="xxx" case="nom" number="pl">е̄ӈӈкрэмуж</stem_kuru>
                 <class_kuru class="I" ablaut="_x_" special="_x_"/>
@@ -4130,7 +4241,7 @@
                 <t>выстрел</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">е̄ӈӈкрэмуж куллъев</x>
+                <x orth="1985kuru" pos="xxx">е̄ӈӈкрэмуж куллъев</x>
                 <xt>слышны выстрелы</xt>
             </xg>
         </mg>
@@ -4152,7 +4263,7 @@
     </e>
     <e kur_ID="1151">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">ель</l>
+            <l pos="N" orth="1985kuru">ель</l>
             <infl>
                 <stem_kuru case="nom" number="pl" kur_ID="1142">елле</stem_kuru>
             </infl>
@@ -4165,11 +4276,11 @@
                 <t>не (отрицание, употр. в повелительном наклонении)</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">ель са̄рн тэнн баяс!</x>
+                <x orth="1985kuru" pos="S">ель са̄рн тэнн баяс!</x>
                 <xt>не говори об этом!</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">елле се̄нтнэгке мун э̄л!</x>
+                <x orth="1985kuru" pos="S">елле се̄нтнэгке мун э̄л!</x>
                 <xt>не сердитесь на меня!</xt>
             </xg>
         </mg>
@@ -4194,7 +4305,7 @@
     </e>
     <e kur_ID="1169">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">ента</l>
+            <l pos="ADV" orth="1985kuru">ента</l>
         </lg>
         <mg km="g">
             <semantics>
@@ -4204,11 +4315,11 @@
                 <t>завтра</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">пуада ента</x>
+                <x orth="1985kuru" pos="S">пуада ента</x>
                 <xt>[я] приеду завтра</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="ADV">маӈӈа ента</x>
+                <x orth="1985kuru" pos="ADV">маӈӈа ента</x>
                 <xt>послезавтра</xt>
             </xg>
         </mg>
@@ -4243,7 +4354,7 @@
     </e>
     <e kur_ID="1170" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">ентъенч</l>
+            <l pos="N" orth="1985kuru">ентъенч</l>
             <der type="SM">ента</der>
         </lg>
         <mg km="g">
@@ -4254,11 +4365,11 @@
                 <t>завтрашний</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ентъенч пе̄ййв</x>
+                <x orth="1985kuru" pos="xxx">ентъенч пе̄ййв</x>
                 <xt>завтрашний день</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">ентъенч уййнлэдтмушш</x>
+                <x orth="1985kuru" pos="xxx">ентъенч уййнлэдтмушш</x>
                 <xt>завтрашняя встреча</xt>
             </xg>
         </mg>
@@ -4293,7 +4404,7 @@
     </e>
     <e kur_ID="1171" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">ентъя</l>
+            <l pos="N" orth="1985kuru">ентъя</l>
             <pointers>
                 <compare>ентъенч</compare>
             </pointers>
@@ -4353,7 +4464,7 @@
     </e>
     <e kur_ID="1201">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">еськ</l>
+            <l pos="ADV" orth="1985kuru">еськ</l>
         </lg>
         <mg km="g1">
             <semantics>
@@ -4363,7 +4474,7 @@
                 <t>только что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн еськ пӯдӭ</x>
+                <x orth="1985kuru" pos="S">со̄нн еськ пӯдӭ</x>
                 <xt>он только что пришёл</xt>
             </xg>
         </mg>
@@ -4376,15 +4487,15 @@
                 <t>потом</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx" type="idiom">юррьтэль, еськ цӣӆькэ</x>
+                <x orth="1985kuru" pos="xxx" type="idiom">юррьтэль, еськ цӣӆькэ</x>
                 <xt>[он] подумал, потом сказал</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="ADV">еськ са</x>
+                <x orth="1985kuru" pos="ADV">еськ са</x>
                 <xt>только тогда</xt>
             </xg>
             <xg>
-                <x orth="1985kuru-sjd" pos="S">со̄нн пугк вэ̄е, еськ са оалкэһтҍ куаррэ</x>
+                <x orth="1985kuru" pos="S">со̄нн пугк вэ̄е, еськ са оалкэһтҍ куаррэ</x>
                 <xt>она всё раскроила и только тогда начала шить</xt>
             </xg>
         </mg>
@@ -4417,7 +4528,7 @@
     </e>
     <e kur_ID="1203">
         <lg>
-            <l pos="ADV" orth="1985kuru-sjd">еххта</l>
+            <l pos="ADV" orth="1985kuru">еххта</l>
         </lg>
         <mg km="g">
             <semantics>
@@ -4427,7 +4538,7 @@
                 <t>вчера</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="ADV">еххта е̄кьна</x>
+                <x orth="1985kuru" pos="ADV">еххта е̄кьна</x>
                 <xt>вчера вечером</xt>
             </xg>
         </mg>
@@ -4462,7 +4573,7 @@
     </e>
     <e kur_ID="1204" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">еххтъенч</l>
+            <l pos="N" orth="1985kuru">еххтъенч</l>
             <der type="SM">еххта</der>
         </lg>
         <mg km="g">
@@ -4473,7 +4584,7 @@
                 <t>вчерашний</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">еххтъенч пе̄йвэсьт</x>
+                <x orth="1985kuru" pos="xxx">еххтъенч пе̄йвэсьт</x>
                 <xt>со вчерашнего дня</xt>
             </xg>
         </mg>
@@ -4508,7 +4619,7 @@
     </e>
     <e kur_ID="1205" link_sm="1">
         <lg>
-            <l pos="N" orth="1985kuru-sjd">еххтъя</l>
+            <l pos="N" orth="1985kuru">еххтъя</l>
             <pointers>
                 <compare>еххтъенч</compare>
             </pointers>
@@ -4522,14 +4633,14 @@
                 <t>xxx</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">маӈӈа еххтъясьт</x>
+                <x orth="1985kuru" pos="xxx">маӈӈа еххтъясьт</x>
                 <xt>позавчера</xt>
             </xg>
         </mg>
     </e>
     <e kur_ID="1194" link_sm="1">
         <lg>
-            <l pos="V" orth="1985kuru-sjd">еҏтэ</l>
+            <l pos="V" orth="1985kuru">еҏтэ</l>
             <infl>
                 <class_kuru class="IV" ablaut="_x_" special="_x_"/>
             </infl>
@@ -4543,7 +4654,7 @@
                 <t>натереть что</t>
             </tg>
             <xg>
-                <x orth="1985kuru-sjd" pos="xxx">со̄нн еҏт ка̄нтэсь</x>
+                <x orth="1985kuru" pos="xxx">со̄нн еҏт ка̄нтэсь</x>
                 <xt>он натёр пятку</xt>
             </xg>
         </mg>
