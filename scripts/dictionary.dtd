@@ -74,7 +74,7 @@ attr ( ok | no ) #IMPLIED
 <!ELEMENT orth (lvar+) >
 <!ELEMENT lvar (#PCDATA) >
 <!ATTLIST lvar
-    orth ( 1985kuru | 1986kert | 1986ker1 | 1991samm | 2008sars | 2008sar1 | 2008sar2 | 2014anto ) #REQUIRED       
+    orth ( 1985kuru | 1985kur1 | 1986kert | 1986ker1 | 1991samm | 2008sars | 2008sar1 | 2008sar2 | 2014anto ) #REQUIRED       
     >
 
 <!-- the stem group; several values in the fields in this group are inherited from digitalized data -->
