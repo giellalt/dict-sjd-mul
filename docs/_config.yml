@@ -1,13 +1,6 @@
-remote_theme: giellalt/jekyll-theme-giellalt@main
+theme: jekyll-theme-giellalt
 title: Dictionary for Kildin Saami ⇒ Multiple languages
 description: An electronic dictionary from Kildin Saami to Multiple languages
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jemoji
-  - jekyll-optional-front-matter
 
 defaults:
   - scope: { path: "" }
